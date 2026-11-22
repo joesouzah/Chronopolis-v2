@@ -43,3 +43,12 @@ Projeto independente, não oficial. *Chrono Trigger* e seus personagens pertence
 ## Revisão editorial
 
 As **20 matérias históricas** foram revisadas em 22/11/2026, mantendo a linguagem de fã, as informações centrais, as URLs e as referências de mídia. Os originais em `legado/` não foram alterados. Veja o [relatório editorial](REVISAO-EDITORIAL.md) para escopo, correções e ressalvas.
+
+## Fontes históricas e publicações novas
+
+- [Registro público de fontes e pesquisas](https://joesouzah.github.io/Chronopolis-v2/fontes-historicas/)
+- [Dream Team: quem criou Chrono Trigger?](https://joesouzah.github.io/Chronopolis-v2/artigos/dream-team-chronopolis/)
+- [As traduções de fãs de Chrono Trigger na internet antiga](https://joesouzah.github.io/Chronopolis-v2/artigos/historia-traducoes-de-chrono-trigger/)
+- [A versão beta jogável](https://joesouzah.github.io/Chronopolis-v2/acervo/beta/) — matéria existente ampliada com dados do RPG aQui!
+
+As pesquisas novas estão em `_artigos/` e seguem o fluxo normal do Jekyll e Pages CMS. O espelho privado do RPG aQui! (2004) **não foi republicado**. O objetivo é estudar e citar fontes, produzindo textos próprios. [Inventário técnico](FONTES-RPGAQUI.md).

@@ -61,6 +61,8 @@ O **RPG aQui!** ajudou a apresentar essa equipe aos leitores brasileiros num per
 
 Ao trazer essa memória para o Chronopolis, a ideia não é substituir a pesquisa antiga nem apagar sua origem. É manter viva a trilha que outras pessoas abriram, acrescentando contexto quando o tempo mudou alguma informação.
 
+Veja também o [registro de fontes históricas do Chronopolis]({{ '/fontes-historicas/' | relative_url }}), que explica o estado da preservação e o modo como esta pesquisa foi incorporada.
+
 ### Fontes e créditos
 
 - **RPG aQui! (2004)** — [Dream Team, página histórica](http://rpga8.free.fr/especial/ct/dream-team.htm). Seção creditada a **Spider**, com colaboração indicada de **Majin Alucard, Omnicrone_RED e Masamune**. Consultada em espelho offline recuperado em **22/11/2026**; não foi copiada integralmente.

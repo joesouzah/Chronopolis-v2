@@ -20,3 +20,10 @@
 .archive-unavailable{font-size:.85rem;border:1px dashed var(--line);color:var(--muted);background:var(--panel2);padding:20px;border-radius:8px}
 .article-hero-image{display:block;width:100%;max-height:400px;object-fit:contain;margin:20px auto;border-radius:12px}
 @media(max-width:560px){.article-header{flex-wrap:wrap;padding-top:12px;padding-bottom:12px;gap:8px}.article-header .article-nav{margin-left:0;gap:15px;width:100%}.article-header .article-nav a{font-size:.8rem}}
+
+/* Tabelas legíveis nas pesquisas e comparativos históricos */
+.prose table{display:block;width:100%;max-width:100%;overflow-x:auto;border-collapse:collapse;margin:20px 0 26px;font-size:.9rem;white-space:normal}
+.prose th,.prose td{border:1px solid var(--line);padding:11px 13px;text-align:left;vertical-align:top;min-width:115px}
+.prose th{color:var(--gold);font-weight:700;background:rgba(240,199,122,.08)}
+.prose tr:nth-child(even) td{background:rgba(255,255,255,.025)}
+.prose td a{word-break:break-word}

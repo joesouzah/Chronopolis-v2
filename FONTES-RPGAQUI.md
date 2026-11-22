@@ -115,3 +115,14 @@ Além da integração anterior em `acervo/beta.md`, foram preparadas duas **mat�
 - `_artigos/historia-traducoes-de-chrono-trigger.md` — registro contextualizado de **IPS Center, CBT, Tanero Translations e Sky Render Translations** a partir de `traducoes.htm`, sem disponibilizar arquivos ZIP ou patches.
 
 As duas matérias são redação própria, com fonte original e data de consulta do espelho offline. O conteúdo original, as imagens, os HTML e os ZIPs do RPG aQui! continuam **fora do repositório público**. O índice de matérias novas é gerado pelo Jekyll a partir de `_artigos/`; links internos para a nova matéria Dream Team foram adicionados às páginas existentes de história e apresentação do jogo.
+
+## Integridade das fontes usadas nas novas matérias — 22/11/2026
+
+Arquivo-mestre privado recuperado com HTTrack: `Chrono SAFE.rar` (27.528.789 bytes; SHA-256 `dfa4beccd187925b9ce3a2617a51ca911fc60c6846f8711a4c0e3e8d5db07f3a`). O checksum identifica o arquivo específico recebido; não comprova que todo o site original esteja completo.
+
+Conferência técnica das páginas utilizadas na criação das matérias (CRC32 dos bytes do HTML dentro do RAR):
+
+- `dream-team.htm`: **20.194 bytes**, CRC32 `7ff5c2b6`;
+- `traducoes.htm`: **6.587 bytes**, CRC32 `31b0be1f`.
+
+A análise comparou os documentos de trabalho com o tamanho e CRC constantes do próprio arquivo RAR, permitindo verificar que os textos examinados correspondem aos bytes recuperados. O arquivo-mestre continua fora do repositório.

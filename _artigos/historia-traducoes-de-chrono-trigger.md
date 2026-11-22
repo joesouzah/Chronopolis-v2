@@ -52,6 +52,8 @@ Porque ela mostra um pedaço do trabalho que a comunidade brasileira fazia para 
 
 O Chronopolis quer guardar esse contexto com clareza: reconhecer quem documentou, distinguir o que está comprovado no arquivo de 2004 do que ainda precisa ser pesquisado e continuar a investigação sem transformar uma lista antiga em informação atual.
 
+Veja também o [registro de fontes históricas do Chronopolis]({{ '/fontes-historicas/' | relative_url }}), que explica o estado da preservação e o modo como esta pesquisa foi incorporada.
+
 ### Fontes e créditos
 
 - **RPG aQui! (2004)** — [Traduções, página histórica](http://rpga8.free.fr/especial/ct/traducoes.htm). Seção creditada a **Spider**, com colaboração indicada de **Majin Alucard, Omnicrone_RED e Masamune**. Consultada em espelho offline recuperado em **22/11/2026**.
