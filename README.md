@@ -59,3 +59,10 @@ As pesquisas novas estão em `_artigos/` e seguem o fluxo normal do Jekyll e Pag
 - [Artworks de Chrono Trigger: sete coleções preservadas](https://joesouzah.github.io/Chronopolis-v2/artigos/artworks-chrono-trigger-sete-colecoes/)
 
 As novas matérias são textos do Chronopolis baseados em fontes do espelho privado. O conteúdo original, as imagens, manuais e pacotes do RPG aQui! não foram adicionados ao site público.
+
+### Memória do Satellaview e da série Chrono
+
+- [Satellaview: os especiais de Chrono Trigger](https://joesouzah.github.io/Chronopolis-v2/artigos/satellaview-especiais-chrono-trigger/)
+- [Radical Dreamers: a aventura entre Chrono Trigger e Chrono Cross](https://joesouzah.github.io/Chronopolis-v2/artigos/radical-dreamers-origem-e-retorno/)
+
+As pesquisas têm redação própria, fonte datada de 2004 claramente identificada e checagens complementares. Nenhuma ROM, imagem ou cópia integral do RPG aQui! foi republicada.

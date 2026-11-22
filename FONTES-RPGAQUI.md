@@ -147,3 +147,16 @@ A fonte `artworks-e-imagens.htm` (6.295 caracteres no inventário textual) apont
 São **156 caminhos distintos** (uma imagem é referenciada em duas galerias). Os números foram derivados dos `href` das galerias recuperadas e conferidos com a listagem de entradas do `Chrono SAFE.rar`, não com os thumbnails dos menus. A presença no RAR não comprova licença, autoria, resolução efetiva ou correção dos conteúdos.
 
 Foi criada uma análise editorial em `_artigos/artworks-chrono-trigger-sete-colecoes.md`, sem republicação de imagens ou arquivos de terceiros. O registro público de fontes `fontes-historicas.md` foi atualizado com ambos os estudos.
+
+## Pesquisa sobre o Satellaview e a série Chrono — 22/11/2026
+
+Fontes efetivamente examinadas no espelho privado `Chrono SAFE.rar`:
+
+- `rpga8.free.fr/especial/ct/satella-view.htm` — 11.640 bytes na transcrição do espelho, rodapé © RPG aQui! 2004 com autoria da seção atribuída a Spider e colaboração de Majin Alucard, Omnicrone_RED e Masamune. Identificados três especiais: `Character Library`, `Jet Bike Special` e o nome `Music Gallery` usado pela página antiga. A página descreve o SatellaView, BS-X, St.GIGA e referência a Radical Dreamers.
+- `rpga8.free.fr/especial/ct/chrono-series.htm` — 9.549 bytes na transcrição. Inclui sinopse e recepção de `Radical Dreamers` e `Chrono Cross`; a caracterização de `Chrono Cross` como uma versão refeita foi tratada como opinião/descrição histórica, não afirmação atual.
+
+**Conferência externa de fatos:** [Nintendo World Report (2011)](https://www.nintendoworldreport.com/feature/27669/nintendos-expansion-ports-satellaview) documenta o lançamento japonês do periférico em abril de 1995, a parceria com a emissora St.GIGA, o BS-X e o armazenamento em Memory Pak. [Chronicles / USC Scalar (2015)](https://scalar.usc.edu/works/chronicles/media/chrono-trigger-jet-bike-special) registra os três programas de Chrono Trigger como lançamentos posteriores à versão japonesa de março de 1995 e usa o nome `Music Library`. [Square Enix (2022)](https://press.fr.square-enix.com/CHRONO-CROSS-THE-RADICAL-DREAMERS-EDITION-ANNOUNCED-FOR-PLAYSTATION4-N) confirma o lançamento de Radical Dreamers em 1996 via Satellaview e sua inclusão na edição de 2022.
+
+**Pontos em que o documento de 2004 diverge de referências posteriores:** St.GIGA tratada como nome do satélite em vez de operadora de transmissão; especiais ditos anteriores ao lançamento final quando o jogo japonês já saíra; armazenamento descrito de modo pouco preciso; `Music Gallery` em vez de `Music Library`. Não foram repetidos números técnicos específicos sem confirmação.
+
+**Publicações novas:** `_artigos/satellaview-especiais-chrono-trigger.md` e `_artigos/radical-dreamers-origem-e-retorno.md`, com textos próprios e créditos ao RPG aQui!, sem reproduzir HTML, screenshots, imagens ou ZIPs do espelho. O índice público de fontes e a página inicial ganharam links pertinentes.

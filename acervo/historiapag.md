@@ -154,6 +154,10 @@ Mas o maior legado talvez seja outro: décadas depois do lançamento, ainda esta
 
 Para mim, é isso que faz a aventura continuar viva. Mesmo quando conhecemos o final, sempre parece haver um motivo para voltar.
 
+### Outras histórias da série
+
+A série também teve conteúdo distribuído por satélite no Japão. Conheça as pesquisas do Chronopolis sobre [o Satellaview e os especiais de Chrono Trigger]({{ '/artigos/satellaview-especiais-chrono-trigger/' | relative_url }}) e [Radical Dreamers, a aventura entre Chrono Trigger e Chrono Cross]({{ '/artigos/radical-dreamers-origem-e-retorno/' | relative_url }}).
+
 ### Referências complementares
 
 - [Square Enix — memória do desenvolvimento de Chrono Trigger](https://we-are-vanadiel.finalfantasyxi.com/post/?id=306&lang=en)
