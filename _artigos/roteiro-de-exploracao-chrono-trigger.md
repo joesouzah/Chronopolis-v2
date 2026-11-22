@@ -61,6 +61,10 @@ As tarefas opcionais podem ser organizadas em **sete trilhas temáticas** antes 
 
 Para acompanhar o enredo completo — com grandes spoilers —, o Chronopolis já mantém [A história de Chrono Trigger]({{ '/acervo/historiapag/' | relative_url }}).
 
+## Guias complementares
+
+Comece pelas [dicas para explorar]({{ '/artigos/chrono-trigger-dicas-para-comecar/' | relative_url }}) e pelas [missões opcionais]({{ '/artigos/chrono-trigger-missoes-opcionais-segredos/' | relative_url }}). Para quem já concluiu o jogo, há também [New Game+]({{ '/artigos/chrono-trigger-new-game-plus/' | relative_url }}) e [Finais]({{ '/artigos/chrono-trigger-finais-guia/' | relative_url }}) — este último com spoilers.
+
 ## Orientação complementar
 
 Este guia traz orientações gerais para explorar o jogo; o passo a passo completo de terceiros não é reproduzido aqui.

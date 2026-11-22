@@ -10,7 +10,7 @@ Este repositório é novo e separado do [projeto original (2022)](https://github
 - Permitir novas publicações sem editar HTML manualmente.
 - Preparar publicação gratuita via GitHub Pages e edição via Pages CMS.
 
-**Estado (22/11/2026)**: revisão editorial v0.10. São 20 matérias do acervo original revisadas, **onze matérias novas** com pesquisa complementar e **uma matéria histórica ampliada** sobre a versão beta. A leitura foi padronizada para privilegiar os assuntos; a documentação de procedência foi mantida separada dos textos de artigos. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
+**Estado (22/11/2026)**: integração editorial v0.11. São 20 matérias revisadas do acervo original, **quinze matérias novas** com pesquisa complementar e **uma matéria antiga ampliada** sobre a versão beta. A redação continua concentrada no conteúdo de Chrono Trigger, com as referências externas preservadas separadamente. A leitura foi padronizada para privilegiar os assuntos; a documentação de procedência foi mantida separada dos textos de artigos. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
 
 ## Publicação no GitHub Pages
 
@@ -89,3 +89,12 @@ A pedido do editor do Chronopolis, as 11 novas matérias foram revisadas para **
 **Separação de camadas:** matérias falam de jogos, personagens e descobertas; a página `fontes-historicas.md` apresenta os temas e a política de pesquisa; os metadados `source_site`, `source_url` e `source_consulted_on`, junto do inventário técnico `FONTES-RPGAQUI.md`, preservam os registros de autoria e origem para a futura seção dedicada a créditos. Não apagar créditos nem tratar o material pesquisado como criação exclusiva do Chronopolis. Manter claro que os dados ainda não verificados são históricos.
 
 **Estabilidade:** os caminhos dos artigos existentes, incluindo slugs com ano no nome do arquivo, foram mantidos para não quebrar endereços compartilhados. Nenhum HTML original em `legado/` foi alterado. Nenhum texto ou arquivo integral de terceiros foi republicado.
+
+## Rodada v0.11 — dicas, missões opcionais, New Game+ e finais (22/11/2026)
+
+- [Dicas para começar](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-dicas-para-comecar/): orientações gerais, técnicas, exploração e equipamentos;
+- [Missões opcionais e segredos](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-missoes-opcionais-segredos/): tarefas do Guru, baús selados, feira, cinco pedras especiais e Spekkio;
+- [New Game+](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-new-game-plus/): reinício, progresso mantido e acesso a condições de finais;
+- [Finais de Chrono Trigger](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-finais-guia/): doze desfechos narrativos clássicos e a distinção de Game Over, listado como uma 13ª entrada em um inventário tradicional.
+
+Todas as quatro matérias são redação própria. Os endereços originais e os responsáveis históricos constam apenas nos metadados e no inventário técnico, até a criação de uma seção definitiva de créditos. Não foram incluídos arquivos de terceiros no repositório.

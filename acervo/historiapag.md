@@ -154,6 +154,10 @@ Mas o maior legado talvez seja outro: décadas depois do lançamento, ainda esta
 
 Para mim, é isso que faz a aventura continuar viva. Mesmo quando conhecemos o final, sempre parece haver um motivo para voltar.
 
+### Para jogar e descobrir outros finais
+
+Se estiver começando, confira as [dicas para explorar]({{ '/artigos/chrono-trigger-dicas-para-comecar/' | relative_url }}) e as [missões opcionais]({{ '/artigos/chrono-trigger-missoes-opcionais-segredos/' | relative_url }}). Depois da primeira campanha, o [New Game+]({{ '/artigos/chrono-trigger-new-game-plus/' | relative_url }}) abre novas possibilidades. O [guia de finais]({{ '/artigos/chrono-trigger-finais-guia/' | relative_url }}) contém **spoilers importantes**.
+
 ### Para explorar sem perder o rumo
 
 Se estiver jogando e quiser apenas orientação, sem reler o enredo completo, conheça nosso [roteiro de exploração]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}) e o estudo dos [mapas entre épocas]({{ '/artigos/mapas-eras-chrono-trigger/' | relative_url }}).

@@ -28,6 +28,10 @@ Cada publicação é escrita para ser útil ao leitor. Dados antigos são tratad
 | Exploração | [Roteiro de exploração]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}) |
 | Criaturas | [Bestiário: 126 fichas de inimigos]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}) |
 | Confrontos | [Chefes: 40 encontros]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}) |
+| Primeiros passos | [Dicas para começar]({{ '/artigos/chrono-trigger-dicas-para-comecar/' | relative_url }}) |
+| Conteúdo opcional | [Missões e segredos]({{ '/artigos/chrono-trigger-missoes-opcionais-segredos/' | relative_url }}) |
+| Rejogar a aventura | [New Game+]({{ '/artigos/chrono-trigger-new-game-plus/' | relative_url }}) |
+| Desfechos | [Finais de Chrono Trigger]({{ '/artigos/chrono-trigger-finais-guia/' | relative_url }}) |
 
 ## Como tratamos material de pesquisa
 

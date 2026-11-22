@@ -206,3 +206,20 @@ Foram extraídos e examinados diretamente, com leitura dos HTMLs em codificaçã
 **Integração editorial no Chronopolis:** `_artigos/bestiario-chrono-trigger-acervo-2004.md` e `_artigos/chefes-chrono-trigger-guia-historico.md` foram produzidos como textos autorais, com exemplos selecionados, links e atribuição explícita a Spider, Majin Alucard, Omnicrone_RED e Masamune. O inventário público de fontes, a página inicial, equipamentos e roteiro de exploração receberam links. **Nenhuma tabela integral, imagem, texto estratégico ou HTML original foi republicado**.
 
 **Estado:** o espelho continua privado. A auditoria não certifica que o catálogo antigo seja exaustivo ou correto para versões posteriores.
+
+## Integração editorial — Finais, Dicas, Side-Quests e New Game+ (22/11/2026)
+
+Conferidos diretamente no arquivo privado `Chrono SAFE.rar` os quatro HTMLs a seguir, lidos como `windows-1252` e analisados sem alterar o original:
+
+| Fonte histórica | Tamanho no RAR | CRC32 | Informações efetivamente observadas |
+| --- | ---: | --- | --- |
+| `finais.htm` | 8.273 bytes | `05163fd1` | 13 entradas numeradas: 12 desfechos narrativos e a entrada 13, Game Over. Condições listadas por momento da derrota de Lavos. |
+| `dicas.htm` | 13.035 bytes | `50ab5744` | Salvamento, desenvolvimento, equipamentos, Charm de Ayla, diálogos, Spekkio, técnicas combinadas e escolha de equipe. |
+| `side-quests.htm` | 36.146 bytes | `82095bc7` | Tarefas do Guru do Tempo, baús/portas selados, Feira do Milênio, cinco pedras para Triple Techs e seis formas de Spekkio. |
+| `new-game.htm` | 8.142 bytes | `ccea593d` | Funcionamento do New Game+, progresso preservado, exceções de itens ligados à história e relação com finais. |
+
+**Cuidado com a contagem de finais:** a fonte nomeia `Final #13 — Game Over` e descreve a derrota contra Lavos; o artigo novo distingue essa entrada dos doze desfechos narrativos. Edições posteriores e outros catálogos podem empregar contagens diferentes; por isso o texto não declara que seja a lista exaustiva de todas as versões.
+
+**Conferência complementar de baús selados:** a mecânica de deixar um baú fechado em 600 d.C. e abri-lo em 1000 d.C. é descrita também em [StrategyWiki](https://strategywiki.org/wiki/Chrono_Trigger/Sealed_chests), que ressalva que o procedimento não vale para todos os baús.
+
+**Integração pública:** `_artigos/chrono-trigger-dicas-para-comecar.md`, `_artigos/chrono-trigger-missoes-opcionais-segredos.md`, `_artigos/chrono-trigger-new-game-plus.md` e `_artigos/chrono-trigger-finais-guia.md`. Cada artigo possui campos de procedência e data de consulta no front matter, porém o corpo privilegia exclusivamente o assunto; créditos completos continuam reservados para futura seção específica. Não foram copiados textos, HTML, imagens nem downloads integrais de terceiros.
