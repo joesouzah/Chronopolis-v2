@@ -2,7 +2,7 @@
 layout: artigo
 title: "Chrono Trigger no metaverso"
 category: "Curiosidades"
-summary: "Uma visita em primeira pessoa ao Reino de Zeal, recriado em um ambiente virtual."
+summary: "Registro histórico da recriação virtual do Reino de Zeal, disponível no antigo Mozilla Hubs."
 image: "https://thumbs2.imgbox.com/c7/b7/qaEdI1kP_t.png"
 legacy: true
 editorial_reviewed_on: "2026-11-22"

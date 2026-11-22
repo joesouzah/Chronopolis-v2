@@ -31,7 +31,7 @@
     <h1>{{ page.title | escape }}</h1>
     {% if page.summary %}<p class="read-lead">{{ page.summary | escape }}</p>{% endif %}
     <div class="read-meta">
-      {% if page.legacy %}<span>Acervo original · 2022–2023</span><span>Digitalização textual de 2026</span>
+      {% if page.legacy %}<span>Acervo original · 2022–2023</span>{% if page.editorial_reviewed_on %}<span>Revisado em {{ page.editorial_reviewed_on | date: '%d/%m/%Y' }}</span>{% else %}<span>Migração textual de 2026</span>{% endif %}
       {% elsif page.date %}<span>{{ page.date | date: '%d/%m/%Y' }}</span>{% endif %}
       <span>Chronopolis · projeto independente</span>
     </div>
@@ -40,7 +40,7 @@
   <article class="article-panel prose">{{ content }}</article>
   {% if page.legacy %}
   <div class="archive-source">
-    <span>Este artigo preserva um texto histórico, sem revisão factual recente.</span>
+    <span>A revisão melhora linguagem e organização; não substitui uma verificação histórica integral.</span>
     {% if page.source_url %}<a href="{{ page.source_url | escape }}" target="_blank" rel="noopener noreferrer">Consultar página original no GitHub</a>{% endif %}
   </div>
   {% endif %}

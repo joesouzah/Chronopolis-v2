@@ -36,3 +36,7 @@ As 25 páginas HTML originais serão espelhadas na pasta `legado/` neste novo re
 - Os links do catálogo passam a apontar para páginas estáticas, indexáveis, sem JavaScript obrigatório para leitura.
 - **Não foi feita revisão editorial linha a linha das transcrições automáticas.** O original continua como fonte de conferência.
 - Imagens, vídeos, Mega e demais downloads não foram espelhados localmente; a disponibilidade e os direitos de cada arquivo devem ser verificados antes de arquivá-los.
+
+## Revisão editorial v0.4 (22/11/2026)
+
+As 20 transcrições em `acervo/` passaram por revisão de linguagem e organização. Os arquivos de 2022 em `legado/` não sofreram alterações. Os textos novos trazem a marca `editorial_reviewed_on` e indicam explicitamente quando há pontos históricos ainda não verificados. O catálogo e os dois índices de pesquisa foram sincronizados.

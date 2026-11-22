@@ -62,4 +62,4 @@ Essa revelação muda bastante a maneira como enxergamos o personagem. E é just
 
 ![Ilustração de Magus — 2](https://thumbs2.imgbox.com/62/39/cL5eILZN_t.jpg)
 
-*Referência para o elemento mágico:* [manual de Final Fantasy Chronicles, edição de PlayStation](https://dlf.emu-land.net/manuals/psx/Final%20Fantasy%20Chronicles%20%28U%29.pdf).
+*Referência para o elemento mágico:* [manual de Final Fantasy Chronicles, edição de PlayStation](https://strategywiki.org/wiki/Chrono_Trigger/Techniques).

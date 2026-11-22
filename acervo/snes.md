@@ -1,8 +1,8 @@
 ---
 layout: artigo
-title: "Artes do Super Nintendo"
+title: "Artes de Chrono Trigger — coleção histórica"
 category: "Galeria"
-summary: "Uma seleção de artes de personagens, cenários e criaturas associadas ao lançamento original."
+summary: "Coleção de ilustrações do site original, com a versão de origem ainda em revisão."
 image: "https://thumbs2.imgbox.com/35/0c/RrymCBPR_t.jpg"
 legacy: true
 editorial_reviewed_on: "2026-11-22"

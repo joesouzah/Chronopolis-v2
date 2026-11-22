@@ -1,7 +1,7 @@
 /* Catálogo histórico conferido no repositório joesouzah/Chronopolis, branch main (2026-11-22).
    As 20 matérias principais também têm transcrições estáticas em acervo/; os 25 HTML originais permanecem em legado/. */
 window.CHRONO_LEGACY = [
- {id:'Meta',title:'Chrono Trigger no metaverso',category:'Curiosidades',summary:'Uma visita em primeira pessoa ao Reino de Zeal, recriado em um ambiente virtual.',image:'https://thumbs2.imgbox.com/c7/b7/qaEdI1kP_t.png',featured:true},
+ {id:'Meta',title:'Chrono Trigger no metaverso',category:'Curiosidades',summary:'Registro histórico da recriação virtual do Reino de Zeal no antigo Mozilla Hubs.',image:'https://thumbs2.imgbox.com/c7/b7/qaEdI1kP_t.png',featured:true},
  {id:'revistas',title:'Um Chrono Trigger diferente',category:'Arquivo',summary:'Revistas japonesas revelam versões anteriores, mudanças de personagens e material de desenvolvimento.',image:'https://thumbs2.imgbox.com/09/4a/j6LQQBpJ_t.jpg',featured:true},
  {id:'lavosdentro',title:'Por dentro de Lavos',category:'Arquivo',summary:'Uma análise ilustrada da estrutura interna de Lavos publicada pela revista V-Jump em 1995.',image:'https://thumbs2.imgbox.com/5c/7b/qvDRW2UM_t.jpg',featured:true},
  {id:'historiapag',title:'A história de Chrono Trigger',category:'História',summary:'A jornada de Crono e seus amigos por diferentes épocas e os bastidores da criação do jogo.',image:'https://thumbs2.imgbox.com/94/31/RMpNAnBP_t.jpg'},
@@ -16,7 +16,7 @@ window.CHRONO_LEGACY = [
  {id:'cenas',title:'Cenas animadas de PlayStation',category:'Galeria',summary:'Sequências em anime da versão PlayStation de Chrono Trigger, incluindo abertura e momentos marcantes.'},
  {id:'ova',title:'Chrono Trigger OVA',category:'Galeria',summary:'Especial animado exibido no V Jump Festival de 1996, com material de referência e link histórico.'},
  {id:'imagensps1',title:'Artes do PlayStation',category:'Galeria',summary:'Coleção original de artes da edição PlayStation e um pacote histórico de imagens.',image:'https://thumbs2.imgbox.com/f8/0e/v5GetJSu_t.jpg'},
- {id:'snes',title:'Artes do Super Nintendo',category:'Galeria',summary:'Uma seleção de artes de personagens, cenários e criaturas associadas ao lançamento original.',image:'https://thumbs2.imgbox.com/35/0c/RrymCBPR_t.jpg'},
+ {id:'snes',title:'Artes de Chrono Trigger — coleção histórica',category:'Galeria',summary:'Coleção herdada do site original, com a versão de origem das imagens ainda em revisão.',image:'https://thumbs2.imgbox.com/35/0c/RrymCBPR_t.jpg'},
  {id:'papeldeparede',title:'Papéis de parede oficiais',category:'Galeria',summary:'Ilustrações de Akira Toriyama e imagens para colecionar.',image:'https://thumbs2.imgbox.com/39/f3/lhTk5EFH_t.jpg'},
  {id:'beta',title:'A versão beta jogável',category:'Arquivo',summary:'Diferenças de cenários, inimigos e gráficos na versão preliminar de Chrono Trigger.',image:'https://thumbs2.imgbox.com/af/59/LODuj8Y0_t.jpg'},
  {id:'maps',title:'Mapas em alta resolução',category:'Arquivo',summary:'Mapas de diferentes períodos do mundo de Chrono Trigger, com referências de download.',image:'https://thumbs2.imgbox.com/ef/52/yU8xwgho_t.png'},
