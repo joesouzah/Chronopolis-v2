@@ -36,6 +36,6 @@ Confira uma amostra do material:
 
 Este endereço foi preservado como parte do registro do site. A disponibilidade e os direitos de redistribuição das imagens não foram verificados.
 
-### Outra fonte histórica sobre a edição PlayStation
+### Conheça a edição PlayStation
 
-O arquivo brasileiro **RPG aQui!** publicou, em 2004, uma análise da coletânea *Final Fantasy Chronicles*, que reuniu *Chrono Trigger* e *Final Fantasy IV* no PlayStation. O texto comparava os extras e animações com o ritmo da versão original. Leia a nossa pesquisa [Final Fantasy Chronicles: Chrono Trigger no PlayStation]({{ '/artigos/chrono-trigger-playstation-final-fantasy-chronicles/' | relative_url }}), com créditos ao site antigo.
+A coletânea *Final Fantasy Chronicles* reuniu *Chrono Trigger* e *Final Fantasy IV* no PlayStation, com animações e extras. Leia sobre [as diferenças dessa edição]({{ '/artigos/chrono-trigger-playstation-final-fantasy-chronicles/' | relative_url }}).

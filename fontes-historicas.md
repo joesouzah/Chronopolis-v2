@@ -1,64 +1,42 @@
 ---
 layout: artigo
-title: "Fontes históricas e memória dos fãs"
+title: "Pesquisa e preservação"
 category: "Arquivo"
-summary: "Como o Chronopolis pesquisa e credita sites antigos de Chrono Trigger, sem apagar sua autoria."
+summary: "Como as pesquisas do Chronopolis são organizadas, revisadas e relacionadas ao acervo histórico."
 permalink: /fontes-historicas/
 ---
 
-## Preservar uma pesquisa também é preservar quem a fez
+## Um acervo para explorar e compreender
 
-Muitos sites de fãs reuniram entrevistas, guias, listas, ilustrações, traduções e descobertas sobre *Chrono Trigger* quando a internet era bem diferente da atual. Nem todos esses sites continuam disponíveis, e parte de seus arquivos depende de serviços que já desapareceram.
+O Chronopolis reúne história, personagens, imagens e curiosidades de *Chrono Trigger*. Além das matérias do projeto original, também desenvolvemos novas pesquisas sobre versões especiais, bastidores, artes e sistemas de jogo.
 
-O Chronopolis quer estudar esse material e manter sua história acessível por meio de **pesquisas próprias, registros de procedência, créditos e links históricos**. Não pretendemos apresentar o trabalho de outros autores como se fosse nosso.
+Cada publicação é escrita para ser útil ao leitor. Dados antigos são tratados com cautela quando ainda precisam de comparação com outras edições, e conteúdos com spoilers recebem avisos quando necessário.
 
-## Fonte em estudo: RPG aQui!
+## Pesquisas disponíveis
 
-**Portal:** RPG aQui!  
-**Ano identificado nas páginas:** 2004  
-**Seção:** Chrono Trigger  
-**Endereço histórico:** [rpga8.free.fr/especial/ct/](http://rpga8.free.fr/especial/ct/)  
-**Responsável indicado no rodapé:** Spider  
-**Colaboradores creditados:** Majin Alucard, Omnicrone_RED e Masamune
+| Tema | Matéria |
+| --- | --- |
+| Versão preliminar | [A versão beta jogável]({{ '/acervo/beta/' | relative_url }}) |
+| Equipe de criação | [Dream Team: quem criou Chrono Trigger?]({{ '/artigos/dream-team-chronopolis/' | relative_url }}) |
+| Traduções | [As traduções de fãs de Chrono Trigger]({{ '/artigos/historia-traducoes-de-chrono-trigger/' | relative_url }}) |
+| Versão PlayStation | [Final Fantasy Chronicles]({{ '/artigos/chrono-trigger-playstation-final-fantasy-chronicles/' | relative_url }}) |
+| Galerias | [Artworks: sete coleções]({{ '/artigos/artworks-chrono-trigger-sete-colecoes/' | relative_url }}) |
+| Distribuição por satélite | [Satellaview e seus especiais]({{ '/artigos/satellaview-especiais-chrono-trigger/' | relative_url }}) |
+| Aventura narrativa | [Radical Dreamers]({{ '/artigos/radical-dreamers-origem-e-retorno/' | relative_url }}) |
+| Cartografia | [Seis mapas, várias eras]({{ '/artigos/mapas-eras-chrono-trigger/' | relative_url }}) |
+| Equipamentos | [Armas, armaduras, elmos e acessórios]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}) |
+| Exploração | [Roteiro de exploração]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}) |
+| Criaturas | [Bestiário: 126 fichas de inimigos]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}) |
+| Confrontos | [Chefes: 40 encontros]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}) |
 
-O material foi recuperado de uma cópia offline feita com HTTrack e conferida em **22 de novembro de 2026**. O espelho reúne as páginas principais da seção de *Chrono Trigger*, seus recursos e downloads; alguns papéis de parede externos não foram recuperados.
+## Como tratamos material de pesquisa
 
-O arquivo completo é mantido **como fonte de pesquisa privada**, e não foi transferido para o repositório público do Chronopolis. Ter uma cópia para estudo e preservação não significa possuir os direitos de republicação dos conteúdos.
+Mantemos separados os textos publicados e os documentos usados na pesquisa. Isso ajuda a identificar diferenças entre versões, esclarecer informações conflitantes e conservar os registros sem confundir uma cópia de estudo com material autorizado para republicação.
 
-### Pesquisas já incorporadas ao Chronopolis
+As imagens, arquivos de jogo e textos integrais de terceiros **não são publicados automaticamente**. O site utiliza redação própria e mantém o histórico documental para consultas e verificações futuras.
 
-| Matéria do Chronopolis | Origem histórica | O que foi aproveitado |
-| --- | --- | --- |
-| [A versão beta jogável]({{ '/acervo/beta/' | relative_url }}) | [BETA, RPG aQui!](http://rpga8.free.fr/especial/ct/beta.htm) | Os quatro trechos da demonstração, diferenças de interface e separação de observações e hipóteses |
-| [Dream Team: quem criou Chrono Trigger?]({{ '/artigos/dream-team-chronopolis/' | relative_url }}) | [Dream Team, RPG aQui!](http://rpga8.free.fr/especial/ct/dream-team.htm) | Nomes da equipe, memória do registro de 2004 e contextualização de créditos |
-| [Traduções de fãs de Chrono Trigger]({{ '/artigos/historia-traducoes-de-chrono-trigger/' | relative_url }}) | [Traduções, RPG aQui!](http://rpga8.free.fr/especial/ct/traducoes.htm) | Registro de grupos e projetos de tradução mencionados em 2004 |
-| [Final Fantasy Chronicles no PlayStation]({{ '/artigos/chrono-trigger-playstation-final-fantasy-chronicles/' | relative_url }}) | [Final Fantasy Chronicles, RPG aQui!](http://rpga8.free.fr/especial/ct/final-fantasy-chronicles.htm) | Relato de 2004 sobre cenas em anime, extras e os carregamentos da versão PlayStation |
-| [Artworks: sete coleções preservadas]({{ '/artigos/artworks-chrono-trigger-sete-colecoes/' | relative_url }}) | [Artworks & Imagens, RPG aQui!](http://rpga8.free.fr/especial/ct/artworks-e-imagens.htm) | Inventário das sete galerias e dos 157 links para imagens maiores |
-| [Satellaview e os três especiais]({{ '/artigos/satellaview-especiais-chrono-trigger/' | relative_url }}) | [SatellaView, RPG aQui!](http://rpga8.free.fr/especial/ct/satella-view.htm) | Pesquisa sobre a transmissão e três programas, com correções técnicas posteriores |
-| [Radical Dreamers entre dois jogos]({{ '/artigos/radical-dreamers-origem-e-retorno/' | relative_url }}) | [Chrono Series, RPG aQui!](http://rpga8.free.fr/especial/ct/chrono-series.htm) | Memória de 2004 contextualizada com o relançamento oficial de 2022 |
-| [Seis mapas, várias eras]({{ '/artigos/mapas-eras-chrono-trigger/' | relative_url }}) | [Mapas, RPG aQui!](http://rpga8.free.fr/especial/ct/mapas.htm) | Seis miniaturas preservadas, com duas situações de 12.000 a.C. |
-| [Equipamentos: quatro categorias]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}) | [Equipamentos, RPG aQui!](http://rpga8.free.fr/especial/ct/equipamentos.htm) | Estrutura e exemplos de 161 registros nas tabelas históricas |
-| [Roteiro de exploração]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}) | [Estratégia, RPG aQui!](http://rpga8.free.fr/especial/ct/estrategia.htm) | Organização da fonte histórica, sem copiar o guia cuja republicação é proibida |
-| [Bestiário histórico de 126 fichas]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}) | [Inimigos, RPG aQui!](http://rpga8.free.fr/especial/ct/inimigos.htm) | 61 fichas A–I e 65 J–Y; significado dos campos e exemplos pontuais |
-| [Chefes: 40 encontros documentados]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}) | [Chefes, RPG aQui!](http://rpga8.free.fr/especial/ct/chefes.htm) | Índice B01–B40 em cinco páginas, com encontros de múltiplas partes |
+A apresentação definitiva dos créditos será organizada em uma seção própria. Enquanto isso, **autoria, procedência, endereços consultados e datas de conferência** continuam preservados no [inventário técnico das fontes](https://github.com/joesouzah/Chronopolis-v2/blob/main/FONTES-RPGAQUI.md).
 
-A matéria **Beta** foi ampliada a partir de uma fonte histórica; as outras **onze pesquisas** são textos novos do Chronopolis. Todas têm redação própria, referências, datas de consulta e créditos à pesquisa original.
+Veja também o [estado de preservação do acervo]({{ '/estado-do-acervo/' | relative_url }}).
 
-### O que ainda está em análise
-
-O espelho contém outras áreas muito interessantes, entre elas **finais, dicas, técnicas e missões opcionais**. **Inimigos, chefes, mapas, equipamentos e estratégia** já foram estudados em textos próprios, sem importar as imagens ou os guias integrais. O **SatellaView** e a relação com **Radical Dreamers** já ganharam pesquisas próprias. A estrutura de **Artworks & Imagens** já foi catalogada editorialmente, mas as imagens de terceiros continuam privadas até verificação de direitos. Outras áreas ainda não foram incorporadas: precisamos escolher o que acrescenta conhecimento, conferir dados e registrar a origem de cada informação.
-
-Quando uma página histórica contiver afirmações imprecisas, traduções antigas ou teorias, vamos distingui-las dos fatos verificáveis em vez de apresentar tudo como informação atual.
-
-## Como tratamos os direitos e a atribuição
-
-- **Pesquisa e referência:** podemos estudar os dados e produzir sínteses próprias, identificando claramente as fontes.
-- **Textos e imagens de terceiros:** reprodução integral depende de autorização, licença aplicável ou outra base jurídica adequada. Apenas dar crédito não resolve essa questão.
-- **Arquivos de jogo e pacotes:** links históricos podem ser registrados, mas o Chronopolis não republica automaticamente ROMs, ZIPs nem patches recuperados.
-- **Originais:** o material de pesquisa continua separado dos artigos modernos, com data de consulta e registro técnico de integridade.
-
-O objetivo é valorizar as pessoas que ajudaram a construir a história de *Chrono Trigger* na internet brasileira e, ao mesmo tempo, criar um acervo acessível e confiável para futuros leitores.
-
-Para informações sobre a preservação do **próprio Chronopolis**, veja também o [estado do acervo]({{ '/estado-do-acervo/' | relative_url }}).
-
-*Chronopolis é um projeto independente de fã. Os materiais de terceiros pertencem a seus respectivos autores e titulares de direitos.*
+*Chronopolis é um projeto independente de fã. Os direitos sobre os jogos e os materiais de terceiros pertencem aos respectivos titulares.*

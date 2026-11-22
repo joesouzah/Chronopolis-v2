@@ -8,6 +8,9 @@ legacy: true
 editorial_reviewed_on: "2026-11-22"
 migrated_on: "2026-11-22"
 source_url: "https://github.com/joesouzah/Chronopolis/blob/main/beta.html"
+source_site: "RPG aQui!"
+research_source_url: "http://rpga8.free.fr/especial/ct/beta.htm"
+research_consulted_on: 2026-11-22
 permalink: /acervo/beta/
 ---
 
@@ -23,9 +26,9 @@ Além do começo de uma nova partida, a versão preliminar traz três saves de d
 
 O material está em japonês, mas, para quem gosta de conhecer os bastidores de um jogo, essas diferenças são um prato cheio.
 
-### Uma pesquisa histórica do RPG aQui! (2004)
+### O que a demonstração permitia explorar
 
-O portal brasileiro **RPG aQui!** também estudou essa versão preliminar, chamada em sua página de *Kurono Toriga ~ Pre-Release*. O registro é interessante porque descreve **quatro pontos de exploração**: o início de uma partida e três slots que começam em momentos diferentes da aventura.
+A versão preliminar, conhecida também como *Kurono Toriga ~ Pre-Release*, permite observar **quatro situações jogáveis**: o início de uma partida e três slots que começam em pontos diferentes da aventura.
 
 | Trecho | O que o site antigo registrou |
 | --- | --- |
@@ -38,7 +41,7 @@ A matéria também apontava diferenças em **menus**, **baús**, **sprites** e *
 
 O autor comentava ainda informações obtidas por outras pessoas em análises da ROM, envolvendo possibilidades para Schala. **Essas alegações não são confirmação de que ela seja jogável nessa demonstração**; são registros de discussões de fãs da época.
 
-**Fonte e créditos:** [“BETA”, RPG aQui!](http://rpga8.free.fr/especial/ct/beta.htm), página identificada com © 2004. O rodapé atribui a seção a **Spider**, com colaboração de **Majin Alucard, Omnicrone_RED e Masamune**. Consultamos a cópia offline recuperada em 22/11/2026. Este resumo é uma pesquisa editorial do Chronopolis; nenhum texto integral, imagem ou pacote do portal foi republicado.
+
 
 ### Imagens da versão preliminar
 

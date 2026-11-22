@@ -59,4 +59,4 @@ Os links acima pertencem à seleção histórica do site. A disponibilidade dos 
 
 ### Contexto histórico
 
-A versão de PlayStation também fazia parte da coletânea *Final Fantasy Chronicles*, comentada pelo RPG aQui! em 2004. Veja a pesquisa do Chronopolis sobre [as novidades e os carregamentos dessa edição]({{ '/artigos/chrono-trigger-playstation-final-fantasy-chronicles/' | relative_url }}).
+As animações vieram com a edição de PlayStation, associada à coletânea *Final Fantasy Chronicles*. Veja nossa matéria sobre [os extras e o ritmo dessa versão]({{ '/artigos/chrono-trigger-playstation-final-fantasy-chronicles/' | relative_url }}).

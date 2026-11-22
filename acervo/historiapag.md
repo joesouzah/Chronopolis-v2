@@ -65,7 +65,7 @@ A partir daí, a aventura se abre para novas missões, reencontros e decisões i
 
 ## Desenvolvimento: a Equipe dos Sonhos
 
-A equipe de produção também foi documentada pelo antigo portal brasileiro RPG aQui!, em 2004. Veja nossa matéria complementar [Dream Team — quem criou Chrono Trigger?]({{ '/artigos/dream-team-chronopolis/' | relative_url }}), com créditos e contexto histórico.
+Para saber mais sobre os criadores, veja nossa matéria [Dream Team — quem criou Chrono Trigger?]({{ '/artigos/dream-team-chronopolis/' | relative_url }}).
 
 
 ### Como surgiu o projeto
