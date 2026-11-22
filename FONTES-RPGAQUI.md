@@ -102,3 +102,7 @@ Foi enviado o arquivo de preservação pessoal `Chrono SAFE.rar`, gerado pelo HT
 **Estado atualizado:** a prioridade não é mais obter `beta.htm` ou as páginas do menu — elas estão no espelho privado. Os passos seguintes são preservar o RAR original sem modificações, criar um inventário de integridade, verificar os papéis de parede faltantes e examinar a procedência e os direitos dos materiais antes de qualquer republicação pública. O espelho integral **não foi enviado ao repositório público**.
 
 As seções anteriores deste documento descrevem a fase de análise do primeiro HTML isolado, antes de receber o espelho completo.
+
+## Integração editorial inicial — página Beta (22/11/2026)
+
+A matéria [A versão beta jogável](https://joesouzah.github.io/Chronopolis-v2/acervo/beta/) foi ampliada usando como fonte histórica a página `beta.htm` do espelho recuperado em `Chrono SAFE.rar`. O acréscimo resume em redação própria os quatro pontos apresentados pelo RPG aQui! (**New Game, Slots 1, 2 e 3**), alguns detalhes visuais, e diferencia observações jogáveis de hipóteses sobre a ROM. Inclui atribuição a **Spider** e aos colaboradores creditados, endereço original e data de consulta. Não foram incluídos HTML, imagens ou ZIPs de terceiros no repositório público. O artigo e o índice de busca foram atualizados.
