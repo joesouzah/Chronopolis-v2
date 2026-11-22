@@ -46,6 +46,10 @@ O procedimento para registrar a conclusão e selecionar o novo jogo **varia entr
 
 Quer saber quais condições levam a cada encerramento? Veja [Finais de Chrono Trigger]({{ '/artigos/chrono-trigger-finais-guia/' | relative_url }}). **A página contém spoilers importantes.**
 
+## Como desenvolver a equipe
+
+Se quiser comparar as estratégias de uma nova campanha, consulte [Techs e combinações]({{ '/artigos/chrono-trigger-techs-guia/' | relative_url }}) e [Levels e experiência]({{ '/artigos/chrono-trigger-levels-experiencia/' | relative_url }}).
+
 ## Antes de começar outra campanha
 
 Faça as atividades opcionais que ainda interessam, observe quais equipamentos usa com mais frequência e guarde um salvamento de que goste.

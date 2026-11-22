@@ -241,3 +241,22 @@ A consulta reabriu os HTMLs exatos no espelho privado `Chrono SAFE.rar`, com dec
 **Textos publicados (redação própria):** `_artigos/chrono-trigger-itens-guia.md`, `_artigos/chrono-trigger-tabs-atributos.md` e `_artigos/chrono-trigger-charm-guia.md`. Foram adicionadas ligações ao catálogo público, à página inicial e às matérias de equipamentos, bestiário e missões opcionais.
 
 **Proveniência e direitos:** páginas © 2004 de RPG aQui!, com seção creditada a Spider e colaboração indicada de Majin Alucard, Omnicrone_RED e Masamune. Os detalhes permanecem no inventário técnico e nos metadados, não repetidos nos textos de leitura. Nenhum texto integral, HTML, imagem ou pacote do espelho foi enviado ao repositório público.
+
+## Techs, Shops e Levels — inventário verificado v0.13 (22/11/2026)
+
+Foram reabertos e inspecionados diretamente seis documentos em `Chrono SAFE.rar`. Cada leitura foi confrontada com tamanho e CRC32 do RAR, com resultado conforme.
+
+| Documento | Tamanho (bytes) | CRC32 | Constatação |
+| --- | ---: | --- | --- |
+| `techs.htm` | 5.431 | `361268a4` | Índice com links para Single, Double e Triple Techs |
+| `techs_single.htm` | 45.689 | `35dc1807` | 7 tabelas com 8 técnicas de cada personagem = **56**; tabela de nome, imagem, MP e descrição (o TP citado no texto introdutório não está presente nas colunas de dados) |
+| `techs_double.htm` | 45.112 | `9461c6c3` | **45** técnicas duplas nas linhas, embora a introdução antiga indique 56 |
+| `techs_triple.htm` | 21.161 | `05b3dd13` | **10** técnicas triplas comuns e **5** com pedras especiais |
+| `shops.htm` | 27.521 | `0ac27146` | **18** tabelas de lojas em **13** localidades; preços em G, Medina Market com valores N/D (não disponíveis) |
+| `level.htm` | 25.734 | `c3bc147a` | **98** transições; de 1/2 = 20 EXP até 98/** = 1.743.570 EXP; representa total acumulado, não EXP da última batalha |
+
+**Conferência externa independente:** [Data Crystal — Techs](https://datacrystal.tcrf.net/wiki/Chrono_Trigger_%28SNES%29/Tech_and_Attack_Documentation) e [gemelog — Techs](https://gemelog.jp/en/games/chrono-trigger/techs/) confirmam 56 Single, 45 Double e 15 Triple; [Gamer Corner — Shops](https://guides.gamercorner.net/ct/shops/) permite verificar preços; [StrategyWiki — Experience](https://strategywiki.org/wiki/Chrono_Trigger/Experience) e [Vorxu — Leveling](https://vorxu.com/chrono-trigger/leveling-and-tp) distinguem EXP acumulada e XP necessária para o próximo nível e confirmam o máximo clássico de nível 99. A fonte antiga usa `1.692,320` em uma entrada: pontuação mista normalizada para `1.692.320` com a comparação externa.
+
+**Integração pública:** `_artigos/chrono-trigger-techs-guia.md`, `_artigos/chrono-trigger-shops-lojas-precos.md`, `_artigos/chrono-trigger-levels-experiencia.md`, com índice de pesquisa, homepage e referências cruzadas nos guias de Dicas, Itens, Equipamentos e New Game+. As informações selecionadas foram redigidas em linguagem própria, sem reprodução das tabelas completas ou das ilustrações.
+
+**Autoria preservada:** RPG aQui!, seção creditada a Spider e colaboradores identificados como Majin Alucard, Omnicrone_RED e Masamune. Metadados de origem presentes nos artigos, para a futura seção de créditos. O espelho original segue privado.

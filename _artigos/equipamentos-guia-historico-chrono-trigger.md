@@ -75,6 +75,10 @@ Esses exemplos são uma boa demonstração da variedade do sistema. O melhor equ
 
 Além de armas e armaduras, certos consumíveis oferecem proteção e recuperação de recursos durante o combate. Conheça o [guia de itens e objetos-chave]({{ '/artigos/chrono-trigger-itens-guia/' | relative_url }}) e o funcionamento de [Power, Magic e Speed Tabs]({{ '/artigos/chrono-trigger-tabs-atributos/' | relative_url }}).
 
+## Encontrando equipamentos nas lojas
+
+Para comparar alguns locais e valores de compra, veja [Lojas e preços]({{ '/artigos/chrono-trigger-shops-lojas-precos/' | relative_url }}).
+
 ## Para continuar explorando
 
 Para escolher bem, consulte o [bestiário]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}), os [chefes]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}) e o [roteiro de exploração]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}).

@@ -35,6 +35,9 @@ Cada publicação é escrita para ser útil ao leitor. Dados antigos são tratad
 | Inventário | [Itens consumíveis e objetos-chave]({{ '/artigos/chrono-trigger-itens-guia/' | relative_url }}) |
 | Atributos | [Power, Magic e Speed Tabs]({{ '/artigos/chrono-trigger-tabs-atributos/' | relative_url }}) |
 | Coleta em batalha | [Charm de Ayla]({{ '/artigos/chrono-trigger-charm-guia/' | relative_url }}) |
+| Habilidades | [Techs e técnicas combinadas]({{ '/artigos/chrono-trigger-techs-guia/' | relative_url }}) |
+| Comércio | [Lojas e preços]({{ '/artigos/chrono-trigger-shops-lojas-precos/' | relative_url }}) |
+| Evolução | [Levels e experiência]({{ '/artigos/chrono-trigger-levels-experiencia/' | relative_url }}) |
 
 ## Como tratamos material de pesquisa
 

@@ -35,6 +35,8 @@ Moradores podem indicar objetivos, contar histórias do lugar e revelar detalhes
 
 ### 6. Desenvolva as Techs
 
+Para consultar combinações e seus requisitos, leia [Techs individuais, duplas e triplas]({{ '/artigos/chrono-trigger-techs-guia/' | relative_url }}). Para entender a curva de progresso, veja também [Levels e experiência]({{ '/artigos/chrono-trigger-levels-experiencia/' | relative_url }}).
+
 Além das técnicas individuais (*Single Techs*), o grupo pode combinar habilidades em **Double Techs** e **Triple Techs**. Teste formações diferentes e observe a posição dos adversários, pois várias técnicas atingem linhas ou áreas específicas.
 
 ### 7. Ouça Spekkio

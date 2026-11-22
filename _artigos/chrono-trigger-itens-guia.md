@@ -59,6 +59,10 @@ Os **Key Items** não têm a mesma função dos consumíveis. Alguns ativam meca
 
 O **Pendant** aparece duas vezes na relação de objetos-chave porque é apresentado em estados diferentes da aventura. Essa é uma boa demonstração de como o inventário registra também o progresso da história.
 
+## Onde comprar itens
+
+Para encontrar estabelecimentos e exemplos de preços, consulte [Lojas de Chrono Trigger]({{ '/artigos/chrono-trigger-shops-lojas-precos/' | relative_url }}).
+
 ## Como organizar os recursos
 
 Antes de entrar numa região difícil, confira três coisas: se há itens suficientes para recuperar HP, se o grupo conseguirá manter o MP durante várias batalhas e se existe alguma condição negativa para a qual vale carregar uma cura específica.

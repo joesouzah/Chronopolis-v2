@@ -10,7 +10,7 @@ Este repositório é novo e separado do [projeto original (2022)](https://github
 - Permitir novas publicações sem editar HTML manualmente.
 - Preparar publicação gratuita via GitHub Pages e edição via Pages CMS.
 
-**Estado (22/11/2026)**: integração editorial v0.12. São 20 matérias revisadas do acervo original, **dezoito matérias novas** com pesquisa complementar e **uma matéria antiga ampliada** sobre a versão beta. A redação continua concentrada no conteúdo de Chrono Trigger, com as referências externas preservadas separadamente. A leitura foi padronizada para privilegiar os assuntos; a documentação de procedência foi mantida separada dos textos de artigos. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
+**Estado (22/11/2026)**: integração editorial v0.13. São 20 matérias revisadas do acervo original, **21 matérias novas** com pesquisa complementar e **uma matéria antiga ampliada** sobre a versão beta. A redação continua concentrada no conteúdo de Chrono Trigger, com as referências externas preservadas separadamente. A leitura foi padronizada para privilegiar os assuntos; a documentação de procedência foi mantida separada dos textos de artigos. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
 
 ## Publicação no GitHub Pages
 
@@ -106,3 +106,11 @@ Todas as quatro matérias são redação própria. Os endereços originais e os 
 - [Charm de Ayla](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-charm-guia/) — 93 fichas de encontros, 92 nomes distintos, com duas fichas para Lavos Spawn em locais diferentes; orientação cautelosa sobre Twin Charm.
 
 A pesquisa parte dos três documentos `itens.htm`, `tabs.htm` e `charm.htm` do espelho preservado, reabertos e conferidos por tamanho/CRC32. O texto publicado é original e segue a política v0.10: sem repetir o nome da fonte e a data nos corpos das matérias. Os metadados e o inventário registram a procedência para a futura seção de créditos. Nenhum HTML, imagem ou pacote de terceiros foi republicado.
+
+## Rodada v0.13 — Techs, Shops e Levels (22/11/2026)
+
+- [Techs individuais, duplas e triplas](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-techs-guia/) — 56 Singles, 45 Doubles e 15 Triples, com exemplos e pré-requisitos.
+- [Lojas e preços](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-shops-lojas-precos/) — 18 pontos de venda em 13 localidades e exemplos de mercadorias.
+- [Levels e experiência](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-levels-experiencia/) — 98 transições de nível, EXP total acumulada e como calcular o próximo nível.
+
+Os textos são redação própria e seguem a política editorial v0.10. A origem, a autoria e a data de consulta estão no front matter e em FONTES-RPGAQUI.md, não repetidas nos artigos. Não foram copiados textos, HTML ou mídias integrais da fonte externa.
