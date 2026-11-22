@@ -21,11 +21,11 @@
     <a href="{{ '/' | relative_url }}">Início</a>
     <a href="{{ '/' | relative_url }}#historia">História</a>
     <a href="{{ '/' | relative_url }}#personagens">Personagens</a>
-    <a href="{{ '/' | relative_url }}#arquivos">Acervo</a>
+    <a href="{{ '/' | relative_url }}#catalogo">Acervo</a>
   </nav>
 </div></header>
 <main id="conteudo" class="read-shell">
-  <a class="back-link" href="{{ '/' | relative_url }}#arquivos">← Explorar o acervo</a>
+  <a class="back-link" href="{{ '/' | relative_url }}#catalogo">← Explorar o acervo</a>
   <header class="read-head">
     <div class="eyebrow">{{ page.category | default: 'Acervo' | escape }} · {% if page.legacy %}Documento histórico{% else %}Publicação Chronopolis{% endif %}</div>
     <h1>{{ page.title | escape }}</h1>
@@ -44,7 +44,7 @@
     {% if page.source_url %}<a href="{{ page.source_url | escape }}" target="_blank" rel="noopener noreferrer">Consultar página original no GitHub</a>{% endif %}
   </div>
   {% endif %}
-  <p style="margin-top:25px"><a class="back-link" href="{{ '/' | relative_url }}#arquivos">← Voltar às matérias</a></p>
+  <p style="margin-top:25px"><a class="back-link" href="{{ '/' | relative_url }}#catalogo">← Voltar às matérias</a></p>
 </main>
 <footer class="site-footer"><div class="wrap footer-inner"><p>Chronopolis — arquivo independente de fã. Chrono Trigger pertence a seus respectivos titulares.</p><a href="{{ '/' | relative_url }}">Início</a></div></footer>
 <script>
