@@ -2,24 +2,22 @@
 title: "Artworks de Chrono Trigger: sete coleções preservadas"
 date: 2026-11-22
 category: "Galeria"
-summary: "O que o acervo do RPG aQui! guardou sobre artes, personagens, itens, manual e publicidade de Chrono Trigger."
+summary: "Sete coleções de artes, personagens, itens, manuais, embalagens e publicidade de Chrono Trigger."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/artworks-e-imagens.htm"
 source_consulted_on: 2026-11-22
 ---
 
-> **Inventário de preservação:** este texto apresenta a organização de uma coleção histórica do **RPG aQui!**, examinada no espelho offline recuperado em 22/11/2026. As imagens originais ainda não foram republicadas no Chronopolis porque sua situação de direitos precisa ser verificada.
-
 ## Quando uma galeria era também um arquivo histórico
 
 Hoje podemos encontrar ilustrações de *Chrono Trigger* em segundos, mas isso nem sempre foi tão simples. Sites de fãs cumpriam um papel fundamental: reuniam imagens espalhadas por revistas, manuais, materiais promocionais e outras páginas.
 
-O **RPG aQui!** organizou uma parte desse material em uma seção chamada **Artworks & Imagens**, publicada em 2004. Em vez de deixar tudo numa pasta única, os responsáveis criaram **sete galerias temáticas**.
+A coleção está dividida em **sete galerias temáticas**: personagens, objetos, embalagens, material impresso e cenas do jogo.
 
 O detalhe é importante. Essa organização ajuda a entender a diferença entre arte de personagem, objeto do jogo, embalagem, publicidade e captura de cena.
 
-## As sete coleções do RPG aQui!
+## Sete coleções de imagens
 
 As quantidades abaixo são de **links para imagens em tamanho maior encontrados nas páginas do espelho**, não de obras comprovadamente originais nem de imagens cujos direitos já foram liberados.
 
@@ -29,11 +27,11 @@ As quantidades abaixo são de **links para imagens em tamanho maior encontrados 
 | **Outros personagens** | 20 | Figuras como Azala, Cyrus, Fiona, Janus, Kino, Schala, Queen Zeal e outros personagens do universo do jogo. |
 | **Itens e equipamentos** | 24 | Ilustrações de objetos como Dreamstone, Gate Key, Masamune, Moon Stone e acessórios. |
 | **Embalagens** | 29 | Caixas e cartuchos, além de outras peças editoriais e capas de materiais relacionados ao jogo. |
-| **Manual** | 41 | Páginas digitalizadas do manual norte-americano citado pelo próprio RPG aQui!. |
+| **Manual** | 41 | Páginas digitalizadas do manual norte-americano do jogo. |
 | **Merchandise** | 8 | Peças de divulgação, anúncios e cartazes relacionados aos lançamentos. |
 | **Cenas** | 23 | Artes de acontecimentos do jogo e imagens associadas às animações da versão PlayStation. |
 
-**Resultado da conferência:** 157 referências nos sete documentos, correspondentes a **156 caminhos distintos**. Todos esses caminhos de imagens estão presentes no arquivo privado `Chrono SAFE.rar`. A diferença de uma referência decorre de um arquivo mencionado em mais de uma galeria.
+**Inventário:** 157 referências nas sete galerias, correspondentes a **156 arquivos diferentes**. Um mesmo arquivo aparece duas vezes. As imagens estão preservadas para consulta e ainda não integram a galeria pública.
 
 Esse levantamento é mais preciso do que simplesmente contar as fotos numa página: os HTMLs misturam imagens de navegação, miniaturas e links para arquivos maiores.
 
@@ -47,9 +45,9 @@ O arquivo de **publicidade** registra mais uma dimensão: o modo como *Chrono Tr
 
 ### O que sabemos — e o que ainda não sabemos
 
-A página de apresentação do RPG aQui! atribui a Akira Toriyama desenhos de personagens, itens e equipamentos. Essa associação faz sentido dentro da história visual do jogo, mas **a autoria individual de cada arquivo digitalizado ainda não foi verificada**.
+A identidade visual dos personagens e objetos é associada ao trabalho de Akira Toriyama, mas **a autoria individual de cada imagem catalogada ainda não foi verificada**.
 
-Também não podemos assumir que o RPG aQui! seja o titular dos direitos de cada imagem: o portal reuniu materiais de diferentes origens, como manuais, publicidade e imagens de jogos.
+A seleção reúne materiais de origens diferentes, incluindo manuais, publicidade e imagens do jogo; a procedência de cada peça deve ser conferida antes da publicação.
 
 Por isso, **ter os arquivos recuperados não significa que possamos publicar todos eles como uma nova galeria aberta**. Primeiro precisamos identificar procedência, titulares de direitos e eventuais permissões de reutilização.
 
@@ -57,14 +55,6 @@ Por isso, **ter os arquivos recuperados não significa que possamos publicar tod
 
 No Chronopolis, já mantemos [artes associadas à versão PlayStation]({{ '/acervo/imagensps1/' | relative_url }}) e uma [coleção histórica de ilustrações]({{ '/acervo/snes/' | relative_url }}).
 
-A pesquisa do RPG aQui! amplia nosso mapa: além das ilustrações conhecidas, temos referências documentadas a **manuais, embalagens, publicidade, itens e personagens secundários**.
+A coleção amplia nosso mapa de pesquisa, com referências a **manuais, embalagens, publicidade, itens e personagens secundários**.
 
-O próximo passo editorial é cruzar essas referências com o que já existe no nosso acervo, evitando duplicações e preservando os créditos. Os arquivos originais continuam separados, como cópia de estudo.
-
-### Fonte e créditos
-
-**RPG aQui! (2004)** — [Artworks & Imagens](http://rpga8.free.fr/especial/ct/artworks-e-imagens.htm) e suas sete subseções. Rodapé da seção creditado a **Spider**, com colaboração de **Majin Alucard, Omnicrone_RED e Masamune**.
-
-**Método:** links para imagens em tamanho maior enumerados nas sete páginas HTML recuperadas; presença dos respectivos arquivos verificada dentro de `Chrono SAFE.rar` em 22/11/2026. Não foi feita verificação individual de autoria, licença ou qualidade visual.
-
-Esta é uma publicação editorial do Chronopolis, não uma reprodução das galerias antigas. Conheça também nossa página de [fontes históricas e memória dos fãs]({{ '/fontes-historicas/' | relative_url }}).
+O próximo passo é comparar esses arquivos com as galerias existentes e identificar a procedência de cada imagem para evitar duplicações.

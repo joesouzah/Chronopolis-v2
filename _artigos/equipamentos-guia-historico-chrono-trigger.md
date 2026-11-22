@@ -1,21 +1,19 @@
 ---
-title: "Armas, armaduras, elmos e acessórios: o catálogo de equipamentos de 2004"
+title: "Armas, armaduras, elmos e acessórios de Chrono Trigger"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Um guia para entender as quatro categorias de equipamentos e os bônus especiais registrados pelo RPG aQui!."
+summary: "As quatro categorias de equipamentos e os efeitos especiais mais úteis em combate."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/equipamentos.htm"
 source_consulted_on: 2026-11-22
 ---
 
-> **Pesquisa de arquivo:** este texto foi escrito pelo Chronopolis com base nas quatro páginas de equipamentos do **RPG aQui! (2004)**. Os nomes e exemplos abaixo refletem as tabelas da época; ainda não realizamos uma verificação independente de todos os valores de jogo.
-
 ## Equipar não é apenas aumentar o ataque
 
 É fácil olhar para o número de ataque ou de defesa e escolher o maior. Mas *Chrono Trigger* também tem equipamentos que mudam a maneira de lutar, protegem contra elementos e status ou liberam possibilidades especiais.
 
-O **RPG aQui!** organizou essa parte do jogo em quatro categorias: **Armas, Armaduras, Elmos e Acessórios**. A seção recuperada é bastante detalhada e mostra o esforço dos fãs em criar referências de consulta.
+Os equipamentos se dividem em **armas, armaduras, elmos e acessórios**, categorias com benefícios distintos em combate.
 
 ## Como o catálogo histórico está organizado
 
@@ -34,15 +32,15 @@ As armas aparecem separadas por personagem: **Crono, Marle, Lucca, Robo, Frog, A
 
 As tabelas históricas mostram tipos de arma bastante diferentes: **katanas** de Crono, **arcos** de Marle, **pistolas** de Lucca, **braços** de Robo, **espadas** de Frog, **punhos** de Ayla e **foices** de Magus.
 
-Além do ataque, o RPG aQui! registrou percentuais de **Critical Hit** e observações especiais. O catálogo também documenta armas obtidas de formas diferentes: equipamento inicial, compras, baús, trocas e missões.
+Além do ataque, algumas armas têm percentuais de **Critical Hit** ou efeitos especiais. É possível obtê-las por compras, baús, trocas e missões.
 
 Esse último campo talvez seja o mais interessante para quem está explorando: um item poderoso nem sempre está disponível numa loja.
 
 ### Armaduras: a resistência elemental pode importar mais
 
-Uma comparação que chama atenção na tabela de 2004 é a diferença entre **Vest** e **Mail** de certas cores.
+Uma diferença interessante aparece entre os equipamentos **Vest** e **Mail** de certas cores.
 
-| Exemplo do registro histórico | Efeito descrito pelo RPG aQui! |
+| Equipamento | Efeito descrito |
 | --- | --- |
 | **Blue Vest** | Reduz à metade o dano de Water. |
 | **Blue Mail** | Absorve dano do elemento Water. |
@@ -55,7 +53,7 @@ Isso ilustra uma decisão interessante: em determinadas batalhas, uma proteção
 
 ### Elmos: defesa e estados alterados
 
-O RPG aQui! registrou, por exemplo, o **Haste Helm**, descrito como um elmo que mantém seu usuário sob o efeito **Haste**, e o **Memory Cap**, que protegeria contra **Lock**.
+O **Haste Helm** mantém seu usuário sob o efeito **Haste**, enquanto o **Memory Cap** protege contra **Lock**, conforme as descrições do catálogo.
 
 Também aparecem opções voltadas à resistência a elementos e alterações de status. Isso mostra que a escolha do elmo pode responder ao tipo de inimigo que o jogador vai enfrentar.
 
@@ -69,29 +67,10 @@ Alguns exemplos presentes na página recuperada:
 - **Charm Top:** relacionado à eficácia do comando *Charm* de Ayla.
 - **Sight Scope:** permite consultar o HP dos inimigos.
 - **Gold Stud:** reduz o custo de MP das técnicas, conforme a descrição histórica.
-- **Prism Specs:** aumenta o dano, segundo o registro de 2004.
+- **Prism Specs:** aumenta o dano, conforme a descrição do item.
 
 Esses exemplos são uma boa demonstração da variedade do sistema. O melhor equipamento não é necessariamente o que tem o maior número na descrição.
 
-## Como consultar o material antigo sem perder a origem
+## Para continuar explorando
 
-O catálogo do RPG aQui! tinha **quatro páginas independentes**:
-
-- [Armas](http://rpga8.free.fr/especial/ct/equipamentos_armas.htm)
-- [Armaduras](http://rpga8.free.fr/especial/ct/equipamentos_armaduras.htm)
-- [Elmos](http://rpga8.free.fr/especial/ct/equipamentos_elmos.htm)
-- [Acessórios](http://rpga8.free.fr/especial/ct/equipamentos_acessorios.htm)
-
-Esses endereços são históricos. Podem não funcionar na hospedagem original, mas as páginas constam no **espelho de pesquisa privado** recuperado em 22/11/2026.
-
-O Chronopolis não copiou o catálogo integral nem suas tabelas de dezenas de itens. Nosso objetivo aqui é apresentar a **estrutura do levantamento, escolhas de equipamento e alguns exemplos de interesse**, mantendo a procedência.
-
-### Créditos
-
-**RPG aQui! © 2004** — seção indicada como feita por **Spider**, com colaboração de **Majin Alucard, Omnicrone_RED e Masamune**. Artigo novo do Chronopolis, com referência ao arquivo recuperado.
-
-Confira também o [guia de exploração e organização das estratégias]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}) e nosso [registro de fontes históricas]({{ '/fontes-historicas/' | relative_url }}).
-
-### Para consultar inimigos e chefes
-
-Uma escolha de equipamento também depende do adversário. O Chronopolis agora possui uma pesquisa sobre os [126 inimigos catalogados pelo RPG aQui!]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}) e outra sobre [os 40 encontros de chefes de seu índice]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}). São referências de pesquisa com créditos e números históricos identificados, não guias oficiais de cada edição.
+Para escolher bem, consulte o [bestiário]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}), os [chefes]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}) e o [roteiro de exploração]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}).

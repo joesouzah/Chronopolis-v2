@@ -1,21 +1,19 @@
 ---
-title: "Bestiário de Chrono Trigger: 126 fichas no acervo de 2004"
+title: "Bestiário de Chrono Trigger: 126 fichas de inimigos"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Como ler HP, EXP, TP, itens e Charm nas 126 fichas de inimigos documentadas pelo RPG aQui!."
+summary: "Como consultar HP, EXP, TP, itens, Charm e localização em 126 fichas de inimigos."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/inimigos.htm"
 source_consulted_on: 2026-11-22
 ---
 
-> **Memória e consulta:** esta matéria é uma pesquisa própria do Chronopolis sobre o **bestiário do RPG aQui! (2004)**, recuperado no arquivo privado `Chrono SAFE.rar`. As estatísticas citadas são as **registradas naquela fonte**, não uma auditoria definitiva de todas as edições do jogo.
-
 ## Um universo de criaturas bem diferentes
 
 *Chrono Trigger* tem inimigos espalhados por florestas, ruínas, laboratórios e palácios de épocas distintas. Não basta saber que um monstro existe: descobrir **onde aparece**, **o que oferece depois da batalha** e **o que pode ser obtido com Charm** ajuda a planejar a exploração.
 
-O site brasileiro **RPG aQui!** dedicou duas páginas a esse assunto. O índice histórico dividia os monstros por ordem alfabética e oferecia fichas resumidas.
+O bestiário reúne duas listas alfabéticas de criaturas, com estatísticas, recompensas e localização.
 
 Conferi diretamente os dois documentos salvos:
 
@@ -29,7 +27,7 @@ Os **126 nomes identificados são distintos dentro dessas duas páginas**. Isso 
 
 ## Como ler as fichas
 
-As colunas seguem a terminologia que o RPG aQui! usava em 2004:
+Cada ficha apresenta os seguintes campos:
 
 | Campo | O que informa ao jogador |
 | --- | --- |
@@ -47,7 +45,7 @@ A diferença entre **Item** e **Charm** merece atenção. O comando *Charm* não
 
 Para ilustrar a variedade de registros, selecionei **seis exemplos**, em vez de reproduzir as 126 fichas da fonte.
 
-| Inimigo | HP anotado em 2004 | Local indicado | O que chama atenção no registro |
+| Inimigo | HP registrado | Local indicado | Detalhe da ficha |
 | --- | ---: | --- | --- |
 | **Acid** | 10 | Factory, 2300 d.C. | Uma ficha simples: 1 TP e 33 EXP. |
 | **Kilwala** | 160 | Mystic Mountain, Pré-história | O catálogo cita *Petal* nos campos Item e Charm. |
@@ -64,19 +62,14 @@ Quando estiveres explorando uma época, começa pela **localização** dos inimi
 
 Se estiveres procurando itens, presta atenção à diferença entre o campo **Item** e o campo **Charm**. E, antes de escolher uma área para ganhar técnicas, lembra que a quantidade de **TP** não é a mesma coisa que a quantidade de **EXP**.
 
-Para confrontos maiores, o caminho é outro: o catálogo de chefes do RPG aQui! organiza **40 encontros** e mostra casos em que o mesmo chefe possui várias partes. Veja nossa pesquisa [Chefes de Chrono Trigger: 40 encontros documentados]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}).
+Para confrontos maiores, consulte também os [40 encontros de chefes]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}), incluindo adversários com várias partes.
 
 ## A importância de preservar o bestiário
 
-A página inicial do RPG aQui! apresentava os monstros como um dos grandes desafios da aventura. Seu trabalho de catalogação é um registro de como fãs brasileiros organizavam informações de jogos em **2004**, quando essas referências circulavam entre sites pessoais e portais de RPG.
+A variedade de criaturas ajuda a consultar o jogo por época e por região, especialmente na busca por pontos de técnica, experiência ou itens.
 
-O Chronopolis preserva a existência e a organização desse material, acrescentando exemplos próprios para consulta, mas **não importa as 126 fichas, as imagens nem o HTML integral** para o site público.
+Esta é uma seleção ilustrativa do catálogo; as fichas completas e suas imagens não foram transcritas aqui.
 
-### Fontes e créditos
+## Para continuar explorando
 
-- **RPG aQui! (2004):** [Inimigos](http://rpga8.free.fr/especial/ct/inimigos.htm), [Parte 1](http://rpga8.free.fr/especial/ct/inimigos-01.htm) e [Parte 2](http://rpga8.free.fr/especial/ct/inimigos-02.htm). Consultadas no espelho offline `Chrono SAFE.rar` em **22/11/2026**. O rodapé atribui a seção a **Spider**, com colaboração de **Majin Alucard, Omnicrone_RED e Masamune**.
-- **Gamer Corner Guides:** [Charm](https://guides.gamercorner.net/ct/techs/charm), referência complementar para a função de obter itens com a técnica de Ayla.
-
-Veja também [Equipamentos: catálogo histórico]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}) e o [registro de fontes do Chronopolis]({{ '/fontes-historicas/' | relative_url }}).
-
-*Os números de 2004 são apresentados com sua procedência. Não substituem uma verificação de cada inimigo na edição específica que o leitor esteja jogando.*
+Veja também [Equipamentos]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}) e [Chefes]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}).
