@@ -1,0 +1,19 @@
+title: Chronopolis
+description: Arquivo independente e permanente dedicado a Chrono Trigger
+lang: pt-BR
+# Ajustar ao domínio definitivo antes de publicar.
+baseurl: /Chronopolis-v2
+markdown: kramdown
+collections:
+  artigos:
+    output: true
+    permalink: /artigos/:name/
+defaults:
+  - scope:
+      path: ""
+      type: artigos
+    values:
+      layout: artigo
+exclude:
+  - README.md
+  - MIGRACAO.md

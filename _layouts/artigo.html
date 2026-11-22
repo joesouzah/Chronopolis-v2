@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#080d1d">
+  <meta name="description" content="{{ page.summary | escape }}">
+  <title>{{ page.title | escape }} — Chronopolis</title>
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+</head>
+<body>
+<header class="site-header"><div class="wrap header-inner">
+  <a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark">⌛</span><span class="brand-name">Chrono<span>polis</span></span></a>
+  <nav class="nav" style="display:flex;position:static;border:none;background:none;padding:0" aria-label="Navegação principal">
+    <a href="{{ '/' | relative_url }}">Início</a><a href="{{ '/' | relative_url }}#arquivos">Acervo</a><a href="{{ '/' | relative_url }}#sobre">Sobre</a>
+  </nav>
+</div></header>
+<main class="read-shell">
+  <a class="back-link" href="{{ '/' | relative_url }}#arquivos">← Voltar ao acervo</a>
+  <header class="read-head"><div class="eyebrow">{{ page.category | escape }} · Publicação Chronopolis</div>
+    <h1>{{ page.title | escape }}</h1>
+    <p class="read-lead">{{ page.summary | escape }}</p>
+    <div class="read-meta"><span>{% if page.date %}{{ page.date | date: '%d/%m/%Y' }}{% endif %}</span><span>Chronopolis</span></div>
+  </header>
+  {% if page.image and page.image != '' %}<img src="{{ page.image | escape }}" alt="" style="display:block;max-width:100%;max-height:450px;object-fit:cover;margin-bottom:25px;border-radius:12px">{% endif %}
+  <article class="article-panel prose">{{ content }}</article>
+</main>
+<footer class="site-footer"><div class="wrap footer-inner"><p>Chronopolis — um arquivo independente de fã.</p><a href="{{ '/' | relative_url }}">Voltar ao início</a></div></footer>
+</body>
+</html>

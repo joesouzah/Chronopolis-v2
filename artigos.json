@@ -1,0 +1,8 @@
+---
+layout: null
+permalink: /artigos.json
+---
+[
+{% assign ordered = site.artigos | sort: 'date' | reverse %}{% for entry in ordered %}
+  {"title":{{ entry.title | jsonify }},"category":{{ entry.category | default: 'Arquivo' | jsonify }},"summary":{{ entry.summary | default: '' | jsonify }},"image":{{ entry.image | default: '' | jsonify }},"date":{{ entry.date | date: '%d/%m/%Y' | jsonify }},"url":{{ entry.url | relative_url | jsonify }}}{% unless forloop.last %},{% endunless %}
+{% endfor %}]
