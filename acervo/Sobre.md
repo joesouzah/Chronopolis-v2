@@ -5,38 +5,33 @@ category: "Sobre"
 summary: "A origem do projeto, sua homenagem a Chrono Trigger e o autor."
 image: "https://thumbs2.imgbox.com/a3/98/gMimMvup_t.png"
 legacy: true
+editorial_reviewed_on: "2026-11-22"
 migrated_on: "2026-11-22"
 source_url: "https://github.com/joesouzah/Chronopolis/blob/main/Sobre.html"
 permalink: /acervo/Sobre/
 ---
 
-> **Registro histórico:** transcrição da página original de Chronopolis (2022–2023); imagens, vídeos e links externos ainda dependem de terceiros.
+> **Revisão editorial:** este texto preserva a apresentação pessoal e o espírito do site criado em 2022. A escrita foi reorganizada para facilitar a leitura.
+
+## Sobre o Chronopolis
 
 Olá, tudo bem?
-Me chamo Joe Souza e sou programador com foco em Web! Este é meu primeiro
-site, Chronopolis. Criado como o projeto de conclusão do primeiro semestre
-do curso técnico de T.I. para Web da Escola Protásio Alves.
 
-### Projeto Chronopolis
+Me chamo Joe Souza e sou programador com foco em web! O Chronopolis foi meu primeiro site, criado como projeto de conclusão do primeiro semestre do curso técnico de TI para Web da Escola Protásio Alves.
 
-![image host](https://thumbs2.imgbox.com/a3/98/gMimMvup_t.png)
+### Um projeto que nasceu de uma paixão
 
-Chrono Trigger é uma paixão de infância, um dos primeiros jogos
-com que tive contato e que me marcou profundamente, logo, Chronopolis
-virou uma homenagem a algo importante de minha vida.
+![Imagem de apresentação do projeto Chronopolis](https://thumbs2.imgbox.com/a3/98/gMimMvup_t.png)
 
-![html e css](https://thumbs2.imgbox.com/b5/dc/o7fFwz05_t.jpg)
+*Chrono Trigger* é uma paixão de infância. Foi um dos primeiros jogos com que tive contato e me marcou profundamente. Por isso, o Chronopolis acabou se tornando uma homenagem a algo muito importante na minha vida.
 
-Utilizando HTML 5 e CSS 3, cada página e conteúdo foi
-escolhido com cuidado para fornecer insights sobre o
-universo e desenvolvimento do game.
+![Referência às tecnologias HTML e CSS utilizadas no projeto original](https://thumbs2.imgbox.com/b5/dc/o7fFwz05_t.jpg)
 
-Aproveite as leituras, navegue livremente pelo site e caso
-queira, me chame no Instagram para trocarmos uma ideia
-sobre programação ou Chrono Trigger. ;)
+Na primeira versão, utilizei HTML5 e CSS3. Cada página e cada conteúdo foram escolhidos com cuidado para compartilhar curiosidades sobre o universo e o desenvolvimento do jogo.
 
-Clique abaixo para entrar em contato comigo.
+Aproveite as leituras, navegue livremente pelo site e, se quiser, me chame para trocar uma ideia sobre programação ou *Chrono Trigger*. ;)
 
-[Instagram](https://www.instagram.com/joesouzah/)
+### Entre em contato
 
-[Github](https://github.com/joesouzah)
+- [Instagram](https://www.instagram.com/joesouzah/)
+- [GitHub](https://github.com/joesouzah)

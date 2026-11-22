@@ -5,36 +5,40 @@ category: "Arquivo"
 summary: "Diferenças de cenários, inimigos e gráficos na versão preliminar de Chrono Trigger."
 image: "https://thumbs2.imgbox.com/af/59/LODuj8Y0_t.jpg"
 legacy: true
+editorial_reviewed_on: "2026-11-22"
 migrated_on: "2026-11-22"
 source_url: "https://github.com/joesouzah/Chronopolis/blob/main/beta.html"
 permalink: /acervo/beta/
 ---
 
-> **Registro histórico:** transcrição da página original de Chronopolis (2022–2023); imagens, vídeos e links externos ainda dependem de terceiros.
+> **Revisão editorial:** mantive a linguagem de descoberta do texto original e organizei as informações sobre o material histórico.
 
-### Chrono trigger Beta
+## A versão beta de Chrono Trigger
 
-![revista chrono trigger](https://thumbs2.imgbox.com/91/46/lDAS2JRl_t.jpg)
+![Imagem de revista relacionada à versão beta de Chrono Trigger](https://thumbs2.imgbox.com/91/46/lDAS2JRl_t.jpg)
 
-Muitos não sabem, mas Chrono Trigger possui uma beta jogável que foi lançada
-junto a uma revista de games, essa beta mostra o que chrono trigger era pra ser,
-foi e até o que não foi.
+Muita gente não sabe, mas *Chrono Trigger* teve uma versão beta jogável, divulgada em material promocional de revistas de games. Ela mostra um pouco do que o jogo seria, do que acabou sendo e até do que ficou de fora.
 
-A beta possui 3 saves em 3 momentos diferentes, 2300, 1000 e 600, em cada uma
-dá para se observar algumas pequenas e grandes diferenças, seja em inimigos,
-gráficos e estruturas dos locais, essa beta se encontra em japonês, porém
-para um fã da série isso é um prato cheio.
+Essa versão reúne três saves em momentos diferentes: 2300, 1000 e 600 d.C. Em cada época, é possível observar mudanças pequenas e grandes — desde inimigos e gráficos até a estrutura de alguns cenários.
 
-![image host](https://thumbs2.imgbox.com/b8/ed/q6vI0dkf_t.png)
+O material está em japonês, mas, para quem gosta de conhecer os bastidores de um jogo, essas diferenças são um prato cheio.
 
-![image host](https://thumbs2.imgbox.com/a9/e7/fI2VdgT1_t.png)
+### Imagens da versão preliminar
 
-![image host](https://thumbs2.imgbox.com/38/2e/003LnPNZ_t.png)
+![Registro da versão beta de Chrono Trigger — 1](https://thumbs2.imgbox.com/b8/ed/q6vI0dkf_t.png)
 
-### Segue o link para download.
+![Registro da versão beta de Chrono Trigger — 2](https://thumbs2.imgbox.com/a9/e7/fI2VdgT1_t.png)
 
-Chrono Trigger - Beta
-Tamanho: 04.00 MB
-Formato: ZIP
-Senha:chronopolis
-Download: [Link](https://mega.nz/file/Mt0EDLaI#ja1DIM2SeIBQfe8xf_X-ZPgZfNlPXuzpqEg5PjqhsLw)
+![Registro da versão beta de Chrono Trigger — 3](https://thumbs2.imgbox.com/38/2e/003LnPNZ_t.png)
+
+### Referência ao arquivo histórico
+
+O site original registrava os seguintes dados do pacote:
+
+- **Arquivo:** Chrono Trigger — Beta
+- **Tamanho informado:** 4,00 MB
+- **Formato:** ZIP
+- **Senha informada:** `chronopolis`
+- **Endereço original:** [link histórico do pacote](https://mega.nz/file/Mt0EDLaI#ja1DIM2SeIBQfe8xf_X-ZPgZfNlPXuzpqEg5PjqhsLw)
+
+O endereço foi preservado como referência, mas a disponibilidade e as condições de distribuição do material não foram verificadas nesta revisão.

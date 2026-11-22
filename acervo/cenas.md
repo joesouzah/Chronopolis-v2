@@ -5,47 +5,54 @@ category: "Galeria"
 summary: "Sequências em anime da versão PlayStation de Chrono Trigger, incluindo abertura e momentos marcantes."
 image: ""
 legacy: true
+editorial_reviewed_on: "2026-11-22"
 migrated_on: "2026-11-22"
 source_url: "https://github.com/joesouzah/Chronopolis/blob/main/cenas.html"
 permalink: /acervo/cenas/
 ---
 
-> **Registro histórico:** transcrição da página original de Chronopolis (2022–2023); imagens, vídeos e links externos ainda dependem de terceiros.
+> **Revisão editorial:** reuni as nove referências de vídeo do site original em uma lista mais fácil de consultar. Os vídeos continuam hospedados por terceiros.
 
-### Cenas de anime versão do PS1
+## Cenas animadas de Chrono Trigger no PlayStation
+
+A versão de PlayStation trouxe sequências em anime que deram uma nova cara a momentos marcantes de *Chrono Trigger*. Aqui estão as cenas que faziam parte da galeria original do Chronopolis.
+
+**Atenção:** alguns vídeos revelam acontecimentos importantes da história, incluindo momentos do final do jogo.
 
 ### Abertura
 
-[▶ Chrono Trigger - Abertura](https://www.youtube.com/watch?v=OJEoYCy6unE)
+[▶ Assistir à abertura](https://www.youtube.com/watch?v=OJEoYCy6unE)
 
-### Robo - Proto Dome
+### Robo — Proto Dome
 
-[▶ Chrono Trigger - Robo - Proto Dome](https://www.youtube.com/watch?v=_hL-0218f3w)
+[▶ Assistir à cena de Robo](https://www.youtube.com/watch?v=_hL-0218f3w)
 
-### Ayla - Entrada
+### Ayla — entrada
 
-[▶ Chrono Trigger - Ayla entrada](https://www.youtube.com/watch?v=DjUNV2VeS2A)
+[▶ Assistir à entrada de Ayla](https://www.youtube.com/watch?v=DjUNV2VeS2A)
 
-### Frog - Masamune
+### Frog — Masamune
 
-[▶ Chrono Trigger - Frog Masamune](https://www.youtube.com/watch?v=OdnajG5aoro)
+[▶ Assistir à cena de Frog](https://www.youtube.com/watch?v=OdnajG5aoro)
 
-### Magus vs Frog
+### Magus vs. Frog
 
-[▶ Chrono Trigger - Magus vs Frog](https://www.youtube.com/watch?v=rlq6I-tGqg4)
+[▶ Assistir ao confronto](https://www.youtube.com/watch?v=rlq6I-tGqg4)
 
-### Ayla - Dactyl
+### Ayla — Dactyl
 
-[▶ Chrono Trigger - Dactyl](https://www.youtube.com/watch?v=qTZHJTrIMEw)
+[▶ Assistir à cena de Ayla e os dáctilos](https://www.youtube.com/watch?v=qTZHJTrIMEw)
 
 ### Epoch
 
-[▶ Chrono Trigger - Epoch](https://www.youtube.com/watch?v=-qhuElRloc0)
+[▶ Assistir à cena da Epoch](https://www.youtube.com/watch?v=-qhuElRloc0)
 
-### Lavos mata Crono
+### Lavos e Crono
 
-[▶ Chrono Trigger - Lavos mata Crono](https://www.youtube.com/watch?v=bxWVWAVNhpQ)
+[▶ Assistir à cena de Lavos e Crono](https://www.youtube.com/watch?v=bxWVWAVNhpQ)
 
 ### Final
 
-[▶ Chrono Trigger - Final](https://www.youtube.com/watch?v=Ch7T6i74XUw)
+[▶ Assistir à sequência final](https://www.youtube.com/watch?v=Ch7T6i74XUw)
+
+Os links acima pertencem à seleção histórica do site. A disponibilidade dos vídeos pode mudar a qualquer momento.
