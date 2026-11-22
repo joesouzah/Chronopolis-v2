@@ -10,6 +10,8 @@ source_url: "https://github.com/joesouzah/Chronopolis/blob/main/Meta.html"
 permalink: /acervo/Meta/
 ---
 
+> **Atualização de referência — 22/11/2026:** a Mozilla encerrou oficialmente o serviço Hubs em 31 de maio de 2024. O ambiente virtual descrito neste artigo é mantido como memória histórica, e o link original pode não funcionar. [Fonte: Mozilla](https://support.mozilla.org/pt-BR/kb/encerramento-suporte-mozilla-hubs).
+
 > **Registro histórico:** transcrição da página original de Chronopolis (2022–2023); imagens, vídeos e links externos ainda dependem de terceiros.
 
 ## Chrono Trigger no Metaverso

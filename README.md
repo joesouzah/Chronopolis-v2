@@ -10,7 +10,7 @@ Este repositório é novo e separado do [projeto original (2022)](https://github
 - Permitir novas publicações sem editar HTML manualmente.
 - Preparar publicação gratuita via GitHub Pages e edição via Pages CMS.
 
-**Estado (22/11/2026)**: reconstrução v0.2 publicada. As 25 páginas históricas estão preservadas em `legado/`; 20 documentos estão disponíveis na busca de texto completo. Imagens, vídeos e downloads do arquivo antigo ainda dependem parcialmente de terceiros e não foram integralmente verificados.
+**Estado (22/11/2026)**: reconstrução v0.3 publicada. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
 
 ## Publicação no GitHub Pages
 
@@ -30,7 +30,8 @@ O editor proposto é o [Pages CMS](https://app.pagescms.org/). A configuração 
 
 - `index.html`: página inicial e catálogo.
 - `assets/`: estilo, scripts e índice local de pesquisa textual.
-- `legado/`: cópias das páginas originais, com links e imagens de terceiros preservados.
+- `legado/`: cópias HTML das páginas originais, sem reescrever o material.
+- `acervo/`: transcrições Markdown das 20 matérias principais, com endereço próprio e origem identificada.
 - `_artigos/`: novas matérias criadas pelo editor.
 - `_layouts/`, `artigos.json` e `_config.yml`: estrutura de publicação Jekyll.
 - `.pages.yml`: configuração do Pages CMS.
