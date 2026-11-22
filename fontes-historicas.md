@@ -32,12 +32,14 @@ O arquivo completo é mantido **como fonte de pesquisa privada**, e não foi tra
 | [A versão beta jogável]({{ '/acervo/beta/' | relative_url }}) | [BETA, RPG aQui!](http://rpga8.free.fr/especial/ct/beta.htm) | Os quatro trechos da demonstração, diferenças de interface e separação de observações e hipóteses |
 | [Dream Team: quem criou Chrono Trigger?]({{ '/artigos/dream-team-chronopolis/' | relative_url }}) | [Dream Team, RPG aQui!](http://rpga8.free.fr/especial/ct/dream-team.htm) | Nomes da equipe, memória do registro de 2004 e contextualização de créditos |
 | [Traduções de fãs de Chrono Trigger]({{ '/artigos/historia-traducoes-de-chrono-trigger/' | relative_url }}) | [Traduções, RPG aQui!](http://rpga8.free.fr/especial/ct/traducoes.htm) | Registro de grupos e projetos de tradução mencionados em 2004 |
+| [Final Fantasy Chronicles no PlayStation]({{ '/artigos/chrono-trigger-playstation-final-fantasy-chronicles/' | relative_url }}) | [Final Fantasy Chronicles, RPG aQui!](http://rpga8.free.fr/especial/ct/final-fantasy-chronicles.htm) | Relato de 2004 sobre cenas em anime, extras e os carregamentos da versão PlayStation |
+| [Artworks: sete coleções preservadas]({{ '/artigos/artworks-chrono-trigger-sete-colecoes/' | relative_url }}) | [Artworks & Imagens, RPG aQui!](http://rpga8.free.fr/especial/ct/artworks-e-imagens.htm) | Inventário das sete galerias e dos 157 links para imagens maiores |
 
 Essas matérias são **novos textos do Chronopolis**, com linguagem própria, referências, datas de consulta e créditos ao arquivo original.
 
 ### O que ainda está em análise
 
-O espelho contém outras áreas muito interessantes, entre elas **artworks, equipamentos, inimigos, estratégias, mapas, finais e SatellaView**. Elas ainda não foram incorporadas em massa: precisamos escolher o que acrescenta conhecimento, conferir dados e registrar a origem de cada informação.
+O espelho contém outras áreas muito interessantes, entre elas **equipamentos, inimigos, estratégias, mapas, finais e SatellaView**. A estrutura de **Artworks & Imagens** já foi catalogada editorialmente, mas as imagens de terceiros continuam privadas até verificação de direitos. Outras áreas ainda não foram incorporadas: precisamos escolher o que acrescenta conhecimento, conferir dados e registrar a origem de cada informação.
 
 Quando uma página histórica contiver afirmações imprecisas, traduções antigas ou teorias, vamos distingui-las dos fatos verificáveis em vez de apresentar tudo como informação atual.
 

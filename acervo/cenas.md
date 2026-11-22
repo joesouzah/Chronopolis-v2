@@ -56,3 +56,7 @@ A versão de PlayStation trouxe sequências em anime que deram uma nova cara a m
 [▶ Assistir à sequência final](https://www.youtube.com/watch?v=Ch7T6i74XUw)
 
 Os links acima pertencem à seleção histórica do site. A disponibilidade dos vídeos pode mudar a qualquer momento.
+
+### Contexto histórico
+
+A versão de PlayStation também fazia parte da coletânea *Final Fantasy Chronicles*, comentada pelo RPG aQui! em 2004. Veja a pesquisa do Chronopolis sobre [as novidades e os carregamentos dessa edição]({{ '/artigos/chrono-trigger-playstation-final-fantasy-chronicles/' | relative_url }}).

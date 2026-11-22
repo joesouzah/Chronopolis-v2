@@ -126,3 +126,24 @@ Conferência técnica das páginas utilizadas na criação das matérias (CRC32 
 - `traducoes.htm`: **6.587 bytes**, CRC32 `31b0be1f`.
 
 A análise comparou os documentos de trabalho com o tamanho e CRC constantes do próprio arquivo RAR, permitindo verificar que os textos examinados correspondem aos bytes recuperados. O arquivo-mestre continua fora do repositório.
+
+## Integrações adicionais — Final Fantasy Chronicles e Artworks (22/11/2026)
+
+A fonte `final-fantasy-chronicles.htm` (7.409 caracteres no inventário textual do espelho) descreve a edição de 2001 para PlayStation: pacote com Final Fantasy IV e Chrono Trigger, cenas em anime, extras desbloqueáveis e crítica do autor aos carregamentos. A avaliação negativa do tempo de espera foi preservada como **opinião datada de 2004**, não como medição atual. Redação nova no Chronopolis: `_artigos/chrono-trigger-playstation-final-fantasy-chronicles.md`.
+
+A fonte `artworks-e-imagens.htm` (6.295 caracteres no inventário textual) aponta para **sete subseções** de galeria, todas recuperadas no espelho privado. O levantamento dos links `href` de imagens maiores resultou em:
+
+| Página HTML | Links para imagens maiores | Arquivos presentes no RAR |
+| --- | ---: | ---: |
+| `artworks_personagens.htm` | 12 | 12 |
+| `artworks_outros-personagens.htm` | 20 | 20 |
+| `artworks_itens-e-equipamentos.htm` | 24 | 24 |
+| `artworks_embalagens.htm` | 29 | 29 |
+| `artworks_manual.htm` | 41 | 41 |
+| `artworks_merchandise.htm` | 8 | 8 |
+| `artworks_cenas.htm` | 23 | 23 |
+| **Total** | **157** | **157** |
+
+São **156 caminhos distintos** (uma imagem é referenciada em duas galerias). Os números foram derivados dos `href` das galerias recuperadas e conferidos com a listagem de entradas do `Chrono SAFE.rar`, não com os thumbnails dos menus. A presença no RAR não comprova licença, autoria, resolução efetiva ou correção dos conteúdos.
+
+Foi criada uma análise editorial em `_artigos/artworks-chrono-trigger-sete-colecoes.md`, sem republicação de imagens ou arquivos de terceiros. O registro público de fontes `fontes-historicas.md` foi atualizado com ambos os estudos.

@@ -52,3 +52,10 @@ As **20 matérias históricas** foram revisadas em 22/11/2026, mantendo a lingua
 - [A versão beta jogável](https://joesouzah.github.io/Chronopolis-v2/acervo/beta/) — matéria existente ampliada com dados do RPG aQui!
 
 As pesquisas novas estão em `_artigos/` e seguem o fluxo normal do Jekyll e Pages CMS. O espelho privado do RPG aQui! (2004) **não foi republicado**. O objetivo é estudar e citar fontes, produzindo textos próprios. [Inventário técnico](FONTES-RPGAQUI.md).
+
+### Pesquisa integrada do RPG aQui! — rodada seguinte
+
+- [Final Fantasy Chronicles no PlayStation](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-playstation-final-fantasy-chronicles/)
+- [Artworks de Chrono Trigger: sete coleções preservadas](https://joesouzah.github.io/Chronopolis-v2/artigos/artworks-chrono-trigger-sete-colecoes/)
+
+As novas matérias são textos do Chronopolis baseados em fontes do espelho privado. O conteúdo original, as imagens, manuais e pacotes do RPG aQui! não foram adicionados ao site público.
