@@ -58,3 +58,5 @@ As 20 transcrições em `acervo/` passaram por revisão de linguagem e organiza�
 **Próxima ação técnica:** quando o endereço puder ser lido, inventariar título, data, autores, seções, links internos, imagens e eventuais licenças; conferir presença de capturas históricas antes de decidir como integrar resumos próprios ou materiais autorizados ao Chronopolis.
 
 **Consulta de cópias históricas:** [Wayback Machine — URL exata](https://web.archive.org/web/*/http://rpga8.free.fr/especial/ct/beta.htm) (atalho para pesquisa, **não comprova existência de snapshot**).
+
+**Atualização baseada em arquivo recebido (22/11/2026):** foi analisado o HTML salvo da página `traducoes.htm` (não `beta.htm`). O documento contém créditos de © RPG aQui! 2004, 31 links a outras seções de Chrono Trigger, 5 referências a ZIPs, e caminhos para CSS/imagens locais ausentes do envio. O HTML original recebido foi mantido fora deste repositório público. O inventário da fonte, com SHA-256 e links, está em [FONTES-RPGAQUI.md](FONTES-RPGAQUI.md). A página Beta continua sem acesso confirmado.
