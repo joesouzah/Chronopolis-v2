@@ -10,7 +10,7 @@ Este repositório é novo e separado do [projeto original (2022)](https://github
 - Permitir novas publicações sem editar HTML manualmente.
 - Preparar publicação gratuita via GitHub Pages e edição via Pages CMS.
 
-**Estado (22/11/2026)**: integração editorial de fontes históricas (v0.9). São 20 matérias do acervo original revisadas, **onze matérias próprias novas** baseadas em pesquisa de fontes do RPG aQui!, incluindo bestiário e chefes, e **uma matéria histórica ampliada** sobre a versão beta. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
+**Estado (22/11/2026)**: revisão editorial v0.10. São 20 matérias do acervo original revisadas, **onze matérias novas** com pesquisa complementar e **uma matéria histórica ampliada** sobre a versão beta. A leitura foi padronizada para privilegiar os assuntos; a documentação de procedência foi mantida separada dos textos de artigos. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
 
 ## Publicação no GitHub Pages
 
@@ -49,29 +49,29 @@ As **20 matérias históricas** foram revisadas em 22/11/2026, mantendo a lingua
 - [Registro público de fontes e pesquisas](https://joesouzah.github.io/Chronopolis-v2/fontes-historicas/)
 - [Dream Team: quem criou Chrono Trigger?](https://joesouzah.github.io/Chronopolis-v2/artigos/dream-team-chronopolis/)
 - [As traduções de fãs de Chrono Trigger na internet antiga](https://joesouzah.github.io/Chronopolis-v2/artigos/historia-traducoes-de-chrono-trigger/)
-- [A versão beta jogável](https://joesouzah.github.io/Chronopolis-v2/acervo/beta/) — matéria existente ampliada com dados do RPG aQui!
+- [A versão beta jogável](https://joesouzah.github.io/Chronopolis-v2/acervo/beta/) — matéria existente ampliada com dados de fontes externas
 
-As pesquisas novas estão em `_artigos/` e seguem o fluxo normal do Jekyll e Pages CMS. O espelho privado do RPG aQui! (2004) **não foi republicado**. O objetivo é estudar e citar fontes, produzindo textos próprios. [Inventário técnico](FONTES-RPGAQUI.md).
+As pesquisas novas estão em `_artigos/` e seguem o fluxo normal do Jekyll e Pages CMS. O espelho privado de fontes externas **não foi republicado**. O objetivo é estudar e citar fontes, produzindo textos próprios. [Inventário técnico](FONTES-RPGAQUI.md).
 
-### Pesquisa integrada do RPG aQui! — rodada seguinte
+### Pesquisas complementares — rodada seguinte
 
 - [Final Fantasy Chronicles no PlayStation](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-playstation-final-fantasy-chronicles/)
 - [Artworks de Chrono Trigger: sete coleções preservadas](https://joesouzah.github.io/Chronopolis-v2/artigos/artworks-chrono-trigger-sete-colecoes/)
 
-As novas matérias são textos do Chronopolis baseados em fontes do espelho privado. O conteúdo original, as imagens, manuais e pacotes do RPG aQui! não foram adicionados ao site público.
+As novas matérias são textos do Chronopolis baseados em fontes do espelho privado. O conteúdo original, as imagens, manuais e pacotes de fontes externas não foram adicionados ao site público.
 
 ### Memória do Satellaview e da série Chrono
 
 - [Satellaview: os especiais de Chrono Trigger](https://joesouzah.github.io/Chronopolis-v2/artigos/satellaview-especiais-chrono-trigger/)
 - [Radical Dreamers: a aventura entre Chrono Trigger e Chrono Cross](https://joesouzah.github.io/Chronopolis-v2/artigos/radical-dreamers-origem-e-retorno/)
 
-As pesquisas têm redação própria, fonte datada de 2004 claramente identificada e checagens complementares. Nenhuma ROM, imagem ou cópia integral do RPG aQui! foi republicada.
+As pesquisas têm redação própria, fonte datada de 2004 claramente identificada e checagens complementares. Nenhuma ROM, imagem ou cópia integral de fontes externas foi republicada.
 
 ### Cartografia, equipamento e estratégias (v0.8)
 
 - [Seis mapas, várias eras](https://joesouzah.github.io/Chronopolis-v2/artigos/mapas-eras-chrono-trigger/) — documento de cartografia histórica e limite das miniaturas recuperadas;
 - [Equipamentos: quatro categorias](https://joesouzah.github.io/Chronopolis-v2/artigos/equipamentos-guia-historico-chrono-trigger/) — 161 linhas de dados catalogadas, com exemplos e ressalvas de verificação;
-- [Roteiro de exploração](https://joesouzah.github.io/Chronopolis-v2/artigos/roteiro-de-exploracao-chrono-trigger/) — orientação escrita do zero, respeitando a proibição explícita de republicação da estratégia do RPG aQui!.
+- [Roteiro de exploração](https://joesouzah.github.io/Chronopolis-v2/artigos/roteiro-de-exploracao-chrono-trigger/) — orientação escrita do zero, respeitando a proibição explícita de republicação da estratégia de fontes externas.
 
 O espelho segue privado. Apenas sínteses e orientações próprias foram adicionadas ao site público.
 
@@ -80,4 +80,12 @@ O espelho segue privado. Apenas sínteses e orientações próprias foram adicio
 - [Bestiário de Chrono Trigger: 126 fichas no acervo de 2004](https://joesouzah.github.io/Chronopolis-v2/artigos/bestiario-chrono-trigger-acervo-2004/) — 61 fichas A–I e 65 J–Y, com explicação de HP, TP, EXP, G, Item, Charm e Localização;
 - [Chefes: 40 encontros documentados](https://joesouzah.github.io/Chronopolis-v2/artigos/chefes-chrono-trigger-guia-historico/) — índice B01–B40 e cinco partes, com exemplos de confrontos de múltiplos alvos.
 
-São textos próprios com exemplos selecionados. As tabelas integrais, descrições estratégicas e imagens originais do RPG aQui! não foram copiadas para o repositório público. A exatidão de números antigos por edição ainda precisa de auditoria específica.
+São textos próprios com exemplos selecionados. As tabelas integrais, descrições estratégicas e imagens originais de fontes externas não foram copiadas para o repositório público. A exatidão de números antigos por edição ainda precisa de auditoria específica.
+
+## Padronização editorial v0.10 — 22/11/2026
+
+A pedido do editor do Chronopolis, as 11 novas matérias foram revisadas para **evitar repetição do nome do site consultado, datas de sua publicação e explicações de pesquisa no meio do texto**. O mesmo critério foi aplicado às seis páginas preexistentes que haviam recebido referências relacionadas, ao índice de busca e à apresentação pública de pesquisas.
+
+**Separação de camadas:** matérias falam de jogos, personagens e descobertas; a página `fontes-historicas.md` apresenta os temas e a política de pesquisa; os metadados `source_site`, `source_url` e `source_consulted_on`, junto do inventário técnico `FONTES-RPGAQUI.md`, preservam os registros de autoria e origem para a futura seção dedicada a créditos. Não apagar créditos nem tratar o material pesquisado como criação exclusiva do Chronopolis. Manter claro que os dados ainda não verificados são históricos.
+
+**Estabilidade:** os caminhos dos artigos existentes, incluindo slugs com ano no nome do arquivo, foram mantidos para não quebrar endereços compartilhados. Nenhum HTML original em `legado/` foi alterado. Nenhum texto ou arquivo integral de terceiros foi republicado.

@@ -49,3 +49,12 @@ Esses valores representam ocorrências em Markdown, não arquivos únicos nem li
 ## Política de preservação
 
 Nunca substituir o HTML original por uma reescrita. Manter fontes, data de revisão e distinção entre transcrição, comentário editorial e fatos verificados. Material externo não deve ser replicado sem verificar direitos e procedência.
+
+## Padronização editorial dos textos de pesquisa — 22/11/2026
+
+- Escopo: **11 artigos novos**, **6 páginas antigas complementadas** (`beta`, `cenas`, `conhecendo`, `historiapag`, `imagensps1` e `maps`), registro público de pesquisa, rodapé de leitura e índice textual da matéria Beta.
+- Objetivo: leitores devem encontrar primeiro o assunto pesquisado, sem repetições de nome do site consultado e de ano histórico em cada introdução, subtítulo, tabela e encerramento.
+- Créditos, endereços e datas de consulta permanecem nos metadados dos artigos e no inventário técnico. A futura apresentação centralizada de créditos será definida separadamente, sem remoção das fontes.
+- Foram mantidos os dados de jogo, comparações entre versões, avisos de spoilers e ressalvas sobre estatísticas não verificadas; não se importaram imagens, manuais, ROMs ou guias integrais de terceiros.
+- O registro público em `fontes-historicas.md` apresenta temas e política editorial sem repetir o portal de origem em cada linha. O rodapé do layout de matérias direciona à página de fontes e créditos.
+- A navegação e as compilações foram verificadas via GitHub Actions; inspeção visual em navegador ainda pendente.
