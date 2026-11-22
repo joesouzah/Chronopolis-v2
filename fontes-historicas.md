@@ -39,12 +39,14 @@ O arquivo completo é mantido **como fonte de pesquisa privada**, e não foi tra
 | [Seis mapas, várias eras]({{ '/artigos/mapas-eras-chrono-trigger/' | relative_url }}) | [Mapas, RPG aQui!](http://rpga8.free.fr/especial/ct/mapas.htm) | Seis miniaturas preservadas, com duas situações de 12.000 a.C. |
 | [Equipamentos: quatro categorias]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}) | [Equipamentos, RPG aQui!](http://rpga8.free.fr/especial/ct/equipamentos.htm) | Estrutura e exemplos de 161 registros nas tabelas históricas |
 | [Roteiro de exploração]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}) | [Estratégia, RPG aQui!](http://rpga8.free.fr/especial/ct/estrategia.htm) | Organização da fonte histórica, sem copiar o guia cuja republicação é proibida |
+| [Bestiário histórico de 126 fichas]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}) | [Inimigos, RPG aQui!](http://rpga8.free.fr/especial/ct/inimigos.htm) | 61 fichas A–I e 65 J–Y; significado dos campos e exemplos pontuais |
+| [Chefes: 40 encontros documentados]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}) | [Chefes, RPG aQui!](http://rpga8.free.fr/especial/ct/chefes.htm) | Índice B01–B40 em cinco páginas, com encontros de múltiplas partes |
 
-A matéria **Beta** foi ampliada a partir de uma fonte histórica; as outras **nove pesquisas** são textos novos do Chronopolis. Todas têm redação própria, referências, datas de consulta e créditos à pesquisa original.
+A matéria **Beta** foi ampliada a partir de uma fonte histórica; as outras **onze pesquisas** são textos novos do Chronopolis. Todas têm redação própria, referências, datas de consulta e créditos à pesquisa original.
 
 ### O que ainda está em análise
 
-O espelho contém outras áreas muito interessantes, entre elas **inimigos, chefes e finais**. **Mapas, equipamentos e estratégia** já foram estudados em textos próprios, sem importar as imagens ou os guias integrais. O **SatellaView** e a relação com **Radical Dreamers** já ganharam pesquisas próprias. A estrutura de **Artworks & Imagens** já foi catalogada editorialmente, mas as imagens de terceiros continuam privadas até verificação de direitos. Outras áreas ainda não foram incorporadas: precisamos escolher o que acrescenta conhecimento, conferir dados e registrar a origem de cada informação.
+O espelho contém outras áreas muito interessantes, entre elas **finais, dicas, técnicas e missões opcionais**. **Inimigos, chefes, mapas, equipamentos e estratégia** já foram estudados em textos próprios, sem importar as imagens ou os guias integrais. O **SatellaView** e a relação com **Radical Dreamers** já ganharam pesquisas próprias. A estrutura de **Artworks & Imagens** já foi catalogada editorialmente, mas as imagens de terceiros continuam privadas até verificação de direitos. Outras áreas ainda não foram incorporadas: precisamos escolher o que acrescenta conhecimento, conferir dados e registrar a origem de cada informação.
 
 Quando uma página histórica contiver afirmações imprecisas, traduções antigas ou teorias, vamos distingui-las dos fatos verificáveis em vez de apresentar tudo como informação atual.
 

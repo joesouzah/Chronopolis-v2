@@ -74,3 +74,7 @@ Podemos documentar seu contexto, identificar o modo de organização e escrever 
 **Referência histórica:** [Estratégia — RPG aQui!](http://rpga8.free.fr/especial/ct/estrategia.htm). Página consultada no espelho privado em **22/11/2026**. A seção de 2004 credita **Spider** e os colaboradores **Majin Alucard, Omnicrone_RED e Masamune**.
 
 Veja também nosso [registro de fontes históricas]({{ '/fontes-historicas/' | relative_url }}).
+
+### Bestiário e confrontos
+
+Se a tua dúvida não for de caminho, mas de combate, começa pelo [bestiário histórico de 126 fichas]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}) e pela pesquisa sobre [40 encontros de chefes]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}). As estatísticas citadas pertencem ao catálogo de 2004; as soluções extensas do RPG aQui! não foram reproduzidas.

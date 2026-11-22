@@ -91,3 +91,7 @@ O Chronopolis não copiou o catálogo integral nem suas tabelas de dezenas de it
 **RPG aQui! © 2004** — seção indicada como feita por **Spider**, com colaboração de **Majin Alucard, Omnicrone_RED e Masamune**. Artigo novo do Chronopolis, com referência ao arquivo recuperado.
 
 Confira também o [guia de exploração e organização das estratégias]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}) e nosso [registro de fontes históricas]({{ '/fontes-historicas/' | relative_url }}).
+
+### Para consultar inimigos e chefes
+
+Uma escolha de equipamento também depende do adversário. O Chronopolis agora possui uma pesquisa sobre os [126 inimigos catalogados pelo RPG aQui!]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}) e outra sobre [os 40 encontros de chefes de seu índice]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}). São referências de pesquisa com créditos e números históricos identificados, não guias oficiais de cada edição.

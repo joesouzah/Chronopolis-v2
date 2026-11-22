@@ -180,3 +180,29 @@ A partir dos arquivos contidos no espelho privado `Chrono SAFE.rar` (sem importa
 **Integração editorial:** criadas as matérias novas `_artigos/mapas-eras-chrono-trigger.md`, `_artigos/equipamentos-guia-historico-chrono-trigger.md` e `_artigos/roteiro-de-exploracao-chrono-trigger.md`. O artigo existente `acervo/maps.md` foi ligado à pesquisa complementar. A página `fontes-historicas.md` passou a indicar estas fontes e seus limites.
 
 **Limites:** as contagens de equipamentos são **linhas das tabelas históricas**, não itens únicos nem dados conferidos em todas as edições; as imagens dos mapas são prévias, não mapas de alta resolução confirmados; o documento da estratégia é fonte de pesquisa, **não texto liberado para cópia**.
+
+## Inimigos e chefes — auditoria direta do espelho (22/11/2026)
+
+Foram extraídos e examinados diretamente, com leitura dos HTMLs em codificação `windows-1252`, os seguintes arquivos do espelho privado `Chrono SAFE.rar`:
+
+| Fonte | Conteúdo identificado | Conferência |
+| --- | --- | --- |
+| `inimigos.htm` | Índice descritivo dividido em duas partes, A–I e J–Y | 5.806 bytes |
+| `inimigos-01.htm` | Fichas com HP, TP, EXP, G, Item, Charm e Localização | **61 nomes distintos**, 73.864 bytes |
+| `inimigos-02.htm` | Continuação da lista de fichas | **65 nomes distintos**, 78.507 bytes |
+| `chefes.htm` | Índice B01–B40 com nome, localização e era | **40 entradas numeradas**, 22.097 bytes |
+| `chefes-01.htm` | B01–B05 | 16.762 bytes |
+| `chefes-02.htm` | B06–B11 | 22.726 bytes |
+| `chefes-03.htm` | B12–B23 | 35.066 bytes |
+| `chefes-04.htm` | B24–B37 | 37.400 bytes |
+| `chefes-05.htm` | B38–B40 | 14.739 bytes |
+
+**Método:** as fichas de inimigos foram contadas por suas tabelas próprias, marcadas com `Inimigo: ... HP:`, descartando as tabelas grandes que continham outras tabelas aninhadas. São **126 fichas e 126 nomes distintos dentro das duas páginas**. O índice de chefes foi contado a partir das linhas cujo primeiro campo corresponde a `B01` até `B40`; há repetição de nomes e diferentes formas, portanto são 40 **encontros**, não necessariamente 40 chefes únicos.
+
+**Exemplos factuais examinados:** Acid (HP 10, Factory); Kilwala (HP 160, Mystic Mountain); Jinn (HP 450, Ocean Palace); Turret (HP 700, TP 50, Blackbird); Alien (HP 1.050, Black Omen); Nu (HP 1.234, Kajar); Yakra (HP 920), Dragon Tank (partes 600/206/266), Guardian (1.200 + dois Bits 200) e Zombor (partes 960/800). Os números são **transcrições pontuais de dados históricos** e não foram conferidos individualmente em todas as edições do jogo.
+
+**Verificação complementar:** o guia [Gamer Corner — Charm](https://guides.gamercorner.net/ct/techs/charm) explica a função da técnica de Ayla; a [StrategyWiki — Chefes](https://strategywiki.org/wiki/Chrono_Trigger/Bosses) permite comparar nomes entre edições. Isto não constitui revisão externa de todas as estatísticas.
+
+**Integração editorial no Chronopolis:** `_artigos/bestiario-chrono-trigger-acervo-2004.md` e `_artigos/chefes-chrono-trigger-guia-historico.md` foram produzidos como textos autorais, com exemplos selecionados, links e atribuição explícita a Spider, Majin Alucard, Omnicrone_RED e Masamune. O inventário público de fontes, a página inicial, equipamentos e roteiro de exploração receberam links. **Nenhuma tabela integral, imagem, texto estratégico ou HTML original foi republicado**.
+
+**Estado:** o espelho continua privado. A auditoria não certifica que o catálogo antigo seja exaustivo ou correto para versões posteriores.

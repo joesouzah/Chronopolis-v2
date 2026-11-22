@@ -10,7 +10,7 @@ Este repositório é novo e separado do [projeto original (2022)](https://github
 - Permitir novas publicações sem editar HTML manualmente.
 - Preparar publicação gratuita via GitHub Pages e edição via Pages CMS.
 
-**Estado (22/11/2026)**: integração editorial de fontes históricas (v0.8). São 20 matérias do acervo original revisadas, **nove matérias próprias novas** com fontes do RPG aQui! (Dream Team, traduções de fãs, Final Fantasy Chronicles, Artworks, Satellaview, Radical Dreamers, Mapas, Equipamentos e roteiro de exploração) e **uma matéria histórica ampliada** sobre a versão beta. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
+**Estado (22/11/2026)**: integração editorial de fontes históricas (v0.9). São 20 matérias do acervo original revisadas, **onze matérias próprias novas** baseadas em pesquisa de fontes do RPG aQui!, incluindo bestiário e chefes, e **uma matéria histórica ampliada** sobre a versão beta. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
 
 ## Publicação no GitHub Pages
 
@@ -74,3 +74,10 @@ As pesquisas têm redação própria, fonte datada de 2004 claramente identifica
 - [Roteiro de exploração](https://joesouzah.github.io/Chronopolis-v2/artigos/roteiro-de-exploracao-chrono-trigger/) — orientação escrita do zero, respeitando a proibição explícita de republicação da estratégia do RPG aQui!.
 
 O espelho segue privado. Apenas sínteses e orientações próprias foram adicionadas ao site público.
+
+### Bestiário e chefes (v0.9)
+
+- [Bestiário de Chrono Trigger: 126 fichas no acervo de 2004](https://joesouzah.github.io/Chronopolis-v2/artigos/bestiario-chrono-trigger-acervo-2004/) — 61 fichas A–I e 65 J–Y, com explicação de HP, TP, EXP, G, Item, Charm e Localização;
+- [Chefes: 40 encontros documentados](https://joesouzah.github.io/Chronopolis-v2/artigos/chefes-chrono-trigger-guia-historico/) — índice B01–B40 e cinco partes, com exemplos de confrontos de múltiplos alvos.
+
+São textos próprios com exemplos selecionados. As tabelas integrais, descrições estratégicas e imagens originais do RPG aQui! não foram copiadas para o repositório público. A exatidão de números antigos por edição ainda precisa de auditoria específica.
