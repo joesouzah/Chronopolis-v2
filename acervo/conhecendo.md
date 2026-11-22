@@ -21,6 +21,8 @@ permalink: /acervo/conhecendo/
 
 O projeto reuniu uma equipe que ficou conhecida como a **Equipe dos Sonhos**. Entre seus integrantes estavam Akira Toriyama, criador de *Dragon Ball* — e isso é fácil de notar no visual dos personagens —, Yuji Horii, ligado à série *Dragon Quest*, e Hironobu Sakaguchi, de *Final Fantasy*. A trilha sonora também contou com grandes nomes. Era um jogo que tinha tudo para dar certo. E deu!
 
+**Para conhecer quem estava por trás do projeto:** [Dream Team — a Equipe dos Sonhos]({{ '/artigos/dream-team-chronopolis/' | relative_url }}), uma nova pesquisa do Chronopolis baseada também no acervo do RPG aQui! (2004).
+
 Para mim, e para milhares de outros fãs, *Chrono Trigger* é um dos melhores jogos já feitos. Talvez até o melhor. Já perdi a conta de quantas vezes terminei a aventura, descobri finais diferentes e voltei a jogar com a mesma animação da primeira vez.
 
 O que mais me impressiona é a maneira como o jogo mistura magia, tecnologia e viagens no tempo. Alterar o passado pode mudar o futuro, e essa ideia cria diferentes caminhos para uma mesma grande aventura. *Chrono Trigger* faz a gente se sentir parte daquele mundo, com personagens e acontecimentos que ficam na memória.

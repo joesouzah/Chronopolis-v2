@@ -65,6 +65,9 @@ A partir daí, a aventura se abre para novas missões, reencontros e decisões i
 
 ## Desenvolvimento: a Equipe dos Sonhos
 
+A equipe de produção também foi documentada pelo antigo portal brasileiro RPG aQui!, em 2004. Veja nossa matéria complementar [Dream Team — quem criou Chrono Trigger?]({{ '/artigos/dream-team-chronopolis/' | relative_url }}), com créditos e contexto histórico.
+
+
 ### Como surgiu o projeto
 
 A ideia de *Chrono Trigger* começou a ganhar forma em 1992, com nomes que já eram conhecidos dos fãs de RPG: **Hironobu Sakaguchi**, ligado a *Final Fantasy*; **Yuji Horii**, criador de *Dragon Quest*; e **Akira Toriyama**, responsável por *Dragon Ball* e pelo visual de personagens de *Dragon Quest*.

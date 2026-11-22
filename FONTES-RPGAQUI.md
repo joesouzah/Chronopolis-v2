@@ -106,3 +106,12 @@ As seções anteriores deste documento descrevem a fase de análise do primeiro 
 ## Integração editorial inicial — página Beta (22/11/2026)
 
 A matéria [A versão beta jogável](https://joesouzah.github.io/Chronopolis-v2/acervo/beta/) foi ampliada usando como fonte histórica a página `beta.htm` do espelho recuperado em `Chrono SAFE.rar`. O acréscimo resume em redação própria os quatro pontos apresentados pelo RPG aQui! (**New Game, Slots 1, 2 e 3**), alguns detalhes visuais, e diferencia observações jogáveis de hipóteses sobre a ROM. Inclui atribuição a **Spider** e aos colaboradores creditados, endereço original e data de consulta. Não foram incluídos HTML, imagens ou ZIPs de terceiros no repositório público. O artigo e o índice de busca foram atualizados.
+
+## Novas matérias editoriais produzidas a partir do espelho — 22/11/2026
+
+Além da integração anterior em `acervo/beta.md`, foram preparadas duas **matérias originais** na coleção `_artigos/`, publicadas com data editorial de 22/11/2026:
+
+- `_artigos/dream-team-chronopolis.md` — análise de cinco integrantes destacados pelo antigo portal, contextualização da equipe maior, distinção entre cargos descritos em 2004 e dados atuais, com crédito a Spider e colaboradores e referência aos créditos musicais da Square Enix;
+- `_artigos/historia-traducoes-de-chrono-trigger.md` — registro contextualizado de **IPS Center, CBT, Tanero Translations e Sky Render Translations** a partir de `traducoes.htm`, sem disponibilizar arquivos ZIP ou patches.
+
+As duas matérias são redação própria, com fonte original e data de consulta do espelho offline. O conteúdo original, as imagens, os HTML e os ZIPs do RPG aQui! continuam **fora do repositório público**. O índice de matérias novas é gerado pelo Jekyll a partir de `_artigos/`; links internos para a nova matéria Dream Team foram adicionados às páginas existentes de história e apresentação do jogo.
