@@ -70,6 +70,10 @@ A variedade de criaturas ajuda a consultar o jogo por época e por região, espe
 
 Esta é uma seleção ilustrativa do catálogo; as fichas completas e suas imagens não foram transcritas aqui.
 
+## Encontrar itens com Ayla
+
+Além de recompensas após a batalha, alguns inimigos possuem objetos associados à técnica **Charm**. Consulte o [guia de Charm e Twin Charm]({{ '/artigos/chrono-trigger-charm-guia/' | relative_url }}) para entender as tentativas de obtenção e seus limites.
+
 ## Para continuar explorando
 
 Veja também [Equipamentos]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}) e [Chefes]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}).

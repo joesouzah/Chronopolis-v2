@@ -32,6 +32,9 @@ Cada publicação é escrita para ser útil ao leitor. Dados antigos são tratad
 | Conteúdo opcional | [Missões e segredos]({{ '/artigos/chrono-trigger-missoes-opcionais-segredos/' | relative_url }}) |
 | Rejogar a aventura | [New Game+]({{ '/artigos/chrono-trigger-new-game-plus/' | relative_url }}) |
 | Desfechos | [Finais de Chrono Trigger]({{ '/artigos/chrono-trigger-finais-guia/' | relative_url }}) |
+| Inventário | [Itens consumíveis e objetos-chave]({{ '/artigos/chrono-trigger-itens-guia/' | relative_url }}) |
+| Atributos | [Power, Magic e Speed Tabs]({{ '/artigos/chrono-trigger-tabs-atributos/' | relative_url }}) |
+| Coleta em batalha | [Charm de Ayla]({{ '/artigos/chrono-trigger-charm-guia/' | relative_url }}) |
 
 ## Como tratamos material de pesquisa
 

@@ -71,6 +71,10 @@ Alguns exemplos presentes na página recuperada:
 
 Esses exemplos são uma boa demonstração da variedade do sistema. O melhor equipamento não é necessariamente o que tem o maior número na descrição.
 
+## Itens que complementam o equipamento
+
+Além de armas e armaduras, certos consumíveis oferecem proteção e recuperação de recursos durante o combate. Conheça o [guia de itens e objetos-chave]({{ '/artigos/chrono-trigger-itens-guia/' | relative_url }}) e o funcionamento de [Power, Magic e Speed Tabs]({{ '/artigos/chrono-trigger-tabs-atributos/' | relative_url }}).
+
 ## Para continuar explorando
 
 Para escolher bem, consulte o [bestiário]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}), os [chefes]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}) e o [roteiro de exploração]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}).

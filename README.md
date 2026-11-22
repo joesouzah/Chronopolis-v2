@@ -10,7 +10,7 @@ Este repositório é novo e separado do [projeto original (2022)](https://github
 - Permitir novas publicações sem editar HTML manualmente.
 - Preparar publicação gratuita via GitHub Pages e edição via Pages CMS.
 
-**Estado (22/11/2026)**: integração editorial v0.11. São 20 matérias revisadas do acervo original, **quinze matérias novas** com pesquisa complementar e **uma matéria antiga ampliada** sobre a versão beta. A redação continua concentrada no conteúdo de Chrono Trigger, com as referências externas preservadas separadamente. A leitura foi padronizada para privilegiar os assuntos; a documentação de procedência foi mantida separada dos textos de artigos. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
+**Estado (22/11/2026)**: integração editorial v0.12. São 20 matérias revisadas do acervo original, **dezoito matérias novas** com pesquisa complementar e **uma matéria antiga ampliada** sobre a versão beta. A redação continua concentrada no conteúdo de Chrono Trigger, com as referências externas preservadas separadamente. A leitura foi padronizada para privilegiar os assuntos; a documentação de procedência foi mantida separada dos textos de artigos. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
 
 ## Publicação no GitHub Pages
 
@@ -98,3 +98,11 @@ A pedido do editor do Chronopolis, as 11 novas matérias foram revisadas para **
 - [Finais de Chrono Trigger](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-finais-guia/): doze desfechos narrativos clássicos e a distinção de Game Over, listado como uma 13ª entrada em um inventário tradicional.
 
 Todas as quatro matérias são redação própria. Os endereços originais e os responsáveis históricos constam apenas nos metadados e no inventário técnico, até a criação de uma seção definitiva de créditos. Não foram incluídos arquivos de terceiros no repositório.
+
+## Rodada v0.12 — Itens, Tabs e Charm (22/11/2026)
+
+- [Itens consumíveis e objetos-chave](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-itens-guia/) — inventário explicado a partir de 19 registros consumíveis e 25 registros de itens-chave, incluindo dois estados do Pendant;
+- [Power, Magic e Speed Tabs](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-tabs-atributos/) — 20 registros de Power, 22 de Magic e 16 de Speed. São **58 entradas de localização/obtenção**, não 58 Tabs individuais;
+- [Charm de Ayla](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-charm-guia/) — 93 fichas de encontros, 92 nomes distintos, com duas fichas para Lavos Spawn em locais diferentes; orientação cautelosa sobre Twin Charm.
+
+A pesquisa parte dos três documentos `itens.htm`, `tabs.htm` e `charm.htm` do espelho preservado, reabertos e conferidos por tamanho/CRC32. O texto publicado é original e segue a política v0.10: sem repetir o nome da fonte e a data nos corpos das matérias. Os metadados e o inventário registram a procedência para a futura seção de créditos. Nenhum HTML, imagem ou pacote de terceiros foi republicado.

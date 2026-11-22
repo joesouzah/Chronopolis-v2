@@ -223,3 +223,21 @@ Conferidos diretamente no arquivo privado `Chrono SAFE.rar` os quatro HTMLs a se
 **Conferência complementar de baús selados:** a mecânica de deixar um baú fechado em 600 d.C. e abri-lo em 1000 d.C. é descrita também em [StrategyWiki](https://strategywiki.org/wiki/Chrono_Trigger/Sealed_chests), que ressalva que o procedimento não vale para todos os baús.
 
 **Integração pública:** `_artigos/chrono-trigger-dicas-para-comecar.md`, `_artigos/chrono-trigger-missoes-opcionais-segredos.md`, `_artigos/chrono-trigger-new-game-plus.md` e `_artigos/chrono-trigger-finais-guia.md`. Cada artigo possui campos de procedência e data de consulta no front matter, porém o corpo privilegia exclusivamente o assunto; créditos completos continuam reservados para futura seção específica. Não foram copiados textos, HTML, imagens nem downloads integrais de terceiros.
+
+## Itens, Tabs e Charm — verificação das fontes e integração v0.12 (22/11/2026)
+
+A consulta reabriu os HTMLs exatos no espelho privado `Chrono SAFE.rar`, com decodificação `windows-1252`. A integridade de cada cópia de trabalho foi confirmada contra o tamanho e o CRC32 da entrada do RAR.
+
+| Documento | Bytes | CRC32 | Estrutura observada |
+| --- | ---: | --- | --- |
+| `itens.htm` | 21.521 | `38d1f0b3` | 19 linhas de consumíveis e 25 linhas de Key Items; `Pendant` aparece em dois estados diferentes |
+| `tabs.htm` | 43.450 | `255d33aa` | 20 registros de Power, 22 de Magic e 16 de Speed, totalizando 58 linhas de obtenção ou localização; registros podem render mais de uma Tab, por exemplo prêmios de Spekkio |
+| `charm.htm` | 73.652 | `b7ea8981` | 93 fichas de encontro e 92 nomes distintos; `Lavos Spawn` figura duas vezes, em locais diferentes; algumas fichas registram TwinCharm separadamente |
+
+**Interpretação importante:** as quantidades são linhas/entradas dos documentos, não um total oficial de itens únicos, de cápsulas individuais ou de inimigos possíveis em todas as versões. O total 25 dos Key Items inclui `Pendant` duas vezes; 58 das Tabs inclui premiações, batalhas e locais repetidos; 93 do Charm inclui duas circunstâncias para Lavos Spawn.
+
+**Verificação complementar:** [Gamer Corner — Items](https://guides.gamercorner.net/ct/tables/items) confirma categorias e alguns efeitos básicos; [StrategyWiki — Tabs](https://strategywiki.org/wiki/Chrono_Trigger/Tabs) descreve variações por edição e recompensas de Spekkio; [Chrono Wiki — Stealing](https://www.chronowiki.org/wiki/Stealing) e [Gamer Corner — Twin Charm](https://guides.gamercorner.net/ct/combo-techs/twin-charm?d=a&s=aly%2Ctgt) descrevem Twin Charm principalmente como combinação com maior chance de obter um item. O catálogo antigo às vezes dá itens diferentes nas linhas de TwinCharm; essas diferenças não foram reproduzidas como garantias, pois não foram verificadas na mecânica do jogo.
+
+**Textos publicados (redação própria):** `_artigos/chrono-trigger-itens-guia.md`, `_artigos/chrono-trigger-tabs-atributos.md` e `_artigos/chrono-trigger-charm-guia.md`. Foram adicionadas ligações ao catálogo público, à página inicial e às matérias de equipamentos, bestiário e missões opcionais.
+
+**Proveniência e direitos:** páginas © 2004 de RPG aQui!, com seção creditada a Spider e colaboração indicada de Majin Alucard, Omnicrone_RED e Masamune. Os detalhes permanecem no inventário técnico e nos metadados, não repetidos nos textos de leitura. Nenhum texto integral, HTML, imagem ou pacote do espelho foi enviado ao repositório público.

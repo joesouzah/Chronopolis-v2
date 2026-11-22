@@ -64,6 +64,10 @@ Spekkio, no **Fim dos Tempos**, altera sua forma e sua força conforme o nível 
 
 Vale revisitar o personagem depois que o grupo evoluir.
 
+## Tabs e outros itens especiais
+
+Quem está procurando melhorias permanentes pode consultar o guia de [Power, Magic e Speed Tabs]({{ '/artigos/chrono-trigger-tabs-atributos/' | relative_url }}). Para entender os recursos do inventário, veja também [Itens e objetos-chave]({{ '/artigos/chrono-trigger-itens-guia/' | relative_url }}).
+
 ## Por onde seguir agora?
 
 Para explorar com menos spoilers, comece pelas portas seladas e pelas pistas oferecidas por Gaspar. Quando estiver preparando batalhas opcionais, consulte [dicas de combate]({{ '/artigos/chrono-trigger-dicas-para-comecar/' | relative_url }}) e [equipamentos]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}).
