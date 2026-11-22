@@ -5,87 +5,62 @@ category: "História"
 summary: "Um olhar sobre a jogabilidade, o combate, a trilha sonora e a equipe dos sonhos."
 image: "https://thumbs2.imgbox.com/2d/fe/9X96rJ7I_t.jpg"
 legacy: true
+editorial_reviewed_on: "2026-11-22"
 migrated_on: "2026-11-22"
 source_url: "https://github.com/joesouzah/Chronopolis/blob/main/conhecendo.html"
 permalink: /acervo/conhecendo/
 ---
 
-> **Registro histórico:** transcrição da página original de Chronopolis (2022–2023); imagens, vídeos e links externos ainda dependem de terceiros.
+> **Revisão editorial:** mantive as opiniões e o entusiasmo do texto original, com ajustes de clareza e uma correção nos créditos da trilha sonora.
 
-### Conhecendo um pouco do game
+## Conhecendo um pouco de Chrono Trigger
 
-![image host](https://thumbs2.imgbox.com/2d/fe/9X96rJ7I_t.jpg)
+![Imagem histórica de Chrono Trigger](https://thumbs2.imgbox.com/2d/fe/9X96rJ7I_t.jpg)
 
-Chrono Trigger ou Kurono Toriga é um RPG eletrônico feito pela Square Soft,
-atual Square Enix, foi lançado em março de 1995. mas ele não parou por aí,
-ele continuou sendo lançado para outros consoles, o jogo contava com uma
-brilhante equipe, que ficou conhecida como Equipe dos Sonhos, ela contava com
-grandes mestres como Akira Toriyama criador do consagrado mangá Dragon Ball
-(a questão da participação dele é extremamente fácil de notar por causa dos
-desenhos dos personagens, que têm certas semelhanças com outros personagens de Akira),
-essa equipe também contava com ninguém menos do que Nobuo Uematsu criador das
-trilhas sonoras de Final Fantasy, esse jogo tinha tudo para dar certo, e
-realmente deu.
+*Chrono Trigger* é um RPG desenvolvido pela Square, atual Square Enix, lançado originalmente em março de 1995 para o Super Nintendo. E a aventura não parou por aí: o jogo ganhou versões para outras plataformas e continuou conquistando novos fãs.
 
-Então vamos falar um pouco sobre Chrono Trigger, Chrono Trigger para mim e
-pra milhares de outros fãs é um dos melhores jogos já feitos ou até mesmo
-o melhor. Já perdi a conta de quantas vezes o virei, já fiz inúmeros finais,
-e digo que ainda consigo jogar com aquela mesma animação de quando comecei,
-Chrono Trigger conseguiu um feito que pode ser até considerado algo surpreendente,
-que às vezes nem a televisão consegue com êxito, junta magia e tecnologia,
-contando com viagens no tempo, e obviamente toda aquela questão dos princípios
-da viagem no tempo de que se você alterar o passado, o futuro mudará, e isso
-acaba tornando ele um jogo com diferentes rumos que levam para a mesma coisa,
-só que de modos peculiarmente diferentes, que acaba aumentando mais ainda a
-diversão do jogo. Chrono Trigger é um jogo que consegue envolver totalmente
-seu jogador nele, fazendo a pessoa se sentir naquele mundo de magia.
+O projeto reuniu uma equipe que ficou conhecida como a **Equipe dos Sonhos**. Entre seus integrantes estavam Akira Toriyama, criador de *Dragon Ball* — e isso é fácil de notar no visual dos personagens —, Yuji Horii, ligado à série *Dragon Quest*, e Hironobu Sakaguchi, de *Final Fantasy*. A trilha sonora também contou com grandes nomes. Era um jogo que tinha tudo para dar certo. E deu!
+
+Para mim, e para milhares de outros fãs, *Chrono Trigger* é um dos melhores jogos já feitos. Talvez até o melhor. Já perdi a conta de quantas vezes terminei a aventura, descobri finais diferentes e voltei a jogar com a mesma animação da primeira vez.
+
+O que mais me impressiona é a maneira como o jogo mistura magia, tecnologia e viagens no tempo. Alterar o passado pode mudar o futuro, e essa ideia cria diferentes caminhos para uma mesma grande aventura. *Chrono Trigger* faz a gente se sentir parte daquele mundo, com personagens e acontecimentos que ficam na memória.
 
 ---
 
-### Sistema de batalha
+## Sistema de batalha
 
-![image host](https://thumbs2.imgbox.com/a0/38/f0IgtZc3_t.png)
+![Imagem do sistema de combate de Chrono Trigger](https://thumbs2.imgbox.com/a0/38/f0IgtZc3_t.png)
 
-Chrono Trigger conta com animações de batalhas lindas, que acabam por colocar no
-chinelo todos os FFS do Snes.
+As animações das batalhas são lindas e, na minha opinião, colocavam muitos RPGs da época no chinelo.
 
-Chrono Trigger conta com um sistema de escolhas na hora da batalha parecido
-com Final Fantasy, mas ele não utiliza outra tela para a batalha, todas ocorrem
-no mesmo local onde você encontrou o monstro. Isso acaba trazendo mais dinâmica
-ao Game, e claro mais emoção também, que propicia batalhas agradáveis, diferente
-de alguns RPGS que tem batalhas tediosas, e não tem aquela coisa que podemos
-dizer até mesmo chata do Final Fantasy, que a cada dois passos vêm um monstro,
-no Chrono Trigger é possível desviar de vários monstros depois que você pega a
-prática, e novamente acaba mostrando podemos dizer uma superioridade de sistema
-de batalha comparado a games da própria Square, como Final Fantasy e Rudra no Hihou.
+O combate tem menus de escolhas que lembram *Final Fantasy*, mas com uma diferença importante: as lutas acontecem no próprio cenário, sem aquela troca para uma tela de batalha separada. Isso deixa tudo mais dinâmico e dá outra emoção aos encontros.
+
+Também gosto do fato de que é possível evitar vários inimigos depois que se pega a prática. Não é aquela situação de encontrar um monstro a cada dois passos! Para mim, esse é um dos grandes acertos de *Chrono Trigger*.
 
 ---
 
-### Jogabilidade
+## Jogabilidade
 
-![image host](https://thumbs2.imgbox.com/ac/45/AmhV6Dzt_t.png)
+![Imagem da jogabilidade de Chrono Trigger](https://thumbs2.imgbox.com/ac/45/AmhV6Dzt_t.png)
 
-O jogo traz uma jogabilidade totalmente diferente em algumas questões, comparado
-aos FFS, a jogabilidade é extremamente agradável, não sendo algo difícil de acostumar,
-a questão da jogabilidade do jogo é explorada muito nos códigos do game, pois geralmente
-são coisas que necessita de uma jogabilidade dinâmica e macia, códigos que não poderiam
-ser feitos com uma jogabilidade dura.
+A jogabilidade é muito agradável, mesmo para quem não está acostumado a RPGs. A movimentação, as escolhas e as ações durante as batalhas funcionam de maneira fluida.
+
+Isso também faz diferença para quem gosta de descobrir os segredos do jogo. Há muitas possibilidades que dependem de prestar atenção ao cenário, explorar e experimentar. É o tipo de aventura que convida a continuar jogando.
 
 ---
 
-### Trilha sonora
+## Trilha sonora
 
-![image host](https://thumbs2.imgbox.com/a6/c7/WYNhtSdm_t.png)
+![Imagem relacionada à trilha sonora de Chrono Trigger](https://thumbs2.imgbox.com/a6/c7/WYNhtSdm_t.png)
 
-Só de conter o nome do mestre Nobuo Uematsu podemos saber que a trilha sonora do jogo não poderia
-sair ruim, e não saiu, Chrono Trigger conta como uma trilha sonora excelente, que torna ainda mais
-agradável jogar o game.
+E como falar de *Chrono Trigger* sem lembrar da música?
 
-Os criadores conseguiram fazer com que a trilha sonora se encaixasse perfeitamente em cada parte
-do jogo, indo de músicas de ação a músicas de drama, assim dando mais emoção ainda para o jogo.
-Pois nós sabemos que tem trilhas sonoras que chegamos a tirar o som na hora de jogar, pois às
-vezes torna insuportável de jogar, com Chrono Trigger não tem esse problema, pois dá até prazer
-de ouvir o interessante arranjo de músicas do game, realmente não tenho muito que falar simplesmente
-uma trilha sonora perfeita, assim como esperado visto que tenha sido que composto por Nobuo Uematsu.
-Pensando em tudo que foi dito podemos dizer que Chrono Trigger é um RPG que todos os
-amantes do gênero precisam jogar pelo menos uma vez.
+A trilha sonora é excelente. Ela consegue acompanhar cada momento da jornada, passando da ação ao drama sem perder a identidade. Há jogos em que a gente acaba até diminuindo o volume; aqui acontece o contrário. Dá vontade de continuar ouvindo as músicas mesmo depois de desligar o console.
+
+Um detalhe importante: **a maior parte da trilha original foi composta por Yasunori Mitsuda**, com contribuições de **Nobuo Uematsu** e **Noriko Matsueda**. É um trabalho de equipe que deu ao jogo uma sonoridade inesquecível.
+
+Não tenho muito mais a dizer: é uma daquelas trilhas que ficam na cabeça e ajudam a fazer a aventura ser tão especial.
+
+Pensando em tudo isso, continuo acreditando que *Chrono Trigger* é um RPG que todo amante do gênero deveria jogar pelo menos uma vez.
+
+*Fonte para os créditos musicais:* [Square Enix — Chrono Trigger Original Soundtrack Revival Disc](https://www.jp.square-enix.com/music/sem/page/chrono/trigger_revival/index_en.html).

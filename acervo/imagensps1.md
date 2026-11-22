@@ -5,26 +5,33 @@ category: "Galeria"
 summary: "Coleção original de artes da edição PlayStation e um pacote histórico de imagens."
 image: "https://thumbs2.imgbox.com/f8/0e/v5GetJSu_t.jpg"
 legacy: true
+editorial_reviewed_on: "2026-11-22"
 migrated_on: "2026-11-22"
 source_url: "https://github.com/joesouzah/Chronopolis/blob/main/imagensps1.html"
 permalink: /acervo/imagensps1/
 ---
 
-> **Registro histórico:** transcrição da página original de Chronopolis (2022–2023); imagens, vídeos e links externos ainda dependem de terceiros.
+> **Revisão editorial:** apresentação e detalhes do arquivo organizados para facilitar a consulta. Os links históricos foram preservados, sem validação de disponibilidade.
 
-## Baixe agora mesmo as artes originais de Chrono trigger
+## Artes da versão de PlayStation
 
-Segue o link abaixo das imagens.
+As ilustrações são uma parte importante da identidade de *Chrono Trigger*. Nesta página, o Chronopolis reuniu imagens associadas à versão de PlayStation, para quem gosta de observar os personagens e guardar registros visuais da série.
 
-![image host](https://thumbs2.imgbox.com/f8/0e/v5GetJSu_t.jpg)
+Confira uma amostra do material:
 
-![image host](https://thumbs2.imgbox.com/93/75/Hhkl5Czf_t.jpg)
+![Arte de Chrono Trigger relacionada à versão PlayStation — 1](https://thumbs2.imgbox.com/f8/0e/v5GetJSu_t.jpg)
 
-![image host](https://thumbs2.imgbox.com/26/88/skcZT0wB_t.jpg)
+![Arte de Chrono Trigger relacionada à versão PlayStation — 2](https://thumbs2.imgbox.com/93/75/Hhkl5Czf_t.jpg)
 
-![image host](https://thumbs2.imgbox.com/c4/12/zVCwfvCV_t.jpg)
+![Arte de Chrono Trigger relacionada à versão PlayStation — 3](https://thumbs2.imgbox.com/26/88/skcZT0wB_t.jpg)
 
-Pacote de imagens alta resolução.
-Tamanho: 02.92 MB
-Formato: ZIP
-Download: [Link](https://mega.nz/file/hlcywIoZ#U_xwFg0zKi8WYGpAqXtL3cIC-zgzBN_a3ltM5vR89xo)
+![Arte de Chrono Trigger relacionada à versão PlayStation — 4](https://thumbs2.imgbox.com/c4/12/zVCwfvCV_t.jpg)
+
+### Pacote registrado no site original
+
+- **Conteúdo:** imagens em alta resolução
+- **Tamanho informado:** 2,92 MB
+- **Formato:** ZIP
+- **Endereço histórico:** [consultar link original](https://mega.nz/file/hlcywIoZ#U_xwFg0zKi8WYGpAqXtL3cIC-zgzBN_a3ltM5vR89xo)
+
+Este endereço foi preservado como parte do registro do site. A disponibilidade e os direitos de redistribuição das imagens não foram verificados.

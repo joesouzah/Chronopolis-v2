@@ -5,60 +5,53 @@ category: "Personagens"
 summary: "A trajetória de Glenn, a espada Masamune e sua promessa de proteger a rainha Leene."
 image: "https://thumbs2.imgbox.com/3c/98/qf6ra5hr_t.jpg"
 legacy: true
+editorial_reviewed_on: "2026-11-22"
 migrated_on: "2026-11-22"
 source_url: "https://github.com/joesouzah/Chronopolis/blob/main/frog.html"
 permalink: /acervo/frog/
 ---
 
-> **Registro histórico:** transcrição da página original de Chronopolis (2022–2023); imagens, vídeos e links externos ainda dependem de terceiros.
+> **Revisão editorial:** biografia e imagens preservadas, com ajustes de linguagem e uma apresentação mais clara do destino de Frog.
 
-### Frog - O cavaleiro amaldiçoado
+## Frog — o cavaleiro amaldiçoado
 
-![Frog](https://thumbs2.imgbox.com/3c/98/qf6ra5hr_t.jpg)
+![Imagem de Frog no material de Chrono Trigger](https://thumbs2.imgbox.com/3c/98/qf6ra5hr_t.jpg)
 
-Nome: Frog
-Era: 600 A.D.
-Arma: Espada grande
-Elemento: Água
+**Nome:** Frog (Glenn)  
+**Era:** 600 d.C.  
+**Arma:** espada  
+**Elemento:** água
 
-Frog é um cavaleiro da Idade Média. Seu nome real é Glenn .
-Glenn teve uma amizade notavelmente próxima com a Rainha Leene.
+Frog é um cavaleiro da Idade Média. Seu verdadeiro nome é Glenn, e sua história está profundamente ligada ao reino de Guardia, à Rainha Leene e ao lendário herói Cyrus.
 
-Mais tarde, ele testemunhou a morte de Cyrus nas mãos de Magus e,
-pouco depois, foi transformado em um sapo antropomórfico pelo mago negro.
-Normalmente cavalheiresco, mas atolado no arrependimento do passado,
-Frog dedica sua vida a proteger a Rainha Leene e promete vingar
-Cyrus matando Magus. Ele se culpa pela morte de seu amigo, e ao
-mesmo tempo falha em reconhecer que ele é o verdadeiro portador
-da Masamune, uma antiga espada com capacidades ofensivas contra
-usuários mágicos, que é a maior fraqueza de Magus. Mais tarde
-ele pode colocar o fantasma de Cyrus para descansar, recuperando
-sua coragem e limpando sua consciência, e ele tem a oportunidade
-de derrotar ou se aliar a Magus. Sapo empunha uma espada larga e
-pode aprender a magia "Água" quando se encontrar com Spekkio;
-como Marle, ele também apresenta alguns técnicas de cura.
+Depois de testemunhar a morte de Cyrus pelas mãos de Magus, Glenn é transformado em um sapo antropomórfico pelo mago. A maldição muda sua aparência, mas não apaga seu senso de dever.
 
-![image host](https://thumbs2.imgbox.com/59/54/96ut0CYb_t.gif)
+Sempre cavalheiresco, Frog carrega a culpa pela morte do amigo e dedica a vida a proteger a rainha. Ele também promete vingar Cyrus, derrotando Magus.
 
-Frog status.
+Ao longo da aventura, Frog precisa recuperar a própria coragem e aceitar que é digno de empunhar a Masamune, uma espada essencial em sua luta. Um dos momentos mais marcantes de sua história é quando consegue fazer as pazes com o passado e prestar uma última homenagem a Cyrus.
+
+Em batalha, ele usa a espada, aprende técnicas do elemento água com Spekkio e também pode ajudar o grupo com habilidades de cura.
+
+![Imagem do status de Frog](https://thumbs2.imgbox.com/59/54/96ut0CYb_t.gif)
+
+*Registro do status de Frog.*
 
 ### Um bom final?
 
-Em um dos muitos finais de Chrono Trigger que tem ligação
-direta com a história de Sapo. Recai sobre o jogador a decisão
-de lutar ou não contra Magus uma segunda vez, com a
-possibilidade de o nosso amigo sapo voltar para a sua
-forma humana, recebendo inclusive elogios de
-Marle e Lucca por sua beleza.
+Em um dos caminhos de *Chrono Trigger*, o jogador decide se vai enfrentar Magus novamente ou permitir que ele se junte ao grupo.
 
-![image host](https://thumbs2.imgbox.com/bc/63/EP4SXVnW_t.jpg)
+Essa escolha tem consequências para Frog. Dependendo do desenrolar dos acontecimentos, ele pode se libertar da maldição e recuperar a forma humana. E ainda recebe elogios de Marle e Lucca pela aparência!
 
-![image host](https://thumbs2.imgbox.com/98/10/PZ6noB1G_t.jpg)
+É um final especialmente interessante para quem acompanhou toda a história do cavaleiro.
 
-![image host](https://thumbs2.imgbox.com/fc/35/EBTxhwhQ_t.jpg)
+![Cena de Frog — 1](https://thumbs2.imgbox.com/bc/63/EP4SXVnW_t.jpg)
 
-## Imagens Frog
+![Cena de Frog — 2](https://thumbs2.imgbox.com/98/10/PZ6noB1G_t.jpg)
 
-![Frog ps1](https://thumbs2.imgbox.com/67/de/RpFJI9AP_t.jpg)
+![Cena de Frog — 3](https://thumbs2.imgbox.com/fc/35/EBTxhwhQ_t.jpg)
 
-![frog snes](https://thumbs2.imgbox.com/f2/13/lrGYrxQz_t.jpg)
+### Imagens de Frog
+
+![Ilustração de Frog do acervo original — 1](https://thumbs2.imgbox.com/67/de/RpFJI9AP_t.jpg)
+
+![Ilustração de Frog do acervo original — 2](https://thumbs2.imgbox.com/f2/13/lrGYrxQz_t.jpg)
