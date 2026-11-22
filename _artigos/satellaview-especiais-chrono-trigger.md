@@ -2,14 +2,12 @@
 title: "Satellaview: os especiais de Chrono Trigger transmitidos por satélite"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Os três programas de Chrono Trigger para o Satellaview e a pesquisa que o RPG aQui! publicou sobre eles em 2004."
+summary: "Os três programas especiais de Chrono Trigger distribuídos pelo Satellaview japonês."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/satella-view.htm"
 source_consulted_on: 2026-11-22
 ---
-
-> **Memória da web brasileira:** esta matéria é uma pesquisa própria do Chronopolis, elaborada a partir da página *SatellaView* do **RPG aQui! (2004)**, recuperada no espelho offline do site. Informações técnicas e datas foram comparadas com fontes posteriores. As ilustrações e arquivos originais não foram republicados.
 
 ## Quando o Super Nintendo recebia jogos pelo céu
 
@@ -19,11 +17,11 @@ O sistema funcionava em parceria com a emissora japonesa **St.GIGA**. Para utili
 
 Não era igual a entrar numa loja digital e baixar qualquer jogo a qualquer hora. A programação seguia **horários de transmissão**, o que tornava a experiência muito mais parecida com acompanhar uma emissora de rádio ou televisão.
 
-O antigo **RPG aQui!** explicou essa tecnologia aos leitores brasileiros em 2004, quando o serviço já tinha acabado. O que mais chama a atenção naquela página é a relação direta com *Chrono Trigger*.
+A história do Satellaview também inclui experiências especiais ligadas a *Chrono Trigger*, seus personagens e sua música.
 
 ## Três experiências especiais de Chrono Trigger
 
-Além do RPG lançado em cartucho, o Satellaview recebeu três programas associados ao universo do jogo. O RPG aQui! os apresentava como pequenas experiências independentes, voltadas a quem queria continuar explorando seus personagens, músicas e desafios.
+Além do RPG em cartucho, o Satellaview recebeu três programas relacionados ao universo de *Chrono Trigger*, cada um dedicado a uma parte da experiência.
 
 | Programa | O que oferecia |
 | --- | --- |
@@ -41,7 +39,7 @@ Ela lembra algo que hoje encontramos em menus de extras, enciclopédias de jogos
 
 Quem passou por **2300 d.C.** provavelmente lembra de Johnny e da corrida na **Lab 32**.
 
-A versão especial concentrou a experiência naquele minigame, com **dois modos de disputa**. A página do RPG aQui! descrevia também a possibilidade de registrar resultados, rever uma corrida e assistir a pequenas animações associadas ao desafio.
+A edição especial reunia a corrida de Johnny em **dois modos de disputa**, com registro de resultados, reprodução de corridas e pequenas animações.
 
 É interessante perceber que uma sequência relativamente curta do RPG ganhou uma distribuição independente. Para quem gostava de bater recordes, devia ser um ótimo motivo para voltar à pista.
 
@@ -49,7 +47,7 @@ A versão especial concentrou a experiência naquele minigame, com **dois modos 
 
 A terceira experiência permitia explorar as músicas de *Chrono Trigger*, em uma interface própria.
 
-O RPG aQui! utilizou a denominação **Music Gallery**; catálogos históricos posteriores registram o título como **Music Library**. Mantemos a diferença de nomes aqui para facilitar a identificação das duas referências.
+O programa também aparece como **Music Gallery** em alguns registros, enquanto outros o identificam como **Music Library**. Aqui usamos o segundo nome para facilitar a pesquisa.
 
 Alguns elementos desses programas apareceriam mais tarde em menus de extras de relançamentos do jogo, mostrando como o conteúdo de uma plataforma pouco conhecida deixou rastros em edições posteriores.
 
@@ -59,33 +57,24 @@ A história não termina nos três especiais. **Radical Dreamers: Le Trésor Int
 
 Diferentemente das bibliotecas de informações e da corrida de Johnny, ele era uma **aventura narrativa independente**, centrada em Serge, Kid e Magil.
 
-O RPG aQui! tratou esse título separadamente, na seção **Chrono Series**. Faz sentido: *Radical Dreamers* tem uma importância maior para a continuidade da franquia e para as ideias que apareceriam em *Chrono Cross*.
+Por ter história e personagens próprios, *Radical Dreamers* merece uma análise separada, ligada também à origem de *Chrono Cross*.
 
 Leia também: [Radical Dreamers — a aventura que ligou Chrono Trigger a Chrono Cross]({{ '/artigos/radical-dreamers-origem-e-retorno/' | relative_url }}).
 
-## O que o registro de 2004 precisa de contexto
+## Datas e detalhes técnicos
 
-O texto histórico do RPG aQui! continua valioso, mas algumas explicações não são tecnicamente precisas quando confrontadas com estudos posteriores.
+Alguns detalhes técnicos do sistema merecem distinção:
 
 - **St.GIGA não era o nome de um satélite:** era a emissora responsável pelas transmissões utilizadas pelo serviço.
 - **As três experiências especiais não antecederam o lançamento japonês do RPG:** *Chrono Trigger* saiu no Japão em março de 1995; os registros dos especiais são posteriores, no mesmo ano.
-- **O armazenamento não deve ser confundido com uma fita cassete convencional:** o BS-X utilizava cartuchos e módulos de memória regravável. Não reproduzimos aqui números de RAM e memória atribuídos à página antiga sem confirmação técnica.
+- **Armazenamento:** o BS-X utilizava cartuchos e módulos de memória regravável, não fitas cassete convencionais.
 
-Corrigir esses pontos não diminui o valor da pesquisa feita em 2004. Pelo contrário: permite preservar **como o sistema era descrito na internet brasileira** sem repetir enganos como fatos definitivos.
+Essas distinções ajudam a compreender o serviço, seu funcionamento e a cronologia dos lançamentos sem confundir equipamentos e emissoras.
 
 ## Por que guardar essa história?
 
 Muitas experiências do Satellaview dependiam de sinais transmitidos em horários específicos. Quando a distribuição deixou de funcionar, nem tudo que existia naquele ambiente pôde ser preservado da mesma maneira.
 
-Por isso, páginas de fãs, revistas antigas e arquivos técnicos se tornaram fontes importantes para reconstruir essa história. O registro do RPG aQui! é uma dessas peças.
+Documentos antigos, revistas e estudos técnicos continuam ajudando a reconstruir a história desse sistema.
 
 No Chronopolis, o objetivo é ligar essa memória ao material que já temos sobre a [versão beta]({{ '/acervo/beta/' | relative_url }}) e as [edições posteriores do jogo]({{ '/artigos/chrono-trigger-playstation-final-fantasy-chronicles/' | relative_url }}).
-
-### Fontes e créditos
-
-- **RPG aQui! (2004)** — [SatellaView](http://rpga8.free.fr/especial/ct/satella-view.htm), texto recuperado no arquivo privado *Chrono SAFE.rar* e consultado em 22/11/2026. O rodapé da seção indica **Spider**, com colaboração de **Majin Alucard, Omnicrone_RED e Masamune**.
-- **Nintendo World Report** — [história técnica do Satellaview](https://www.nintendoworldreport.com/feature/27669/nintendos-expansion-ports-satellaview), para o funcionamento das transmissões, BS-X e memória.
-- **Chronicles / USC Scalar (2015)** — [registro dos três programas de Chrono Trigger para Satellaview](https://scalar.usc.edu/works/chronicles/media/chrono-trigger-jet-bike-special), para seus títulos e posição na cronologia.
-- **Square Enix (2022)** — [anúncio de *Chrono Cross: The Radical Dreamers Edition*](https://press.fr.square-enix.com/CHRONO-CROSS-THE-RADICAL-DREAMERS-EDITION-ANNOUNCED-FOR-PLAYSTATION4-N), para o histórico oficial de *Radical Dreamers*.
-
-*Este artigo tem redação própria. O espelho, as ROMs, os ZIPs e as imagens de terceiros não foram transferidos ao repositório público. Conheça nosso [registro de fontes históricas]({{ '/fontes-historicas/' | relative_url }}).*

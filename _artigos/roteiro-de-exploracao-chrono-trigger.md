@@ -2,14 +2,12 @@
 title: "Roteiro de exploração: como se orientar em Chrono Trigger"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Um guia próprio para organizar a exploração do jogo e entender como o roteiro histórico do RPG aQui! foi dividido."
+summary: "Orientações para navegar entre épocas, escolher equipamentos e avançar sem spoilers desnecessários."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/estrategia.htm"
 source_consulted_on: 2026-11-22
 ---
-
-> **Nota sobre direitos e spoilers:** o roteiro detalhado de **Spider**, do **RPG aQui! (2004)**, declara expressamente que sua publicação em outros sites não é autorizada. Por isso, esta página é um **guia novo e independente de organização**, não uma transcrição nem uma reescrita capítulo a capítulo da estratégia original. Há referências gerais à progressão de *Chrono Trigger*; as grandes revelações ficam sinalizadas mais abaixo.
 
 ## Por onde começar?
 
@@ -25,13 +23,13 @@ O Chronopolis quer facilitar essa consulta sem substituir a sensação de descob
 2. **O problema é de navegação ou de combate?** Se é difícil localizar uma passagem, compara a região com um mapa. Se é uma batalha, revisa equipamentos e efeitos especiais antes de presumir que falta nível.
 3. **Estou seguindo a história principal ou uma tarefa opcional?** Mais adiante, algumas atividades ampliam a história dos personagens, mas não fazem parte de um único corredor obrigatório.
 
-## Como era organizado o guia do RPG aQui!
+## Organizando a aventura por etapas
 
-A página histórica de **Estratégia**, creditada a Spider, reunia um roteiro completo de *Chrono Trigger*. O índice foi organizado por **mensagens de salvamento (*Save Messages*)**, uma forma de permitir que o leitor se localizasse na progressão do jogo.
+Uma forma prática de acompanhar a progressão é observar as **mensagens de salvamento** (*Save Messages*) que aparecem ao longo da aventura.
 
-A conferência do espelho revelou:
+Para se localizar sem precisar ler todos os acontecimentos, podemos organizar a jornada em cinco grandes blocos:
 
-| Parte do arquivo histórico | Organização geral |
+| Parte da aventura | Organização geral |
 | --- | --- |
 | **Parte 1** | O começo da jornada e as primeiras viagens entre épocas. |
 | **Parte 2** | A Idade Média, a busca por um herói e as primeiras visitas à Pré-história. |
@@ -41,17 +39,17 @@ A conferência do espelho revelou:
 
 O índice original registra **26 etapas numeradas**, sendo uma delas dedicada a **sete tarefas opcionais identificadas por letras**. Seus textos estão distribuídos em **cinco documentos HTML**, todos presentes na cópia offline.
 
-A estrutura é uma fonte histórica útil: mostra o modo como fãs brasileiros ofereciam ajuda aos jogadores em 2004, antes de existirem vídeos de walkthrough em abundância.
+A organização por etapas ajuda a retomar a aventura depois de uma pausa, sem precisar consultar a solução completa de cada região.
 
 ## Um percurso de consulta sem spoilers desnecessários
 
 Quando estiver perdido, uma ordem de consulta mais leve costuma ajudar:
 
 - **Primeiro o mapa:** localiza a época e a região. Não é preciso ler toda a solução de uma masmorra para descobrir onde estás.
-- **Depois o equipamento:** compara proteção elemental, acessórios e as possibilidades de cada integrante do grupo. O [catálogo de equipamentos de 2004]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}) oferece um ponto de partida.
+- **Depois o equipamento:** compara proteções elementais, acessórios e as possibilidades de cada integrante do grupo. O [guia de equipamentos]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}) oferece um ponto de partida.
 - **Por último, a solução específica:** se ainda estiveres travado, procura uma orientação para aquela situação, preferencialmente sem ler os acontecimentos seguintes.
 
-Essa sequência é uma **recomendação editorial do Chronopolis**, não uma instrução extraída do texto de Spider.
+A ideia é buscar apenas a informação necessária para voltar a jogar.
 
 ## Missões opcionais e conclusão
 
@@ -59,22 +57,14 @@ Essa sequência é uma **recomendação editorial do Chronopolis**, não uma ins
 
 Após uma parte avançada da aventura, o jogo abre espaço para atividades ligadas à história de vários personagens e a acontecimentos que atravessam épocas.
 
-O RPG aQui! dedicou uma parte separada a essas tarefas, com **sete entradas no índice**, antes de sua última seção sobre Lavos. Isso ajuda a mostrar que nem toda descoberta precisa ocorrer na mesma ordem e que existe conteúdo interessante fora da linha direta até o confronto final.
+As tarefas opcionais podem ser organizadas em **sete trilhas temáticas** antes de seguir para Lavos, e podem ser exploradas sem uma ordem única.
 
 Para acompanhar o enredo completo — com grandes spoilers —, o Chronopolis já mantém [A história de Chrono Trigger]({{ '/acervo/historiapag/' | relative_url }}).
 
-## Sobre a estratégia original e sua preservação
+## Orientação complementar
 
-A página `estrategia.htm` do RPG aQui! afirma que o roteiro foi produzido por **Spider** para o portal e reservado ao uso privado, **sem autorização para republicação em outros sites**.
-
-Essa indicação é importante. Mesmo que o HTML e suas muitas imagens estejam preservados no `Chrono SAFE.rar`, o Chronopolis **não vai hospedar o guia completo, copiar os trechos de cada parte ou reproduzir suas imagens**.
-
-Podemos documentar seu contexto, identificar o modo de organização e escrever orientações independentes, mas sempre distinguindo o que pertence ao autor original.
-
-**Referência histórica:** [Estratégia — RPG aQui!](http://rpga8.free.fr/especial/ct/estrategia.htm). Página consultada no espelho privado em **22/11/2026**. A seção de 2004 credita **Spider** e os colaboradores **Majin Alucard, Omnicrone_RED e Masamune**.
-
-Veja também nosso [registro de fontes históricas]({{ '/fontes-historicas/' | relative_url }}).
+Este guia traz orientações gerais para explorar o jogo; o passo a passo completo de terceiros não é reproduzido aqui.
 
 ### Bestiário e confrontos
 
-Se a tua dúvida não for de caminho, mas de combate, começa pelo [bestiário histórico de 126 fichas]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}) e pela pesquisa sobre [40 encontros de chefes]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}). As estatísticas citadas pertencem ao catálogo de 2004; as soluções extensas do RPG aQui! não foram reproduzidas.
+Os números e recompensas apresentados nos artigos complementares ainda exigem conferência conforme a edição jogada.

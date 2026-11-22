@@ -9,8 +9,6 @@ source_url: "http://rpga8.free.fr/especial/ct/chrono-series.htm"
 source_consulted_on: 2026-11-22
 ---
 
-> **Pesquisa histórica:** esta matéria usa como ponto de partida a seção **Chrono Series** do **RPG aQui! (2004)** e acrescenta informações oficiais posteriores. O documento de 2004 é tratado como um retrato de sua época, não como a situação atual do jogo.
-
 ## Um capítulo diferente da série Chrono
 
 Quando lembramos da série *Chrono*, normalmente pensamos no RPG de Super Nintendo e no sucessor para PlayStation. Mas existe um capítulo intermediário que durante muito tempo foi bem mais difícil de conhecer: **Radical Dreamers: Le Trésor Interdit**.
@@ -21,11 +19,11 @@ Lançado em **1996**, ele não seguiu a mesma fórmula de exploração e combate
 
 ## Serge, Kid, Magil e a mansão
 
-O **RPG aQui!** apresentava *Radical Dreamers* como a história de três personagens — **Serge, Kid e Magil** — que entram na mansão de **Yamaneko**, conhecido como **Lynx**, à procura da **Frozen Flame**.
+A história acompanha **Serge, Kid e Magil**, que entram na mansão de **Yamaneko**, conhecido como **Lynx**, em busca da **Frozen Flame**.
 
 Quem conhece *Chrono Cross* reconhece esses nomes e alguns dos temas da história. Mas não se trata da mesma experiência com gráficos diferentes: as duas obras desenvolveram essas ideias em formatos próprios.
 
-O registro de 2004 chamava atenção principalmente para o **enredo**, a **trilha sonora** e as escolhas que conduzem a diferentes desfechos.
+O **enredo**, a **trilha sonora** e as escolhas do jogador são elementos centrais da aventura.
 
 ### Um jogo para ler, ouvir e escolher
 
@@ -35,19 +33,19 @@ Esse formato aproxima *Radical Dreamers* dos chamados *sound novels* — aventur
 
 A história é associada a **Masato Kato**, e a trilha sonora, a **Yasunori Mitsuda**. A presença desses nomes ajuda a entender por que, apesar do formato diferente, ele é tão importante para a identidade da série.
 
-## O que os fãs brasileiros sabiam em 2004
+## A ligação entre Radical Dreamers e Chrono Cross
 
-Na página **Chrono Series**, o RPG aQui! tratava *Radical Dreamers* como um elo direto entre *Chrono Trigger* e *Chrono Cross*.
+*Radical Dreamers* antecipou personagens e ideias narrativas que seriam desenvolvidos de outra maneira em *Chrono Cross*.
 
 O texto também caracterizava *Chrono Cross* como uma espécie de versão refeita de *Radical Dreamers*. A frase é útil para entender como a relação entre os jogos era explicada naquele momento, mas simplifica bastante essa história.
 
 É mais preciso dizer que **personagens, situações e ideias narrativas de *Radical Dreamers* serviram como base para parte da criação de *Chrono Cross***. Não é necessário considerar os dois jogos versões idênticas de uma só obra.
 
-Em 2004, o acesso ao título original ainda era um problema: ele havia sido distribuído pelo Satellaview japonês, serviço que não funcionava mais.
+Durante muitos anos, foi difícil ter acesso à obra original, distribuída apenas por Satellaview, um serviço japonês que já não opera.
 
 ## O retorno oficial em 2022
 
-Uma coisa mudou muito desde que o RPG aQui! publicou sua página.
+Décadas depois, a aventura ganhou um lançamento oficial para novas plataformas.
 
 Em **7 de abril de 2022**, a Square Enix lançou **Chrono Cross: The Radical Dreamers Edition**, um relançamento que inclui tanto *Chrono Cross* quanto *Radical Dreamers*.
 
@@ -62,11 +60,3 @@ Se tu gostou do conceito de viagens no tempo de *Chrono Trigger* e tem curiosida
 Ele também é um ótimo lembrete de que a história de uma série não se limita aos lançamentos mais famosos.
 
 Leia mais sobre o hardware que recebeu o jogo na nossa matéria [Satellaview: os especiais de Chrono Trigger transmitidos por satélite]({{ '/artigos/satellaview-especiais-chrono-trigger/' | relative_url }}).
-
-### Fontes e créditos
-
-- **RPG aQui! (2004)** — [Chrono Series](http://rpga8.free.fr/especial/ct/chrono-series.htm), consultada no espelho offline *Chrono SAFE.rar* em 22/11/2026. O rodapé credita a seção a **Spider**, com colaboração de **Majin Alucard, Omnicrone_RED e Masamune**.
-- **Square Enix (2022)** — [comunicado oficial da edição que inclui Radical Dreamers](https://press.fr.square-enix.com/CHRONO-CROSS-THE-RADICAL-DREAMERS-EDITION-ANNOUNCED-FOR-PLAYSTATION4-N).
-- **Nintendo** — [informações da edição de 2022 para Nintendo Switch](https://www.nintendo.com/pt-br/store/products/chrono-cross-the-radical-dreamers-edition-switch/).
-
-*Texto escrito pelo Chronopolis com atribuição às fontes. Não foram republicadas traduções integrais, ROMs, imagens ou arquivos originais de terceiros.*

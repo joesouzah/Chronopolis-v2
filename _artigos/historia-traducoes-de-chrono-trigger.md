@@ -2,14 +2,12 @@
 title: "As traduções de fãs de Chrono Trigger na internet antiga"
 date: 2026-11-22
 category: "Arquivo"
-summary: "O que uma página de 2004 do RPG aQui! registra sobre os grupos de tradução, patches e a comunidade de fãs."
+summary: "Os projetos de tradução de fãs de Chrono Trigger e as ferramentas usadas para aplicar patches."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/traducoes.htm"
 source_consulted_on: 2026-11-22
 ---
-
-> **Memória da web brasileira:** esta matéria reúne informações históricas extraídas da página **Traduções** do **RPG aQui!**, publicada em 2004 e preservada em uma cópia offline. Ela descreve projetos daquela época, não sua disponibilidade atual.
 
 ## Quando os fãs queriam jogar no próprio idioma
 
@@ -17,26 +15,26 @@ Hoje é fácil esquecer como era procurar informações sobre RPGs japoneses na 
 
 Com *Chrono Trigger* não foi diferente. Fãs passaram a produzir traduções, modificações de texto e ferramentas para aplicar essas alterações ao jogo.
 
-O **RPG aQui!** registrou parte desse movimento em uma página publicada em **2004**. O documento é pequeno, mas guarda nomes de grupos, idiomas e arquivos que ajudam a contar a história da comunidade.
+Entre os projetos de tradução surgiram iniciativas em português, espanhol e inglês, cada uma com seu próprio objetivo e estágio de desenvolvimento.
 
 ## Os grupos que aparecem no registro
 
-| Direção da tradução | Nome indicado no RPG aQui! | O que o documento permite afirmar |
+| Direção da tradução | Projeto | Informação documentada |
 | --- | --- | --- |
 | Inglês → português | **IPS Center** | O site mantinha uma referência a um pacote identificado com esse grupo. |
 | Inglês → português | **CBT** | Outra referência de tradução para português era disponibilizada no catálogo. |
 | Inglês → espanhol | **Tanero Translations** | A página apresentava um projeto direcionado ao espanhol. |
 | Japonês → inglês | **Sky Render Translations** | O registro descrevia uma tentativa de retradução e oferecia um arquivo de uma fase inicial. |
 
-Isso **não confirma** o estágio final de cada tradução, sua autoria completa, se os arquivos ainda funcionam ou se os projetos continuaram depois de 2004. A tabela reproduz somente os nomes e a classificação histórica, não os pacotes de terceiros.
+Esses registros **não confirmam** a situação atual de cada tradução, sua autoria completa ou se os arquivos continuam disponíveis. A lista reúne os nomes e as propostas identificadas.
 
 ### Por que existiam as retraduções?
 
-A página do RPG aQui! não falava apenas de tornar o jogo acessível em outros idiomas. Também mencionava a ideia de **retradução**, isto é, partir novamente do texto japonês para produzir outra versão em inglês.
+Além de tornar o jogo acessível em outros idiomas, alguns grupos buscaram fazer uma **retradução**, partindo novamente do texto japonês para criar outra versão em inglês.
 
 Na avaliação registrada pelo próprio site, certas escolhas da localização norte-americana eram vistas como alterações ou cortes do original. A proposta do projeto **Sky Render Translations** era revisitar parte desse conteúdo.
 
-Segundo o documento de 2004, o projeto **não chegou à conclusão pretendida**; o arquivo então indicado representava apenas uma etapa inicial, com alterações em menus e outros elementos. Esse é o estado descrito **naquela época**, não uma verificação atual.
+Na fase descrita, **Sky Render Translations** ainda não havia concluído o projeto; o material existente tinha mudanças em menus e outros elementos. O estado posterior precisa de verificação.
 
 ## O que eram os patches IPS?
 
@@ -50,13 +48,4 @@ A página histórica ligava para arquivos ZIP relacionados aos grupos citados e 
 
 Porque ela mostra um pedaço do trabalho que a comunidade brasileira fazia para manter os RPGs vivos e compreensíveis. Nomes de grupos, pequenas iniciativas e ferramentas podem desaparecer com a mesma facilidade que os sites onde foram divulgados.
 
-O Chronopolis quer guardar esse contexto com clareza: reconhecer quem documentou, distinguir o que está comprovado no arquivo de 2004 do que ainda precisa ser pesquisado e continuar a investigação sem transformar uma lista antiga em informação atual.
-
-Veja também o [registro de fontes históricas do Chronopolis]({{ '/fontes-historicas/' | relative_url }}), que explica o estado da preservação e o modo como esta pesquisa foi incorporada.
-
-### Fontes e créditos
-
-- **RPG aQui! (2004)** — [Traduções, página histórica](http://rpga8.free.fr/especial/ct/traducoes.htm). Seção creditada a **Spider**, com colaboração indicada de **Majin Alucard, Omnicrone_RED e Masamune**. Consultada em espelho offline recuperado em **22/11/2026**.
-- **Chronopolis** — [Conhecendo Chrono Trigger]({{ '/acervo/conhecendo/' | relative_url }}), matéria de contexto sobre o jogo original.
-
-*O HTML da fonte foi examinado e seus créditos preservados. Nenhum texto integral, pacote ZIP, patch ou imagem do RPG aQui! foi republicado nesta matéria.*
+Esses projetos ajudam a contar a história das traduções de fãs, mas uma referência antiga não garante a disponibilidade ou compatibilidade dos arquivos atuais.
