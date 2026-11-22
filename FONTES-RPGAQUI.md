@@ -89,3 +89,16 @@ Tentativas de acessar diretamente `beta.htm` e `traducoes.htm` e consultar cópi
 **Prioridade de preservação:** recuperar as páginas `beta.htm`, `dream-team.htm`, `final-fantasy-chronicles.htm`, `satella-view.htm`, `traducoes.htm`, `artworks-e-imagens.htm`, `mapas.htm` e `downloads.htm`, documentando para cada uma título, autoria, licença, imagens e links. O objetivo é referenciar, estudar e produzir material próprio quando a reprodução não estiver autorizada.
 
 **Estado técnico:** `beta.htm` permanece pendente. Um HTML salvo pelo navegador não inclui automaticamente as demais páginas ligadas pelo menu.
+
+
+## Atualização: espelho HTTrack recuperado e testado em navegação — 22/11/2026
+
+Foi enviado o arquivo de preservação pessoal `Chrono SAFE.rar`, gerado pelo HTTrack. A análise técnica do arquivo, registrada no Notion do Chronopolis, constatou **1.770 arquivos**, incluindo **61 documentos HTML/HTM**, **1.676 imagens JPG/GIF** e **26 ZIPs** (um deles é o cache técnico do HTTrack). As **32 URLs iniciais** estão presentes, inclusive `beta.htm`, e há páginas adicionais.
+
+**Teste de uso realizado pelo usuário:** a navegação offline pelo espelho funcionou integralmente nas seções que ele percorreu, **com exceção de alguns papéis de parede**. Esta é uma confirmação prática da navegabilidade, não uma auditoria de cada arquivo.
+
+**Falhas conhecidas:** o relatório técnico do HTTrack indicou 29 links não transferidos, principalmente imagens de wallpapers hospedadas no domínio externo `www.animedcc.hpg.ig.com.br`. É possível que parte desses arquivos já não esteja disponível na origem.
+
+**Estado atualizado:** a prioridade não é mais obter `beta.htm` ou as páginas do menu — elas estão no espelho privado. Os passos seguintes são preservar o RAR original sem modificações, criar um inventário de integridade, verificar os papéis de parede faltantes e examinar a procedência e os direitos dos materiais antes de qualquer republicação pública. O espelho integral **não foi enviado ao repositório público**.
+
+As seções anteriores deste documento descrevem a fase de análise do primeiro HTML isolado, antes de receber o espelho completo.
