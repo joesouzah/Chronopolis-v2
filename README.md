@@ -10,11 +10,11 @@ Este repositório é novo e separado do [projeto original (2022)](https://github
 - Permitir novas publicações sem editar HTML manualmente.
 - Preparar publicação gratuita via GitHub Pages e edição via Pages CMS.
 
-**Estado (22/11/2026)**: reconstrução v0.4 em publicação, com revisão editorial completa das 20 matérias. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
+**Estado (22/11/2026)**: integração editorial de fontes históricas em andamento (v0.6). São 20 matérias do acervo original revisadas e 4 novas matérias próprias produzidas a partir do estudo do RPG aQui! (Dream Team, traduções de fãs, Final Fantasy Chronicles e Artworks), além de uma ampliação da matéria histórica sobre a versão beta. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
 
 ## Publicação no GitHub Pages
 
-**GitHub Pages está ativo**, com o último build v0.2 confirmado como bem-sucedido em 22/11/2026. A compilação usa Jekyll.
+**GitHub Pages está ativo** e usa Jekyll. O estado de cada publicação pode ser consultado no [GitHub Actions](https://github.com/joesouzah/Chronopolis-v2/actions).
 
 **Site:** https://joesouzah.github.io/Chronopolis-v2/
 

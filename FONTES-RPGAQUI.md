@@ -4,7 +4,7 @@
 **Site referenciado:** http://rpga8.free.fr/especial/ct/  
 **Documento recebido:** `traducoes.htm`, arquivo salvo como `Untitled Document.html`  
 **Página inicialmente procurada:** http://rpga8.free.fr/especial/ct/beta.htm  
-**Estado:** documento de Traduções examinado; a página Beta **ainda não foi recuperada**.
+**Estado atual (22/11/2026):** o espelho privado `Chrono SAFE.rar` recuperou a página **Beta**, **Traduções** e as demais páginas centrais, com algumas falhas em wallpapers externos. As informações abaixo sobre acesso pendente referem-se à **primeira etapa**, anterior ao recebimento do RAR.
 
 ## Proveniência e autoria
 
@@ -88,7 +88,7 @@ Tentativas de acessar diretamente `beta.htm` e `traducoes.htm` e consultar cópi
 
 **Prioridade de preservação:** recuperar as páginas `beta.htm`, `dream-team.htm`, `final-fantasy-chronicles.htm`, `satella-view.htm`, `traducoes.htm`, `artworks-e-imagens.htm`, `mapas.htm` e `downloads.htm`, documentando para cada uma título, autoria, licença, imagens e links. O objetivo é referenciar, estudar e produzir material próprio quando a reprodução não estiver autorizada.
 
-**Estado técnico:** `beta.htm` permanece pendente. Um HTML salvo pelo navegador não inclui automaticamente as demais páginas ligadas pelo menu.
+**Estado na etapa inicial:** `beta.htm` estava pendente quando apenas um HTML salvo pelo navegador havia sido recebido. **Esse estado foi superado pelo espelho HTTrack** enviado depois; veja as atualizações de recuperação e integração abaixo.
 
 
 ## Atualização: espelho HTTrack recuperado e testado em navegação — 22/11/2026
