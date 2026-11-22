@@ -5,60 +5,53 @@ category: "Personagens"
 summary: "A princesa Nadia, seu encontro com Crono e a aventura iniciada na Feira do Milênio."
 image: "https://thumbs2.imgbox.com/8f/b1/T4OWRuza_t.jpg"
 legacy: true
+editorial_reviewed_on: "2026-11-22"
 migrated_on: "2026-11-22"
 source_url: "https://github.com/joesouzah/Chronopolis/blob/main/marle.html"
 permalink: /acervo/marle/
 ---
 
-> **Registro histórico:** transcrição da página original de Chronopolis (2022–2023); imagens, vídeos e links externos ainda dependem de terceiros.
+> **Revisão editorial:** a ficha e a história de Marle foram reorganizadas, com cuidado para separar acontecimentos do jogo de interpretações sobre a continuação.
 
-### Marle - A princesa sumida
+## Marle — a princesa sumida
 
-![marle](https://thumbs2.imgbox.com/8f/b1/T4OWRuza_t.jpg)
+![Imagem de Marle no material de Chrono Trigger](https://thumbs2.imgbox.com/8f/b1/T4OWRuza_t.jpg)
 
-Nome: Marle
-Era: 1.000 A.D.
-Arma: Besta
-Elemento: Gelo
+**Nome:** Marle (Nadia)  
+**Era:** 1000 d.C.  
+**Arma:** besta  
+**Elemento:** gelo
 
-Marle (Nadia) é a princesa rebelde de Guardia. Seu nome
-verdadeiro é Nadia (Marudia na versão japonesa), e ela vive em
-pé-de-guerra com seu pai, o rei, no ano de 1000 A.D. Entediada
-da vida no castelo, ela foge para uma feira comemorativa em
-Truce. Lá, encontra Crono e experimenta o teletransportador
-de Lucca, que a envia ao ano de 600 A.D., onde ela é confundida
-com a desaparecida Rainha Leene (sua ancestral).Isso faz com
-que a busca pela verdadeira rainha termine, criando um paradoxo
-que destrói a existência de Marle até que Crono e Lucca
-revertam-no, ao encontrar e salvar a verdadeira rainha.Ela usa
-uma besta como arma, e após adquirir habilidades mágicas,
-aprende a utilizar técnicas de gelo e de cura.
+Marle é a princesa rebelde do Reino de Guardia. Seu verdadeiro nome é Nadia, mas ela prefere a liberdade de circular pela cidade a ficar presa às regras do castelo.
 
-![image host](https://thumbs2.imgbox.com/16/98/AajLoyDf_t.gif)
+Entediada com a vida de princesa e vivendo em conflito com seu pai, o rei, Marle foge para a Feira do Milênio, em Truce. É lá que conhece Crono, um encontro que acaba mudando o destino dos dois.
 
-Imagem Marle menu.
+Quando experimenta o teletransportador de Lucca, seu pingente reage à máquina e a envia ao ano 600 d.C. Nessa época, Marle é confundida com a desaparecida Rainha Leene, sua ancestral.
 
-### Destino
+A confusão provoca um paradoxo temporal e Marle desaparece. Para trazê-la de volta, Crono e Lucca precisam encontrar e salvar a verdadeira rainha.
 
-No PlayStation versão de Chrono Trigger inclui uma cena FMV no
-final que mostra Crono e Marle se casando. Enquanto um FMV
-segunda imagem mostra a queda do Reino Guardia, no AD 1005 anos,
-não se sabe o que aconteceu com Marle durante este evento,
-embora se Doan é seu descendente, provavelmente ela
-sobreviveu. Na seqüência, Chrono Cross , o destino
-Marle é insinuado na declaração Raio sobre o Reino de
-Guardia já não ser pacífica, ela faz uma aparição ao
-lado de Crono e Lucca como aparições no Mar Morto e
-Praia Opassa.
+Em batalha, Marle usa uma besta e aprende técnicas de gelo e cura, tornando-se uma ótima companheira para o grupo.
 
-![image host](https://thumbs2.imgbox.com/91/1b/enQTdrv2_t.jpg)
+![Imagem do menu de Marle](https://thumbs2.imgbox.com/16/98/AajLoyDf_t.gif)
 
-![image host](https://thumbs2.imgbox.com/17/59/Y4jbqzdm_t.jpg)
+*Imagem do menu de Marle.*
 
-![image host](https://thumbs2.imgbox.com/b7/a3/LInLamWu_t.jpg)
+### O destino de Marle
 
-## Imagens Marle
+Uma das animações incluídas na versão de PlayStation mostra o casamento de Crono e Marle. Outra sequência indica a queda do Reino de Guardia no ano 1005 d.C.
 
-![image host](https://thumbs2.imgbox.com/12/2d/fzFCc474_t.jpg)
+O que aconteceu com Marle depois disso não é mostrado de forma definitiva. *Chrono Cross* apresenta referências ao destino de Guardia e imagens que fazem lembrar o trio original, mas ainda deixa espaço para teorias e interpretações dos fãs.
 
-![image host](https://thumbs2.imgbox.com/4e/15/76052egw_t.jpg)
+É um daqueles mistérios que continuam dando assunto para quem gosta da série.
+
+![Cena animada de Marle e Crono — 1](https://thumbs2.imgbox.com/91/1b/enQTdrv2_t.jpg)
+
+![Cena animada de Marle e Crono — 2](https://thumbs2.imgbox.com/17/59/Y4jbqzdm_t.jpg)
+
+![Cena animada relacionada ao destino de Guardia](https://thumbs2.imgbox.com/b7/a3/LInLamWu_t.jpg)
+
+### Imagens de Marle
+
+![Imagem de Marle do acervo original — 1](https://thumbs2.imgbox.com/12/2d/fzFCc474_t.jpg)
+
+![Imagem de Marle do acervo original — 2](https://thumbs2.imgbox.com/4e/15/76052egw_t.jpg)

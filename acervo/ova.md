@@ -5,22 +5,31 @@ category: "Galeria"
 summary: "Especial animado exibido no V Jump Festival de 1996, com material de referência e link histórico."
 image: ""
 legacy: true
+editorial_reviewed_on: "2026-11-22"
 migrated_on: "2026-11-22"
 source_url: "https://github.com/joesouzah/Chronopolis/blob/main/ova.html"
 permalink: /acervo/ova/
 ---
 
-> **Registro histórico:** transcrição da página original de Chronopolis (2022–2023); imagens, vídeos e links externos ainda dependem de terceiros.
+> **Revisão editorial:** apresentação e referências do especial animado reorganizadas para facilitar a leitura.
 
-### Chrono Trigger OVA Legendado
+## Chrono Trigger OVA — especial de 1996
 
-[▶ Chrono Trigger - Anime 1996 (Legendado PT-BR)](https://www.youtube.com/watch?v=cdNH2ST25Ns)
+*Chrono Trigger* também recebeu um especial em anime de aproximadamente 16 minutos, apresentado no **V-Jump Festival de 1996** como material promocional do jogo.
 
-A OVA de Chrono Trigger foi um especial de 16 minutos
-lançado exclusivamente no V Jump Festival em 1996
-para promover o Chrono Trigger.
+Para quem gosta de conhecer tudo que existe ao redor de *Chrono Trigger*, essa animação é uma curiosidade que merece entrar no arquivo.
 
-Chrono Trigger OVA Legendado.
-Tamanho: 339.00 MB
-Formato: MP4
-Download: [Link](https://mega.nz/file/hlcywIoZ#U_xwFg0zKi8WYGpAqXtL3cIC-zgzBN_a3ltM5vR89xo)
+### Assistir ao vídeo de referência
+
+[▶ Chrono Trigger — anime de 1996, legendado em português](https://www.youtube.com/watch?v=cdNH2ST25Ns)
+
+O vídeo acima estava associado à página original do Chronopolis e permanece hospedado externamente.
+
+### Registro do arquivo original
+
+- **Título usado no site:** Chrono Trigger OVA Legendado
+- **Tamanho informado:** 339,00 MB
+- **Formato:** MP4
+- **Endereço histórico:** [consultar o link original](https://mega.nz/file/hlcywIoZ#U_xwFg0zKi8WYGpAqXtL3cIC-zgzBN_a3ltM5vR89xo)
+
+A disponibilidade e os direitos de distribuição do arquivo não foram verificados nesta revisão.

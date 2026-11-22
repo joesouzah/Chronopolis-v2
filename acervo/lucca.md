@@ -5,50 +5,49 @@ category: "Personagens"
 summary: "A amiga de infância de Crono, responsável por invenções que mudam o curso da história."
 image: "https://thumbs2.imgbox.com/fe/cc/s0AjfgIp_t.jpg"
 legacy: true
+editorial_reviewed_on: "2026-11-22"
 migrated_on: "2026-11-22"
 source_url: "https://github.com/joesouzah/Chronopolis/blob/main/lucca.html"
 permalink: /acervo/lucca/
 ---
 
-> **Registro histórico:** transcrição da página original de Chronopolis (2022–2023); imagens, vídeos e links externos ainda dependem de terceiros.
+> **Revisão editorial:** biografia reorganizada e linguagem corrigida, sem perder as referências ao jogo e à sua continuação.
 
-### Lucca - A inventora
+## Lucca — a inventora
 
-![lucca](https://thumbs2.imgbox.com/fe/cc/s0AjfgIp_t.jpg)
+![Imagem de Lucca no material de Chrono Trigger](https://thumbs2.imgbox.com/fe/cc/s0AjfgIp_t.jpg)
 
-Nome: Lucca
-Era: 1.000 A.D.
-Arma: Pistola/Marreta
-Elemento: Fogo
+**Nome:** Lucca  
+**Era:** 1000 d.C.  
+**Armas:** pistola e marreta  
+**Elemento:** fogo
 
-Lucca é uma brilhante inventora e amiga de
-infância de Crono. Ela é muito inteligente e
-costuma fazer comentários em momentos sérios.
-Usando sua sábia inteligência e criatividade,
-Lucca inventa muitos dispositivos, como um
-robô de treinamento de batalha chamado Gato
-e um teleportador de curto alcance
-chamado Teleporte.
+Lucca é uma inventora brilhante e amiga de infância de Crono. Muito inteligente, criativa e cheia de personalidade, ela costuma fazer comentários bem-humorados até nos momentos mais sérios.
 
-![image host](https://thumbs2.imgbox.com/ba/68/Jy1u6iKF_t.gif)
+Suas invenções são parte fundamental de *Chrono Trigger*. Entre elas estão Gato, um robô de treinamento para batalhas, e o teletransportador que acaba dando início à aventura pelo tempo.
 
-Imagem Lucca menu.
+É graças à curiosidade científica de Lucca que muitas das descobertas do grupo se tornam possíveis. Mas ela também mostra que não é apenas uma inventora: está sempre disposta a ajudar os amigos.
 
-### Futuro
+![Imagem do menu de Lucca](https://thumbs2.imgbox.com/ba/68/Jy1u6iKF_t.gif)
 
-Na cena FMV final, Lucca, eventualmente, cria um mini-robô
-modelado após Robo . Na mesma cena, Lucca encontra uma criança
-com um pingente que, em Chrono Cross acaba por ser Kid ,
-o clone de Schala , e assim ela a leva para casa.
+*Imagem do menu de Lucca.*
 
-![image host](https://thumbs2.imgbox.com/ad/c7/S6z3a2dh_t.jpg)
+### O futuro de Lucca
 
-![image host](https://thumbs2.imgbox.com/bf/79/j64FUDtJ_t.jpg)
+Uma das cenas animadas de encerramento mostra Lucca criando um pequeno robô inspirado em Robo.
 
-![image host](https://thumbs2.imgbox.com/1f/c7/IFhV2HaY_t.jpg)
+Outra sequência apresenta uma criança com um pingente, encontrada por Lucca e levada para casa. Esse detalhe ganha importância em *Chrono Cross*, quando conhecemos Kid e sua ligação com Schala.
 
-## Imagens Lucca
+São momentos que ajudam a conectar os dois jogos e deixam ainda mais interessante a história da inventora.
 
-![image host](https://thumbs2.imgbox.com/04/28/1im5ARHy_t.jpg)
+![Cena relacionada a Lucca — 1](https://thumbs2.imgbox.com/ad/c7/S6z3a2dh_t.jpg)
 
-![image host](https://thumbs2.imgbox.com/71/05/FfNT3FPN_t.jpg)
+![Cena relacionada a Lucca — 2](https://thumbs2.imgbox.com/bf/79/j64FUDtJ_t.jpg)
+
+![Cena relacionada a Lucca — 3](https://thumbs2.imgbox.com/1f/c7/IFhV2HaY_t.jpg)
+
+### Imagens de Lucca
+
+![Imagem de Lucca do acervo original — 1](https://thumbs2.imgbox.com/04/28/1im5ARHy_t.jpg)
+
+![Imagem de Lucca do acervo original — 2](https://thumbs2.imgbox.com/71/05/FfNT3FPN_t.jpg)
