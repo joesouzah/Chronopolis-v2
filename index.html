@@ -23,7 +23,7 @@
       <a href="#sobre" data-cat="Sobre">Sobre</a>
     </nav>
     <label class="header-search" aria-label="Pesquisar no acervo"><span aria-hidden="true">⌕</span><input id="site-search" type="search" placeholder="Pesquisar..." autocomplete="off"></label>
-    <button id="menu-button" class="menu-toggle" type="button" aria-label="Abrir menu" aria-controls="menu">☰</button>
+    <button id="menu-button" class="menu-toggle" type="button" aria-label="Abrir menu" aria-controls="menu" aria-expanded="false">☰</button>
   </div>
 </header>
 <main id="conteudo">
@@ -72,6 +72,8 @@
 </main>
 <footer class="site-footer"><div class="wrap footer-inner"><div><a class="brand" href="#inicio"><span class="brand-mark" aria-hidden="true">⌛</span><span class="brand-name">Chrono<span>polis</span></span></a><p>Projeto independente de fã. Chrono Trigger pertence aos respectivos titulares de direitos. © <span id="year">2026</span> Chronopolis.</p></div><div class="footer-links"><a href="#sobre">Sobre</a><a href="https://github.com/joesouzah/Chronopolis" target="_blank" rel="noopener noreferrer">Código histórico</a><a href="#arquivos">Acervo</a></div></div></footer>
 <script src="assets/catalog.js"></script>
+<script src="assets/search-index-a.js"></script>
+<script src="assets/search-index-b.js"></script>
 <script>
 window.CHRONO_ARTIGOS=[];
 window.chronoArticlesReady=fetch('artigos.json').then(r=>{if(!r.ok)throw new Error('Ainda sem artigos gerados');return r.json()}).then(data=>Array.isArray(data)?data:[]).catch(()=>[]);
