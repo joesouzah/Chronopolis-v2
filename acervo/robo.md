@@ -5,55 +5,51 @@ category: "Personagens"
 summary: "O autômato R-66Y, sua origem no futuro e sua jornada ao lado dos heróis."
 image: "https://thumbs2.imgbox.com/aa/33/0klpWDSD_t.jpg"
 legacy: true
+editorial_reviewed_on: "2026-11-22"
 migrated_on: "2026-11-22"
 source_url: "https://github.com/joesouzah/Chronopolis/blob/main/robo.html"
 permalink: /acervo/robo/
 ---
 
-> **Registro histórico:** transcrição da página original de Chronopolis (2022–2023); imagens, vídeos e links externos ainda dependem de terceiros.
+> **Revisão editorial:** biografia reorganizada, com correções de linguagem e cuidado com as ligações entre *Chrono Trigger* e *Chrono Cross*.
 
-### Robo - O robo humano
+## Robo — o robô humano
 
-![robo](https://thumbs2.imgbox.com/aa/33/0klpWDSD_t.jpg)
+![Imagem de Robo no material de Chrono Trigger](https://thumbs2.imgbox.com/aa/33/0klpWDSD_t.jpg)
 
-Nome: Robo
-Era: 2300 A.D.
-Arma: Punho mecanico
-Elemento: ----
+**Nome:** Robo (R-66Y / Prometheus)  
+**Era:** 2300 d.C.  
+**Arma:** punhos mecânicos  
+**Elemento:** não utiliza magia
 
-Robo é um robô originalmente criado para ajudar os humanos no Proto
-Dome. Seu nome real é Prometheus ,e seu número de série é R-66Y.
-Ele usa seu braço robótico como arma e apesar de Spekkio não poder
-conceder a ele o poder de usar magia,Robo pode usar ataques de
-laser que são similares a magia Sombra eataques a bomba que são
-similares a magia Fire. Ele também tem vários técnicas de cura.
-Junto com seu físico robusto e alta capacidade de dano físico.
+Robo é um robô criado para ajudar os humanos no futuro. Seu número de série é R-66Y, e ele também é conhecido como Prometheus.
 
-![image host](https://thumbs2.imgbox.com/65/3d/DpfeUQbC_t.gif)
+Ele usa o próprio corpo como arma. Embora não aprenda magia com Spekkio, possui técnicas especiais que lembram ataques elementais, como lasers e explosões. Além disso, consegue ajudar os companheiros com habilidades de cura.
 
-Imagem status.
+Seu físico robusto faz dele um personagem muito resistente nas batalhas. Mas, para mim, o mais interessante é que Robo também demonstra lealdade, sensibilidade e vontade de ajudar, mesmo sendo uma máquina.
 
-### Futuro desconhecido
+![Imagem do menu e dos atributos de Robo](https://thumbs2.imgbox.com/65/3d/DpfeUQbC_t.gif)
 
-Em Chrono Cross , Robo faz uma aparição como o Circuito Prometheus
-encerrado pelo FATE . Masato Kato declarou oficialmente que o
-circuito é Robo. " De qualquer forma, se você jogou Trigger,
-então Prometheus deve ser muito familiar para você. Tenho
-certeza que muitos jogadores fariam um 'grande alvoroço'
-semelhante sobre a morte de um amigo tão querido... "
+*Registro do status de Robo.*
 
-Na casa de Lucca , um retrato de Robo pode ser encontrado
-pendurado na parede. A legenda diz "robo fez o deserto verde",
-referindo-se ao tempo que passou com Fiona ,restaurando sua floresta .
+### Um futuro desconhecido
 
-![image host](https://thumbs2.imgbox.com/55/b0/DZafK8ZG_t.jpg)
+Em *Chrono Cross*, o Circuito Prometheus estabelece uma ligação importante com Robo e com acontecimentos posteriores à história de *Chrono Trigger*.
 
-![image host](https://thumbs2.imgbox.com/e3/db/lr8b491H_t.jpg)
+Essa conexão dá um peso ainda maior à trajetória do personagem, que já tinha passado por tantas situações ao lado de Crono e seus amigos.
 
-![image host](https://thumbs2.imgbox.com/7b/ac/eTt145HM_t.jpg)
+Outro detalhe está ligado a Lucca: entre as lembranças do universo da série, existe a referência ao trabalho de Robo com Fiona, ajudando a transformar uma região desértica em uma floresta.
 
-## Imagens Robo
+É uma das histórias paralelas mais bonitas do jogo e mostra bem como *Chrono Trigger* consegue dar importância até aos pequenos acontecimentos.
 
-![robo](https://thumbs2.imgbox.com/13/a9/GO0Pj8BI_t.jpg)
+![Cena relacionada a Robo — 1](https://thumbs2.imgbox.com/55/b0/DZafK8ZG_t.jpg)
 
-![robo](https://thumbs2.imgbox.com/c2/e0/c1x6FvMX_t.jpg)
+![Cena relacionada a Robo — 2](https://thumbs2.imgbox.com/e3/db/lr8b491H_t.jpg)
+
+![Cena relacionada a Robo — 3](https://thumbs2.imgbox.com/7b/ac/eTt145HM_t.jpg)
+
+### Imagens de Robo
+
+![Imagem de Robo do acervo original — 1](https://thumbs2.imgbox.com/13/a9/GO0Pj8BI_t.jpg)
+
+![Imagem de Robo do acervo original — 2](https://thumbs2.imgbox.com/c2/e0/c1x6FvMX_t.jpg)
