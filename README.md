@@ -10,22 +10,26 @@ Este repositório é novo e separado do [projeto original (2022)](https://github
 - Permitir novas publicações sem editar HTML manualmente.
 - Preparar publicação gratuita via GitHub Pages e edição via Pages CMS.
 
-**Estado**: primeira reconstrução em andamento. Algumas imagens e downloads das páginas antigas continuam hospedados externamente e ainda precisam ser auditados.
+**Estado (22/11/2026)**: reconstrução v0.2 publicada. As 25 páginas históricas estão preservadas em `legado/`; 20 documentos estão disponíveis na busca de texto completo. Imagens, vídeos e downloads do arquivo antigo ainda dependem parcialmente de terceiros e não foram integralmente verificados.
 
 ## Publicação no GitHub Pages
 
-Após a inclusão dos arquivos, vá em **Settings > Pages**, escolha **Deploy from a branch**, branch **main** e pasta **/(root)**, e salve. A compilação usa o Jekyll do GitHub Pages.
+**GitHub Pages está ativo**, com o último build v0.2 confirmado como bem-sucedido em 22/11/2026. A compilação usa Jekyll.
 
-Endereço previsto, após a ativação: https://joesouzah.github.io/Chronopolis-v2/
+**Site:** https://joesouzah.github.io/Chronopolis-v2/
+
+**Acompanhamento das implantações:** https://github.com/joesouzah/Chronopolis-v2/actions
 
 ## Publicações futuras
 
-O editor proposto é o [Pages CMS](https://app.pagescms.org/). A configuração fica em `.pages.yml`. É necessário autorizar o Pages CMS a acessar este repositório; essa autorização é feita pelo proprietário. Cada publicação fica em `_artigos/` e é compilada pelo Jekyll.
+O editor proposto é o [Pages CMS](https://app.pagescms.org/). A configuração fica em `.pages.yml`. A autorização do aplicativo pelo proprietário precisa ser confirmada separadamente. Cada nova publicação fica em `_artigos/` e é compilada pelo Jekyll.
+
+**[Guia para publicar sem mexer em HTML](COMO_PUBLICAR.md)**
 
 ## Estrutura
 
 - `index.html`: página inicial e catálogo.
-- `assets/`: estilo e scripts.
+- `assets/`: estilo, scripts e índice local de pesquisa textual.
 - `legado/`: cópias das páginas originais, com links e imagens de terceiros preservados.
 - `_artigos/`: novas matérias criadas pelo editor.
 - `_layouts/`, `artigos.json` e `_config.yml`: estrutura de publicação Jekyll.
