@@ -11,6 +11,8 @@ source_consulted_on: 2026-11-22
 
 ## Aproveite a aventura sem depender de um roteiro
 
+Se estiver conhecendo os comandos do jogo, veja antes [Como jogar: controles do Super Nintendo]({{ '/artigos/chrono-trigger-controles-informacoes-gerais/' | relative_url }}).
+
 *Chrono Trigger* recompensa a curiosidade. Muitas soluções aparecem em conversas, na observação dos cenários e na escolha de técnicas. Estas oito dicas ajudam a começar sem entregar os acontecimentos principais.
 
 ### 1. Salve com frequência

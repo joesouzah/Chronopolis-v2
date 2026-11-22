@@ -33,6 +33,8 @@ O estilo de Akira Toriyama é reconhecível de longe. Criador de *Dr. Slump* e *
 
 É curioso observar como uma aventura sobre máquinas, magia e diferentes épocas consegue manter uma identidade visual tão forte. A influência de Toriyama é um dos elementos que fazem *Chrono Trigger* continuar tão marcante.
 
+Para conhecer os diferentes formatos usados na preservação da trilha, veja também [Músicas de Chrono Trigger: MIDI e SPC]({{ '/artigos/chrono-trigger-musicas-formatos/' | relative_url }}).
+
 ### Yasunori Mitsuda — músicas que atravessam o tempo
 
 Grande parte da trilha sonora de *Chrono Trigger* foi composta por **Yasunori Mitsuda**. Suas melodias dão personalidade a lugares e momentos do jogo, das descobertas ao drama.

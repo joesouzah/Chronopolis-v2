@@ -38,6 +38,9 @@ Cada publicação é escrita para ser útil ao leitor. Dados antigos são tratad
 | Habilidades | [Techs e técnicas combinadas]({{ '/artigos/chrono-trigger-techs-guia/' | relative_url }}) |
 | Comércio | [Lojas e preços]({{ '/artigos/chrono-trigger-shops-lojas-precos/' | relative_url }}) |
 | Evolução | [Levels e experiência]({{ '/artigos/chrono-trigger-levels-experiencia/' | relative_url }}) |
+| Trilha sonora | [Músicas, MIDI e SPC]({{ '/artigos/chrono-trigger-musicas-formatos/' | relative_url }}) |
+| Primeiros comandos | [Controles e menu do Super Nintendo]({{ '/artigos/chrono-trigger-controles-informacoes-gerais/' | relative_url }}) |
+| Análise editorial | [Chrono Trigger em análise]({{ '/artigos/chrono-trigger-reviews-analise/' | relative_url }}) |
 
 ## Como tratamos material de pesquisa
 

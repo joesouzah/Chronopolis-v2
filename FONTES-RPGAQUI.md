@@ -260,3 +260,19 @@ Foram reabertos e inspecionados diretamente seis documentos em `Chrono SAFE.rar`
 **Integração pública:** `_artigos/chrono-trigger-techs-guia.md`, `_artigos/chrono-trigger-shops-lojas-precos.md`, `_artigos/chrono-trigger-levels-experiencia.md`, com índice de pesquisa, homepage e referências cruzadas nos guias de Dicas, Itens, Equipamentos e New Game+. As informações selecionadas foram redigidas em linguagem própria, sem reprodução das tabelas completas ou das ilustrações.
 
 **Autoria preservada:** RPG aQui!, seção creditada a Spider e colaboradores identificados como Majin Alucard, Omnicrone_RED e Masamune. Metadados de origem presentes nos artigos, para a futura seção de créditos. O espelho original segue privado.
+
+## Músicas, Informações Gerais e Reviews — auditoria v0.14 (22/11/2026)
+
+Os HTMLs abaixo foram reabertos diretamente do `Chrono SAFE.rar` através de `libarchive`. Os bytes foram decodificados em `windows-1252` e os checksums CRC32 calculados para confirmar a integridade das páginas examinadas.
+
+| Página | Bytes | CRC32 | Conteúdo comprovado |
+| --- | ---: | --- | --- |
+| `musicas.htm` | 5.406 | `384d105b` | Introdução breve da trilha, destaque a Yasunori Mitsuda, dois links externos: pacote ZIP MIDI e pacote RAR SPC. O texto **menciona MP3**, mas não apresenta link MP3 na página. Os pacotes estão em outra origem e **não constam como baixados nesta seção do espelho**. |
+| `informacoes-gerais.htm` | 8.728 | `df23f2dd` | Explica controle de Super Nintendo: D-Pad, A, B, X, Y, L/R, Start e Select; configurações de botões e troca de equipe após Fim dos Tempos. A introdução promete também mudanças de status, porém o corpo recuperado oferece essencialmente explicações de comandos, não um catálogo de status. |
+| `reviews.htm` | 5.687 | `aa18e54f` | **Uma entrada de avaliação**: jogo Chrono Trigger, autor Odin, nota literal `4,8`, data `07/07/2002`; link para `http://rpga8.free.fr/jogos/snes/chrono-trigger/review.htm` (fora de `/especial/ct/`). **Não há texto integral de review na cópia consultada**, nem escala da nota no índice. O endereço externo não pôde ser aberto na checagem atual. |
+
+**Corroboração externa, distinguida da fonte original:** a discografia da [Procyon Studio](https://www.procyon-studio.co.jp/library/detail/001.html) e a ficha oficial da [Square Enix — Revival Disc](https://www.jp.square-enix.com/music/sem/page/chrono/trigger_revival/index_en.html) identificam **Yasunori Mitsuda, Nobuo Uematsu e Noriko Matsueda** como compositores, corrigindo a atribuição simplificada a apenas Mitsuda. Os formatos de som foram explicados editorialmente e conferidos com [Super Famicom Development Wiki — SPC](https://wiki.superfamicom.org/spc-and-rsn-file-format) e [Video Game Music Preservation Foundation — SPC](https://vgmpf.com/Wiki/index.php?title=SPC). Não se tentou tocar, baixar ou redistribuir músicas protegidas.
+
+**Produção editorial:** `_artigos/chrono-trigger-musicas-formatos.md`, `_artigos/chrono-trigger-controles-informacoes-gerais.md`, `_artigos/chrono-trigger-reviews-analise.md` são redação original. A terceira matéria é uma análise editorial do Chronopolis, com **a referência documental a Odin claramente separada da opinião editorial** — nenhuma afirmação foi atribuída ao conteúdo não recuperado do review.
+
+**Créditos e direitos:** a proveniência, a data de consulta, as URLs históricas e a autoria da seção permanecem no front matter de cada artigo e neste documento. A publicação pública não contém os downloads históricos, imagens, HTML integral nem o conteúdo integral do review. A seção definitiva de créditos continua pendente de decisão do proprietário.

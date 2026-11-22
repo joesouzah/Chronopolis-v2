@@ -57,6 +57,8 @@ Isso também faz diferença para quem gosta de descobrir os segredos do jogo. H�
 
 E como falar de *Chrono Trigger* sem lembrar da música?
 
+Se quiser entender a diferença entre arquivos MIDI, SPC e gravações, consulte o guia [Músicas de Chrono Trigger]({{ '/artigos/chrono-trigger-musicas-formatos/' | relative_url }}).
+
 A trilha sonora é excelente. Ela consegue acompanhar cada momento da jornada, passando da ação ao drama sem perder a identidade. Há jogos em que a gente acaba até diminuindo o volume; aqui acontece o contrário. Dá vontade de continuar ouvindo as músicas mesmo depois de desligar o console.
 
 Um detalhe importante: **a maior parte da trilha original foi composta por Yasunori Mitsuda**, com contribuições de **Nobuo Uematsu** e **Noriko Matsueda**. É um trabalho de equipe que deu ao jogo uma sonoridade inesquecível.
@@ -64,5 +66,7 @@ Um detalhe importante: **a maior parte da trilha original foi composta por Yasun
 Não tenho muito mais a dizer: é uma daquelas trilhas que ficam na cabeça e ajudam a fazer a aventura ser tão especial.
 
 Pensando em tudo isso, continuo acreditando que *Chrono Trigger* é um RPG que todo amante do gênero deveria jogar pelo menos uma vez.
+
+Leia também a nossa [análise editorial de Chrono Trigger]({{ '/artigos/chrono-trigger-reviews-analise/' | relative_url }}), com uma avaliação de seus sistemas e ritmo.
 
 *Fonte para os créditos musicais:* [Square Enix — Chrono Trigger Original Soundtrack Revival Disc](https://www.jp.square-enix.com/music/sem/page/chrono/trigger_revival/index_en.html).

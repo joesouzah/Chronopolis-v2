@@ -10,7 +10,7 @@ Este repositório é novo e separado do [projeto original (2022)](https://github
 - Permitir novas publicações sem editar HTML manualmente.
 - Preparar publicação gratuita via GitHub Pages e edição via Pages CMS.
 
-**Estado (22/11/2026)**: integração editorial v0.13. São 20 matérias revisadas do acervo original, **21 matérias novas** com pesquisa complementar e **uma matéria antiga ampliada** sobre a versão beta. A redação continua concentrada no conteúdo de Chrono Trigger, com as referências externas preservadas separadamente. A leitura foi padronizada para privilegiar os assuntos; a documentação de procedência foi mantida separada dos textos de artigos. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
+**Estado (22/11/2026)**: integração editorial v0.14. São 20 matérias revisadas do acervo original, **24 matérias novas** com pesquisa complementar e **uma matéria antiga ampliada** sobre a versão beta. A redação continua concentrada no conteúdo de Chrono Trigger, com as referências externas preservadas separadamente. A leitura foi padronizada para privilegiar os assuntos; a documentação de procedência foi mantida separada dos textos de artigos. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
 
 ## Publicação no GitHub Pages
 
@@ -114,3 +114,11 @@ A pesquisa parte dos três documentos `itens.htm`, `tabs.htm` e `charm.htm` do e
 - [Levels e experiência](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-levels-experiencia/) — 98 transições de nível, EXP total acumulada e como calcular o próximo nível.
 
 Os textos são redação própria e seguem a política editorial v0.10. A origem, a autoria e a data de consulta estão no front matter e em FONTES-RPGAQUI.md, não repetidas nos artigos. Não foram copiados textos, HTML ou mídias integrais da fonte externa.
+
+## Rodada v0.14 — Músicas, Informações gerais e Reviews (22/11/2026)
+
+- [Músicas: trilha sonora, MIDI e SPC](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-musicas-formatos/): guia de formatos e compositores com verificação complementar dos créditos musicais;
+- [Como jogar: controles e menu do Super Nintendo](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-controles-informacoes-gerais/): botões, funções, limitações e diferenças entre plataformas;
+- [Chrono Trigger em análise](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-reviews-analise/): análise editorial própria e registro documental de uma avaliação de Odin (nota 4,8; 07/07/2002), sem inventar a escala nem o conteúdo da avaliação cujo texto integral não foi recuperado.
+
+O arquivo de Músicas apresenta links históricos para dois pacotes **externos** MIDI e SPC, mas a cópia offline não contém essas coleções nem um link efetivo para MP3. Não há distribuição pública de áudios ou arquivos baixáveis de terceiros. Os créditos autorais e a procedência permanecem nos metadados Markdown e no inventário técnico, sem menções repetitivas no corpo dos artigos. A seção de créditos definitiva continua para etapa posterior.
