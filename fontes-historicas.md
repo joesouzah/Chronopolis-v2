@@ -37,7 +37,7 @@ O arquivo completo é mantido **como fonte de pesquisa privada**, e não foi tra
 | [Satellaview e os três especiais]({{ '/artigos/satellaview-especiais-chrono-trigger/' | relative_url }}) | [SatellaView, RPG aQui!](http://rpga8.free.fr/especial/ct/satella-view.htm) | Pesquisa sobre a transmissão e três programas, com correções técnicas posteriores |
 | [Radical Dreamers entre dois jogos]({{ '/artigos/radical-dreamers-origem-e-retorno/' | relative_url }}) | [Chrono Series, RPG aQui!](http://rpga8.free.fr/especial/ct/chrono-series.htm) | Memória de 2004 contextualizada com o relançamento oficial de 2022 |
 
-Essas matérias são **novos textos do Chronopolis**, com linguagem própria, referências, datas de consulta e créditos ao arquivo original.
+A matéria **Beta** foi ampliada a partir de uma fonte histórica; as outras **seis pesquisas** são textos novos do Chronopolis. Todas têm redação própria, referências, datas de consulta e créditos à pesquisa original.
 
 ### O que ainda está em análise
 
