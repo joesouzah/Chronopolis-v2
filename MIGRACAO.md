@@ -27,3 +27,12 @@ Próxima etapa: transformar cada corpo de matéria em Markdown, revisar imagens 
 ## Chronopolis-v2
 
 As 25 páginas HTML originais serão espelhadas na pasta `legado/` neste novo repositório. Imagens e downloads externos continuam dependendo de seus provedores até revisão posterior.
+
+## Evolução v0.3 (22/11/2026)
+
+- As 20 matérias principais do catálogo foram convertidas em arquivos Markdown na pasta `acervo/`.
+- Cada uma possui URL estática e permanente em `/Chronopolis-v2/acervo/<id>/`, com título, resumo, categoria, procedência e data de migração — esta data **não é** a data de publicação original.
+- A cópia fiel dos 25 HTML originais permanece na pasta `legado/`; não foi substituída pelas transcrições.
+- Os links do catálogo passam a apontar para páginas estáticas, indexáveis, sem JavaScript obrigatório para leitura.
+- **Não foi feita revisão editorial linha a linha das transcrições automáticas.** O original continua como fonte de conferência.
+- Imagens, vídeos, Mega e demais downloads não foram espelhados localmente; a disponibilidade e os direitos de cada arquivo devem ser verificados antes de arquivá-los.

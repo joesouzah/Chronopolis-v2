@@ -5,27 +5,67 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#080d1d">
   <meta name="description" content="{{ page.summary | escape }}">
+  <meta property="og:title" content="{{ page.title | escape }} — Chronopolis">
+  <meta property="og:description" content="{{ page.summary | escape }}">
+  <meta property="og:type" content="article">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title | escape }} — Chronopolis</title>
   <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 </head>
 <body>
-<header class="site-header"><div class="wrap header-inner">
-  <a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark">⌛</span><span class="brand-name">Chrono<span>polis</span></span></a>
-  <nav class="nav" style="display:flex;position:static;border:none;background:none;padding:0" aria-label="Navegação principal">
-    <a href="{{ '/' | relative_url }}">Início</a><a href="{{ '/' | relative_url }}#arquivos">Acervo</a><a href="{{ '/' | relative_url }}#sobre">Sobre</a>
+<a href="#conteudo" class="sr-only" style="position:absolute;left:-9999px">Ir para o conteúdo</a>
+<header class="site-header"><div class="wrap header-inner article-header">
+  <a class="brand" href="{{ '/' | relative_url }}" aria-label="Chronopolis, início"><span class="brand-mark">⌛</span><span class="brand-name">Chrono<span>polis</span></span></a>
+  <nav class="article-nav" aria-label="Navegação principal">
+    <a href="{{ '/' | relative_url }}">Início</a>
+    <a href="{{ '/' | relative_url }}#historia">História</a>
+    <a href="{{ '/' | relative_url }}#personagens">Personagens</a>
+    <a href="{{ '/' | relative_url }}#arquivos">Acervo</a>
   </nav>
 </div></header>
-<main class="read-shell">
-  <a class="back-link" href="{{ '/' | relative_url }}#arquivos">← Voltar ao acervo</a>
-  <header class="read-head"><div class="eyebrow">{{ page.category | escape }} · Publicação Chronopolis</div>
+<main id="conteudo" class="read-shell">
+  <a class="back-link" href="{{ '/' | relative_url }}#arquivos">← Explorar o acervo</a>
+  <header class="read-head">
+    <div class="eyebrow">{{ page.category | default: 'Acervo' | escape }} · {% if page.legacy %}Documento histórico{% else %}Publicação Chronopolis{% endif %}</div>
     <h1>{{ page.title | escape }}</h1>
-    <p class="read-lead">{{ page.summary | escape }}</p>
-    <div class="read-meta"><span>{% if page.date %}{{ page.date | date: '%d/%m/%Y' }}{% endif %}</span><span>Chronopolis</span></div>
+    {% if page.summary %}<p class="read-lead">{{ page.summary | escape }}</p>{% endif %}
+    <div class="read-meta">
+      {% if page.legacy %}<span>Acervo original · 2022–2023</span><span>Digitalização textual de 2026</span>
+      {% elsif page.date %}<span>{{ page.date | date: '%d/%m/%Y' }}</span>{% endif %}
+      <span>Chronopolis · projeto independente</span>
+    </div>
   </header>
-  {% if page.image and page.image != '' %}<img src="{{ page.image | escape }}" alt="" style="display:block;max-width:100%;max-height:450px;object-fit:cover;margin-bottom:25px;border-radius:12px">{% endif %}
+  {% unless page.legacy %}{% if page.image and page.image != '' %}<img class="article-hero-image" src="{{ page.image | escape }}" alt="" loading="lazy">{% endif %}{% endunless %}
   <article class="article-panel prose">{{ content }}</article>
+  {% if page.legacy %}
+  <div class="archive-source">
+    <span>Este artigo preserva um texto histórico, sem revisão factual recente.</span>
+    {% if page.source_url %}<a href="{{ page.source_url | escape }}" target="_blank" rel="noopener noreferrer">Consultar página original no GitHub</a>{% endif %}
+  </div>
+  {% endif %}
+  <p style="margin-top:25px"><a class="back-link" href="{{ '/' | relative_url }}#arquivos">← Voltar às matérias</a></p>
 </main>
-<footer class="site-footer"><div class="wrap footer-inner"><p>Chronopolis — um arquivo independente de fã.</p><a href="{{ '/' | relative_url }}">Voltar ao início</a></div></footer>
+<footer class="site-footer"><div class="wrap footer-inner"><p>Chronopolis — arquivo independente de fã. Chrono Trigger pertence a seus respectivos titulares.</p><a href="{{ '/' | relative_url }}">Início</a></div></footer>
+<script>
+document.querySelectorAll('.prose img, .article-hero-image').forEach(function(img){
+  function unavailable(){
+    var p=document.createElement('p');
+    p.className='archive-unavailable';
+    p.textContent='Imagem indisponível na hospedagem original.';
+    if(img.getAttribute('src')) {
+      var a=document.createElement('a');
+      a.href=img.src;
+      a.target='_blank';
+      a.rel='noopener noreferrer';
+      a.textContent=' Consultar endereço original.';
+      p.append(a);
+    }
+    img.replaceWith(p);
+  }
+  img.addEventListener('error',unavailable,{once:true});
+  if(img.complete && !img.naturalWidth)unavailable();
+});
+</script>
 </body>
 </html>

@@ -1,5 +1,5 @@
 /* Catálogo histórico conferido no repositório joesouzah/Chronopolis, branch main (2026-11-22).
-   As matérias completas continuam no repositório original nesta primeira versão. */
+   As 20 matérias principais também têm transcrições estáticas em acervo/; os 25 HTML originais permanecem em legado/. */
 window.CHRONO_LEGACY = [
  {id:'Meta',title:'Chrono Trigger no metaverso',category:'Curiosidades',summary:'Uma visita em primeira pessoa ao Reino de Zeal, recriado em um ambiente virtual.',image:'https://thumbs2.imgbox.com/c7/b7/qaEdI1kP_t.png',featured:true},
  {id:'revistas',title:'Um Chrono Trigger diferente',category:'Arquivo',summary:'Revistas japonesas revelam versões anteriores, mudanças de personagens e material de desenvolvimento.',image:'https://thumbs2.imgbox.com/09/4a/j6LQQBpJ_t.jpg',featured:true},
