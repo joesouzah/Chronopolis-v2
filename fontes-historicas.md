@@ -36,12 +36,15 @@ O arquivo completo é mantido **como fonte de pesquisa privada**, e não foi tra
 | [Artworks: sete coleções preservadas]({{ '/artigos/artworks-chrono-trigger-sete-colecoes/' | relative_url }}) | [Artworks & Imagens, RPG aQui!](http://rpga8.free.fr/especial/ct/artworks-e-imagens.htm) | Inventário das sete galerias e dos 157 links para imagens maiores |
 | [Satellaview e os três especiais]({{ '/artigos/satellaview-especiais-chrono-trigger/' | relative_url }}) | [SatellaView, RPG aQui!](http://rpga8.free.fr/especial/ct/satella-view.htm) | Pesquisa sobre a transmissão e três programas, com correções técnicas posteriores |
 | [Radical Dreamers entre dois jogos]({{ '/artigos/radical-dreamers-origem-e-retorno/' | relative_url }}) | [Chrono Series, RPG aQui!](http://rpga8.free.fr/especial/ct/chrono-series.htm) | Memória de 2004 contextualizada com o relançamento oficial de 2022 |
+| [Seis mapas, várias eras]({{ '/artigos/mapas-eras-chrono-trigger/' | relative_url }}) | [Mapas, RPG aQui!](http://rpga8.free.fr/especial/ct/mapas.htm) | Seis miniaturas preservadas, com duas situações de 12.000 a.C. |
+| [Equipamentos: quatro categorias]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}) | [Equipamentos, RPG aQui!](http://rpga8.free.fr/especial/ct/equipamentos.htm) | Estrutura e exemplos de 161 registros nas tabelas históricas |
+| [Roteiro de exploração]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}) | [Estratégia, RPG aQui!](http://rpga8.free.fr/especial/ct/estrategia.htm) | Organização da fonte histórica, sem copiar o guia cuja republicação é proibida |
 
-A matéria **Beta** foi ampliada a partir de uma fonte histórica; as outras **seis pesquisas** são textos novos do Chronopolis. Todas têm redação própria, referências, datas de consulta e créditos à pesquisa original.
+A matéria **Beta** foi ampliada a partir de uma fonte histórica; as outras **nove pesquisas** são textos novos do Chronopolis. Todas têm redação própria, referências, datas de consulta e créditos à pesquisa original.
 
 ### O que ainda está em análise
 
-O espelho contém outras áreas muito interessantes, entre elas **equipamentos, inimigos, estratégias, mapas e finais**. O **SatellaView** e a relação com **Radical Dreamers** já ganharam pesquisas próprias. A estrutura de **Artworks & Imagens** já foi catalogada editorialmente, mas as imagens de terceiros continuam privadas até verificação de direitos. Outras áreas ainda não foram incorporadas: precisamos escolher o que acrescenta conhecimento, conferir dados e registrar a origem de cada informação.
+O espelho contém outras áreas muito interessantes, entre elas **inimigos, chefes e finais**. **Mapas, equipamentos e estratégia** já foram estudados em textos próprios, sem importar as imagens ou os guias integrais. O **SatellaView** e a relação com **Radical Dreamers** já ganharam pesquisas próprias. A estrutura de **Artworks & Imagens** já foi catalogada editorialmente, mas as imagens de terceiros continuam privadas até verificação de direitos. Outras áreas ainda não foram incorporadas: precisamos escolher o que acrescenta conhecimento, conferir dados e registrar a origem de cada informação.
 
 Quando uma página histórica contiver afirmações imprecisas, traduções antigas ou teorias, vamos distingui-las dos fatos verificáveis em vez de apresentar tudo como informação atual.
 

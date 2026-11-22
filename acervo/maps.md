@@ -41,3 +41,7 @@ Nesta página, o Chronopolis reuniu mapas para quem gosta de explorar cada regi�
 - **Endereço histórico:** [consultar o link original](https://mega.nz/file/IlFxRZ4R#6RbTaxL0WvsvpmOFARn8wTXCJRKAQms1SQxGNA2wWXQ)
 
 O link é mantido como parte do acervo. A disponibilidade do pacote e as condições para redistribuição não foram verificadas.
+
+### Uma fonte histórica complementar
+
+O **RPG aQui!**, em 2004, organizou seis prévias de mapas por época, incluindo duas versões de **12.000 a.C.** (antes e depois do Ocean Palace). Recuperamos essas seis miniaturas em uma cópia de estudo, mas elas não foram acrescentadas à galeria pública. Leia a pesquisa do Chronopolis [Seis mapas, várias eras]({{ '/artigos/mapas-eras-chrono-trigger/' | relative_url }}), com créditos e distinção entre prévias e mapas de alta resolução.

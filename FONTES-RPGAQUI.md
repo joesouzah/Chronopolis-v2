@@ -160,3 +160,23 @@ Fontes efetivamente examinadas no espelho privado `Chrono SAFE.rar`:
 **Pontos em que o documento de 2004 diverge de referências posteriores:** St.GIGA tratada como nome do satélite em vez de operadora de transmissão; especiais ditos anteriores ao lançamento final quando o jogo japonês já saíra; armazenamento descrito de modo pouco preciso; `Music Gallery` em vez de `Music Library`. Não foram repetidos números técnicos específicos sem confirmação.
 
 **Publicações novas:** `_artigos/satellaview-especiais-chrono-trigger.md` e `_artigos/radical-dreamers-origem-e-retorno.md`, com textos próprios e créditos ao RPG aQui!, sem reproduzir HTML, screenshots, imagens ou ZIPs do espelho. O índice público de fontes e a página inicial ganharam links pertinentes.
+
+## Inventário de Mapas, Equipamentos e Estratégia — 22/11/2026
+
+A partir dos arquivos contidos no espelho privado `Chrono SAFE.rar` (sem importar seus bytes ao repositório público), foram auditadas as seguintes fontes:
+
+| Documento histórico | Constatação no arquivo |
+| --- | --- |
+| `mapas.htm` | Seis miniaturas JPG com `width=180`, em cinco épocas, incluindo duas imagens de 12.000 a.C. (antes/depois do Ocean Palace). Os seis caminhos `images/t_map-*.jpg` estão presentes no RAR. A página não vincula essas seis imagens a versões maiores. |
+| `equipamentos.htm` | Índice de quatro subpáginas. |
+| `equipamentos_armas.htm` | 68 linhas de armas, separadas em sete grupos, um por personagem; campos nome, compra, venda, ataque, crítico e localização. |
+| `equipamentos_armaduras.htm` | 32 linhas de armaduras, com defesa e efeitos. |
+| `equipamentos_elmos.htm` | 24 linhas de elmos, com defesa e efeitos. |
+| `equipamentos_acessorios.htm` | 37 linhas de acessórios, com nome e descrição. Há um erro no parágrafo de introdução da própria fonte, que menciona “elmos” embora a tabela seja de acessórios. |
+| `estrategia.htm` | Índice de 26 etapas, incluindo uma etapa com sete subtarefas opcionais; as entradas apontam para `estrategia-01.htm` a `estrategia-05.htm`. |
+
+**Direitos da estratégia:** o próprio documento `estrategia.htm` afirma explicitamente que a estratégia de Spider é exclusiva do RPG aQui! e que não há autorização para publicação em outros sites. Esta restrição foi respeitada: nenhum texto passo a passo, imagem, tabela integral ou HTML foi republicado.
+
+**Integração editorial:** criadas as matérias novas `_artigos/mapas-eras-chrono-trigger.md`, `_artigos/equipamentos-guia-historico-chrono-trigger.md` e `_artigos/roteiro-de-exploracao-chrono-trigger.md`. O artigo existente `acervo/maps.md` foi ligado à pesquisa complementar. A página `fontes-historicas.md` passou a indicar estas fontes e seus limites.
+
+**Limites:** as contagens de equipamentos são **linhas das tabelas históricas**, não itens únicos nem dados conferidos em todas as edições; as imagens dos mapas são prévias, não mapas de alta resolução confirmados; o documento da estratégia é fonte de pesquisa, **não texto liberado para cópia**.

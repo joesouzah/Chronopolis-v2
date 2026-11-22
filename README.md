@@ -10,7 +10,7 @@ Este repositório é novo e separado do [projeto original (2022)](https://github
 - Permitir novas publicações sem editar HTML manualmente.
 - Preparar publicação gratuita via GitHub Pages e edição via Pages CMS.
 
-**Estado (22/11/2026)**: integração editorial de fontes históricas (v0.7). São 20 matérias do acervo original revisadas, **seis matérias próprias novas** com fontes do RPG aQui! (Dream Team, traduções de fãs, Final Fantasy Chronicles, Artworks, Satellaview e Radical Dreamers) e **uma matéria histórica ampliada** sobre a versão beta. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
+**Estado (22/11/2026)**: integração editorial de fontes históricas (v0.8). São 20 matérias do acervo original revisadas, **nove matérias próprias novas** com fontes do RPG aQui! (Dream Team, traduções de fãs, Final Fantasy Chronicles, Artworks, Satellaview, Radical Dreamers, Mapas, Equipamentos e roteiro de exploração) e **uma matéria histórica ampliada** sobre a versão beta. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
 
 ## Publicação no GitHub Pages
 
@@ -66,3 +66,11 @@ As novas matérias são textos do Chronopolis baseados em fontes do espelho priv
 - [Radical Dreamers: a aventura entre Chrono Trigger e Chrono Cross](https://joesouzah.github.io/Chronopolis-v2/artigos/radical-dreamers-origem-e-retorno/)
 
 As pesquisas têm redação própria, fonte datada de 2004 claramente identificada e checagens complementares. Nenhuma ROM, imagem ou cópia integral do RPG aQui! foi republicada.
+
+### Cartografia, equipamento e estratégias (v0.8)
+
+- [Seis mapas, várias eras](https://joesouzah.github.io/Chronopolis-v2/artigos/mapas-eras-chrono-trigger/) — documento de cartografia histórica e limite das miniaturas recuperadas;
+- [Equipamentos: quatro categorias](https://joesouzah.github.io/Chronopolis-v2/artigos/equipamentos-guia-historico-chrono-trigger/) — 161 linhas de dados catalogadas, com exemplos e ressalvas de verificação;
+- [Roteiro de exploração](https://joesouzah.github.io/Chronopolis-v2/artigos/roteiro-de-exploracao-chrono-trigger/) — orientação escrita do zero, respeitando a proibição explícita de republicação da estratégia do RPG aQui!.
+
+O espelho segue privado. Apenas sínteses e orientações próprias foram adicionadas ao site público.

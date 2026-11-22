@@ -154,6 +154,10 @@ Mas o maior legado talvez seja outro: décadas depois do lançamento, ainda esta
 
 Para mim, é isso que faz a aventura continuar viva. Mesmo quando conhecemos o final, sempre parece haver um motivo para voltar.
 
+### Para explorar sem perder o rumo
+
+Se estiver jogando e quiser apenas orientação, sem reler o enredo completo, conheça nosso [roteiro de exploração]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}) e o estudo dos [mapas entre épocas]({{ '/artigos/mapas-eras-chrono-trigger/' | relative_url }}).
+
 ### Outras histórias da série
 
 A série também teve conteúdo distribuído por satélite no Japão. Conheça as pesquisas do Chronopolis sobre [o Satellaview e os especiais de Chrono Trigger]({{ '/artigos/satellaview-especiais-chrono-trigger/' | relative_url }}) e [Radical Dreamers, a aventura entre Chrono Trigger e Chrono Cross]({{ '/artigos/radical-dreamers-origem-e-retorno/' | relative_url }}).
