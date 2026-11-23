@@ -294,3 +294,15 @@ Páginas reabertas diretamente do espelho privado `Chrono SAFE.rar`, com bytes e
 **Integração editorial:** criada `_artigos/personagens-chrono-trigger-elenco.md`, com links às 7 fichas já existentes, e `_artigos/game-shark-chrono-trigger-codigos.md`, com exemplos e precauções. A página existente `acervo/ova.md` foi **ampliada**, preservando seu caminho e a referência de arquivo do Chronopolis antigo, com novos metadados `research_source_site`, `research_source_url` e `research_consulted_on`. O índice público, a homepage e os links de navegação entre biografias foram atualizados.
 
 **Política de direitos e procedência:** materiais atribuídos a RPG aQui!, seção indicada como feita por Spider com colaboração de Majin Alucard, Omnicrone_RED e Masamune. Crédito preservado no front matter das matérias novas e no inventário; não repetido no corpo público. O espelho e as imagens, vídeos, HTMLs e listas completas de terceiros não foram republicados. O vídeo e o endereço externo já contidos na página O.V.A. anterior permanecem históricos, e seus direitos/disponibilidade não foram verificados.
+
+## Chronopolis v0.16 — Alexandria, Downloads e Wallpapers (22/11/2026)
+
+**Continuidade editorial:** foram criados dois artigos próprios (`_artigos/alexandria-guia-chrono-trigger.md` e `_artigos/downloads-historicos-chrono-trigger.md`) e ampliada a página existente `acervo/papeldeparede.md`. A homepage, o índice de pesquisa e os guias relacionados receberam links cruzados.
+
+**Três referências do menu histórico:** `alexandria.htm`, `downloads.htm` e `wallpapers.htm`. Seus endereços já constavam da listagem extraída de `traducoes.htm`.
+
+**Limitação desta rodada:** o arquivo privado `Chrono SAFE.rar` não estava acessível nesta conversa para uma nova abertura do conteúdo desses três HTMLs. Não foram inventadas tabelas, contagens de downloads nem descrições atribuídas às páginas históricas. Alexandria foi tratada como biblioteca editorial de consulta; Downloads, como guia de pesquisa; Wallpapers, como ampliação do acervo próprio.
+
+**Evidências anteriores preservadas:** o relatório HTTrack inventariou falhas de imagens externas concentradas na área de wallpapers, e o usuário confirmou navegação offline com ressalva de alguns papéis de parede não recuperados. Esses resultados não comprovam perda definitiva nem disponibilidade atual das imagens.
+
+**Separação de direitos e proveniência:** as URLs identificadoras e o estado da releitura estão nos metadados dos dois artigos. Nenhuma ROM, música, imagem, arquivo, HTML ou texto integral de terceiro foi republicado. Os créditos originais permanecem neste inventário para a futura seção pública específica de créditos.

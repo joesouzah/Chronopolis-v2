@@ -58,3 +58,5 @@ Uma coleção de referências musicais pode reunir arquivos em formatos distinto
 O Chronopolis apresenta aqui **informações sobre a trilha e os formatos**, sem hospedar gravações, reproduzir músicas ou disponibilizar pacotes de terceiros.
 
 Para conhecer os profissionais responsáveis pela criação do jogo, veja [Dream Team: quem criou Chrono Trigger?]({{ '/artigos/dream-team-chronopolis/' | relative_url }}). A matéria [Conhecendo Chrono Trigger]({{ '/acervo/conhecendo/' | relative_url }}) também explora o papel da música na aventura.
+
+Os formatos de áudio também aparecem no [guia de downloads históricos]({{ '/artigos/downloads-historicos-chrono-trigger/' | relative_url }}), que reúne os cuidados necessários para identificar e preservar arquivos digitais.

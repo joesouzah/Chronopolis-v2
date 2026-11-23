@@ -49,3 +49,5 @@ A página histórica ligava para arquivos ZIP relacionados aos grupos citados e 
 Porque ela mostra um pedaço do trabalho que a comunidade brasileira fazia para manter os RPGs vivos e compreensíveis. Nomes de grupos, pequenas iniciativas e ferramentas podem desaparecer com a mesma facilidade que os sites onde foram divulgados.
 
 Esses projetos ajudam a contar a história das traduções de fãs, mas uma referência antiga não garante a disponibilidade ou compatibilidade dos arquivos atuais.
+
+Para investigar arquivos antigos sem confundir um link com um pacote validado, consulte [Downloads históricos de Chrono Trigger]({{ '/artigos/downloads-historicos-chrono-trigger/' | relative_url }}).

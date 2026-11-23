@@ -58,3 +58,5 @@ No Chronopolis, já mantemos [artes associadas à versão PlayStation]({{ '/acer
 A coleção amplia nosso mapa de pesquisa, com referências a **manuais, embalagens, publicidade, itens e personagens secundários**.
 
 O próximo passo é comparar esses arquivos com as galerias existentes e identificar a procedência de cada imagem para evitar duplicações.
+
+Veja também a [galeria de papéis de parede]({{ '/acervo/papeldeparede/' | relative_url }}), que mantém separadas as imagens já publicadas das referências históricas ainda pendentes de recuperação.
