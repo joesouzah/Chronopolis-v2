@@ -126,3 +126,10 @@
 .sprite-reference--charm .sprite-pixel{max-width:42px;max-height:42px}
 .sprite-reference--charm .sprite-portrait--group .sprite-pixel{max-width:23px;max-height:38px}
 @media(max-width:560px){.prose img.archive-thumb--map{width:90px}.sprite-reference--charm .sprite-portrait{width:38px;height:38px}.sprite-reference--charm .sprite-pixel{max-width:34px;max-height:34px}.sprite-reference--charm .sprite-portrait--group{width:66px}.sprite-reference--charm .sprite-portrait--group .sprite-pixel{max-width:20px;max-height:30px}}
+
+
+/* v0.26 — Capturas restauradas de técnicas e Tabs; miniaturas clicáveis. */
+.prose img.archive-thumb--scene{display:block;min-width:0;width:68px;height:auto;max-width:68px;max-height:62px;margin:0 auto;padding:0;border:0;border-radius:4px;object-fit:contain}
+.reference-sheet table td:has(.archive-thumb--scene){min-width:82px;width:82px;padding:4px;text-align:center;vertical-align:middle}
+.archive-image-link{display:inline-flex;align-items:center;justify-content:center;max-width:100%;border-radius:4px}
+.archive-image-link:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
