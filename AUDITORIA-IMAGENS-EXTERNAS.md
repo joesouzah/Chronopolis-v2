@@ -1,7 +1,7 @@
 # Auditoria visual das imagens externas do Chronopolis
 
 **Data:** 23/11/2026  
-**Estado:** cópias antigas não localizadas; links preservados; não é um relatório que confirme a indisponibilidade de cada imagem.  
+**Estado (atualizado em 23/11/2026):** três arquivos de imagens associados à matéria Meta foram encontrados no Google Drive por identificador de arquivo e republicados; os demais links permanecem como referências pendentes.  
 **Escopo:** 20 matérias da coleção original `acervo/`, o front matter de suas capas e o espelho histórico separado `Chrono SAFE.rar`.
 
 ## Resultado e interpretação
@@ -68,3 +68,20 @@ As URLs integrais permanecem na página original `wallpapers.htm` do espelho pri
 3. Não inserir imagens tematicamente parecidas como se fossem arquivos idênticos.
 4. Não modificar `legado/` nem o repositório histórico de 2022; manter a cópia original para auditoria.
 5. A recuperação de imagens no novo site não implica permissão de distribuição de todos os materiais de terceiros.
+
+## Recuperação parcial verificada — Google Drive
+
+Em 23/11/2026, o Drive pessoal revelou três arquivos com **os mesmos identificadores de nomes** encontrados nas URLs antigas de `acervo/Meta.md`. As três cópias têm **800 × 450 pixels** e conteúdo de fato em **JPEG**, embora as denominações no Drive incluam `_t.png` (extensão original divergente do formato armazenado).
+
+| Identificador original | URL de referência antiga | Novo arquivo do Chronopolis |
+| --- | --- | --- |
+| `7Dvlkkc5_t.png` | https://thumbs2.imgbox.com/ea/8d/7Dvlkkc5_t.png | `assets/media/chronopolis-2022/metaverso/7Dvlkkc5.jpg` |
+| `AkmA1Nrx_t.png` | https://thumbs2.imgbox.com/25/4e/AkmA1Nrx_t.png | `assets/media/chronopolis-2022/metaverso/AkmA1Nrx.jpg` |
+| `Bqw2MbCv_t.png` | https://thumbs2.imgbox.com/c6/80/Bqw2MbCv_t.png | `assets/media/chronopolis-2022/metaverso/Bqw2MbCv.jpg` |
+
+**Consequência:** das 91 imagens originalmente no corpo das matérias, **3 já passaram a carregar localmente** e **88 continuam externas**. As 18 capas originais permanecem externas, totalizando **106 ocorrências atuais de imagens externas**, correspondentes a **90 URLs distintas**. Os totais de 91, 18, 109 e 93 no inventário original continuam sendo os totais da fotografia histórica anterior à restauração, não o estado da página após o commit. Como não há bytes do servidor Imgbox para cotejamento, a correspondência é pelo **identificador nominal**, não por igualdade criptográfica entre arquivos.
+
+### Coleção separada de sete wallpapers no Drive
+
+Também foram identificadas sete imagens denominadas `CTDC_WP1024x768[a-g]` sob `Chrono Trigger Wallpapers` no Google Drive, todas JPEG 1024 × 768. As cópias originais foram adicionadas a `assets/media/drive-wallpapers/` e exibidas em [papéis de parede]({{ '/acervo/papeldeparede/' | relative_url }}). A pasta continha quatro opções de resolução para cada um dos sete desenhos; as versões não publicadas continuam guardadas no Drive. **Não há identidade demonstrada** entre essa coleção e as 11 miniaturas do catálogo externo de wallpapers; estas seguem pendentes.
+

@@ -33,10 +33,12 @@ O link acima é mantido para referência histórica e pode não funcionar.
 
 ### Imagens da recriação
 
+**Recuperação parcial:** três imagens desta matéria voltaram a ser exibidas a partir de cópias identificadas no Google Drive pelos mesmos nomes históricos. Os arquivos guardados no Drive estão em JPEG, embora os nomes de origem terminassem em `.png`. As outras duas imagens da matéria e a capa continuam dependendo dos links externos; não foram substituídas por imagens diferentes.
+
 ![Registro da recriação virtual do Reino de Zeal — imagem 1](https://thumbs2.imgbox.com/2d/89/MvRbaMUO_t.png)
 
-![Registro da recriação virtual do Reino de Zeal — imagem 2](https://thumbs2.imgbox.com/ea/8d/7Dvlkkc5_t.png)
+![Registro da recriação virtual do Reino de Zeal — imagem 2]({{ '/assets/media/chronopolis-2022/metaverso/7Dvlkkc5.jpg' | relative_url }})
 
-![Registro da recriação virtual do Reino de Zeal — imagem 3](https://thumbs2.imgbox.com/25/4e/AkmA1Nrx_t.png)
+![Registro da recriação virtual do Reino de Zeal — imagem 3]({{ '/assets/media/chronopolis-2022/metaverso/AkmA1Nrx.jpg' | relative_url }})
 
-![Registro da recriação virtual do Reino de Zeal — imagem 4](https://thumbs2.imgbox.com/c6/80/Bqw2MbCv_t.png)
+![Registro da recriação virtual do Reino de Zeal — imagem 4]({{ '/assets/media/chronopolis-2022/metaverso/Bqw2MbCv.jpg' | relative_url }})

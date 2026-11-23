@@ -39,6 +39,27 @@ Nesta página, o Chronopolis reuniu uma pequena seleção dessas artes. Vale obs
 O link foi mantido como referência do arquivo antigo. A disponibilidade e os direitos de redistribuição não foram verificados.
 
 
+## Coleção de wallpapers recuperada do Google Drive
+
+Encontrei sete papéis de parede de *Chrono Trigger* em uma coleção separada do seu Google Drive, identificada pelos nomes `CTDC_WP1024x768a` a `g`. As sete versões de **1024 × 768** foram preservadas no Chronopolis e podem ser abertas diretamente, sem depender de serviços externos.
+
+<details class="archive-gallery-section">
+<summary>Ver os sete wallpapers <span>7 imagens · 1024 × 768</span></summary>
+<div class="archive-gallery-grid">
+<figure class="archive-gallery-item"><a href="{{ '/assets/media/drive-wallpapers/ctdc-a-1024x768.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer" title="Abrir wallpaper A em tamanho original"><img src="{{ '/assets/media/drive-wallpapers/ctdc-a-1024x768.jpg' | relative_url }}" width="160" height="120" loading="lazy" alt="Wallpaper A da coleção CTDC do Google Drive" /></a><figcaption>CTDC A · 1024 × 768</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ '/assets/media/drive-wallpapers/ctdc-b-1024x768.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer" title="Abrir wallpaper B em tamanho original"><img src="{{ '/assets/media/drive-wallpapers/ctdc-b-1024x768.jpg' | relative_url }}" width="160" height="120" loading="lazy" alt="Wallpaper B da coleção CTDC do Google Drive" /></a><figcaption>CTDC B · 1024 × 768</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ '/assets/media/drive-wallpapers/ctdc-c-1024x768.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer" title="Abrir wallpaper C em tamanho original"><img src="{{ '/assets/media/drive-wallpapers/ctdc-c-1024x768.jpg' | relative_url }}" width="160" height="120" loading="lazy" alt="Wallpaper C da coleção CTDC do Google Drive" /></a><figcaption>CTDC C · 1024 × 768</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ '/assets/media/drive-wallpapers/ctdc-d-1024x768.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer" title="Abrir wallpaper D em tamanho original"><img src="{{ '/assets/media/drive-wallpapers/ctdc-d-1024x768.jpg' | relative_url }}" width="160" height="120" loading="lazy" alt="Wallpaper D da coleção CTDC do Google Drive" /></a><figcaption>CTDC D · 1024 × 768</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ '/assets/media/drive-wallpapers/ctdc-e-1024x768.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer" title="Abrir wallpaper E em tamanho original"><img src="{{ '/assets/media/drive-wallpapers/ctdc-e-1024x768.jpg' | relative_url }}" width="160" height="120" loading="lazy" alt="Wallpaper E da coleção CTDC do Google Drive" /></a><figcaption>CTDC E · 1024 × 768</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ '/assets/media/drive-wallpapers/ctdc-f-1024x768.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer" title="Abrir wallpaper F em tamanho original"><img src="{{ '/assets/media/drive-wallpapers/ctdc-f-1024x768.jpg' | relative_url }}" width="160" height="120" loading="lazy" alt="Wallpaper F da coleção CTDC do Google Drive" /></a><figcaption>CTDC F · 1024 × 768</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ '/assets/media/drive-wallpapers/ctdc-g-1024x768.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer" title="Abrir wallpaper G em tamanho original"><img src="{{ '/assets/media/drive-wallpapers/ctdc-g-1024x768.jpg' | relative_url }}" width="160" height="120" loading="lazy" alt="Wallpaper G da coleção CTDC do Google Drive" /></a><figcaption>CTDC G · 1024 × 768</figcaption></figure>
+</div>
+</details>
+
+**Procedência:** arquivos encontrados em `Chronopolis / Arquivo / Imagens / Chrono Trigger Wallpapers`, Google Drive pessoal, em 23/11/2026. Essa coleção possui também outras resoluções; publicamos apenas uma versão de cada uma das sete imagens, para evitar duplicações. A autoria e os direitos de redistribuição não foram verificados individualmente.
+
+**Importante:** estes sete wallpapers **não foram identificados como os mesmos arquivos das 11 miniaturas externas** de outro catálogo histórico; o inventário dessas referências permanece separado.
+
 ## Wallpapers históricos: preservado e pendente
 
 A seleção acima faz parte do acervo original do Chronopolis. Existe também um conjunto de **referências históricas a papéis de parede** que ainda precisa passar por uma revisão separada.

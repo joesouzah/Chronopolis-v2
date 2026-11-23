@@ -65,9 +65,12 @@ O repositório agora contém **1.126 arquivos de imagem locais** relacionados ao
 
 A auditoria do espelho identificou **1.674 arquivos locais JPG/GIF**, dos quais **1.663** são referenciados nas páginas HTML históricas. **Os 11 arquivos locais restantes são principalmente recursos auxiliares de interface**, enquanto **11 imagens de wallpapers eram links externos e não foram recuperadas**. O total de 1.126 arquivos no repositório não deve ser confundido com as 1.674 imagens do espelho: versões em miniatura duplicadas, imagens de navegação e reproduções integrais de materiais impressos não foram todas publicadas.
 
-**Pendência separada (auditoria de 23/11/2026):** as **20 matérias do Chronopolis original de 2022–2023** contêm **91 ocorrências de imagens nos textos e outras 18 referências de capa**, totalizando **109 usos de 93 URLs distintas**, todas do Imgbox. Os endereços foram preservados e **não foram substituídos por imagens parecidas**. As cópias exatas não foram localizadas no repositório original nem nos arquivos antigos identificados no Google Drive. Falhas de acesso neste ambiente não provam indisponibilidade definitiva. O inventário por página está em [AUDITORIA-IMAGENS-EXTERNAS.md](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-IMAGENS-EXTERNAS.md).
+**Imagens externas do acervo de 2022–2023:** a auditoria histórica identificou **91 usos no texto e 18 capas externas, correspondentes a 93 URLs distintas**. Em 23/11/2026, **três arquivos foram encontrados no Google Drive com os identificadores exatos das referências da matéria sobre metaverso e recuperados localmente**. Restam **88 imagens externas no corpo e 18 capas**, totalizando **106 usos de 90 URLs distintas** sem cópias locais verificadas. A correspondência dos três arquivos recuperados baseou-se no nome de origem (o conteúdo no Drive estava em JPEG, não PNG), não em comparação byte a byte com o Imgbox. Consulte [AUDITORIA-IMAGENS-EXTERNAS.md](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-IMAGENS-EXTERNAS.md) para histórico e incertezas.
 
 O projeto preserva o vínculo e as condições de referência disponíveis, sem afirmar que todos os arquivos têm licença de redistribuição. A revisão de autoria, créditos e permissões permanece em aberto para avaliação editorial.
+
+
+**Coleção adicional confirmada no Google Drive:** sete wallpapers `CTDC_WP1024x768[a-g]` foram incorporados à [galeria de papéis de parede]({{ '/acervo/papeldeparede/' | relative_url }}) com origem identificada. **Não substituem as 11 miniaturas pendentes** do catálogo histórico externo.
 
 ## Materiais que ainda dependem de terceiros
 
@@ -75,7 +78,7 @@ Inventário técnico feito em **22/11/2026**, sobre as 20 transcrições Markdow
 
 | Tipo de referência | Ocorrências registradas | Situação |
 | --- | ---: | --- |
-| Imagens externas do Imgbox | **91 no texto + 18 nas capas** | 93 URLs distintas preservadas; cópias não recuperadas |
+| Imgbox — referência histórica | **91 no texto + 18 nas capas** | 3 restauradas pelo Drive; ainda 88 no texto e 18 capas (90 URLs diferentes) |
 | Links para vídeos no YouTube | **10** | Referências preservadas; disponibilidade individual não conferida |
 | Links para arquivos no Mega | **7** | Referências preservadas; integridade, disponibilidade e direitos de redistribuição não verificados |
 | Experiência do Mozilla Hubs | **1** | Serviço original encerrado em maio de 2024 |
