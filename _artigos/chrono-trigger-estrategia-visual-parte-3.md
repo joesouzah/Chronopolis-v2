@@ -173,9 +173,5 @@ visual_guide_part: 3
 <figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/estrategia/24/estrategia_388.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Captura 388"><img src="{{ site.baseurl }}/assets/media/historico/estrategia/24/estrategia_388.svg" alt="Captura 388 da Etapa 24" loading="lazy" decoding="async" /></a><figcaption>Captura 388</figcaption></figure>
 </div></details>
 
-## Outras partes do roteiro
-
-[Parte 1]({{ '/artigos/chrono-trigger-estrategia-visual-parte-1/' | relative_url }}) · [Parte 2]({{ '/artigos/chrono-trigger-estrategia-visual-parte-2/' | relative_url }}) · [Parte 3]({{ '/artigos/chrono-trigger-estrategia-visual-parte-3/' | relative_url }}) · [Parte 4]({{ '/artigos/chrono-trigger-estrategia-visual-parte-4/' | relative_url }}) · [Parte 5]({{ '/artigos/chrono-trigger-estrategia-visual-parte-5/' | relative_url }})
-
 Este é um **arquivo visual**, não a reprodução integral do texto de estratégia antigo. Use também o [guia geral de exploração]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}) e o [bestiário]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}).
 
