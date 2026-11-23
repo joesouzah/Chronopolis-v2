@@ -211,3 +211,10 @@
  .article-toc-details summary{padding:11px 13px}
  .article-section-heading{scroll-margin-top:83px}
 }
+
+
+/* v0.35 — Seção atual do índice: realce discreto, sem barra fixa. */
+.article-toc-list a.is-current{background:rgba(136,207,225,.11);color:var(--gold);font-weight:700;box-shadow:inset 3px 0 0 var(--gold)}
+.article-toc-list a[aria-current="location"]:focus-visible{outline:2px solid var(--cyan);outline-offset:1px}
+.article-toc-count{max-width:60%;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-align:right}
+@media(max-width:560px){.article-toc-count{max-width:57%}}

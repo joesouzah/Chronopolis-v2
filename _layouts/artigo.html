@@ -10,7 +10,7 @@
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title | escape }} — Chronopolis</title>
-  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.34">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.35">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 </head>
 <body>
@@ -117,6 +117,7 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
   summary.appendChild(count);
   var list=document.createElement('ol');
   list.className='article-toc-list';
+  var links=[];
   headings.forEach(function(heading){
     if(!heading.id){
       var base=slug(heading.textContent.trim()),id=base,n=2;
@@ -130,6 +131,7 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
     var link=document.createElement('a');
     link.href='#'+encodeURIComponent(heading.id);
     link.textContent=heading.textContent.trim();
+    links.push(link);
     item.appendChild(link);
     list.appendChild(item);
   });
@@ -139,11 +141,55 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
   var position=headings[0];
   while(position.parentElement && position.parentElement!==article)position=position.parentElement;
   article.insertBefore(toc,position);
+
+  // Acompanha o título que cruzou a zona de leitura; não altera URL nem rolagem.
+  var activeIndex=-1,framePending=false;
+  var defaultCount=headings.length+' seções';
+  function updateSummary(){
+    if(!details.open && activeIndex>=0){
+      count.textContent='Lendo: '+headings[activeIndex].textContent.trim();
+      count.title='Seção atual: '+headings[activeIndex].textContent.trim();
+    }else{
+      count.textContent=defaultCount;
+      count.removeAttribute('title');
+    }
+  }
+  function updateActive(){
+    framePending=false;
+    var threshold=Math.min(160,window.innerHeight*0.32);
+    var current=-1;
+    for(var i=0;i<headings.length;i++){
+      if(headings[i].getBoundingClientRect().top<=threshold)current=i;
+      else break;
+    }
+    if(current===activeIndex)return;
+    activeIndex=current;
+    links.forEach(function(link,index){
+      var selected=index===current;
+      link.classList.toggle('is-current',selected);
+      if(selected)link.setAttribute('aria-current','location');
+      else link.removeAttribute('aria-current');
+    });
+    updateSummary();
+  }
+  function scheduleActive(){
+    if(framePending)return;
+    framePending=true;
+    requestAnimationFrame(updateActive);
+  }
+  details.addEventListener('toggle',updateSummary);
+  window.addEventListener('scroll',scheduleActive,{passive:true});
+  window.addEventListener('resize',scheduleActive);
+  window.addEventListener('hashchange',scheduleActive);
+  scheduleActive();
   if(location.hash.length>1){
     var targetId;
     try{targetId=decodeURIComponent(location.hash.slice(1))}catch(e){targetId=location.hash.slice(1)}
     if(headings.some(function(h){return h.id===targetId})){
-      requestAnimationFrame(function(){document.getElementById(targetId).scrollIntoView({block:'start'})});
+      requestAnimationFrame(function(){
+        document.getElementById(targetId).scrollIntoView({block:'start'});
+        scheduleActive();
+      });
     }
   }
 })();
