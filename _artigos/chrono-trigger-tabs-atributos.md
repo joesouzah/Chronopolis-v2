@@ -1,131 +1,107 @@
 ---
-title: "Power, Magic e Speed Tabs — fichas de localização"
+title: "Power, Magic e Speed Tabs — 58 fichas de localização"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Referências por região, tipo de Tab e método de obtenção."
+summary: "Consulte 20 referências de Power Tabs, 22 de Magic Tabs e 16 de Speed Tabs, com eras e métodos de obtenção."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/tabs.htm"
 source_consulted_on: 2026-11-22
+source_rechecked_on: 2026-11-23
 reference_sheet: true
-reference_coverage: "Localizações selecionadas; 58 registros históricos identificados"
+reference_coverage: "58/58 registros históricos: 20 Power, 22 Magic e 16 Speed Tabs"
 ---
 
-## Consulta direta
+## 58 registros de obtenção de Tabs
 
-> **Situação do acervo:** Localizações selecionadas; 58 registros históricos identificados. Os campos não incluídos no Chronopolis permanecem pendentes de reconstrução; as linhas disponíveis não devem ser confundidas com o catálogo integral.
+A listagem antiga apresenta **20 linhas de Power Tabs, 22 de Magic Tabs e 16 de Speed Tabs**. Cada linha indica uma localização, evento, baú ou tentativa de Charm. **Uma linha não equivale necessariamente a uma única cápsula**, porque algumas recompensas envolvem vários itens e outras podem ser repetidas.
 
-### Locais e maneiras de obter Speed Tabs
-
-| Região | Possibilidade indicada |
+| Tipo | Efeito |
 | --- | --- |
-| **Kajar — 12.000 a.C.** | Explore as salas e examine os cantos do interior |
-| **Enhasa — 12.000 a.C.** | A sala secreta oferece mais de uma recompensa |
-| **Mt. Woe — 12.000 a.C.** | O confronto com **Giga Gaia** permite tentar **Charm** |
-| **Terra Cave — 12.000 a.C.** | O confronto com **Mud Imp** também é uma oportunidade |
-| **Black Omen** | Explore baús e tente Charm em inimigos específicos |
-| **West Cape — 1000 d.C.** | Examine a região próxima ao túmulo de **Toma** |
+| **Power Tab** | +1 de Power |
+| **Magic Tab** | +1 de Magic |
+| **Speed Tab** | +1 de Speed |
 
-### Localizações em formato de ficha
+### Power Tabs — 20 fichas
 
-| Tab | Região | Forma de obtenção descrita |
+| Região | Era | Como encontrar / obter |
 | --- | --- | --- |
-| Power | Guardia Forest, 600 d.C. | Examinar pontos luminosos |
-| Power | Guardia Forest, 1000 d.C. | Examinar pontos luminosos |
-| Power | Lab 32, 2300 d.C. | Recompensa relacionada à corrida de Johnny |
-| Power | Guardia Castle, 600 d.C. | Evento ligado a suprimentos da ponte |
-| Power | Giant's Claw, 600 d.C. | Exploração da região |
-| Magic | Medina, 1000 d.C. | Casa do ancião, andar superior |
-| Magic | Dorino, 600 d.C. | Interação com Naga-ette Bromide |
-| Magic | Enhasa, 12.000 a.C. | Resolver o enigma dos livros |
-| Magic | Zeal Palace, 12.000 a.C. | Interação com Nu ou batalha contra Golem |
-| Magic | Geno Dome, 2300 d.C. | Exploração e evento com Atropos |
-| Speed | Kajar, 12.000 a.C. | Vasculhar salas |
-| Speed | Enhasa, 12.000 a.C. | Sala secreta |
-| Speed | Mt. Woe, 12.000 a.C. | Charm em Giga Gaia |
-| Speed | Terra Cave, 12.000 a.C. | Charm em Mud Imp |
-| Speed | Black Omen | Baús ou Charm em alvos específicos |
-| Speed | West Cape, 1000 d.C. | Região do túmulo de Toma |
+| Guardia Forest | 600 d.C. | Ponto luminoso inferior, setor sudeste |
+| Guardia Forest | 1000 d.C. | Ponto luminoso próximo aos Hetakes, sudeste |
+| Cathedral | 600 d.C. | Pote da esquerda na sala aberta pelo mecanismo da caveira |
+| Death Peak | 2300 d.C. | À direita da primeira árvore, apesar da ventania |
+| Lab 32 | 2300 d.C. | Corrida com Johnny: 1500 pontos usando Race Log |
+| Proto Dome | 2300 d.C. | Sob o portal para o Fim dos Tempos, em retorno posterior |
+| Guardia Castle | 600 d.C. | Recompensa do cozinheiro no evento da Zenan Bridge |
+| Porre Market | 1000 d.C. | Lado esquerdo, atrás da menina |
+| Tyrano Lair | 65 milhões a.C. | Charm em Black Tyrano, durante batalha com Azala |
+| Arris Dome | 2300 d.C. | Porta selada junto ao Data Center; exige pingente energizado |
+| Terra Cave | 12000 a.C. | Canto sudeste, antes dos confrontos de Beast e Mud Imp |
+| Black Omen | — | Charm em Tubster; encontro pode reaparecer |
+| Sunken Desert | 600 d.C. | Sala anterior a Retinite, após derrota do chefe |
+| Geno Dome | 2300 d.C. | Passagem longa entre elevador e área de Atropos |
+| Sun Keep | 600 d.C. | Fim do caminho, perto da posição de Moon Stone |
+| Hero's Grave | 1000 d.C. | Sala à direita que liga escadas e saguão |
+| Giant's Claw | 600 d.C. | Atrás de um crânio de dinossauro |
+| Giant's Claw | 600 d.C. | Sala de Blue Rock, escadas e canto superior direito |
+| Giant's Claw | 600 d.C. | Sala pequena após saguão dos dois crânios |
+| End of Time | — | Derrotar Spekkio nas formas quinta e sexta; fonte menciona 11 Tabs |
 
-As linhas acima são **pistas documentadas**, não itens garantidos em qualquer edição ou momento da campanha.
+### Magic Tabs — 22 fichas
 
-### Efeito de cada tipo de Tab
-
-| Tab | Atributo melhorado | Quando considerar seu uso |
+| Região | Era | Como encontrar / obter |
 | --- | --- | --- |
-| **Power Tab** | Power (+1) | Para reforçar o atributo físico de um personagem |
-| **Magic Tab** | Magic (+1) | Para fortalecer o atributo mágico |
-| **Speed Tab** | Speed (+1) | Para melhorar a velocidade de ação |
+| Medina's Elder Residence | 1000 d.C. | Piso superior, perto da cama na casa do ancião |
+| Dorino Residence | 600 d.C. | Entregar Naga-ette Bromide para abrir a gaveta |
+| Denadoro Mountains | 600 d.C. | Falar quatro vezes com Kilwala, perto do topo |
+| Magus' Lair | 600 d.C. | Ponto luminoso próximo à cadeira após Flea |
+| Magus' Lair | 600 d.C. | Canto sudeste da sala com caveiras e Save Points |
+| Tyrano Lair | 65 milhões a.C. | Charm em Azala durante batalha com Black Tyrano |
+| Enhasa | 12000 a.C. | Livros Água–Vento–Fogo; enfrentar seis Nus |
+| Zeal Palace | 12000 a.C. | Atender o pedido do Nu na sala de Tabs |
+| Zeal Palace | 12000 a.C. | Charm em Golem na sala da rainha |
+| Trann Dome | 2300 d.C. | Porta atrás do Enertron, requer pingente energizado |
+| Keeper's Dome | 2300 d.C. | Canto noroeste após obter Epoch, porta com pingente |
+| Mt. Woe | 12000 a.C. | Canto sudeste da área antes de Giga Gaia |
+| Ocean Palace | 12000 a.C. | Revisitar a área do elevador após subir |
+| Ocean Palace | 12000 a.C. | Charm nos dois Golems convocados por Dalton |
+| Last Village | 12000 a.C. | Atrás do Nu vendedor, depois que se afasta |
+| Blackbird | 12000 a.C. | Ponto luminoso no duto de ventilação, setor nordeste |
+| Black Omen | — | Charm em Aliens depois de Giga Mutant |
+| Ozzie's Fort | 600 d.C. | Sala secreta junto à guilhotina e ao baú |
+| Geno Dome | 2300 d.C. | Segunda passagem secreta junto ao mecanismo da correia |
+| Geno Dome | 2300 d.C. | Sala de Atropos XR; abrir porta protegida por lasers |
+| Hero's Grave | 1000 d.C. | Lápide de Cyrus após a missão dos espíritos |
+| End of Time | — | Desafios de Spekkio; fonte menciona 15 Tabs distribuídas |
 
-### Cobertura de localizações por tipo
+### Speed Tabs — 16 fichas
 
-| Tipo | Registros de localização ou obtenção |
-| --- | ---: |
-| Power Tab | 20 |
-| Magic Tab | 22 |
-| Speed Tab | 16 |
-| **Total** | **58** |
+| Região | Era | Como encontrar / obter |
+| --- | --- | --- |
+| Medina's Elder House | 1000 d.C. | Mesa da cozinha perto da entrada e do Imp |
+| Denadoro Mountains | 600 d.C. | Canto sudoeste, área com Save Point escondida pelas árvores |
+| Kajar | 12000 a.C. | Janela luminosa, sala nordeste |
+| Enhasa | 12000 a.C. | Sala secreta dos livros; vencer seis Nus |
+| Guardia Forest | 600 d.C. | Baú selado no canto nordeste, pingente energizado |
+| Mt. Woe | 12000 a.C. | Charm na cabeça de Giga Gaia |
+| Terra Cave | 12000 a.C. | Charm em Mud Imp no confronto com Beasts |
+| Black Omen | — | Charm em Panels; texto antigo menciona Mud Imp por engano |
+| Black Omen | — | Baú no canto sudeste da sala de Martello e Cybot |
+| Black Omen | — | Baú acessível pelo lado esquerdo após a sala dos Nus |
+| Black Omen | — | Baú na sala com Aliens e Blobs após Giga Mutant |
+| Black Omen | — | Baú no canto sudoeste da sala de Terra Mutant |
+| Sunken Desert | 600 d.C. | Charm na parte central de Retinite |
+| Geno Dome | 2300 d.C. | Sob a Poyozo Doll guardada por Proto |
+| West Cape | 1000 d.C. | Atrás da lápide de Toma |
+| End of Time | — | Spekkio quinta e sexta formas; fonte repete menção a 11 Tabs |
 
----
+## Limites e divergências do catálogo
 
-## Interpretação e contexto
+As pistas foram resumidas em frases próprias a partir de `tabs.htm`, sem reutilizar suas descrições completas ou imagens. **—** indica que o registro não especifica uma era única, como Black Omen e End of Time. Alguns locais só ficam acessíveis após eventos da história.
 
-> **Spoilers moderados:** este guia cita regiões e inimigos de fases avançadas da aventura.
+**Há erros possíveis na fonte:** a entrada de Speed Tabs em Black Omen menciona **Panels** no contexto, mas cita **Mud Imp** na instrução do Charm, embora Mud Imp seja de Terra Cave. O campo acima privilegia o inimigo contextualizado, mas a divergência permanece registrada. As referências a recompensas de Spekkio incluem números agregados, repetidos em Power e Speed, que **não devem ser tratados como quantidades de Tabs distintas garantidas**.
 
-## Pequenos itens, melhorias permanentes
+Não confunda Tabs escondidas com itens obtidos por Charm ou recompensas variáveis: o registro pode mudar conforme a edição, o estado do jogo e a forma de Spekkio.
 
-As **Tabs** são cápsulas que aumentam atributos dos personagens. Elas podem estar escondidas nos cenários, ser entregues como recompensa ou ser obtidas de certos inimigos com técnicas específicas.
+Consulte [Charm e Twin Charm]({{ '/artigos/chrono-trigger-charm-guia/' | relative_url }}), o [bestiário]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}) e [Levels]({{ '/artigos/chrono-trigger-levels-experiencia/' | relative_url }}).
 
-Há três tipos principais:
-
-A escolha depende da função de cada integrante do grupo. **Speed** merece atenção especial porque não cresce da mesma forma que muitos outros atributos ao ganhar níveis.
-
-## Quantas oportunidades aparecem na lista?
-
-O inventário de localizações reúne **58 registros**, distribuídos da seguinte maneira:
-
-Esses números representam **linhas de um catálogo**, e não 58 cápsulas individuais. Algumas entradas descrevem recompensas com várias Tabs ou oportunidades repetidas no mesmo lugar.
-
-## Onde encontrar Power Tabs?
-
-Há oportunidades em várias épocas. Alguns exemplos úteis:
-
-- **Guardia Forest — 600 e 1000 d.C.:** procure pontos luminosos nas áreas laterais da floresta. Há entradas diferentes para as duas épocas.
-- **Lab 32 — 2300 d.C.:** a corrida contra **Johnny**, usando o **Race Log**, está associada a uma recompensa por alcançar determinada pontuação.
-- **Guardia Castle — 600 d.C.:** uma etapa ligada aos suprimentos enviados aos soldados de Zenan Bridge pode render um presente.
-- **Giant's Claw — 600 d.C.:** a região contém mais de uma oportunidade de encontrar Power Tabs.
-- **Black Omen:** alguns inimigos permitem obter Tabs com **Charm**, oferecendo possibilidades além de baús e pontos brilhantes.
-
-Para estudar itens obtidos em batalha, consulte [Charm: itens que Ayla pode conseguir]({{ '/artigos/chrono-trigger-charm-guia/' | relative_url }}).
-
-## Onde procurar Magic Tabs?
-
-As oportunidades incluem descobertas em casas, salas secretas e eventos de combate:
-
-- **Medina — 1000 d.C.:** examine a casa do ancião, especialmente o piso superior.
-- **Dorino — 600 d.C.:** uma interação envolvendo o **Naga-ette Bromide** dá acesso a uma recompensa.
-- **Enhasa — 12.000 a.C.:** resolver o enigma dos livros pode abrir uma sala secreta.
-- **Zeal Palace — 12.000 a.C.:** há registros ligados a interações com um **Nu** e à batalha contra **Golem**.
-- **Geno Dome — 2300 d.C.:** explore cuidadosamente o primeiro andar e a área associada ao encontro com **Atropos**.
-
-Alguns locais passam por grandes mudanças durante a narrativa. Se uma entrada não fizer sentido na etapa em que você está, talvez ainda falte avançar.
-
-## Onde procurar Speed Tabs?
-
-As Speed Tabs aparecem em locais como **Kajar**, **Enhasa**, **Guardia Forest** e **West Cape**, além de confrontos específicos.
-
-As localizações indicadas são pontos de referência para a exploração, não garantias de que uma Tab estará disponível em todas as versões ou em qualquer momento da história.
-
-## Spekkio e recompensas
-
-No **Fim dos Tempos**, os desafios de **Spekkio** podem conceder cápsulas conforme a forma que ele assume e o nível do grupo.
-
-Por isso, não some todas as recompensas descritas como se fossem um único objeto escondido no cenário: algumas dependem do momento em que o duelo é vencido.
-
-## Planeje antes de usar
-
-Vale guardar Tabs até entender melhor a função de cada personagem, mas não é necessário acumular tudo até o final. Uma melhora permanente pode ajudar justamente naquela batalha em que a equipe está tendo dificuldade.
-
-Se você estiver procurando uma criatura específica para obter uma Tab, o [bestiário de inimigos]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}) e a matéria sobre [Charm]({{ '/artigos/chrono-trigger-charm-guia/' | relative_url }}) oferecem pontos de partida.
-
-*Os nomes e algumas localizações podem variar entre edições e traduções.*
