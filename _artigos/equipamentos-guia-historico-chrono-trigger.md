@@ -1,13 +1,41 @@
 ---
-title: "Armas, armaduras, elmos e acessórios de Chrono Trigger"
+title: "Equipamentos de Chrono Trigger — fichas técnicas"
 date: 2026-11-22
 category: "Arquivo"
-summary: "As quatro categorias de equipamentos e os efeitos especiais mais úteis em combate."
+summary: "Referência de armas, armaduras, elmos e acessórios, com efeitos e cobertura do catálogo."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/equipamentos.htm"
 source_consulted_on: 2026-11-22
+reference_sheet: true
+reference_coverage: "Efeitos e exemplos transcritos; 161 linhas de equipamentos identificadas"
 ---
+
+## Consulta direta
+
+> **Situação do acervo:** Efeitos e exemplos transcritos; 161 linhas de equipamentos identificadas. Os campos não incluídos no Chronopolis permanecem pendentes de reconstrução; as linhas disponíveis não devem ser confundidas com o catálogo integral.
+
+### Efeitos registrados de armaduras
+
+| Equipamento | Efeito descrito |
+| --- | --- |
+| **Blue Vest** | Reduz à metade o dano de Water. |
+| **Blue Mail** | Absorve dano do elemento Water. |
+| **Red Vest** | Reduz à metade o dano de Fire. |
+| **Red Mail** | Absorve dano do elemento Fire. |
+
+### Quantidade de registros por categoria
+
+| Categoria | Registros nas tabelas recuperadas | Informações documentadas |
+| --- | ---: | --- |
+| **Armas** | 68 | Nome, preço de compra e venda, ataque, chance de golpe crítico e localização. |
+| **Armaduras** | 32 | Preços, defesa, personagens que podem equipar e possíveis efeitos. |
+| **Elmos** | 24 | Preços, defesa, restrições e efeitos de proteção ou status. |
+| **Acessórios** | 37 | Nome e descrição dos benefícios, sem uma tabela de preços equivalente às demais. |
+
+---
+
+## Interpretação e contexto
 
 ## Equipar não é apenas aumentar o ataque
 
@@ -16,13 +44,6 @@ source_consulted_on: 2026-11-22
 Os equipamentos se dividem em **armas, armaduras, elmos e acessórios**, categorias com benefícios distintos em combate.
 
 ## Como o catálogo histórico está organizado
-
-| Categoria | Registros nas tabelas recuperadas | Informações documentadas |
-| --- | ---: | --- |
-| **Armas** | 68 | Nome, preço de compra e venda, ataque, chance de golpe crítico e localização. |
-| **Armaduras** | 32 | Preços, defesa, personagens que podem equipar e possíveis efeitos. |
-| **Elmos** | 24 | Preços, defesa, restrições e efeitos de proteção ou status. |
-| **Acessórios** | 37 | Nome e descrição dos benefícios, sem uma tabela de preços equivalente às demais. |
 
 **Total auditado: 161 linhas de equipamentos** nas quatro páginas de dados. Isso não significa 161 itens únicos: algumas linhas, como as diferentes condições dos punhos de Ayla, representam variações relacionadas ao mesmo tipo de arma.
 
@@ -39,13 +60,6 @@ Esse último campo talvez seja o mais interessante para quem está explorando: u
 ### Armaduras: a resistência elemental pode importar mais
 
 Uma diferença interessante aparece entre os equipamentos **Vest** e **Mail** de certas cores.
-
-| Equipamento | Efeito descrito |
-| --- | --- |
-| **Blue Vest** | Reduz à metade o dano de Water. |
-| **Blue Mail** | Absorve dano do elemento Water. |
-| **Red Vest** | Reduz à metade o dano de Fire. |
-| **Red Mail** | Absorve dano do elemento Fire. |
 
 Isso ilustra uma decisão interessante: em determinadas batalhas, uma proteção elemental pode ser mais útil do que comparar apenas os pontos de defesa.
 

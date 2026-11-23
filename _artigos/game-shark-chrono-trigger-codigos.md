@@ -1,13 +1,39 @@
 ---
-title: "Códigos de Chrono Trigger: Game Genie e Pro Action Replay"
+title: "Códigos de Chrono Trigger — tabela Pro Action Replay"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Entenda os códigos do Super Nintendo, como ativá-los no ZSNES e quais cuidados tomar com seus saves."
+summary: "Fichas de códigos, função e condições de uso para a edição norte-americana de SNES."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/game-shark.htm"
 source_consulted_on: 2026-11-22
+reference_sheet: true
+reference_coverage: "3 códigos exemplificados; tabelas completas ainda pendentes de transcrição e testes"
 ---
+
+## Consulta direta
+
+> **Situação do acervo:** 3 códigos exemplificados; tabelas completas ainda pendentes de transcrição e testes. Os campos não incluídos no Chronopolis permanecem pendentes de reconstrução; as linhas disponíveis não devem ser confundidas com o catálogo integral.
+
+### Códigos documentados
+
+| Código | Função descrita |
+| --- | --- |
+| `7E261263` | Crono no nível 99 |
+| `7E260963` | MP máximo de Crono em 99 |
+| `7E2837FF` | Liberar as técnicas individuais de Crono |
+
+### Tipos de alterações disponíveis
+
+| Categoria | O que altera |
+| --- | --- |
+| **Atributos** | HP, MP, nível, força, velocidade, defesa e outras estatísticas de personagens |
+| **Inventário** | Valores de slots de item e quantidade guardada |
+| **Técnicas** | Indicadores de habilidades aprendidas de cada integrante |
+
+---
+
+## Interpretação e contexto
 
 ## O que são os códigos de trapaça?
 
@@ -19,23 +45,11 @@ Usar códigos é uma escolha de cada jogador. Eles podem servir para testes e cu
 
 ## Três categorias de modificações
 
-| Categoria | O que altera |
-| --- | --- |
-| **Atributos** | HP, MP, nível, força, velocidade, defesa e outras estatísticas de personagens |
-| **Inventário** | Valores de slots de item e quantidade guardada |
-| **Técnicas** | Indicadores de habilidades aprendidas de cada integrante |
-
 O conjunto de referência possui blocos separados para **Crono, Marle, Lucca, Robo, Frog, Ayla e Magus**, além de códigos de inventário e Techs.
 
 ## Alguns exemplos de Pro Action Replay
 
 Os três exemplos abaixo se referem à **versão norte-americana de Chrono Trigger para Super Nintendo**, não às versões de DS, computador, celular ou outros relançamentos.
-
-| Código | Função descrita |
-| --- | --- |
-| `7E261263` | Crono no nível 99 |
-| `7E260963` | MP máximo de Crono em 99 |
-| `7E2837FF` | Liberar as técnicas individuais de Crono |
 
 Esses códigos constam em catálogos de referência, mas **não foram executados ou testados pelo Chronopolis**. A compatibilidade depende da versão do jogo e de como o emulador interpreta o formato.
 

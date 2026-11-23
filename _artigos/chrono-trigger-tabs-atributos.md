@@ -1,13 +1,51 @@
 ---
-title: "Power, Magic e Speed Tabs: onde procurar em Chrono Trigger"
+title: "Power, Magic e Speed Tabs — fichas de localização"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Entenda os três tipos de Tabs e encontre exemplos de localizações, recompensas e técnicas para obtê-las."
+summary: "Referências por região, tipo de Tab e método de obtenção."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/tabs.htm"
 source_consulted_on: 2026-11-22
+reference_sheet: true
+reference_coverage: "Localizações selecionadas; 58 registros históricos identificados"
 ---
+
+## Consulta direta
+
+> **Situação do acervo:** Localizações selecionadas; 58 registros históricos identificados. Os campos não incluídos no Chronopolis permanecem pendentes de reconstrução; as linhas disponíveis não devem ser confundidas com o catálogo integral.
+
+### Locais e maneiras de obter Speed Tabs
+
+| Região | Possibilidade indicada |
+| --- | --- |
+| **Kajar — 12.000 a.C.** | Explore as salas e examine os cantos do interior |
+| **Enhasa — 12.000 a.C.** | A sala secreta oferece mais de uma recompensa |
+| **Mt. Woe — 12.000 a.C.** | O confronto com **Giga Gaia** permite tentar **Charm** |
+| **Terra Cave — 12.000 a.C.** | O confronto com **Mud Imp** também é uma oportunidade |
+| **Black Omen** | Explore baús e tente Charm em inimigos específicos |
+| **West Cape — 1000 d.C.** | Examine a região próxima ao túmulo de **Toma** |
+
+### Efeito de cada tipo de Tab
+
+| Tab | Atributo melhorado | Quando considerar seu uso |
+| --- | --- | --- |
+| **Power Tab** | Power (+1) | Para reforçar o atributo físico de um personagem |
+| **Magic Tab** | Magic (+1) | Para fortalecer o atributo mágico |
+| **Speed Tab** | Speed (+1) | Para melhorar a velocidade de ação |
+
+### Cobertura de localizações por tipo
+
+| Tipo | Registros de localização ou obtenção |
+| --- | ---: |
+| Power Tab | 20 |
+| Magic Tab | 22 |
+| Speed Tab | 16 |
+| **Total** | **58** |
+
+---
+
+## Interpretação e contexto
 
 > **Spoilers moderados:** este guia cita regiões e inimigos de fases avançadas da aventura.
 
@@ -17,24 +55,11 @@ As **Tabs** são cápsulas que aumentam atributos dos personagens. Elas podem es
 
 Há três tipos principais:
 
-| Tab | Atributo melhorado | Quando considerar seu uso |
-| --- | --- | --- |
-| **Power Tab** | Power (+1) | Para reforçar o atributo físico de um personagem |
-| **Magic Tab** | Magic (+1) | Para fortalecer o atributo mágico |
-| **Speed Tab** | Speed (+1) | Para melhorar a velocidade de ação |
-
 A escolha depende da função de cada integrante do grupo. **Speed** merece atenção especial porque não cresce da mesma forma que muitos outros atributos ao ganhar níveis.
 
 ## Quantas oportunidades aparecem na lista?
 
 O inventário de localizações reúne **58 registros**, distribuídos da seguinte maneira:
-
-| Tipo | Registros de localização ou obtenção |
-| --- | ---: |
-| Power Tab | 20 |
-| Magic Tab | 22 |
-| Speed Tab | 16 |
-| **Total** | **58** |
 
 Esses números representam **linhas de um catálogo**, e não 58 cápsulas individuais. Algumas entradas descrevem recompensas com várias Tabs ou oportunidades repetidas no mesmo lugar.
 
@@ -65,15 +90,6 @@ Alguns locais passam por grandes mudanças durante a narrativa. Se uma entrada n
 ## Onde procurar Speed Tabs?
 
 As Speed Tabs aparecem em locais como **Kajar**, **Enhasa**, **Guardia Forest** e **West Cape**, além de confrontos específicos.
-
-| Região | Possibilidade indicada |
-| --- | --- |
-| **Kajar — 12.000 a.C.** | Explore as salas e examine os cantos do interior |
-| **Enhasa — 12.000 a.C.** | A sala secreta oferece mais de uma recompensa |
-| **Mt. Woe — 12.000 a.C.** | O confronto com **Giga Gaia** permite tentar **Charm** |
-| **Terra Cave — 12.000 a.C.** | O confronto com **Mud Imp** também é uma oportunidade |
-| **Black Omen** | Explore baús e tente Charm em inimigos específicos |
-| **West Cape — 1000 d.C.** | Examine a região próxima ao túmulo de **Toma** |
 
 As localizações indicadas são pontos de referência para a exploração, não garantias de que uma Tab estará disponível em todas as versões ou em qualquer momento da história.
 

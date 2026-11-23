@@ -1,13 +1,36 @@
 ---
-title: "Charm de Ayla: como conseguir itens dos inimigos"
+title: "Charm de Ayla — tabela de itens por inimigo"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Como usar Charm e Twin Charm e quais adversários podem oferecer itens, equipamentos e Tabs."
+summary: "Tabela de inimigos, locais e objetos obtidos com Charm, com notas de compatibilidade."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/charm.htm"
 source_consulted_on: 2026-11-22
+reference_sheet: true
+reference_coverage: "8 fichas exibidas; 93 registros históricos identificados"
 ---
+
+## Consulta direta
+
+> **Situação do acervo:** 8 fichas exibidas; 93 registros históricos identificados. Os campos não incluídos no Chronopolis permanecem pendentes de reconstrução; as linhas disponíveis não devem ser confundidas com o catálogo integral.
+
+### Inimigos e itens associados a Charm
+
+| Inimigo | Local indicado | Item associado a Charm |
+| --- | --- | --- |
+| **Alien** | Black Omen | Magic Tab |
+| **Golem** | Zeal Palace, 12.000 a.C. | Magic Tab |
+| **Panel** | Black Omen | Speed Tab |
+| **Mud Imp** | Terra Cave, 12.000 a.C. | Speed Tab |
+| **Beast** | Terra Cave, 12.000 a.C. | Rainbow Helm |
+| **Flyclops** | Black Omen | Gold Stud |
+| **Nu** | Hunting Range, Pré-história | Mop |
+| **Fossil Ape** | Giant's Claw, 600 d.C. | MegaElixir |
+
+---
+
+## Interpretação e contexto
 
 > **Spoilers moderados:** há nomes de inimigos e regiões de fases avançadas. Não são explicados os acontecimentos finais da história.
 
@@ -38,17 +61,6 @@ Alguns adversários só aparecem durante eventos específicos. Nesses casos, dei
 O catálogo analisado possui **93 fichas de encontros**, com **92 nomes distintos**. O inimigo **Lavos Spawn** aparece duas vezes, em situações diferentes.
 
 Para uma consulta rápida, selecionei alguns exemplos:
-
-| Inimigo | Local indicado | Item associado a Charm |
-| --- | --- | --- |
-| **Alien** | Black Omen | Magic Tab |
-| **Golem** | Zeal Palace, 12.000 a.C. | Magic Tab |
-| **Panel** | Black Omen | Speed Tab |
-| **Mud Imp** | Terra Cave, 12.000 a.C. | Speed Tab |
-| **Beast** | Terra Cave, 12.000 a.C. | Rainbow Helm |
-| **Flyclops** | Black Omen | Gold Stud |
-| **Nu** | Hunting Range, Pré-história | Mop |
-| **Fossil Ape** | Giant's Claw, 600 d.C. | MegaElixir |
 
 **Atenção:** são associações presentes em um catálogo de consulta. Elas não constituem uma verificação independente de cada versão do jogo, nem garantem sucesso em toda tentativa de Charm.
 

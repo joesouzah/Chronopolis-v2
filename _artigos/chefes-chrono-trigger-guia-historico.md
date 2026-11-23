@@ -1,19 +1,31 @@
 ---
-title: "Chefes de Chrono Trigger: 40 encontros"
+title: "Chefes de Chrono Trigger — fichas de confrontos"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Conheça o índice de 40 confrontos, formas diferentes e chefes com várias partes."
+summary: "Fichas de HP por chefe e por parte, com índice dos 40 encontros identificados."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/chefes.htm"
 source_consulted_on: 2026-11-22
+reference_sheet: true
+reference_coverage: "5 encontros com HP exibido; 40 encontros identificados"
 ---
 
-## Quarenta encontros, cinco partes
+## Consulta direta
 
-Alguns confrontos de *Chrono Trigger* são lembrados pela dificuldade. Outros, por aparecerem no momento certo da história ou exigirem entender uma mecânica nova.
+> **Situação do acervo:** 5 encontros com HP exibido; 40 encontros identificados. Os campos não incluídos no Chronopolis permanecem pendentes de reconstrução; as linhas disponíveis não devem ser confundidas com o catálogo integral.
 
-O índice reúne **40 encontros numerados de B01 a B40**, distribuídos em **cinco partes**, com nomes, locais e informações de combate.
+### HP dos chefes e de suas partes
+
+| Encontro | HP registrado | O que observar |
+| --- | --- | --- |
+| **B01 — Yakra** | 920 | Um dos primeiros chefes listados, em Cathedral (600 d.C.). |
+| **B02 — Dragon Tank** | Corpo 600, rodas 206, cabeça 266 | Três partes com valores próprios, registradas na ficha. |
+| **B03 — Guardian** | Guardian 1.200; cada Bit 200 | O catálogo diferencia o chefe de seus dois Bits. |
+| **B05 — Heckran** | 2.100 | Um confronto posterior, em Magic Cave. |
+| **B06 — Zombor** | Parte superior 960; inferior 800 | Duas partes independentes no registro. |
+
+### Índice dos 40 confrontos
 
 | Página histórica | Entradas do índice | O que abrange |
 | --- | --- | --- |
@@ -23,19 +35,21 @@ O índice reúne **40 encontros numerados de B01 a B40**, distribuídos em **cin
 | **Chefes 04** | B24–B37 | Missões opcionais, Geno Dome, Black Omen e confrontos posteriores. |
 | **Chefes 05** | B38–B40 | As três formas de Lavos, conforme a organização do site. |
 
+---
+
+## Interpretação e contexto
+
+## Quarenta encontros, cinco partes
+
+Alguns confrontos de *Chrono Trigger* são lembrados pela dificuldade. Outros, por aparecerem no momento certo da história ou exigirem entender uma mecânica nova.
+
+O índice reúne **40 encontros numerados de B01 a B40**, distribuídos em **cinco partes**, com nomes, locais e informações de combate.
+
 A contagem de **40** é a quantidade de **entradas numeradas**, não a quantidade de personagens ou criaturas diferentes. **Magus**, por exemplo, aparece em B11 e B22; **Lavos Spawn**, em B23 e B34. O índice também apresenta várias formas de **Lavos** e da **Rainha Zeal**.
 
 ## Nem todo chefe é um único alvo
 
 Uma informação útil extraída do catálogo é a distinção entre inimigos que possuem **partes separadas** e aqueles com apenas uma barra principal de vida.
-
-| Encontro | HP registrado | O que observar |
-| --- | --- | --- |
-| **B01 — Yakra** | 920 | Um dos primeiros chefes listados, em Cathedral (600 d.C.). |
-| **B02 — Dragon Tank** | Corpo 600, rodas 206, cabeça 266 | Três partes com valores próprios, registradas na ficha. |
-| **B03 — Guardian** | Guardian 1.200; cada Bit 200 | O catálogo diferencia o chefe de seus dois Bits. |
-| **B05 — Heckran** | 2.100 | Um confronto posterior, em Magic Cave. |
-| **B06 — Zombor** | Parte superior 960; inferior 800 | Duas partes independentes no registro. |
 
 Esses exemplos mostram uma característica importante dos RPGs: **identificar quais partes existem e como o encontro está organizado** pode ser mais útil do que conhecer apenas o HP total.
 

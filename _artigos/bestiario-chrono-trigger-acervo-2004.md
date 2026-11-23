@@ -1,21 +1,32 @@
 ---
-title: "Bestiário de Chrono Trigger: 126 fichas de inimigos"
+title: "Bestiário de Chrono Trigger — fichas de inimigos"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Como consultar HP, EXP, TP, itens, Charm e localização em 126 fichas de inimigos."
+summary: "Consulta de HP, TP, EXP, itens e locais, com transparência sobre a parte do bestiário já transcrita."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/inimigos.htm"
 source_consulted_on: 2026-11-22
+reference_sheet: true
+reference_coverage: "6 fichas com dados exibidos; 126 identificadas no catálogo recuperado"
 ---
 
-## Um universo de criaturas bem diferentes
+## Consulta direta
 
-*Chrono Trigger* tem inimigos espalhados por florestas, ruínas, laboratórios e palácios de épocas distintas. Não basta saber que um monstro existe: descobrir **onde aparece**, **o que oferece depois da batalha** e **o que pode ser obtido com Charm** ajuda a planejar a exploração.
+> **Situação do acervo:** 6 fichas com dados exibidos; 126 identificadas no catálogo recuperado. Os campos não incluídos no Chronopolis permanecem pendentes de reconstrução; as linhas disponíveis não devem ser confundidas com o catálogo integral.
 
-O bestiário reúne duas listas alfabéticas de criaturas, com estatísticas, recompensas e localização.
+### Inimigos — fichas disponíveis para consulta
 
-Conferi diretamente os dois documentos salvos:
+| Inimigo | HP registrado | Local indicado | Detalhe da ficha |
+| --- | ---: | --- | --- |
+| **Acid** | 10 | Factory, 2300 d.C. | Uma ficha simples: 1 TP e 33 EXP. |
+| **Kilwala** | 160 | Mystic Mountain, Pré-história | O catálogo cita *Petal* nos campos Item e Charm. |
+| **Jinn** | 450 | Ocean Palace, 12.000 a.C. | Um inimigo de uma região ligada aos acontecimentos de Zeal. |
+| **Turret** | 700 | Blackbird, 12.000 a.C. | O registro indica **50 TP**, valor que merece conferência antes de ser usado como referência definitiva. |
+| **Alien** | 1.050 | Black Omen | A ficha registra **Magic Tab** no campo Charm. |
+| **Nu** | 1.234 | Kajar, 12.000 a.C. | Um exemplo curioso: **30 TP** e o item **Mop** associado a Charm. |
+
+### Cobertura do catálogo histórico
 
 | Parte do acervo | Intervalo da lista | Fichas identificadas |
 | --- | --- | ---: |
@@ -23,11 +34,7 @@ Conferi diretamente os dois documentos salvos:
 | **Inimigos — Parte 2** | Jinn até Yodu De (J–Y) | 65 |
 | **Total** | Duas páginas | **126** |
 
-Os **126 nomes identificados são distintos dentro dessas duas páginas**. Isso não significa que o levantamento seja a lista oficial e exaustiva de todas as criaturas de cada edição de *Chrono Trigger*.
-
-## Como ler as fichas
-
-Cada ficha apresenta os seguintes campos:
+### Legenda dos campos das fichas
 
 | Campo | O que informa ao jogador |
 | --- | --- |
@@ -39,20 +46,29 @@ Cada ficha apresenta os seguintes campos:
 | **Charm** | Item que pode ser obtido por meio da técnica *Charm* de Ayla, quando disponível. |
 | **Localização** | Região e, em muitos casos, a época em que o inimigo aparece. |
 
+---
+
+## Interpretação e contexto
+
+## Um universo de criaturas bem diferentes
+
+*Chrono Trigger* tem inimigos espalhados por florestas, ruínas, laboratórios e palácios de épocas distintas. Não basta saber que um monstro existe: descobrir **onde aparece**, **o que oferece depois da batalha** e **o que pode ser obtido com Charm** ajuda a planejar a exploração.
+
+O bestiário reúne duas listas alfabéticas de criaturas, com estatísticas, recompensas e localização.
+
+Conferi diretamente os dois documentos salvos:
+
+Os **126 nomes identificados são distintos dentro dessas duas páginas**. Isso não significa que o levantamento seja a lista oficial e exaustiva de todas as criaturas de cada edição de *Chrono Trigger*.
+
+## Como ler as fichas
+
+Cada ficha apresenta os seguintes campos:
+
 A diferença entre **Item** e **Charm** merece atenção. O comando *Charm* não é simplesmente outra forma de apresentar a recompensa normal: ele é uma técnica de Ayla usada para tentar obter itens dos inimigos. A descrição dessa função também aparece em [guias de técnicas de Chrono Trigger](https://guides.gamercorner.net/ct/techs/charm).
 
 ## Seis exemplos para entender o catálogo
 
 Para ilustrar a variedade de registros, selecionei **seis exemplos**, em vez de reproduzir as 126 fichas da fonte.
-
-| Inimigo | HP registrado | Local indicado | Detalhe da ficha |
-| --- | ---: | --- | --- |
-| **Acid** | 10 | Factory, 2300 d.C. | Uma ficha simples: 1 TP e 33 EXP. |
-| **Kilwala** | 160 | Mystic Mountain, Pré-história | O catálogo cita *Petal* nos campos Item e Charm. |
-| **Jinn** | 450 | Ocean Palace, 12.000 a.C. | Um inimigo de uma região ligada aos acontecimentos de Zeal. |
-| **Turret** | 700 | Blackbird, 12.000 a.C. | O registro indica **50 TP**, valor que merece conferência antes de ser usado como referência definitiva. |
-| **Alien** | 1.050 | Black Omen | A ficha registra **Magic Tab** no campo Charm. |
-| **Nu** | 1.234 | Kajar, 12.000 a.C. | Um exemplo curioso: **30 TP** e o item **Mop** associado a Charm. |
 
 **Importante:** HP, localização e itens acima foram extraídos do **catálogo histórico**, sem comprovação independente para todas as versões e traduções. Os próprios registros antigos podem conter grafias, erros ou diferenças de localização.
 
