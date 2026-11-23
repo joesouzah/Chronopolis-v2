@@ -8,23 +8,23 @@ source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/mapas.htm"
 source_consulted_on: 2026-11-22
 reference_sheet: true
-reference_coverage: "6 referências de mapas identificadas; prévias originais ainda não republicadas"
+reference_coverage: "6 de 6 prévias de mapas restauradas do espelho histórico"
 ---
 
 ## Consulta direta
 
-> **Situação do acervo:** 6 referências de mapas identificadas; prévias originais ainda não republicadas. Os demais registros ainda não foram transcritos e não são apresentados como disponíveis para consulta integral.
+> **Situação do acervo:** as seis prévias históricas estão restauradas. São miniaturas de aproximadamente 180 pixels de largura, não mapas em resolução máxima. Clique em uma prévia para vê-la no tamanho preservado.
 
 ### Mapas e épocas identificados
 
-| Era indicada no arquivo | O que permite comparar |
-| --- | --- |
-| **65.000.000 a.C.** | O território da Pré-história, usado como referência para as viagens que envolvem Ayla e os Reptites. |
-| **12.000 a.C.** | A era de Zeal antes dos acontecimentos do Ocean Palace. |
-| **12.000 a.C. — depois do Ocean Palace** | A mudança no mapa da mesma época depois de um acontecimento decisivo da história. |
-| **600 d.C.** | A geografia da Idade Média, com rotas e assentamentos de outro período. |
-| **1000 d.C.** | A configuração do mundo no tempo de Crono e da Feira do Milênio. |
-| **2300 d.C.** | O futuro arruinado que o grupo encontra durante a aventura. |
+| Prévia | Era indicada no arquivo | O que permite comparar |
+| :---: | --- | --- |
+| <a href="{{ site.baseurl }}/assets/media/historico/images/t_map-65000000.jpg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar a prévia do mapa de 65.000.000 a.C."><img class="archive-thumb archive-thumb--map" src="{{ site.baseurl }}/assets/media/historico/images/t_map-65000000.jpg" alt="Mapa de 65.000.000 a.C." loading="lazy" decoding="async" /></a> | **65.000.000 a.C.** | O território da Pré-história, usado como referência para as viagens que envolvem Ayla e os Reptites. |
+| <a href="{{ site.baseurl }}/assets/media/historico/images/t_map-12000.jpg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar a prévia do mapa de 12.000 a.C."><img class="archive-thumb archive-thumb--map" src="{{ site.baseurl }}/assets/media/historico/images/t_map-12000.jpg" alt="Mapa de 12.000 a.C." loading="lazy" decoding="async" /></a> | **12.000 a.C.** | A era de Zeal antes dos acontecimentos do Ocean Palace. |
+| <a href="{{ site.baseurl }}/assets/media/historico/images/t_map-12000b.jpg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar a prévia do mapa de 12.000 a.C. — depois do Ocean Palace"><img class="archive-thumb archive-thumb--map" src="{{ site.baseurl }}/assets/media/historico/images/t_map-12000b.jpg" alt="Mapa de 12.000 a.C. — depois do Ocean Palace" loading="lazy" decoding="async" /></a> | **12.000 a.C. — depois do Ocean Palace** | A mudança no mapa da mesma época depois de um acontecimento decisivo da história. |
+| <a href="{{ site.baseurl }}/assets/media/historico/images/t_map-600.jpg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar a prévia do mapa de 600 d.C."><img class="archive-thumb archive-thumb--map" src="{{ site.baseurl }}/assets/media/historico/images/t_map-600.jpg" alt="Mapa de 600 d.C." loading="lazy" decoding="async" /></a> | **600 d.C.** | A geografia da Idade Média, com rotas e assentamentos de outro período. |
+| <a href="{{ site.baseurl }}/assets/media/historico/images/t_map-1000.jpg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar a prévia do mapa de 1000 d.C."><img class="archive-thumb archive-thumb--map" src="{{ site.baseurl }}/assets/media/historico/images/t_map-1000.jpg" alt="Mapa de 1000 d.C." loading="lazy" decoding="async" /></a> | **1000 d.C.** | A configuração do mundo no tempo de Crono e da Feira do Milênio. |
+| <a href="{{ site.baseurl }}/assets/media/historico/images/t_map-2300.jpg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar a prévia do mapa de 2300 d.C."><img class="archive-thumb archive-thumb--map" src="{{ site.baseurl }}/assets/media/historico/images/t_map-2300.jpg" alt="Mapa de 2300 d.C." loading="lazy" decoding="async" /></a> | **2300 d.C.** | O futuro arruinado que o grupo encontra durante a aventura. |
 
 ---
 

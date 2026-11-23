@@ -9,108 +9,109 @@ source_url: "http://rpga8.free.fr/especial/ct/charm.htm"
 source_consulted_on: 2026-11-22
 source_rechecked_on: 2026-11-22
 reference_sheet: true
+sprite_table: "charm"
 reference_coverage: "93 de 93 entradas de Charm transcritas, 92 nomes distintos"
 ---
 
 ## Tabela completa de Charm
 
-**93 registros recuperados** do catálogo histórico, com **92 nomes de inimigos distintos**. Lavos Spawn aparece duas vezes porque há fichas em locais diferentes. Use a busca da tabela para encontrar itens, inimigos e regiões.
+**93 registros recuperados** do catálogo histórico, com **92 nomes de inimigos distintos**. Lavos Spawn aparece duas vezes porque há fichas em locais diferentes. Use a busca da tabela para encontrar itens, inimigos e regiões. As miniaturas correspondem aos sprites da tabela histórica; Mohavor usa a imagem correspondente do bestiário preservado.
 
-| Inimigo | Charm | Twin Charm (quando registrado) | Localização |
-| --- | --- | --- | --- |
-| Acid | Barrier | — | Factory (2.300 A.D.) |
-| Alien | Magic Tab | Shield | Black Omen |
-| Amphibite | 2x Horns | 2x Horns | Hunting Range (65.000.000 B.C.) |
-| Azala | Magic Tab | — | Tyrano Lair (65.000.000 B.C.) |
-| Bantam Imp | Alloy Blade | — | Mt. Woe (12.000 B.C.) |
-| Barghest | Shield | — | Ocean Palace (12.000 B.C.) |
-| Beast | Rainbow Helm | — | Terra Cave (12.000 B.C.) |
-| Black Tyrano | Power Tab e Magic Tab | — | Tyrano Lair (65.000.000 B.C.) |
-| Blob | Magic Ring | Magic Ring | Black Omen |
-| Blue Beast | Mermaid Cap | — | Terra Cave (12.000 B.C.) |
-| Blue Scout | Shield | — | Ocean Palace (12.000 B.C.) |
-| Bug | Heal | — | Arris Dome (2.300 A.D.) |
-| Cave Ape | Fang | — | Dactyl's Nest (65.000.000 B.C.) |
-| Cave Bat | Revive | — | Heckran Cave (1.000 A.D.) |
-| Croaker | 2x Fangs | 2x Fangs | Hunting Range (65.000.000 B.C.) |
-| Cybot | Shield | Power Meal | Black Omen |
-| Dalton | Power Meal | — | Zeal Palace (12.000 B.C.) |
-| Dalton Plus | Power Meal | — | Blackbird (12.000 B.C.) |
-| Debuggest | Elixir | Shield | Geno Dome (2.300 A.D.) |
-| Defunct | Elixir | Lapis | Northern Ruins (600 A.D.) |
-| Departed | Elixir | — | Northern Ruins (600 A.D.) |
-| Display | Elixir | — | Geno Dome (2.300 A.D.) |
-| Evilweevil | Dream Gun | Feather | Reptite Lair (65.000.000 B.C.) |
-| Free Lancer | Barrier | — | Denadoro Mountains (600 A.D.) |
-| Flea Plus | Flea Vest | — | Ozzie's Fort (600 A.D.) |
-| Flyclops | Gold Stud | — | Black Omen |
-| Fly Trap | Dream Bow | Petal | Reptite Lair (65.000.000 B.C.) |
-| Fossil Ape | MegaElixir | Megaelixir | Giant's Claw (600 A.D.) |
-| Gargoyle | Big Hand | — | Mt. Woe (12.000 B.C.) |
-| Gato | Power Meal | — | Leene Square (1.000 A.D.) |
-| Giga Gaia | Speed Tab (cabeça) | — | Mt. Woe (12.000 B.C.) |
-| Giga Mutant | Wall Ring (parte superior), Hit Ring (parte inferior) | — | Black Omen |
-| Gigasaur | Barrier | Ruby Armor | Giant's Claw (600 A.D.) |
-| Gnasher | Revive | — | Guardia Castle (1.000 A.D.) |
-| Gold Eaglet | Ether | Feather | Forest Maze (65.000.000 B.C.) |
-| Golem | Magic Tab | — | Zeal Palace (12.000 B.C.) |
-| Goon | Elixir | Nova Armor | Black Omen |
-| Great Ozzie | Ozzie Pants | — | Ozzie's Fort (600 A.D.) |
-| Hexapod | Barrier | Lapis | Sunken Desert (600 A.D.) |
-| Incognito | Muscle Ring | — | Black Omen |
-| Ion | 2x Feathers | 2x Feathers | Hunting Range (65.000.000 B.C.) |
-| Jinn Bottle | Shield | — | Heckran Cave (1.000 A.D.) |
-| Laser Guard | Full Tonic | — | Geno Dome (2.300 A.D.) |
-| Lavos Spawn | Elixir | — | Death Peak (2.300 A.D.) |
-| Lavos Spawn | Haste Helmet (cabeça), Safe Helm (concha) | — | Black Omen |
-| Lizardactyl | HyperEther | — | Giant's Claw (600 A.D.) |
-| Macabre | Full Ether | Ether | Death Peak (2.300 A.D.) |
-| Mage | Barrier | Lapis | Ocean Palace (12.000 B.C.) |
-| Magus | MegaElixir | — | North Cape (12.000 B.C.) |
-| Mammon Machine | MegaElixir | — | Black Omen |
-| Man Eater | Pearl Edge | — | Mt. Woe (12.000 B.C.) |
-| Martello | HyperEther | — | Black Omen |
-| Mega Mutant | Elixir (parte superior), Vigil Hat (parte inferior) | — | Black Omen |
-| Megasaur | Aeon Blade | Fang | Reptite Lair (65.000.000 B.C.) |
-| Metal Mute | HyperEther | — | Black Omen |
-| Mohavor | Shield | — | Sunken Desert (1.000 A.D.) |
-| Mother Brain | Blue Mail | — | Geno Dome (2.300 A.D.) |
-| Mud Imp | Speed Tab | — | Terra Cave (12.000 B.C.) |
-| Mutant | Full Tonic | — | Lab 16, Lab 32 (2.300 A.D.) |
-| Nereid | Ether | — | Sewer Access (2.300 A.D.) |
-| Nizbel | Third Eye | — | Reptite Lair (65.000.000 B.C.) |
-| Nu | Mop | — | Hunting Range (65.000.000 B.C.) |
-| Octopod | Mid Ether | — | Lab 16 (2.300 A.D.) |
-| Ogan | Shield | — | Denadoro Mountains (600 A.D.) |
-| Ozzie | Ozzie Pants | — | Ozzie's Fort (600 A.D.) |
-| Panel | Speed Tab | — | Black Omen |
-| Proto 3 | Full Tonic | — | Factory (2.300 A.D.) |
-| Proto 4 | Barrier | Elixir | Geno Dome (2.300 A.D.) |
-| Queen Zeal | MegaElixir | — | Black Omen |
-| Reaper | Elixir | — | Northern Ruins (600 A.D.) |
-| Red Beast | Elixir | — | Terra Cave (12.000 B.C.) |
-| Red Scout | Barrier | — | Ocean Palace (12.000 B.C.) |
-| Reptite | Magma Hand | Petal | Mystic Mountain (65.000.000 B.C.) |
-| Retinite | Speed Tab (parte do meio) | — | Sunken Desert (600 A.D.) |
-| Rubble | Mid Ether | — | Mt. Woe (12.000 B.C.) |
-| Ruminator | MegaElixir | — | Black Omen |
-| Rust Tyrano | Red Mail | — | Giant's Claw (600 A.D.) |
-| Scouter | Lapis | — | Ocean Palace (12.000 B.C.) |
-| Sentry | HyperEther | Full Ether | Northern Ruins (600 A.D.) |
-| Shitake | Petal | — | Reptite Lar (65.000.000 B.C.) |
-| Son of Sun | Black Mail (meio), Elixir (chamas) | — | Sun Palace (2.300 A.D.) |
-| Stone Imp | Mid Ether | — | Mt. Woe (12.000 B.C.) |
-| Super Slash | Slasher 2 | — | Ozzie's Fort (600 A.D.) |
-| Synchrite | Gold Earring | HyperEther | Black Omen |
-| Terra Mutant | Muscle Ring (Upper), Power Seal (Lower) | — | Black Omen |
-| Terrasaur | Lapis | — | Tyrano Lair (65.000.000 B.C.) |
-| T'pole | Mid Tonic | — | Cursed Woods (600 A.D.) |
-| Tubster | Elixir | Power Tab | Black Omen |
-| Turret | Mid Ether | — | Blackbird (12.000 B.C.) |
-| Volcano | Lapis | — | Tyrano Lair (65.000.000 B.C.) |
-| Winged Ape | Ruby Vest | Fang | Forest Maze (65.000.000 B.C.) |
-| Yakra XIII | MegaElixir | White Mail | Guardia Castle (1.000 A.D.) |
-| Zeal | MegaElixir (Head), Prism Dress (Left Hand), Prism Helm (Right Hand) | — | Black Omen |
+| Sprite | Inimigo | Charm | Twin Charm (quando registrado) | Localização |
+| :---: | --- | --- | --- | --- |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/acid.gif" alt="Sprite de Acid" loading="lazy" decoding="async" /></span> | Acid | Barrier | — | Factory (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/alien.gif" alt="Sprite de Alien" loading="lazy" decoding="async" /></span> | Alien | Magic Tab | Shield | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/amphibite.gif" alt="Sprite de Amphibite" loading="lazy" decoding="async" /></span> | Amphibite | 2x Horns | 2x Horns | Hunting Range (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/azala.gif" alt="Sprite de Azala" loading="lazy" decoding="async" /></span> | Azala | Magic Tab | — | Tyrano Lair (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/bantamimp.gif" alt="Sprite de Bantam Imp" loading="lazy" decoding="async" /></span> | Bantam Imp | Alloy Blade | — | Mt. Woe (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/barghest.gif" alt="Sprite de Barghest" loading="lazy" decoding="async" /></span> | Barghest | Shield | — | Ocean Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/beast.gif" alt="Sprite de Beast" loading="lazy" decoding="async" /></span> | Beast | Rainbow Helm | — | Terra Cave (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/blacktyrano.gif" alt="Sprite de Black Tyrano" loading="lazy" decoding="async" /></span> | Black Tyrano | Power Tab e Magic Tab | — | Tyrano Lair (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/blob.gif" alt="Sprite de Blob" loading="lazy" decoding="async" /></span> | Blob | Magic Ring | Magic Ring | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/bluebeast.gif" alt="Sprite de Blue Beast" loading="lazy" decoding="async" /></span> | Blue Beast | Mermaid Cap | — | Terra Cave (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/bluescout.gif" alt="Sprite de Blue Scout" loading="lazy" decoding="async" /></span> | Blue Scout | Shield | — | Ocean Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/bug.gif" alt="Sprite de Bug" loading="lazy" decoding="async" /></span> | Bug | Heal | — | Arris Dome (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/caveape.gif" alt="Sprite de Cave Ape" loading="lazy" decoding="async" /></span> | Cave Ape | Fang | — | Dactyl's Nest (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/cavebat.gif" alt="Sprite de Cave Bat" loading="lazy" decoding="async" /></span> | Cave Bat | Revive | — | Heckran Cave (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/amphibite.gif" alt="Sprite de Croaker" loading="lazy" decoding="async" /></span> | Croaker | 2x Fangs | 2x Fangs | Hunting Range (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/cybot.gif" alt="Sprite de Cybot" loading="lazy" decoding="async" /></span> | Cybot | Shield | Power Meal | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/dalton.gif" alt="Sprite de Dalton" loading="lazy" decoding="async" /></span> | Dalton | Power Meal | — | Zeal Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/daltonplus.gif" alt="Sprite de Dalton Plus" loading="lazy" decoding="async" /></span> | Dalton Plus | Power Meal | — | Blackbird (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/debuggest.gif" alt="Sprite de Debuggest" loading="lazy" decoding="async" /></span> | Debuggest | Elixir | Shield | Geno Dome (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/defunct.gif" alt="Sprite de Defunct" loading="lazy" decoding="async" /></span> | Defunct | Elixir | Lapis | Northern Ruins (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/departed.gif" alt="Sprite de Departed" loading="lazy" decoding="async" /></span> | Departed | Elixir | — | Northern Ruins (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/display.gif" alt="Sprite de Display" loading="lazy" decoding="async" /></span> | Display | Elixir | — | Geno Dome (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/evilweevil.gif" alt="Sprite de Evilweevil" loading="lazy" decoding="async" /></span> | Evilweevil | Dream Gun | Feather | Reptite Lair (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/freelancer.gif" alt="Sprite de Free Lancer" loading="lazy" decoding="async" /></span> | Free Lancer | Barrier | — | Denadoro Mountains (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/fleaplus.gif" alt="Sprite de Flea Plus" loading="lazy" decoding="async" /></span> | Flea Plus | Flea Vest | — | Ozzie's Fort (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/flyclops.gif" alt="Sprite de Flyclops" loading="lazy" decoding="async" /></span> | Flyclops | Gold Stud | — | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/flytrap.gif" alt="Sprite de Fly Trap" loading="lazy" decoding="async" /></span> | Fly Trap | Dream Bow | Petal | Reptite Lair (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/fossilape.gif" alt="Sprite de Fossil Ape" loading="lazy" decoding="async" /></span> | Fossil Ape | MegaElixir | Megaelixir | Giant's Claw (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/gargoyle.gif" alt="Sprite de Gargoyle" loading="lazy" decoding="async" /></span> | Gargoyle | Big Hand | — | Mt. Woe (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/gato.gif" alt="Sprite de Gato" loading="lazy" decoding="async" /></span> | Gato | Power Meal | — | Leene Square (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/gigagaia.gif" alt="Sprite de Giga Gaia" loading="lazy" decoding="async" /></span> | Giga Gaia | Speed Tab (cabeça) | — | Mt. Woe (12.000 B.C.) |
+| <span class="sprite-portrait sprite-portrait--group"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/gigamutantt.gif" alt="Sprite de Giga Mutant (1/2)" loading="lazy" decoding="async" /><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/gigamutantb.gif" alt="Sprite de Giga Mutant (2/2)" loading="lazy" decoding="async" /></span> | Giga Mutant | Wall Ring (parte superior), Hit Ring (parte inferior) | — | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/gigasaur.gif" alt="Sprite de Gigasaur" loading="lazy" decoding="async" /></span> | Gigasaur | Barrier | Ruby Armor | Giant's Claw (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/gnasher.gif" alt="Sprite de Gnasher" loading="lazy" decoding="async" /></span> | Gnasher | Revive | — | Guardia Castle (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/goldeaglet.gif" alt="Sprite de Gold Eaglet" loading="lazy" decoding="async" /></span> | Gold Eaglet | Ether | Feather | Forest Maze (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/golem.gif" alt="Sprite de Golem" loading="lazy" decoding="async" /></span> | Golem | Magic Tab | — | Zeal Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/goon.gif" alt="Sprite de Goon" loading="lazy" decoding="async" /></span> | Goon | Elixir | Nova Armor | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/greatozzie.gif" alt="Sprite de Great Ozzie" loading="lazy" decoding="async" /></span> | Great Ozzie | Ozzie Pants | — | Ozzie's Fort (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/hexapod.gif" alt="Sprite de Hexapod" loading="lazy" decoding="async" /></span> | Hexapod | Barrier | Lapis | Sunken Desert (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/incognito.gif" alt="Sprite de Incognito" loading="lazy" decoding="async" /></span> | Incognito | Muscle Ring | — | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/ion.gif" alt="Sprite de Ion" loading="lazy" decoding="async" /></span> | Ion | 2x Feathers | 2x Feathers | Hunting Range (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/jinnbottle.gif" alt="Sprite de Jinn Bottle" loading="lazy" decoding="async" /></span> | Jinn Bottle | Shield | — | Heckran Cave (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/laserguard.gif" alt="Sprite de Laser Guard" loading="lazy" decoding="async" /></span> | Laser Guard | Full Tonic | — | Geno Dome (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/lavosspawns.gif" alt="Sprite de Lavos Spawn" loading="lazy" decoding="async" /></span> | Lavos Spawn | Elixir | — | Death Peak (2.300 A.D.) |
+| <span class="sprite-portrait sprite-portrait--group"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/lavosspawnbo.gif" alt="Sprite de Lavos Spawn (1/2)" loading="lazy" decoding="async" /><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/lavosspawns.gif" alt="Sprite de Lavos Spawn (2/2)" loading="lazy" decoding="async" /></span> | Lavos Spawn | Haste Helmet (cabeça), Safe Helm (concha) | — | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/lizardactyl.gif" alt="Sprite de Lizardactyl" loading="lazy" decoding="async" /></span> | Lizardactyl | HyperEther | — | Giant's Claw (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/macabre.gif" alt="Sprite de Macabre" loading="lazy" decoding="async" /></span> | Macabre | Full Ether | Ether | Death Peak (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/mage.gif" alt="Sprite de Mage" loading="lazy" decoding="async" /></span> | Mage | Barrier | Lapis | Ocean Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/maguse2.gif" alt="Sprite de Magus" loading="lazy" decoding="async" /></span> | Magus | MegaElixir | — | North Cape (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/mammonm.gif" alt="Sprite de Mammon Machine" loading="lazy" decoding="async" /></span> | Mammon Machine | MegaElixir | — | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/maneater.gif" alt="Sprite de Man Eater" loading="lazy" decoding="async" /></span> | Man Eater | Pearl Edge | — | Mt. Woe (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/martello.gif" alt="Sprite de Martello" loading="lazy" decoding="async" /></span> | Martello | HyperEther | — | Black Omen |
+| <span class="sprite-portrait sprite-portrait--group"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/megamutantt.gif" alt="Sprite de Mega Mutant (1/2)" loading="lazy" decoding="async" /><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/megamutantb.gif" alt="Sprite de Mega Mutant (2/2)" loading="lazy" decoding="async" /></span> | Mega Mutant | Elixir (parte superior), Vigil Hat (parte inferior) | — | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/megasaur.gif" alt="Sprite de Megasaur" loading="lazy" decoding="async" /></span> | Megasaur | Aeon Blade | Fang | Reptite Lair (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/metalmute.gif" alt="Sprite de Metal Mute" loading="lazy" decoding="async" /></span> | Metal Mute | HyperEther | — | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/mohavor.gif" alt="Sprite de Mohavor" loading="lazy" decoding="async" /></span> | Mohavor | Shield | — | Sunken Desert (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/motherbrain.gif" alt="Sprite de Mother Brain" loading="lazy" decoding="async" /></span> | Mother Brain | Blue Mail | — | Geno Dome (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/mudimp.gif" alt="Sprite de Mud Imp" loading="lazy" decoding="async" /></span> | Mud Imp | Speed Tab | — | Terra Cave (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/mutant.gif" alt="Sprite de Mutant" loading="lazy" decoding="async" /></span> | Mutant | Full Tonic | — | Lab 16, Lab 32 (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/nereid.gif" alt="Sprite de Nereid" loading="lazy" decoding="async" /></span> | Nereid | Ether | — | Sewer Access (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/nizbel.gif" alt="Sprite de Nizbel" loading="lazy" decoding="async" /></span> | Nizbel | Third Eye | — | Reptite Lair (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/nu.gif" alt="Sprite de Nu" loading="lazy" decoding="async" /></span> | Nu | Mop | — | Hunting Range (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/octopod.gif" alt="Sprite de Octopod" loading="lazy" decoding="async" /></span> | Octopod | Mid Ether | — | Lab 16 (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/ogan.gif" alt="Sprite de Ogan" loading="lazy" decoding="async" /></span> | Ogan | Shield | — | Denadoro Mountains (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/ozz.gif" alt="Sprite de Ozzie" loading="lazy" decoding="async" /></span> | Ozzie | Ozzie Pants | — | Ozzie's Fort (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/panel.gif" alt="Sprite de Panel" loading="lazy" decoding="async" /></span> | Panel | Speed Tab | — | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/proto3.gif" alt="Sprite de Proto 3" loading="lazy" decoding="async" /></span> | Proto 3 | Full Tonic | — | Factory (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/proto4.gif" alt="Sprite de Proto 4" loading="lazy" decoding="async" /></span> | Proto 4 | Barrier | Elixir | Geno Dome (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/zeal.gif" alt="Sprite de Queen Zeal" loading="lazy" decoding="async" /></span> | Queen Zeal | MegaElixir | — | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/reaper.gif" alt="Sprite de Reaper" loading="lazy" decoding="async" /></span> | Reaper | Elixir | — | Northern Ruins (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/redbeast.gif" alt="Sprite de Red Beast" loading="lazy" decoding="async" /></span> | Red Beast | Elixir | — | Terra Cave (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/redscout.gif" alt="Sprite de Red Scout" loading="lazy" decoding="async" /></span> | Red Scout | Barrier | — | Ocean Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/reptite.gif" alt="Sprite de Reptite" loading="lazy" decoding="async" /></span> | Reptite | Magma Hand | Petal | Mystic Mountain (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/retinitem.gif" alt="Sprite de Retinite" loading="lazy" decoding="async" /></span> | Retinite | Speed Tab (parte do meio) | — | Sunken Desert (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/rubble.gif" alt="Sprite de Rubble" loading="lazy" decoding="async" /></span> | Rubble | Mid Ether | — | Mt. Woe (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/ruminator.gif" alt="Sprite de Ruminator" loading="lazy" decoding="async" /></span> | Ruminator | MegaElixir | — | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/rusttyrano.gif" alt="Sprite de Rust Tyrano" loading="lazy" decoding="async" /></span> | Rust Tyrano | Red Mail | — | Giant's Claw (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/scouter.gif" alt="Sprite de Scouter" loading="lazy" decoding="async" /></span> | Scouter | Lapis | — | Ocean Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/sentry.gif" alt="Sprite de Sentry" loading="lazy" decoding="async" /></span> | Sentry | HyperEther | Full Ether | Northern Ruins (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/shitake.gif" alt="Sprite de Shitake" loading="lazy" decoding="async" /></span> | Shitake | Petal | — | Reptite Lar (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/sonofsun.gif" alt="Sprite de Son of Sun" loading="lazy" decoding="async" /></span> | Son of Sun | Black Mail (meio), Elixir (chamas) | — | Sun Palace (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/stoneimp.gif" alt="Sprite de Stone Imp" loading="lazy" decoding="async" /></span> | Stone Imp | Mid Ether | — | Mt. Woe (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/slashns.gif" alt="Sprite de Super Slash" loading="lazy" decoding="async" /></span> | Super Slash | Slasher 2 | — | Ozzie's Fort (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/synchrite.gif" alt="Sprite de Synchrite" loading="lazy" decoding="async" /></span> | Synchrite | Gold Earring | HyperEther | Black Omen |
+| <span class="sprite-portrait sprite-portrait--group"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/terramutantt.gif" alt="Sprite de Terra Mutant (1/2)" loading="lazy" decoding="async" /><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/terramutantb.gif" alt="Sprite de Terra Mutant (2/2)" loading="lazy" decoding="async" /></span> | Terra Mutant | Muscle Ring (Upper), Power Seal (Lower) | — | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/terrasaur.gif" alt="Sprite de Terrasaur" loading="lazy" decoding="async" /></span> | Terrasaur | Lapis | — | Tyrano Lair (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/tpole.gif" alt="Sprite de T'pole" loading="lazy" decoding="async" /></span> | T'pole | Mid Tonic | — | Cursed Woods (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/tubster.gif" alt="Sprite de Tubster" loading="lazy" decoding="async" /></span> | Tubster | Elixir | Power Tab | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/turrent.gif" alt="Sprite de Turret" loading="lazy" decoding="async" /></span> | Turret | Mid Ether | — | Blackbird (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/volcano.gif" alt="Sprite de Volcano" loading="lazy" decoding="async" /></span> | Volcano | Lapis | — | Tyrano Lair (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/wingape.gif" alt="Sprite de Winged Ape" loading="lazy" decoding="async" /></span> | Winged Ape | Ruby Vest | Fang | Forest Maze (65.000.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/yakraxiii.gif" alt="Sprite de Yakra XIII" loading="lazy" decoding="async" /></span> | Yakra XIII | MegaElixir | White Mail | Guardia Castle (1.000 A.D.) |
+| <span class="sprite-portrait sprite-portrait--group"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/zealrh.gif" alt="Sprite de Zeal (1/3)" loading="lazy" decoding="async" /><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/zealh.gif" alt="Sprite de Zeal (2/3)" loading="lazy" decoding="async" /><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/zeallh.gif" alt="Sprite de Zeal (3/3)" loading="lazy" decoding="async" /></span> | Zeal | MegaElixir (Head), Prism Dress (Left Hand), Prism Helm (Right Hand) | — | Black Omen |
 
 ## Como interpretar Charm e Twin Charm
 

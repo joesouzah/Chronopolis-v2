@@ -17,15 +17,15 @@ Nesta página, você encontra **os sete personagens jogáveis** e links para as 
 
 ## Os sete protagonistas
 
-| Personagem | Época de origem | Arma | Especialidade |
-| --- | --- | --- | --- |
-| [**Crono**]({{ '/acervo/crono/' | relative_url }}) | 1000 d.C. | Katana | Ataque físico e técnicas de relâmpago/luz |
-| [**Marle**]({{ '/acervo/marle/' | relative_url }}) | 1000 d.C. | Arco | Cura, suporte e gelo |
-| [**Lucca**]({{ '/acervo/lucca/' | relative_url }}) | 1000 d.C. | Pistola | Fogo, invenções e dano mágico |
-| [**Robo**]({{ '/acervo/robo/' | relative_url }}) | 2300 d.C. | Braços mecânicos | Força, lasers e habilidades de recuperação |
-| [**Frog**]({{ '/acervo/frog/' | relative_url }}) | 600 d.C. | Espada | Água, esgrima e cura |
-| [**Ayla**]({{ '/acervo/ayla/' | relative_url }}) | Pré-história | Punhos | Ataques físicos e Charm |
-| [**Magus**]({{ '/acervo/magus/' | relative_url }}) | 12.000 a.C. | Foice | Magia das sombras e outros elementos |
+| Retrato | Personagem | Época de origem | Arma | Especialidade |
+| :---: | --- | --- | --- | --- |
+| <img class="archive-thumb archive-thumb--face" src="{{ site.baseurl }}/assets/media/historico/images/face_crono.jpg" alt="Retrato de Crono" loading="lazy" decoding="async" /> | [**Crono**]({{ '/acervo/crono/' | relative_url }}) | 1000 d.C. | Katana | Ataque físico e técnicas de relâmpago/luz |
+| <img class="archive-thumb archive-thumb--face" src="{{ site.baseurl }}/assets/media/historico/images/face_marle.jpg" alt="Retrato de Marle" loading="lazy" decoding="async" /> | [**Marle**]({{ '/acervo/marle/' | relative_url }}) | 1000 d.C. | Arco | Cura, suporte e gelo |
+| <img class="archive-thumb archive-thumb--face" src="{{ site.baseurl }}/assets/media/historico/images/face_lucca.jpg" alt="Retrato de Lucca" loading="lazy" decoding="async" /> | [**Lucca**]({{ '/acervo/lucca/' | relative_url }}) | 1000 d.C. | Pistola | Fogo, invenções e dano mágico |
+| <img class="archive-thumb archive-thumb--face" src="{{ site.baseurl }}/assets/media/historico/images/face_robo.jpg" alt="Retrato de Robo" loading="lazy" decoding="async" /> | [**Robo**]({{ '/acervo/robo/' | relative_url }}) | 2300 d.C. | Braços mecânicos | Força, lasers e habilidades de recuperação |
+| <img class="archive-thumb archive-thumb--face" src="{{ site.baseurl }}/assets/media/historico/images/face_frog.jpg" alt="Retrato de Frog" loading="lazy" decoding="async" /> | [**Frog**]({{ '/acervo/frog/' | relative_url }}) | 600 d.C. | Espada | Água, esgrima e cura |
+| <img class="archive-thumb archive-thumb--face" src="{{ site.baseurl }}/assets/media/historico/images/face_ayla.jpg" alt="Retrato de Ayla" loading="lazy" decoding="async" /> | [**Ayla**]({{ '/acervo/ayla/' | relative_url }}) | Pré-história | Punhos | Ataques físicos e Charm |
+| <img class="archive-thumb archive-thumb--face" src="{{ site.baseurl }}/assets/media/historico/images/face_magus.jpg" alt="Retrato de Magus" loading="lazy" decoding="async" /> | [**Magus**]({{ '/acervo/magus/' | relative_url }}) | 12.000 a.C. | Foice | Magia das sombras e outros elementos |
 
 **Magus é um caso especial:** começa a aventura como antagonista e pode se tornar integrante da equipe dependendo das escolhas do jogador. Sua época de origem não é a mesma em que passa a ser conhecido pelo nome Magus.
 
