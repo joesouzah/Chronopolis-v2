@@ -306,3 +306,28 @@ Páginas reabertas diretamente do espelho privado `Chrono SAFE.rar`, com bytes e
 **Evidências anteriores preservadas:** o relatório HTTrack inventariou falhas de imagens externas concentradas na área de wallpapers, e o usuário confirmou navegação offline com ressalva de alguns papéis de parede não recuperados. Esses resultados não comprovam perda definitiva nem disponibilidade atual das imagens.
 
 **Separação de direitos e proveniência:** as URLs identificadoras e o estado da releitura estão nos metadados dos dois artigos. Nenhuma ROM, música, imagem, arquivo, HTML ou texto integral de terceiro foi republicado. Os créditos originais permanecem neste inventário para a futura seção pública específica de créditos.
+
+## v0.17 — Retorno do formato de fichas técnicas (22/11/2026)
+
+**Correção editorial solicitada:** a migração de certas tabelas e fichas para longos artigos suprimiu a função de referência direta. A nova regra é preservar o **gênero do material**: estatísticas, nomes, localização, itens, preço e código devem aparecer em tabelas consultáveis na abertura da página, enquanto explicações permanecem como material secundário.
+
+**Páginas reestruturadas (11):**
+- `bestiario-chrono-trigger-acervo-2004.md`: HP, TP, EXP, G, drop, Charm e localização em colunas; 6 fichas publicadas ante 126 identificadas;
+- `chefes-chrono-trigger-guia-historico.md`: 9 linhas de partes/alvos em 5 encontros ante índice de 40;
+- `equipamentos-guia-historico-chrono-trigger.md`: dados de armaduras, elmos e acessórios; fonte histórica inventariou 161 linhas;
+- `chrono-trigger-charm-guia.md`: 8 fichas ante 93 registros identificados;
+- `chrono-trigger-tabs-atributos.md`: 16 linhas de localização/pistas e legenda dos tipos; inventário anterior de 58 registros;
+- `game-shark-chrono-trigger-codigos.md`: 3 exemplos de Pro Action Replay, com indicação de compatibilidade e ausência de teste;
+- `chrono-trigger-itens-guia.md`: 17 itens com ficha individual e índices de consumíveis/objetos-chave;
+- `chrono-trigger-techs-guia.md`: 56 Single Techs, com personagem e MP, enquanto as 45 combinações duplas e 15 triplas permanecem parciais;
+- `chrono-trigger-shops-lojas-precos.md`: 10 preços e quadro de localidades/estabelecimentos, de um universo previamente contado como 18 pontos de venda;
+- `chrono-trigger-levels-experiencia.md`: 11 marcos de EXP, não a tabela integral de 98 transições;
+- `mapas-eras-chrono-trigger.md`: 6 referências organizadas por era, sem republicação de imagens de terceiro.
+
+**Fonte adicional utilizada:** para cotejar os nomes e os custos de MP da tabela de 56 técnicas individuais, consultou-se [Gemelog — catálogo de técnicas](https://gemelog.jp/en/games/chrono-trigger/techs/). Os custos são apresentados como dados da versão clássica; compatibilidade com relançamentos não foi integralmente testada.
+
+**Fonte primária indisponível nesta rodada:** o espelho privado `Chrono SAFE.rar` utilizado nas integrações anteriores não estava montado nem acessível para nova extração. Por isso, **a conversão de formato não equivale à transcrição integral** de 126 monstros, 161 equipamentos, 93 recompensas de Charm ou 98 transições de nível. Nenhum campo ausente foi inventado.
+
+**Implementação:** metadados `reference_sheet` e `reference_coverage`, rótulo de ficha técnica no catálogo, navegação de tabelas com busca local acessível, revisão dos títulos e texto da política editorial em `COMO_PUBLICAR.md`. Os arquivos do repositório original e os 25 HTMLs de `legado/` não foram alterados.
+
+**Próxima etapa de preservação:** quando o espelho estiver novamente disponível, confrontar linha por linha e completar as tabelas, mantendo o histórico editorial e a procedência. A simples existência de um arquivo antigo não significa autorização de republicação de seu conteúdo integral.

@@ -14,7 +14,17 @@ O Chronopolis foi reconstruído em um repositório separado do projeto original 
 - O [código do site de 2022](https://github.com/joesouzah/Chronopolis) não foi modificado.
 - Novas publicações são gerenciadas separadamente, na pasta `_artigos/`, usando Jekyll.
 
-As transcrições foram feitas automaticamente e ainda precisam de conferência editorial linha a linha. O texto original foi guardado como referência.
+As 20 matérias históricas passaram por revisão editorial, mas alguns dados factuais e links externos ainda exigem verificação individual. O HTML de origem foi mantido separadamente para conferência.
+
+## Fichas técnicas e cobertura dos dados
+
+O acervo contém **11 páginas estruturadas como fichas técnicas**, com tabelas de consulta direta, busca local por linha e explicações secundárias. São fichas de inimigos, chefes, equipamentos, Charm, Tabs, códigos, itens, técnicas, lojas, experiência e mapas.
+
+**O formato foi corrigido, mas a transcrição ainda não está completa em todas elas.** Por exemplo, o catálogo histórico possui referências a 126 inimigos, mas a página atual mostra apenas as 6 fichas já transcritas; a página de Techs inclui 56 técnicas individuais com MP, enquanto parte das combinações duplas e triplas ainda é resumida.
+
+A cobertura parcial é informada em cada página, evitando anunciar um catálogo inteiro quando só há exemplos. A conclusão depende de reabrir o espelho privado de pesquisa, comparar dados e conferir permissões de eventual republicação.
+
+Consulte [Bestiário]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}), [Techs]({{ '/artigos/chrono-trigger-techs-guia/' | relative_url }}) e [Lojas e preços]({{ '/artigos/chrono-trigger-shops-lojas-precos/' | relative_url }}).
 
 ## Materiais que ainda dependem de terceiros
 

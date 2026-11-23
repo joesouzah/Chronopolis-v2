@@ -50,3 +50,22 @@ As 25 páginas HTML do site original estão preservadas em `legado/`. O catálog
 ## Preservação
 
 O repositório [Chronopolis original](https://github.com/joesouzah/Chronopolis) continua intacto. A nova versão pode ser reconstruída a partir dos arquivos do GitHub.
+
+## Ficha técnica ou matéria editorial? — padrão v0.17
+
+O Chronopolis preserva dois tipos de conteúdo, sem confundir suas funções:
+
+| Tipo | Organização recomendada |
+| --- | --- |
+| **Ficha técnica** | Tabelas e registros em primeiro lugar; campos claros (HP, EXP, TP, G, preço, MP, localização, item, condição); explicação breve depois. |
+| **Matéria editorial** | Texto explicativo e contextualizado, com fontes e leituras relacionadas. |
+
+Uma ficha não deve ser convertida em artigo sobre o tema se o principal valor do documento original era permitir **consultar valores individuais**. A página deve responder perguntas como "quanto custa?", "qual o HP?", "onde encontrar?" sem exigir leitura de vários parágrafos.
+
+As fichas existentes usam os metadados `reference_sheet: true` e `reference_coverage` em Markdown, mantidos no repositório. O primeiro permite exibir o rótulo **Ficha técnica** no catálogo e ativa a pesquisa local nas tabelas. O segundo registra o alcance da transcrição e evita que um extrato seja confundido com um inventário completo.
+
+**Integridade editorial:** não preencher campos ausentes com suposições. Use "—" para informação não transcrita, distinguindo-a de zero. Preserve nomes, unidades, versões, créditos, documentos de referência e diferenças entre edições. Para dados ainda indisponíveis, declare a lacuna e mantenha a referência original no inventário.
+
+**Design:** títulos objetivos; primeiro uma tabela com colunas próprias para cada valor; explicações, estratégias e curiosidades vêm depois. No celular, as tabelas continuam roláveis horizontalmente. A busca nas linhas funciona quando há registros suficientes e não depende de serviços externos.
+
+**Direitos:** fichas criadas a partir de dados verificáveis devem ter redação e organização próprias; não republicar textos integrais, HTML, imagens e pacotes de terceiros sem verificar permissão. Crédits e procedência técnica ficam vinculados aos metadados e ao inventário até a seção específica de créditos ser definida.
