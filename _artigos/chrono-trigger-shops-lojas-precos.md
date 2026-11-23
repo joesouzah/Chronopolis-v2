@@ -1,21 +1,36 @@
 ---
-title: "Lojas de Chrono Trigger: onde comprar itens e equipamentos"
+title: "Lojas de Chrono Trigger — fichas de preços"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Regiões, estabelecimentos e exemplos de preços para planejar compras durante a aventura."
+summary: "Consulta de estabelecimentos, itens, preços em G e localização por época."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/shops.htm"
 source_consulted_on: 2026-11-22
+reference_sheet: true
+reference_coverage: "10 preços demonstrados; 18 estabelecimentos identificados em 13 localidades"
 ---
 
-## Comprar bem também faz parte da aventura
+## Consulta direta
 
-As lojas de *Chrono Trigger* variam conforme a época e a região. Algumas vendem principalmente itens de recuperação; outras oferecem armas e armaduras que se tornam importantes em momentos específicos.
+> **Situação do acervo:** 10 preços demonstrados; 18 estabelecimentos identificados em 13 localidades. Os demais registros ainda não foram transcritos e não são apresentados como disponíveis para consulta integral.
 
-O catálogo de estabelecimentos reúne **18 pontos de venda em 13 localidades**. Uma localidade pode ter mais de uma loja, como **Leene's Square**, **Truce Village** e **Medina**.
+### Itens e preços disponíveis
 
-## Onde procurar mercadorias?
+| Estabelecimento | Item | Preço |
+| --- | --- | ---: |
+| Leene's Square — Melchior | Iron Blade | 350 G |
+| Leene's Square — Item Hut | Tonic | 10 G |
+| Leene's Square — Item Hut | Shelter | 150 G |
+| Truce Village — Fritz | Red Katana | 4.500 G |
+| Arris Dome — Merchant | Autogun | 1.200 G |
+| Porre — Market | Gold Suit | 1.300 G |
+| Algetty — comerciante | Demon Edge | 17.000 G |
+| Last Village — Nu | Star Sword | 25.000 G |
+| Shrine — Nu | Vigil Hat | 50.000 G |
+| Choras — Market | Mid Ether | 2.000 G |
+
+### Localidades e tipos de lojas
 
 | Localidade | Época | Oferta em destaque |
 | --- | --- | --- |
@@ -30,24 +45,23 @@ O catálogo de estabelecimentos reúne **18 pontos de venda em 13 localidades**.
 | **Shrine** | 1000 d.C. | Elmos especiais |
 | **Choras** | 600 d.C. | Recursos de recuperação |
 
+---
+
+## Interpretação e contexto
+
+## Comprar bem também faz parte da aventura
+
+As lojas de *Chrono Trigger* variam conforme a época e a região. Algumas vendem principalmente itens de recuperação; outras oferecem armas e armaduras que se tornam importantes em momentos específicos.
+
+O catálogo de estabelecimentos reúne **18 pontos de venda em 13 localidades**. Uma localidade pode ter mais de uma loja, como **Leene's Square**, **Truce Village** e **Medina**.
+
+## Onde procurar mercadorias?
+
 As lojas podem mudar conforme a história avança. Nem todo vendedor estará disponível em qualquer etapa.
 
 ## Exemplos de preços
 
 Os valores utilizam a moeda **G** e os nomes clássicos em inglês. Servem como referência para comparação, não como garantia de preço idêntico em todos os relançamentos.
-
-| Estabelecimento | Item | Preço |
-| --- | --- | ---: |
-| Leene's Square — Melchior | Iron Blade | 350 G |
-| Leene's Square — Item Hut | Tonic | 10 G |
-| Leene's Square — Item Hut | Shelter | 150 G |
-| Truce Village — Fritz | Red Katana | 4.500 G |
-| Arris Dome — Merchant | Autogun | 1.200 G |
-| Porre — Market | Gold Suit | 1.300 G |
-| Algetty — comerciante | Demon Edge | 17.000 G |
-| Last Village — Nu | Star Sword | 25.000 G |
-| Shrine — Nu | Vigil Hat | 50.000 G |
-| Choras — Market | Mid Ether | 2.000 G |
 
 ### Preço não disponível não significa item gratuito
 

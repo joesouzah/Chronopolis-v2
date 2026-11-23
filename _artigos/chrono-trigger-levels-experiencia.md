@@ -1,27 +1,21 @@
 ---
-title: "Levels de Chrono Trigger: experiência até o nível 99"
+title: "Levels de Chrono Trigger — tabela de EXP"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Como ler a curva de EXP, calcular o que falta para subir de nível e distinguir experiência de TP."
+summary: "Tabela de experiência acumulada por nível, com marcos verificados até o nível 99."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/level.htm"
 source_consulted_on: 2026-11-22
+reference_sheet: true
+reference_coverage: "11 marcos numéricos apresentados; 98 transições identificadas na fonte histórica"
 ---
 
-## Evoluir o personagem não é o mesmo que aprender Techs
+## Consulta direta
 
-*Chrono Trigger* oferece duas formas importantes de desenvolvimento: **EXP**, que aumenta o nível e os atributos, e **TP**, que permite aprender técnicas individuais.
+> **Situação do acervo:** 11 marcos numéricos apresentados; 98 transições identificadas na fonte histórica. Os demais registros ainda não foram transcritos e não são apresentados como disponíveis para consulta integral.
 
-Um personagem pode subir de nível sem liberar uma nova técnica naquele momento, ou aprender uma habilidade enquanto permanece no mesmo nível.
-
-## O que significa a EXP da tabela?
-
-A quantidade mostrada para um nível é **o total de experiência acumulada desde o começo do desenvolvimento**, não o valor recebido em uma única batalha.
-
-Por exemplo, são necessários **1.840 EXP no total** para alcançar o nível 10 e **15.840 EXP no total** para alcançar o nível 20.
-
-## Marcos da progressão
+### EXP acumulada — marcos disponíveis
 
 | Nível alcançado | EXP total acumulada |
 | --- | ---: |
@@ -37,6 +31,24 @@ Por exemplo, são necessários **1.840 EXP no total** para alcançar o nível 10
 | **80** | 932.840 |
 | **90** | 1.317.840 |
 | **99** | 1.743.570 |
+
+---
+
+## Interpretação e contexto
+
+## Evoluir o personagem não é o mesmo que aprender Techs
+
+*Chrono Trigger* oferece duas formas importantes de desenvolvimento: **EXP**, que aumenta o nível e os atributos, e **TP**, que permite aprender técnicas individuais.
+
+Um personagem pode subir de nível sem liberar uma nova técnica naquele momento, ou aprender uma habilidade enquanto permanece no mesmo nível.
+
+## O que significa a EXP da tabela?
+
+A quantidade mostrada para um nível é **o total de experiência acumulada desde o começo do desenvolvimento**, não o valor recebido em uma única batalha.
+
+Por exemplo, são necessários **1.840 EXP no total** para alcançar o nível 10 e **15.840 EXP no total** para alcançar o nível 20.
+
+## Marcos da progressão
 
 A tabela de progressão cobre **98 transições**, desde o nível 1 para o 2 até o nível 98 para o 99.
 

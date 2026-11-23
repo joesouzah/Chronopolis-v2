@@ -1,21 +1,21 @@
 ---
-title: "Seis mapas, várias eras: a cartografia histórica de Chrono Trigger"
+title: "Mapas de Chrono Trigger — índice por era"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Seis visualizações dos mapas de Chrono Trigger e as transformações entre diferentes eras."
+summary: "Ficha de seis mapas identificados por período, incluindo duas versões de 12.000 a.C."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/mapas.htm"
 source_consulted_on: 2026-11-22
+reference_sheet: true
+reference_coverage: "6 referências de mapas identificadas; prévias originais ainda não republicadas"
 ---
 
-## Um mundo que muda conforme a época
+## Consulta direta
 
-Uma das maiores graças de *Chrono Trigger* é visitar lugares semelhantes em momentos muito diferentes. O mapa não é apenas um cenário: observar continentes, cidades e caminhos ajuda a perceber o quanto o tempo transformou o mundo da aventura.
+> **Situação do acervo:** 6 referências de mapas identificadas; prévias originais ainda não republicadas. Os demais registros ainda não foram transcritos e não são apresentados como disponíveis para consulta integral.
 
-A coleção organiza **seis visualizações** dos mapas. **12.000 a.C. aparece duas vezes**, antes e depois dos acontecimentos no Ocean Palace.
-
-## As seis visualizações registradas
+### Mapas e épocas identificados
 
 | Era indicada no arquivo | O que permite comparar |
 | --- | --- |
@@ -25,6 +25,18 @@ A coleção organiza **seis visualizações** dos mapas. **12.000 a.C. aparece d
 | **600 d.C.** | A geografia da Idade Média, com rotas e assentamentos de outro período. |
 | **1000 d.C.** | A configuração do mundo no tempo de Crono e da Feira do Milênio. |
 | **2300 d.C.** | O futuro arruinado que o grupo encontra durante a aventura. |
+
+---
+
+## Interpretação e contexto
+
+## Um mundo que muda conforme a época
+
+Uma das maiores graças de *Chrono Trigger* é visitar lugares semelhantes em momentos muito diferentes. O mapa não é apenas um cenário: observar continentes, cidades e caminhos ajuda a perceber o quanto o tempo transformou o mundo da aventura.
+
+A coleção organiza **seis visualizações** dos mapas. **12.000 a.C. aparece duas vezes**, antes e depois dos acontecimentos no Ocean Palace.
+
+## As seis visualizações registradas
 
 Não é uma lista de seis épocas independentes: são **cinco datas com uma segunda versão de 12.000 a.C.**. Esse detalhe estava explicitamente identificado na página antiga e vale a pena conservar.
 

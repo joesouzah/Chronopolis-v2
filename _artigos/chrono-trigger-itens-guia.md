@@ -1,21 +1,45 @@
 ---
-title: "Itens de Chrono Trigger: cura, proteção e objetos essenciais"
+title: "Itens de Chrono Trigger — fichas de inventário"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Entenda a diferença entre consumíveis, itens de recuperação, Tabs e objetos-chave da aventura."
+summary: "Itens consumíveis, objetos-chave e funções organizados para consulta direta."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/itens.htm"
 source_consulted_on: 2026-11-22
+reference_sheet: true
+reference_coverage: "17 nomes de consumíveis descritos e grupos de objetos-chave; catálogo histórico contém 19 entradas consumíveis e 25 registros de itens-chave"
 ---
 
-## Saber quando usar um item faz diferença
+## Consulta direta
 
-Nem todo recurso de *Chrono Trigger* serve para recuperar HP. Alguns restauram MP, outros protegem contra determinados ataques e há objetos que permitem avançar pela história ou voltar a explorar lugares antes inacessíveis.
+> **Situação do acervo:** 17 nomes de consumíveis descritos e grupos de objetos-chave; catálogo histórico contém 19 entradas consumíveis e 25 registros de itens-chave. Os demais registros ainda não foram transcritos e não são apresentados como disponíveis para consulta integral.
 
-Uma maneira simples de organizar o inventário é separar **itens consumíveis** de **itens-chave**. O catálogo utilizado nesta pesquisa reúne **19 entradas consumíveis** e **25 entradas de objetos-chave**. A segunda contagem inclui mais de um estado do mesmo objeto, portanto não representa necessariamente 25 nomes únicos.
+### Consumíveis — fichas individuais disponíveis
 
-## Consumíveis: o que levar para uma masmorra
+| Item | Efeito geral | Alvo |
+| --- | --- | --- |
+| Tonic | Cura de HP | Um personagem |
+| Mid Tonic | Cura de HP | Um personagem |
+| Full Tonic | Cura de HP | Um personagem |
+| Ether | Recuperação de MP | Um personagem |
+| Mid Ether | Recuperação de MP | Um personagem |
+| Full Ether | Recuperação de MP | Um personagem |
+| Hyper Ether | Recuperação de MP | Um personagem |
+| Elixir | Recupera HP e MP | Um personagem |
+| MegaElixir | Recupera HP e MP | Equipe |
+| Heal | Remove estados negativos | Um personagem |
+| Revive | Reanima aliado caído | Um personagem |
+| Shield | Proteção física temporária | Um personagem |
+| Barrier | Proteção mágica temporária | Um personagem |
+| Shelter | Restaura HP e MP em pontos apropriados | Equipe |
+| Power Tab | Aumenta Power em 1 | Um personagem |
+| Magic Tab | Aumenta Magic em 1 | Um personagem |
+| Speed Tab | Aumenta Speed em 1 | Um personagem |
+
+Estas fichas usam os nomes já documentados no Chronopolis. Valores exatos de recuperação e preços ainda exigem transcrição individual das fontes.
+
+### Tipos de consumíveis e usos
 
 | Tipo | Exemplos | Para que servem |
 | --- | --- | --- |
@@ -26,6 +50,30 @@ Uma maneira simples de organizar o inventário é separar **itens consumíveis**
 | **Proteção temporária** | Shield, Barrier | Ajudam a resistir a dano físico ou mágico |
 | **Recuperação fora da batalha** | Shelter | Restaura HP e MP do grupo em pontos de salvamento apropriados |
 | **Atributos** | Power Tab, Magic Tab, Speed Tab | Aumentam permanentemente um atributo do personagem |
+
+### Objetos-chave e função
+
+| Objeto | Papel na aventura |
+| --- | --- |
+| **Pendant** | O pingente de Marle participa dos acontecimentos iniciais e, mais adiante, pode ganhar novas propriedades |
+| **Gate Key** | Permite utilizar portais temporais |
+| **Bike Key e Race Log** | Ligados à corrida de moto contra Johnny no futuro |
+| **Bent Sword, Bent Hilt e Dreamstone** | Relacionados à reconstrução da Masamune |
+| **Petal, Fang, Horn e Feather** | Materiais usados em trocas na Pré-história |
+| **Moon Stone e Sun Stone** | Dois estados de um objeto importante para uma missão posterior |
+| **Chrono Trigger e Clone** | Objetos ligados a uma missão decisiva da parte avançada do jogo |
+
+---
+
+## Interpretação e contexto
+
+## Saber quando usar um item faz diferença
+
+Nem todo recurso de *Chrono Trigger* serve para recuperar HP. Alguns restauram MP, outros protegem contra determinados ataques e há objetos que permitem avançar pela história ou voltar a explorar lugares antes inacessíveis.
+
+Uma maneira simples de organizar o inventário é separar **itens consumíveis** de **itens-chave**. O catálogo utilizado nesta pesquisa reúne **19 entradas consumíveis** e **25 entradas de objetos-chave**. A segunda contagem inclui mais de um estado do mesmo objeto, portanto não representa necessariamente 25 nomes únicos.
+
+## Consumíveis: o que levar para uma masmorra
 
 Os nomes acima seguem a terminologia das edições clássicas em inglês. Algumas versões mais recentes renomeiam itens ou ajustam suas descrições.
 
@@ -44,16 +92,6 @@ Para comparar proteções e acessórios, veja também [Armas, armaduras, elmos e
 ## Itens-chave: objetos que fazem a história avançar
 
 Os **Key Items** não têm a mesma função dos consumíveis. Alguns ativam mecanismos, permitem entrar em locais específicos ou representam uma descoberta importante do grupo.
-
-| Objeto | Papel na aventura |
-| --- | --- |
-| **Pendant** | O pingente de Marle participa dos acontecimentos iniciais e, mais adiante, pode ganhar novas propriedades |
-| **Gate Key** | Permite utilizar portais temporais |
-| **Bike Key e Race Log** | Ligados à corrida de moto contra Johnny no futuro |
-| **Bent Sword, Bent Hilt e Dreamstone** | Relacionados à reconstrução da Masamune |
-| **Petal, Fang, Horn e Feather** | Materiais usados em trocas na Pré-história |
-| **Moon Stone e Sun Stone** | Dois estados de um objeto importante para uma missão posterior |
-| **Chrono Trigger e Clone** | Objetos ligados a uma missão decisiva da parte avançada do jogo |
 
 > **Spoilers leves a moderados:** a tabela identifica a finalidade geral de objetos importantes, sem explicar os acontecimentos que levam a cada um.
 
