@@ -10,7 +10,7 @@
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title | escape }} — Chronopolis</title>
-  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.37">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.38">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 </head>
 <body>
@@ -37,12 +37,44 @@
     </div>
   </header>
   {% unless page.legacy %}{% if page.image and page.image != '' %}<img class="article-hero-image" src="{{ page.image | escape }}" alt="" loading="lazy">{% endif %}{% endunless %}
+  {% if page.visual_guide_part %}
+  {% assign visual_part = page.visual_guide_part | plus: 0 %}
+  <nav class="visual-part-nav" aria-label="Partes da estratégia visual">
+    <div class="visual-part-heading"><span>Roteiro visual</span><span>Parte {{ visual_part }} de 5</span></div>
+    <div class="visual-part-links">
+      <a href="{{ '/artigos/chrono-trigger-estrategia-visual-parte-1/' | relative_url }}"{% if visual_part == 1 %} aria-current="page"{% endif %}>Parte 1 <small>129 capturas</small></a>
+      <a href="{{ '/artigos/chrono-trigger-estrategia-visual-parte-2/' | relative_url }}"{% if visual_part == 2 %} aria-current="page"{% endif %}>Parte 2 <small>122 capturas</small></a>
+      <a href="{{ '/artigos/chrono-trigger-estrategia-visual-parte-3/' | relative_url }}"{% if visual_part == 3 %} aria-current="page"{% endif %}>Parte 3 <small>135 capturas</small></a>
+      <a href="{{ '/artigos/chrono-trigger-estrategia-visual-parte-4/' | relative_url }}"{% if visual_part == 4 %} aria-current="page"{% endif %}>Parte 4 <small>132 capturas</small></a>
+      <a href="{{ '/artigos/chrono-trigger-estrategia-visual-parte-5/' | relative_url }}"{% if visual_part == 5 %} aria-current="page"{% endif %}>Parte 5 <small>4 capturas</small></a>
+    </div>
+  </nav>
+  {% endif %}
   <article class="article-panel prose{% if page.reference_sheet %} reference-sheet{% endif %}{% if page.sprite_table %} sprite-reference sprite-reference--{{ page.sprite_table | escape }}{% endif %}">{{ content }}</article>
   {% if page.legacy %}
   <div class="archive-source">
     <span>A revisão melhora linguagem e organização; não substitui uma verificação histórica integral.</span>
     {% if page.source_url %}<a href="{{ page.source_url | escape }}" target="_blank" rel="noopener noreferrer">Consultar página original no GitHub</a>{% endif %}
   </div>
+  {% endif %}
+  {% if page.visual_guide_part %}
+  {% assign visual_previous = visual_part | minus: 1 %}
+  {% assign visual_next = visual_part | plus: 1 %}
+  <nav class="visual-part-pager" aria-label="Continuar a estratégia visual">
+    {% if visual_part > 1 %}
+    {% capture visual_previous_path %}/artigos/chrono-trigger-estrategia-visual-parte-{{ visual_previous }}/{% endcapture %}
+    <a class="visual-part-pager-prev" href="{{ visual_previous_path | relative_url }}">← Parte {{ visual_previous }}</a>
+    {% else %}
+    <span class="visual-part-pager-edge">Início do roteiro</span>
+    {% endif %}
+    <a class="visual-part-pager-home" href="{{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}">Visão geral</a>
+    {% if visual_part < 5 %}
+    {% capture visual_next_path %}/artigos/chrono-trigger-estrategia-visual-parte-{{ visual_next }}/{% endcapture %}
+    <a class="visual-part-pager-next" href="{{ visual_next_path | relative_url }}">Parte {{ visual_next }} →</a>
+    {% else %}
+    <span class="visual-part-pager-edge">Fim do roteiro</span>
+    {% endif %}
+  </nav>
   {% endif %}
   <nav class="article-related" aria-label="Continuar explorando o Chronopolis">
     <p class="article-related-title">Continuar explorando</p>
@@ -300,6 +332,59 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
     window.addEventListener('resize',updateHint);
     window.addEventListener('load',updateHint,{once:true});
   });
+})();
+</script>
+<script>
+/* v0.38 — Índice de galerias e etapas, com abertura sob demanda. */
+(function(){
+  'use strict';
+  var article=document.querySelector('article.article-panel.prose');
+  if(!article)return;
+  var sections=Array.from(article.querySelectorAll('details.archive-gallery-section'));
+  if(sections.length<4)return;
+  var used=new Set(Array.from(document.querySelectorAll('[id]')).map(function(e){return e.id}));
+  function slug(text){
+    return text.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')||'secao';
+  }
+  var nav=document.createElement('nav');
+  nav.className='gallery-jump';
+  nav.setAttribute('aria-label','Ir para uma coleção ou etapa');
+  var title=document.createElement('p');
+  title.className='gallery-jump-title';
+  title.textContent='Ir diretamente para uma seção';
+  var links=document.createElement('div');
+  links.className='gallery-jump-links';
+  sections.forEach(function(section,index){
+    var summary=section.querySelector('summary');
+    if(!summary)return;
+    var label=(summary.firstChild&&summary.firstChild.textContent||summary.textContent).trim();
+    if(!label)label='Seção '+(index+1);
+    if(!section.id){
+      var base='galeria-'+slug(label),next=base,n=2;
+      while(used.has(next)){next=base+'-'+n;n++}
+      section.id=next;used.add(next);
+    }
+    var anchor=document.createElement('a');
+    anchor.href='#'+encodeURIComponent(section.id);
+    anchor.textContent=label;
+    anchor.addEventListener('click',function(){section.open=true});
+    links.appendChild(anchor);
+  });
+  if(!links.children.length)return;
+  nav.append(title,links);
+  sections[0].parentNode.insertBefore(nav,sections[0]);
+  function openFromHash(){
+    if(location.hash.length<2)return;
+    var id;
+    try{id=decodeURIComponent(location.hash.slice(1))}catch(e){return}
+    var target=sections.find(function(section){return section.id===id});
+    if(target){
+      target.open=true;
+      requestAnimationFrame(function(){target.scrollIntoView({block:'start'})});
+    }
+  }
+  window.addEventListener('hashchange',openFromHash);
+  openFromHash();
 })();
 </script>
 </body>

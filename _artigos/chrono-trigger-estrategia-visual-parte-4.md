@@ -7,6 +7,7 @@ image: ""
 source_site: "Arquivo histórico de Chrono Trigger"
 source_url: "http://rpga8.free.fr/especial/ct/estrategia-04.htm"
 source_rechecked_on: 2026-11-23
+visual_guide_part: 4
 ---
 
 ## Roteiro visual — parte 4
