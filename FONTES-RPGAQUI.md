@@ -331,3 +331,32 @@ Páginas reabertas diretamente do espelho privado `Chrono SAFE.rar`, com bytes e
 **Implementação:** metadados `reference_sheet` e `reference_coverage`, rótulo de ficha técnica no catálogo, navegação de tabelas com busca local acessível, revisão dos títulos e texto da política editorial em `COMO_PUBLICAR.md`. Os arquivos do repositório original e os 25 HTMLs de `legado/` não foram alterados.
 
 **Próxima etapa de preservação:** quando o espelho estiver novamente disponível, confrontar linha por linha e completar as tabelas, mantendo o histórico editorial e a procedência. A simples existência de um arquivo antigo não significa autorização de republicação de seu conteúdo integral.
+
+## v0.18 — Recuperação integral de quatro tabelas de consulta (22/11/2026)
+
+**Arquivo-mestre recuperado:** `Chrono SAFE.rar` foi localizado na Biblioteca pessoal e copiado para área de trabalho privada de pesquisa. Tamanho: **27.528.789 bytes**; SHA-256 **`dfa4beccd187925b9ce3a2617a51ca911fc60c6846f8711a4c0e3e8d5db07f3a`**, idêntico ao registro de preservação anterior. A extração técnica recuperou **60 documentos HTML/HTM** da pasta `/especial/ct/`, inclusive as páginas com dados individuais.
+
+**Dados publicados em nova estrutura, sem reutilizar HTML, imagens ou comentários integrais:**
+- `_artigos/bestiario-chrono-trigger-acervo-2004.md`: **126/126 fichas de 126 nomes** com campos HP, TP, EXP, G, Item, Charm e Localização. A anomalia de `Proto 3` (célula `60` sem cabeçalho G) foi registrada; G permanece desconhecido. Grafias duvidosas foram conservadas como evidência documental, não normalizadas silenciosamente.
+- `_artigos/chrono-trigger-charm-guia.md`: **93/93 registros, 92 nomes distintos**, com colunas separadas para Charm, Twin Charm e local. **25 registros** possuem campo específico de Twin Charm. Em comparações literais por nome, **28 registros** exibiram valores divergentes ou diferenças de grafia frente ao campo Charm do bestiário; ambas as referências foram mantidas.
+- `_artigos/chrono-trigger-levels-experiencia.md`: **98/98 transições** entre níveis 1 e 99, EXP acumulada e diferença de EXP entre níveis calculada a partir dos totais. A grafia mista `1.692,320` foi normalizada para `1.692.320` com sequência crescente preservada.
+- `_artigos/chefes-chrono-trigger-guia-historico.md`: **40/40 encontros numerados** de B01 a B40, organizados em **42 blocos técnicos**, porque B07 e B13 têm dois adversários/fases cada. Não foram inventados HP, EXP ou itens nos campos sem valor registrado, especialmente nas formas finais de Lavos.
+
+**Integridade das páginas-fonte (bytes extraídos, CRC32 hexadecimal):**
+
+| Arquivo HTML privado | Bytes | CRC32 |
+| --- | ---: | --- |
+| `inimigos-01.htm` | 73.864 | `c87756c9` |
+| `inimigos-02.htm` | 78.507 | `27d14f15` |
+| `charm.htm` | 73.652 | `b7ea8981` |
+| `level.htm` | 25.734 | `c3bc147a` |
+| `chefes.htm` (índice) | 22.097 | `63146f71` |
+| `chefes-01.htm` | 16.762 | `2f07d279` |
+| `chefes-02.htm` | 22.726 | `524e4b30` |
+| `chefes-03.htm` | 35.066 | `39d35955` |
+| `chefes-04.htm` | 37.400 | `19f259a3` |
+| `chefes-05.htm` | 14.739 | `6c094d1f` |
+
+Os dados foram apresentados em tabelas reorganizadas e pesquisáveis; **informações factuais documentadas não equivalem a validação integral no jogo**. O acervo privado e seus recursos permanecem fora do GitHub. A atribuição histórica original continua neste inventário e nos metadados de procedência, aguardando a seção pública de créditos ainda não aprovada.
+
+**Próxima sequência recomendada:** conferir e converter as **161 entradas de equipamentos**, as listas de **45 Double Techs e 15 Triple Techs**, as **58 localizações de Tabs** e as fichas completas de lojas. Revisar divergências entre fontes separadamente, sem apagar registros históricos.

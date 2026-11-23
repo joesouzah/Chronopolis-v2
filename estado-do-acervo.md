@@ -20,11 +20,22 @@ As 20 matérias históricas passaram por revisão editorial, mas alguns dados fa
 
 O acervo contém **11 páginas estruturadas como fichas técnicas**, com tabelas de consulta direta, busca local por linha e explicações secundárias. São fichas de inimigos, chefes, equipamentos, Charm, Tabs, códigos, itens, técnicas, lojas, experiência e mapas.
 
-**O formato foi corrigido, mas a transcrição ainda não está completa em todas elas.** Por exemplo, o catálogo histórico possui referências a 126 inimigos, mas a página atual mostra apenas as 6 fichas já transcritas; a página de Techs inclui 56 técnicas individuais com MP, enquanto parte das combinações duplas e triplas ainda é resumida.
+A **v0.18 restaurou os dados de quatro catálogos históricos** a partir da cópia privada recuperada. O indicador "completo" refere-se às entradas presentes na fonte consultada, não à totalidade oficial de conteúdos de todas as versões do jogo.
 
-A cobertura parcial é informada em cada página, evitando anunciar um catálogo inteiro quando só há exemplos. A conclusão depende de reabrir o espelho privado de pesquisa, comparar dados e conferir permissões de eventual republicação.
+| Ficha | Cobertura nesta edição | Estado |
+| --- | --- | --- |
+| [Inimigos]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}) | 126 de 126 fichas identificadas | Dados da fonte reunidos |
+| [Charm]({{ '/artigos/chrono-trigger-charm-guia/' | relative_url }}) | 93 de 93 registros (92 nomes distintos) | Dados da fonte reunidos |
+| [Chefes]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}) | 40 encontros, 42 blocos de ficha | Dados disponíveis reunidos; parte dos campos ausente na fonte |
+| [Levels]({{ '/artigos/chrono-trigger-levels-experiencia/' | relative_url }}) | 98 de 98 transições de EXP | Dados da fonte reunidos |
+| [Equipamentos]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}) | Parte de 161 linhas históricas | Transcrição individual pendente |
+| [Techs]({{ '/artigos/chrono-trigger-techs-guia/' | relative_url }}) | 56 Single Techs; duplas e triplas parciais | Transcrição parcial |
+| [Tabs]({{ '/artigos/chrono-trigger-tabs-atributos/' | relative_url }}) | Parte de 58 localizações registradas | Transcrição parcial |
+| [Lojas]({{ '/artigos/chrono-trigger-shops-lojas-precos/' | relative_url }}) | 10 preços de 18 pontos de venda identificados | Transcrição parcial |
 
-Consulte [Bestiário]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}), [Techs]({{ '/artigos/chrono-trigger-techs-guia/' | relative_url }}) e [Lojas e preços]({{ '/artigos/chrono-trigger-shops-lojas-precos/' | relative_url }}).
+**Há inconsistências nos próprios registros antigos.** Uma lista de Charm diverge em algumas recompensas do bestiário; os campos sem dados permanecem marcados como ausentes e não são preenchidos por suposição. Textos, imagens e arquivos integrais de terceiros não foram espelhados publicamente.
+
+Os demais catálogos serão completados mediante conferência direta dos documentos históricos.
 
 ## Materiais que ainda dependem de terceiros
 
