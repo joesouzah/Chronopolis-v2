@@ -8,7 +8,7 @@
 <title>Chronopolis — Arquivo de Chrono Trigger</title>
 <link rel="canonical" href="https://joesouzah.github.io/Chronopolis-v2/">
 <link rel="sitemap" type="application/xml" href="https://joesouzah.github.io/Chronopolis-v2/sitemap.xml">
-<link rel="stylesheet" href="assets/site.css?v=0.32">
+<link rel="stylesheet" href="assets/site.css?v=0.33">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -24,7 +24,7 @@
       <a href="#arquivos" data-cat="Arquivo">Arquivos</a>
       <a href="#sobre" data-cat="Sobre">Sobre</a>
     </nav>
-    <label class="header-search" aria-label="Pesquisar no acervo"><span aria-hidden="true">⌕</span><input id="site-search" type="search" placeholder="Pesquisar..." autocomplete="off"></label>
+    <div class="header-search" role="search"><label class="sr-only" for="site-search">Pesquisar no acervo</label><span aria-hidden="true">⌕</span><input id="site-search" type="search" placeholder="Pesquisar..." aria-controls="all-cards" aria-keyshortcuts="/" autocomplete="off"><button id="clear-site-search" class="search-clear" type="button" aria-label="Limpar pesquisa" title="Limpar pesquisa" hidden>×</button></div>
     <button id="menu-button" class="menu-toggle" type="button" aria-label="Abrir menu" aria-controls="menu" aria-expanded="false">☰</button>
   </div>
 </header>
@@ -97,6 +97,6 @@
 window.CHRONO_ARTIGOS=[];
 window.chronoArticlesReady=fetch('artigos.json').then(r=>{if(!r.ok)throw new Error('Ainda sem artigos gerados');return r.json()}).then(data=>Array.isArray(data)?data:[]).catch(()=>[]);
 </script>
-<script src="assets/app.js"></script>
+<script src="assets/app.js?v=0.33"></script>
 </body>
 </html>

@@ -174,3 +174,18 @@
  .article-related-links a{font-size:.77rem;padding:7px 9px}
  .article-exit-links{gap:14px}
 }
+
+/* v0.33 — Busca por relevância e filtros mais claros, sem alterar as fichas */
+.header-search{min-width:0}
+.header-search input{min-width:0;flex:1}
+.header-search:focus-within{border-color:var(--cyan);box-shadow:0 0 0 1px rgba(136,207,225,.26)}
+.header-search .search-clear{flex:0 0 auto;border:0;background:transparent;color:var(--muted);padding:0 3px;font-size:1.3rem;line-height:1;min-height:28px}
+.header-search .search-clear:hover{color:var(--gold)}
+.header-search .search-clear[hidden],.reference-table-clear[hidden],.reference-table-empty[hidden]{display:none}
+.search-hit{background:rgba(240,199,122,.23);box-shadow:0 0 0 1px rgba(240,199,122,.13);border-radius:2px;padding:0 1px;color:inherit}
+.empty-reset{margin-left:9px;color:var(--gold);background:transparent;border:1px solid var(--line);padding:7px 11px;border-radius:7px;font-size:.8rem}
+.empty-reset:hover,.empty-reset:focus-visible{border-color:var(--gold)}
+.reference-table-clear{border:1px solid var(--line);background:#192540;color:var(--gold);border-radius:8px;padding:9px 12px;font-size:.79rem;font-weight:700}
+.reference-table-clear:hover,.reference-table-clear:focus-visible{border-color:var(--gold)}
+.reference-table-empty{border:1px dashed var(--line);border-radius:8px;padding:11px 13px;margin:7px 0 11px;background:rgba(136,207,225,.04);color:var(--muted);font-size:.83rem}
+@media(max-width:560px){.header-search{padding:6px 7px}.header-search input{width:100%;min-width:0}.reference-table-clear{padding:7px 11px}}

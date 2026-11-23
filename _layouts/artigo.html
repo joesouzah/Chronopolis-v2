@@ -10,7 +10,7 @@
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title | escape }} — Chronopolis</title>
-  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.32">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.33">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 </head>
 <body>
@@ -109,20 +109,30 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
     result.setAttribute('aria-live','polite');
     result.className='reference-table-count';
     var rows=Array.from(body.rows);
+    var rowSearch=rows.map(function(row){return row.textContent.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('pt-BR')});
+    var clear=document.createElement('button');
+    clear.type='button';clear.className='reference-table-clear';clear.textContent='Limpar';clear.hidden=true;
+    var empty=document.createElement('p');
+    empty.className='reference-table-empty';empty.hidden=true;empty.setAttribute('role','status');
+    empty.textContent='Nenhum registro corresponde à busca. Tente outro nome, item ou local.';
     function update(){
-      var q=input.value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('pt-BR').trim();
+      var terms=input.value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('pt-BR').trim().split(/\s+/).filter(Boolean);
       var shown=0;
-      rows.forEach(function(row){
-        var value=row.textContent.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('pt-BR');
-        var visible=!q || value.includes(q);
+      rows.forEach(function(row,i){
+        var visible=terms.every(function(term){return rowSearch[i].includes(term)});
         row.hidden=!visible;
         if(visible)shown++;
       });
+      clear.hidden=!input.value;
+      empty.hidden=shown!==0;
       result.textContent=shown+' de '+rows.length+' registros';
     }
     input.addEventListener('input',update);
-    bar.append(input,result);
+    input.addEventListener('keydown',function(e){if(e.key==='Escape'&&input.value){e.preventDefault();input.value='';update()}});
+    clear.addEventListener('click',function(){input.value='';update();input.focus()});
+    bar.append(input,clear,result);
     table.parentNode.insertBefore(bar,table);
+    table.parentNode.insertBefore(empty,table);
     if(table.closest('.sprite-reference')){
       var scroller=document.createElement('div');
       scroller.className='sprite-table-scroll';

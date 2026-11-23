@@ -17,17 +17,58 @@ let requestId=0;
 function routeFor(item){return item.kind==='modern'?item.url:'./acervo/'+encodeURIComponent(item.id)+'/'}
 function cover(item){const img=item.image?`<img loading="lazy" src="${escapeHTML(item.image)}" alt="" onerror="this.remove()">`:'';return `<div class="cover"><span class="cover-icon" aria-hidden="true">⌛</span>${img}<span class="cover-label">${escapeHTML(item.reference_sheet ? "Ficha técnica" : item.category)}</span></div>`}
 function searchableText(item){return String(item.kind==='modern'?(item.search||''):(historicalText[item.id]||''))}
-function matches(item){return (category==='Todos'||item.category===category)&&norm(item.title+' '+item.summary+' '+item.category+' '+searchableText(item)).includes(norm(query))}
+function searchTerms(){return [...new Set(norm(query).trim().split(/\s+/).filter(Boolean))].slice(0,8)}
+function searchable(item){return norm(item.title+' '+item.summary+' '+item.category+' '+searchableText(item))}
+function matches(item){return (category==='Todos'||item.category===category)&&searchTerms().every(term=>searchable(item).includes(term))}
+function relevance(item,terms){
+ const title=norm(item.title),summary=norm(item.summary),cat=norm(item.category),body=norm(searchableText(item));
+ return terms.reduce((points,term)=>points+(title===term?80:title.startsWith(term)?48:title.includes(term)?32:0)+(summary.includes(term)?12:0)+(cat.includes(term)?5:0)+(body.includes(term)?1:0),0);
+}
+function highlightText(value){
+ const src=String(value??''),terms=searchTerms();
+ if(!terms.length)return escapeHTML(src);
+ let folded='',positions=[],offset=0;
+ for(const char of src){
+   const part=norm(char);
+   for(let n=0;n<part.length;n++)positions.push([offset,offset+char.length]);
+   folded+=part;offset+=char.length;
+ }
+ const spans=[];
+ for(const term of terms){
+   let start=0,pos;
+   while((pos=folded.indexOf(term,start))!==-1){
+     spans.push([positions[pos][0],positions[pos+term.length-1][1]]);
+     start=pos+Math.max(1,term.length);
+   }
+ }
+ spans.sort((a,b)=>a[0]-b[0]||b[1]-a[1]);
+ let result='',cursor=0;
+ for(const [start,end] of spans){
+   if(start<cursor)continue;
+   result+=escapeHTML(src.slice(cursor,start))+'<mark class="search-hit">'+escapeHTML(src.slice(start,end))+'</mark>';
+   cursor=end;
+ }
+ return result+escapeHTML(src.slice(cursor));
+}
 function excerpt(item){
- const summary=item.summary||'';
- if(!query||norm(summary).includes(norm(query))||norm(item.title).includes(norm(query)))return summary;
- const body=searchableText(item),pos=norm(body).indexOf(norm(query));
+ const summary=item.summary||'',terms=searchTerms();
+ if(!terms.length||terms.every(t=>norm(item.title+' '+summary).includes(t)))return summary;
+ const body=searchableText(item);
+ const target=terms.find(t=>!norm(item.title+' '+summary).includes(t))||terms[0];
+ const pos=norm(body).indexOf(target);
  if(pos<0)return summary;
- const start=Math.max(0,pos-66),end=Math.min(body.length,pos+Math.max(query.length,4)+110);
+ const start=Math.max(0,pos-65),end=Math.min(body.length,pos+Math.max(target.length,4)+110);
  return (start?'…':'')+body.slice(start,end).trim()+(end<body.length?'…':'');
 }
-function card(item){return `<a class="card" href="${escapeHTML(routeFor(item))}">${cover(item)}<div class="card-content"><h3>${escapeHTML(item.title)}</h3><p>${escapeHTML(excerpt(item))}</p><span class="card-link">Explorar arquivo <span aria-hidden="true">→</span></span></div></a>`}
-function renderCatalog(){const filtered=all.filter(matches);document.getElementById('found-count').textContent=filtered.length+' registro'+(filtered.length===1?'':'s');cards.innerHTML=filtered.length?filtered.map(card).join(''):'<div class="empty">Nenhum registro encontrado. Tente outra palavra ou categoria.</div>';document.querySelectorAll('.chip').forEach(btn=>btn.setAttribute('aria-pressed',String(btn.dataset.cat===category)))}
+function card(item){return `<a class="card" href="${escapeHTML(routeFor(item))}">${cover(item)}<div class="card-content"><h3>${highlightText(item.title)}</h3><p>${highlightText(excerpt(item))}</p><span class="card-link">Explorar arquivo <span aria-hidden="true">→</span></span></div></a>`}
+function renderCatalog(){
+ const terms=searchTerms(),filtered=all.filter(matches);
+ if(terms.length)filtered.sort((a,b)=>relevance(b,terms)-relevance(a,terms));
+ document.getElementById('found-count').textContent=filtered.length+' registro'+(filtered.length===1?'':'s');
+ cards.innerHTML=filtered.length?filtered.map(card).join(''):'<div class="empty" role="status">Nenhum registro encontrado para esta busca ou categoria. <button class="empty-reset" type="button" id="reset-catalog-search">Limpar pesquisa</button></div>';
+ document.getElementById('clear-site-search').hidden=!query;
+ document.querySelectorAll('.chip').forEach(btn=>btn.setAttribute('aria-pressed',String(btn.dataset.cat===category)));
+}
 function setCategory(cat,scroll=true){category=categorySet.includes(cat)?cat:'Todos';renderCatalog();if(scroll)document.getElementById('catalogo').scrollIntoView({behavior:'smooth',block:'start'})}
 function setHome(cat='Todos',scroll=false){++requestId;reader.hidden=true;home.hidden=false;document.title='Chronopolis — Arquivo de Chrono Trigger';setCategory(cat,scroll);document.querySelectorAll('.nav a').forEach(a=>a.classList.toggle('active',a.dataset.cat===cat));if(!scroll)window.scrollTo({top:0,behavior:'instant'})}
 function categoryFromHash(h){return ({'#catalogo':'Todos','#pesquisa':'Todos','#inicio':'Todos','#historia':'História','#personagens':'Personagens','#galeria':'Galeria','#arquivos':'Arquivo','#curiosidades':'Curiosidades','#sobre':'Sobre'})[h.toLowerCase()]}
@@ -42,6 +83,14 @@ async function showReader(slug){const current=++requestId;const item=items.find(
  const at=raw.search(/<\/nav\s*>/i),body=raw.search(/<body[^>]*>/i);let content=at>=0?raw.slice(at+raw.slice(at).match(/<\/nav\s*>/i)[0].length):raw.slice(body>=0?body:0);content=content.replace(/<\/body\s*>[\s\S]*$/i,'').replace(/<font[^>]*class=["']?rodape[\s\S]*$/i,'');target.appendChild(sanitizeFragment(content));const text=target.textContent.trim();if(!text)target.innerHTML='<p>O documento original não contém texto legível nesta versão.</p>';
 }
 function handleHash(){menu.classList.remove('open');document.getElementById('menu-button').setAttribute('aria-expanded','false');let h;try{h=decodeURIComponent(location.hash||'#inicio')}catch{h='#inicio'}if(h.toLowerCase().startsWith('#ler/')){showReader(h.slice(5));return}const cat=categoryFromHash(h);setHome(cat||'Todos',Boolean(h==='#pesquisa'||h==='#catalogo'||(cat&&cat!=='Todos')))}
-search.addEventListener('input',e=>{query=e.target.value;category='Todos';home.hidden=false;reader.hidden=true;history.replaceState(null,'',query?'#pesquisa':'#inicio');document.querySelectorAll('.nav a').forEach(a=>a.classList.toggle('active',a.dataset.cat==='Todos'));renderCatalog();if(query.length===1)document.getElementById('catalogo').scrollIntoView({behavior:'smooth'})});document.getElementById('menu-button').addEventListener('click',()=>{const open=menu.classList.toggle('open');document.getElementById('menu-button').setAttribute('aria-expanded',String(open))});document.querySelectorAll('.chip').forEach(b=>b.addEventListener('click',()=>setCategory(b.dataset.cat)));document.getElementById('year').textContent=new Date().getFullYear();window.addEventListener('hashchange',handleHash);renderCatalog();handleHash();
+function clearQuery(){query='';search.value='';history.replaceState(null,'','#catalogo');renderCatalog();search.focus()}
+search.addEventListener('input',e=>{query=e.target.value;category='Todos';home.hidden=false;reader.hidden=true;history.replaceState(null,'',query?'#pesquisa':'#inicio');document.querySelectorAll('.nav a').forEach(a=>a.classList.toggle('active',a.dataset.cat==='Todos'));renderCatalog();if(query.length===1)document.getElementById('catalogo').scrollIntoView({behavior:'smooth'})});
+document.getElementById('clear-site-search').addEventListener('click',clearQuery);
+cards.addEventListener('click',e=>{if(e.target.closest('#reset-catalog-search'))clearQuery()});
+document.addEventListener('keydown',e=>{
+ if(e.key==='/'&&!e.ctrlKey&&!e.metaKey&&!e.altKey&&!e.repeat&&!e.target.closest('input,textarea,select,[contenteditable="true"]')){e.preventDefault();search.focus()}
+ else if(e.key==='Escape'&&document.activeElement===search&&search.value){e.preventDefault();clearQuery()}
+});
+document.getElementById('menu-button').addEventListener('click',()=>{const open=menu.classList.toggle('open');document.getElementById('menu-button').setAttribute('aria-expanded',String(open))});document.querySelectorAll('.chip').forEach(b=>b.addEventListener('click',()=>setCategory(b.dataset.cat)));document.getElementById('year').textContent=new Date().getFullYear();window.addEventListener('hashchange',handleHash);renderCatalog();handleHash();
 if(window.chronoArticlesReady){window.chronoArticlesReady.then(posts=>{modern=posts;all=[...modern.map((p,i)=>({...p,id:'novo-'+i,kind:'modern'})),...activeItems];renderCatalog()})}
 })();
