@@ -33,9 +33,9 @@ As **v0.18 e v0.19 recuperaram oito catálogos históricos** a partir da cópia 
 | [Tabs]({{ '/artigos/chrono-trigger-tabs-atributos/' | relative_url }}) | 58 de 58 registros (20 Power, 22 Magic, 16 Speed) | Dados da fonte reunidos; recompensas e inconsistências sinalizadas |
 | [Lojas]({{ '/artigos/chrono-trigger-shops-lojas-precos/' | relative_url }}) | 133 mercadorias de 18 estabelecimentos em 13 localidades | Dados da fonte reunidos; preços N/D preservados |
 
-**Há inconsistências nos próprios registros antigos.** Uma lista de Charm diverge em algumas recompensas do bestiário; os campos sem dados permanecem marcados como ausentes e não são preenchidos por suposição. Textos, imagens e arquivos integrais de terceiros não foram espelhados publicamente.
+**Há inconsistências nos próprios registros antigos.** Uma lista de Charm diverge em algumas recompensas do bestiário; os campos sem dados permanecem marcados como ausentes e não são preenchidos por suposição. Textos e pacotes integrais de terceiros não foram espelhados publicamente. Imagens de referência, capturas e sprites históricos foram recuperados em outras seções do Chronopolis, com documentação de procedência e ressalvas de direitos.
 
-**Ainda há fichas com cobertura parcial**, especialmente os registros completos de consumíveis/objetos-chave, códigos de trapaça e imagens de mapas. A recuperação de tabelas históricas não implica autorização para republicar HTML, comentários integrais, imagens, ROMs ou arquivos de terceiros.
+**Ainda há fichas com cobertura parcial**, especialmente os registros completos de consumíveis/objetos-chave e códigos de trapaça. As seis miniaturas de mapas estão restauradas; não devem ser confundidas com mapas em resolução máxima. O acervo visual não implica autorização geral para republicar HTML, comentários integrais, ROMs, pacotes ou outros materiais de terceiros.
 
 ## Imagens históricas restauradas no bestiário
 
@@ -47,6 +47,27 @@ As tabelas de [126 inimigos]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/'
 - Imagens adicionais existentes no backup também foram preservadas na pasta, embora nem todas estejam vinculadas às duas tabelas atuais.
 
 As imagens, personagens e demais elementos visuais podem estar sujeitos aos direitos de seus respectivos titulares. A guarda de uma cópia histórica não prova autorização ou licença de redistribuição; os créditos e a situação dos direitos devem ser acompanhados na seção de créditos a definir.
+
+## Restauração visual ampliada — 23/11/2026
+
+O repositório agora contém **1.126 arquivos de imagem locais** relacionados ao espelho histórico: **214 sprites GIF** e **912 arquivos de mídia adicional**. Parte das imagens JPEG/GIF preservadas foi incluída em **SVGs autocontidos**, com os bytes originais embutidos, para permitir a hospedagem local e a ampliação sem depender da origem.
+
+| Seção | Cobertura restabelecida |
+| --- | --- |
+| [Bestiário]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}) e [Chefes]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}) | 214 GIFs arquivados, 126 fichas e 48 ocorrências de sprites de chefes |
+| [Charm]({{ '/artigos/chrono-trigger-charm-guia/' | relative_url }}) | 93 registros ilustrados com sprites locais, reutilizando arquivos já preservados |
+| [Mapas]({{ '/artigos/mapas-eras-chrono-trigger/' | relative_url }}) e [Personagens]({{ '/artigos/personagens-chrono-trigger-elenco/' | relative_url }}) | 6 prévias de mapas e 7 retratos originais recuperados |
+| [Techs]({{ '/artigos/chrono-trigger-techs-guia/' | relative_url }}) | 116 imagens ligadas às 56 técnicas individuais, 45 duplas e 15 triplas |
+| [Tabs]({{ '/artigos/chrono-trigger-tabs-atributos/' | relative_url }}) | 56 imagens associadas a 58 entradas; 2 sem imagem na fonte |
+| [Galerias]({{ '/artigos/artworks-chrono-trigger-sete-colecoes/' | relative_url }}) | 157 posições visuais nas 7 coleções; páginas integrais do manual não republicadas, apenas prévias |
+| [Roteiro visual]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}) | 522 capturas recuperadas, separadas em 5 partes navegáveis |
+| Outras páginas | 48 mídias locais recuperadas para missões, OVA, Satellaview, criadores, série e skins; 6 sprites de Spekkio reutilizados |
+
+A auditoria do espelho identificou **1.674 arquivos locais JPG/GIF**, dos quais **1.663** são referenciados nas páginas HTML históricas. **Os 11 arquivos locais restantes são principalmente recursos auxiliares de interface**, enquanto **11 imagens de wallpapers eram links externos e não foram recuperadas**. O total de 1.126 arquivos no repositório não deve ser confundido com as 1.674 imagens do espelho: versões em miniatura duplicadas, imagens de navegação e reproduções integrais de materiais impressos não foram todas publicadas.
+
+**Pendência separada:** as **20 matérias do Chronopolis original de 2022** ainda apresentam **91 ocorrências de imagens hospedadas externamente**, sobretudo no Imgbox. Essas referências não integram o espelho histórico recuperado e **não foram substituídas por outras imagens sem comprovação de correspondência**. O repositório original também não contém arquivos JPG/GIF/PNG que permitam recuperar essas ocorrências diretamente.
+
+O projeto preserva o vínculo e as condições de referência disponíveis, sem afirmar que todos os arquivos têm licença de redistribuição. A revisão de autoria, créditos e permissões permanece em aberto para avaliação editorial.
 
 ## Materiais que ainda dependem de terceiros
 

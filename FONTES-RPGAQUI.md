@@ -403,3 +403,27 @@ Os dados foram apresentados em tabelas reorganizadas e pesquisáveis; **informa�
 **Apresentação:** coluna `Sprite` adicionada às duas tabelas; CSS com `image-rendering: pixelated`, dimensionamento de 70 px no desktop/58 px no celular, texto alternativo por inimigo, carregamento preguiçoso e suporte a 2–3 sprites por encontro. A busca textual continua operando sobre a mesma tabela. Nenhum dos 25 arquivos HTML em `legado/` foi alterado.
 
 **Licenciamento/procedência:** preservação de imagens históricas extraídas de conteúdo relacionado a Chrono Trigger não implica direitos para redistribuição comercial. Usar o inventário de fontes e a seção de créditos futura para registrar titulares, permissões e eventuais solicitações de remoção. Não foram importados textos completos, músicas, ROMs, nem programas do site antigo.
+
+## v0.25–v0.29 — Recuperação de imagens históricas além do bestiário (23/11/2026)
+
+**Escopo:** o proprietário pediu localizar em todas as seções o conteúdo visual recuperável autonomamente. Revisou-se diretamente o espelho `Chrono SAFE.rar`: foram contados **1.674 arquivos locais** com extensão `.jpg` ou `.gif`, dos quais **1.663 aparecem como links ou imagens nas 58 páginas `.htm` auditadas**. A exceção explicitamente não recuperada são **11 imagens/miniaturas de wallpapers** dependentes de hospedagem externa ausente.
+
+**Publicação efetiva:** foram acrescentados **912 arquivos à pasta `assets/media/historico/`**, somados aos **214 GIFs** do bestiário já existentes: **1.126 arquivos locais** ao todo. A maior parte das imagens adicionais está em contêiner SVG autocontido que incorpora os bytes JPEG/GIF originais em `data:image/...`; o SVG não é redesenho da imagem nem depende do domínio original. Os seis mapas e sete retratos de protagonistas foram mantidos como JPEGs binários.
+
+| Área restaurada | Imagens/posições | Implementação |
+| --- | ---: | --- |
+| Mapas e protagonistas | 6 + 7 | Miniaturas em ficha de épocas; retratos na tabela do elenco |
+| Charm | 93 linhas / 99 ocorrências | Relacionamento nome + localização; 92 agrupamentos de fonte; Mohavor usa sprite idêntico da ficha de inimigos, sem atribuir imagem inexistente à página de Charm |
+| Techs e Tabs | 116 + 56 | Links e capturas nas linhas de consulta; duas entradas de Tabs não tinham imagem |
+| Sete coleções de arte | 157 posições | Galeria recolhível em ordem da fonte; manual exibe somente 41 miniaturas, não páginas grandes |
+| Outros materiais visuais | 48 arquivos | Cinco pedras especiais, nove cenas de OVA, sete imagens de Satellaview, cinco retratos de criadores, seis imagens da série Chrono, duas da coletânea PlayStation e 14 prévias de skins |
+| Spekkio | 6 GIFs reaproveitados | Seis aparências na seção de missões opcionais |
+| Estratégia visual | 522 capturas | Cinco novos artigos para as cinco partes históricas: 129, 122, 135, 132 e 4 imagens; agrupadas em seções recolhíveis por pasta/etapa original |
+
+**Limites editoriais:** imagens de navegação/decorativas e versões duplicadas de miniaturas não foram integralmente reintroduzidas; mapas têm apenas as prévias existentes no espelho; os downloads de programas/ROMs/pacotes e as páginas inteiras digitalizadas do manual não foram republicados. Os 11 wallpapers faltantes dependem de outro site. As 91 ocorrências de imagens externas do Chronopolis de 2022/2023 são um acervo diferente e permanecem pendentes; não há arquivos binários correspondentes no repositório legado.
+
+**Código e ligações:** as páginas usam caminhos relativos ao baseurl do próprio Chronopolis, miniaturas clicáveis, `loading="lazy"` e galerias agrupadas. As 25 páginas `legado/` e o repositório `joesouzah/Chronopolis` permanecem intactos.
+
+**Commits:** [mapas, personagens e Charm](https://github.com/joesouzah/Chronopolis-v2/commit/46b80811d0be780f7f0a57fb414005a8bc0d2b20); [Techs e Tabs — assets](https://github.com/joesouzah/Chronopolis-v2/commit/fe0b47d5916c184637b51f0f8ac6af0cf279d90e) e [fichas](https://github.com/joesouzah/Chronopolis-v2/commit/add8ab231001b930f4bd98ad7ab53eda61dd7ab0); [galerias](https://github.com/joesouzah/Chronopolis-v2/commit/09d75564318601096d548892e79f11ab873f87b8); [outros visuais](https://github.com/joesouzah/Chronopolis-v2/commit/9d29e4dd77226f0634569ff3c5a5acf229f5423b); [roteiro em cinco partes](https://github.com/joesouzah/Chronopolis-v2/commit/2c4dbf12fc1f407bcedf21bd86086ef2c6fffd5b).
+
+**Verificação:** os 20 artigos com conteúdo visual local foram relidos por caminho e todas as referências locais de mídia foram confrontadas com a árvore Git; **zero caminhos ausentes**. Os builds das cinco páginas de estratégia foram concluídos com sucesso. Teste visual final pelo navegador público não foi possível no ambiente, e as condições de autoria/licença das mídias não foram verificadas individualmente.
