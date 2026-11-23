@@ -10,7 +10,7 @@
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title | escape }} — Chronopolis</title>
-  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.24">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.30">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 </head>
 <body>
@@ -50,18 +50,26 @@
 <script>
 document.querySelectorAll('.prose img, .article-hero-image').forEach(function(img){
   function unavailable(){
-    var p=document.createElement('p');
-    p.className='archive-unavailable';
-    p.textContent='Imagem indisponível na hospedagem original.';
-    if(img.getAttribute('src')) {
-      var a=document.createElement('a');
-      a.href=img.src;
-      a.target='_blank';
-      a.rel='noopener noreferrer';
-      a.textContent=' Consultar endereço original.';
-      p.append(a);
+    var src=img.getAttribute('src')||'';
+    var external=/^https?:\/\//i.test(src);
+    var note=document.createElement('p');
+    note.className='archive-unavailable'+(external?' archive-unavailable--external':'');
+    var label=document.createElement('strong');
+    label.textContent=external?'Imagem externa não carregada.':'Imagem não carregada.';
+    note.appendChild(label);
+    var alt=(img.getAttribute('alt')||'').trim();
+    if(alt){
+      var description=document.createElement('span');
+      description.textContent=' '+alt.replace(/\.$/,'')+'.';
+      note.appendChild(description);
     }
-    img.replaceWith(p);
+    if(src){
+      var link=document.createElement('a');
+      link.href=src;link.target='_blank';link.rel='noopener noreferrer';
+      link.textContent=external?' Abrir endereço original.':' Abrir arquivo.';
+      note.appendChild(link);
+    }
+    img.replaceWith(note);
   }
   img.addEventListener('error',unavailable,{once:true});
   if(img.complete && !img.naturalWidth)unavailable();

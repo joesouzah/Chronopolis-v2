@@ -48,9 +48,30 @@ Durante a captura de outra coleção de imagens, alguns arquivos de wallpapers *
 | Conjunto | Situação |
 | --- | --- |
 | **Imagens desta página** | As duas referências visuais continuam registradas, mas dependem de um serviço externo |
-| **Outros wallpapers encontrados em um catálogo histórico** | Há falhas de recuperação; os arquivos e suas resoluções não foram todos verificados |
+| **Outros wallpapers encontrados em um catálogo histórico** | 11 miniaturas externas não recuperadas; nomes e dimensões anunciadas nos links catalogados |
 
 A intenção é evitar misturar artes de origens diferentes ou atribuir a uma imagem uma procedência que ainda não foi confirmada.
+
+### As 11 miniaturas identificadas nos links antigos
+
+Estes nomes foram extraídos da página histórica e **não são imagens restauradas**. Os tamanhos constam dos endereços dos arquivos grandes, não de arquivos medidos.
+
+| Identificador | Nome da miniatura | Tamanhos referenciados |
+| --- | --- | --- |
+| `ct_00` | `tn_ct_00.gif` | 1024×768, 800×600 e 640×480 |
+| `ct_01` | `tn_ct_01.gif` | 1024×768, 800×600 e 640×480 |
+| `ct_600x388` | `tn_36600x388.gif` | 600×388 |
+| `ct_poster446x319` | `tn_ct_446x319.gif` | 446×319 |
+| `ct_poster592x403` | `tn_ct_592x403.gif` | 592×403 |
+| `ct_poster_592x463` | `tn_ct_592x463.gif` | 592×463 |
+| `ct_707x418` | `tn_ct_707x418.gif` | 707×418 |
+| `03` | `03.jpg` | 1024×768 e 800×600 |
+| `04` | `04.jpg` | 1024×768 e 800×600 |
+| `05` | `05.jpg` | 1024×768 e 800×600 |
+| `06` | `06.jpg` | 1024×768 |
+
+A [auditoria técnica](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-IMAGENS-EXTERNAS.md) registra por que estes arquivos continuam pendentes e não foram trocados por wallpapers de outras coleções.
+
 
 ### Resolução e proporção: como usar uma imagem antiga
 

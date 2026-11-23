@@ -65,7 +65,7 @@ O repositório agora contém **1.126 arquivos de imagem locais** relacionados ao
 
 A auditoria do espelho identificou **1.674 arquivos locais JPG/GIF**, dos quais **1.663** são referenciados nas páginas HTML históricas. **Os 11 arquivos locais restantes são principalmente recursos auxiliares de interface**, enquanto **11 imagens de wallpapers eram links externos e não foram recuperadas**. O total de 1.126 arquivos no repositório não deve ser confundido com as 1.674 imagens do espelho: versões em miniatura duplicadas, imagens de navegação e reproduções integrais de materiais impressos não foram todas publicadas.
 
-**Pendência separada:** as **20 matérias do Chronopolis original de 2022** ainda apresentam **91 ocorrências de imagens hospedadas externamente**, sobretudo no Imgbox. Essas referências não integram o espelho histórico recuperado e **não foram substituídas por outras imagens sem comprovação de correspondência**. O repositório original também não contém arquivos JPG/GIF/PNG que permitam recuperar essas ocorrências diretamente.
+**Pendência separada (auditoria de 23/11/2026):** as **20 matérias do Chronopolis original de 2022–2023** contêm **91 ocorrências de imagens nos textos e outras 18 referências de capa**, totalizando **109 usos de 93 URLs distintas**, todas do Imgbox. Os endereços foram preservados e **não foram substituídos por imagens parecidas**. As cópias exatas não foram localizadas no repositório original nem nos arquivos antigos identificados no Google Drive. Falhas de acesso neste ambiente não provam indisponibilidade definitiva. O inventário por página está em [AUDITORIA-IMAGENS-EXTERNAS.md](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-IMAGENS-EXTERNAS.md).
 
 O projeto preserva o vínculo e as condições de referência disponíveis, sem afirmar que todos os arquivos têm licença de redistribuição. A revisão de autoria, créditos e permissões permanece em aberto para avaliação editorial.
 
@@ -75,12 +75,12 @@ Inventário técnico feito em **22/11/2026**, sobre as 20 transcrições Markdow
 
 | Tipo de referência | Ocorrências registradas | Situação |
 | --- | ---: | --- |
-| Imagens externas, principalmente do Imgbox | **91** | URLs preservadas; arquivos ainda não hospedados localmente |
+| Imagens externas do Imgbox | **91 no texto + 18 nas capas** | 93 URLs distintas preservadas; cópias não recuperadas |
 | Links para vídeos no YouTube | **10** | Referências preservadas; disponibilidade individual não conferida |
 | Links para arquivos no Mega | **7** | Referências preservadas; integridade, disponibilidade e direitos de redistribuição não verificados |
 | Experiência do Mozilla Hubs | **1** | Serviço original encerrado em maio de 2024 |
 
-**Esses números são ocorrências em páginas, não contagens de arquivos únicos.** Não significam que o material esteja acessível ou que exista autorização para redistribuí-lo.
+**Esses números são ocorrências em páginas, não contagens de arquivos únicos. A contagem de URLs distintas do Imgbox é 93.** Não significam que o material esteja acessível ou que exista autorização para redistribuí-lo.
 
 ### Um link que ficou histórico
 

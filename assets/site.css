@@ -153,3 +153,9 @@
 .prose .archive-profile img{display:block;min-width:0;width:104px;max-width:104px;height:auto;max-height:120px;margin:0;padding:0;border:0;border-radius:5px;object-fit:contain}
 .archive-profile figcaption{font-size:.78rem;color:var(--muted);line-height:1.35}
 .prose .archive-gallery-item--pixel img{width:auto;height:auto;max-width:88px;max-height:92px;margin:8px auto 0;border:0;min-width:0;image-rendering:pixelated;image-rendering:crisp-edges}
+
+
+/* v0.30 — Falhas de imagens externas: bloco compacto e referência consultável */
+.archive-unavailable--external{padding:10px 13px;margin:12px 0 17px;line-height:1.45;background:rgba(125,146,188,.075);border-radius:7px;font-size:.82rem}
+.archive-unavailable--external strong{color:#d8e2f7;font-weight:650}
+.archive-unavailable a{color:#aee2f2;text-decoration:underline;text-underline-offset:2px}
