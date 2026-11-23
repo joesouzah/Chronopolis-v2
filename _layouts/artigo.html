@@ -37,7 +37,7 @@
     </div>
   </header>
   {% unless page.legacy %}{% if page.image and page.image != '' %}<img class="article-hero-image" src="{{ page.image | escape }}" alt="" loading="lazy">{% endif %}{% endunless %}
-  <article class="article-panel prose{% if page.reference_sheet %} reference-sheet{% endif %}">{{ content }}</article>
+  <article class="article-panel prose{% if page.reference_sheet %} reference-sheet{% endif %}{% if page.sprite_table %} sprite-reference sprite-reference--{{ page.sprite_table | escape }}{% endif %}">{{ content }}</article>
   {% if page.legacy %}
   <div class="archive-source">
     <span>A revisão melhora linguagem e organização; não substitui uma verificação histórica integral.</span>

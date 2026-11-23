@@ -9,6 +9,7 @@ source_url: "http://rpga8.free.fr/especial/ct/chefes.htm"
 source_consulted_on: 2026-11-22
 source_rechecked_on: 2026-11-22
 reference_sheet: true
+sprite_table: "bosses"
 reference_coverage: "40/40 encontros indexados, correspondentes a 42 blocos de ficha"
 ---
 

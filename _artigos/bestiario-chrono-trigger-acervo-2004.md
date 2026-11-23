@@ -9,6 +9,7 @@ source_url: "http://rpga8.free.fr/especial/ct/inimigos.htm"
 source_consulted_on: 2026-11-22
 source_rechecked_on: 2026-11-22
 reference_sheet: true
+sprite_table: "bestiary"
 reference_coverage: "126/126 fichas de inimigos transcritas do espelho preservado"
 ---
 ## Fichas de inimigos
