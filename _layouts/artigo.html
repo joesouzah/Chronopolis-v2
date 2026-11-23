@@ -10,7 +10,7 @@
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title | escape }} — Chronopolis</title>
-  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.30">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.32">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 </head>
 <body>
@@ -44,7 +44,21 @@
     {% if page.source_url %}<a href="{{ page.source_url | escape }}" target="_blank" rel="noopener noreferrer">Consultar página original no GitHub</a>{% endif %}
   </div>
   {% endif %}
-  <p style="margin-top:25px"><a class="back-link" href="{{ '/' | relative_url }}#catalogo">← Voltar às matérias</a></p>
+  <nav class="article-related" aria-label="Continuar explorando o Chronopolis">
+    <p class="article-related-title">Continuar explorando</p>
+    <div class="article-related-links">
+      <a href="{{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}">Bestiário</a>
+      <a href="{{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}">Chefes</a>
+      <a href="{{ '/artigos/chrono-trigger-techs-guia/' | relative_url }}">Techs</a>
+      <a href="{{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}">Equipamentos</a>
+      <a href="{{ '/artigos/mapas-eras-chrono-trigger/' | relative_url }}">Mapas</a>
+      <a href="{{ '/artigos/artworks-chrono-trigger-sete-colecoes/' | relative_url }}">Galerias</a>
+    </div>
+  </nav>
+  <div class="article-exit-links">
+    <a class="back-link" href="{{ '/' | relative_url }}#catalogo">← Voltar ao catálogo</a>
+    <a class="back-link" href="#conteudo">↑ Voltar ao início</a>
+  </div>
 </main>
 <footer class="site-footer"><div class="wrap footer-inner"><p>Chronopolis — arquivo independente de fã. Chrono Trigger pertence a seus respectivos titulares.</p><a href="{{ '/fontes-historicas/' | relative_url }}">Fontes e créditos</a><a href="{{ '/' | relative_url }}">Início</a></div></footer>
 <script>
@@ -112,8 +126,20 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
     if(table.closest('.sprite-reference')){
       var scroller=document.createElement('div');
       scroller.className='sprite-table-scroll';
+      scroller.tabIndex=0;
+      scroller.setAttribute('role','region');
+      scroller.setAttribute('aria-label','Tabela pesquisável: '+title);
       table.parentNode.insertBefore(scroller,table);
       scroller.appendChild(table);
+      var hint=document.createElement('p');
+      hint.className='sprite-scroll-hint';
+      hint.textContent='Deslize a tabela para ver mais colunas.';
+      scroller.parentNode.insertBefore(hint,scroller);
+      function updateHint(){
+        hint.hidden=scroller.scrollWidth<=scroller.clientWidth+2;
+      }
+      requestAnimationFrame(updateHint);
+      window.addEventListener('resize',updateHint);
     }
     update();
   });

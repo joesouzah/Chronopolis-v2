@@ -85,3 +85,12 @@ Em 23/11/2026, o Drive pessoal revelou três arquivos com **os mesmos identifica
 
 Também foram identificadas sete imagens denominadas `CTDC_WP1024x768[a-g]` sob `Chrono Trigger Wallpapers` no Google Drive, todas JPEG 1024 × 768. As cópias originais foram adicionadas a `assets/media/drive-wallpapers/` e exibidas em [papéis de parede]({{ '/acervo/papeldeparede/' | relative_url }}). A pasta continha quatro opções de resolução para cada um dos sete desenhos; as versões não publicadas continuam guardadas no Drive. **Não há identidade demonstrada** entre essa coleção e as 11 miniaturas do catálogo externo de wallpapers; estas seguem pendentes.
 
+## v0.32 — Varredura adicional de nomes no Drive (23/11/2026)
+
+O usuário informou que as imagens ausentes estão no seu Google Drive. Após recuperar as três correspondências `Bqw2MbCv_t.png`, `AkmA1Nrx_t.png` e `7Dvlkkc5_t.png` na v0.31, foi feita uma consulta paginada por **igualdade exata de nome** para os **90 identificadores restantes** do Imgbox em todos os drives acessíveis via conector Google Drive. A consulta foi verificada com um dos três nomes já conhecidos, que foi localizado corretamente.
+
+**Resultado:** nenhum dos 90 nomes restantes foi encontrado com a mesma grafia/extensão. **Isso não significa que os bytes não existam no Drive**: o mesmo arquivo pode ter sido renomeado, recomprimido, reorganizado sob outra identidade ou integrado a um pacote. Os documentos HTML de 2022 não trazem cópias binárias dos conteúdos externos. Não foram feitas trocas por fotos ou desenhos tematicamente parecidos.
+
+**Próxima ação condicionada a evidência:** cotejar imagens visualmente ou por hash somente quando houver um exemplar original recuperável ou associação de fonte específica. Os links antigos continuam preservados no código. Não houve exclusão, mudança de pastas ou compartilhamento no Drive.
+
+**QA de navegação e interface:** os 54 arquivos Markdown em `acervo/` e `_artigos/` foram relidos em cinco lotes, buscando referências internas renderizadas pelo filtro `relative_url`; nenhum destino ausente foi identificado entre essas referências. Links externos, recursos de terceiros e comportamento no navegador da publicação não foram validados por esse teste.

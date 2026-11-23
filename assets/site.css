@@ -159,3 +159,18 @@
 .archive-unavailable--external{padding:10px 13px;margin:12px 0 17px;line-height:1.45;background:rgba(125,146,188,.075);border-radius:7px;font-size:.82rem}
 .archive-unavailable--external strong{color:#d8e2f7;font-weight:650}
 .archive-unavailable a{color:#aee2f2;text-decoration:underline;text-underline-offset:2px}
+
+/* v0.32 — Navegação entre fichas e leitura em telas estreitas */
+.article-related{margin-top:26px;padding-top:19px;border-top:1px solid var(--line)}
+.article-related-title{margin:0 0 10px;color:var(--muted);font-size:.8rem;font-weight:700;letter-spacing:.025em}
+.article-related-links{display:flex;flex-wrap:wrap;gap:8px}
+.article-related-links a{display:inline-flex;align-items:center;min-height:35px;padding:7px 11px;background:rgba(136,207,225,.045);border:1px solid var(--line);border-radius:7px;color:#c4dcf0;font-size:.82rem;font-weight:620;line-height:1.25}
+.article-related-links a:hover,.article-related-links a:focus-visible{border-color:var(--cyan);color:var(--gold);background:rgba(136,207,225,.09)}
+.article-exit-links{margin-top:23px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px}
+.sprite-scroll-hint{margin:0 0 15px;color:var(--muted);font-size:.78rem;line-height:1.4}
+.sprite-scroll-hint[hidden]{display:none}
+@media(max-width:560px){
+ .article-related-links{gap:6px}
+ .article-related-links a{font-size:.77rem;padding:7px 9px}
+ .article-exit-links{gap:14px}
+}

@@ -72,6 +72,14 @@ O projeto preserva o vínculo e as condições de referência disponíveis, sem 
 
 **Coleção adicional confirmada no Google Drive:** sete wallpapers `CTDC_WP1024x768[a-g]` foram incorporados à [galeria de papéis de parede]({{ '/acervo/papeldeparede/' | relative_url }}) com origem identificada. **Não substituem as 11 miniaturas pendentes** do catálogo histórico externo.
 
+## Auditoria de navegação — 23/11/2026 (v0.32)
+
+Foram verificados os destinos de links internos via `relative_url` nas **54 páginas Markdown** do acervo e das pesquisas, sem encontrar referências para páginas inexistentes no repositório. Isso não representa um teste remoto de cada link externo.
+
+Nas páginas de leitura, uma faixa discreta de **acesso direto** conecta bestiário, chefes, técnicas, equipamentos, mapas e galerias. As páginas longas incluem opção de retorno ao topo, e tabelas ilustradas apresentam uma indicação de rolagem **apenas quando não cabem na largura disponível**. As duas imagens em destaque na página inicial mantêm as URLs antigas, mas mostram um símbolo de reserva quando a hospedagem externa falha.
+
+Os **90 identificadores de imagens externas ainda pendentes** também foram procurados por nome exato no Google Drive. Não apareceu nova correspondência; isso não descarta cópias guardadas com nomes diferentes. [Detalhes técnicos](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-IMAGENS-EXTERNAS.md).
+
 ## Materiais que ainda dependem de terceiros
 
 Inventário técnico feito em **22/11/2026**, sobre as 20 transcrições Markdown:
