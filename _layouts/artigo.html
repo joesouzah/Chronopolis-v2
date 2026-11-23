@@ -10,7 +10,7 @@
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title | escape }} — Chronopolis</title>
-  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.22">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.23">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 </head>
 <body>
@@ -24,7 +24,7 @@
     <a href="{{ '/' | relative_url }}#catalogo">Acervo</a>
   </nav>
 </div></header>
-<main id="conteudo" class="read-shell">
+<main id="conteudo" class="read-shell{% if page.sprite_table %} read-shell--sprite-reference{% endif %}">
   <a class="back-link" href="{{ '/' | relative_url }}#catalogo">← Explorar o acervo</a>
   <header class="read-head">
     <div class="eyebrow">{{ page.category | default: 'Acervo' | escape }} · {% if page.reference_sheet %}Ficha técnica{% elsif page.legacy %}Documento histórico{% else %}Publicação Chronopolis{% endif %}</div>
@@ -101,6 +101,12 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
     input.addEventListener('input',update);
     bar.append(input,result);
     table.parentNode.insertBefore(bar,table);
+    if(table.closest('.sprite-reference')){
+      var scroller=document.createElement('div');
+      scroller.className='sprite-table-scroll';
+      table.parentNode.insertBefore(scroller,table);
+      scroller.appendChild(table);
+    }
     update();
   });
 })();
