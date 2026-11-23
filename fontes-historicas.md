@@ -44,6 +44,9 @@ Cada publicação é escrita para ser útil ao leitor. Dados antigos são tratad
 | Elenco | [Personagens, aliados e antagonistas]({{ '/artigos/personagens-chrono-trigger-elenco/' | relative_url }}) |
 | Animação | [O.V.A. de Chrono Trigger]({{ '/acervo/ova/' | relative_url }}) |
 | Códigos do SNES | [Game Genie e Pro Action Replay]({{ '/artigos/game-shark-chrono-trigger-codigos/' | relative_url }}) |
+| Biblioteca de consulta | [Alexandria: guia do universo]({{ '/artigos/alexandria-guia-chrono-trigger/' | relative_url }}) |
+| Arquivos digitais | [Downloads históricos: guia de pesquisa]({{ '/artigos/downloads-historicos-chrono-trigger/' | relative_url }}) |
+| Papéis de parede | [Galeria e preservação dos wallpapers]({{ '/acervo/papeldeparede/' | relative_url }}) |
 
 ## Como tratamos material de pesquisa
 
