@@ -10,7 +10,7 @@
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title | escape }} — Chronopolis</title>
-  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.33">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.34">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 </head>
 <body>
@@ -88,6 +88,62 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
   img.addEventListener('error',unavailable,{once:true});
   if(img.complete && !img.naturalWidth)unavailable();
 });
+</script>
+<script>
+/* v0.34 — Índice gerado a partir das seções existentes, sem reescrever o acervo */
+(function(){
+  'use strict';
+  var article=document.querySelector('article.article-panel.prose');
+  if(!article)return;
+  var headings=Array.from(article.querySelectorAll('h2,h3')).filter(function(heading){
+    return !heading.closest('details,nav,.archive-gallery-grid') && heading.textContent.trim();
+  });
+  if(headings.length<4)return;
+  var existing=new Set(Array.from(document.querySelectorAll('[id]')).map(function(el){return el.id}));
+  function slug(text){
+    return text.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')||'secao';
+  }
+  var toc=document.createElement('nav');
+  toc.className='article-toc';
+  toc.setAttribute('aria-label','Índice desta página');
+  var details=document.createElement('details');
+  details.className='article-toc-details';
+  if(headings.length<=10 && !window.matchMedia('(max-width: 700px)').matches)details.open=true;
+  var summary=document.createElement('summary');
+  summary.appendChild(document.createTextNode('Nesta página'));
+  var count=document.createElement('span');
+  count.className='article-toc-count';
+  count.textContent=headings.length+' seções';
+  summary.appendChild(count);
+  var list=document.createElement('ol');
+  list.className='article-toc-list';
+  headings.forEach(function(heading){
+    if(!heading.id){
+      var base=slug(heading.textContent.trim()),id=base,n=2;
+      while(existing.has(id)){id=base+'-'+n;n++}
+      heading.id=id;
+      existing.add(id);
+    }
+    heading.classList.add('article-section-heading');
+    var item=document.createElement('li');
+    if(heading.tagName==='H3')item.className='article-toc-subsection';
+    var link=document.createElement('a');
+    link.href='#'+encodeURIComponent(heading.id);
+    link.textContent=heading.textContent.trim();
+    item.appendChild(link);
+    list.appendChild(item);
+  });
+  details.append(summary,list);
+  toc.appendChild(details);
+  article.insertBefore(toc,headings[0]);
+  if(location.hash.length>1){
+    var targetId;
+    try{targetId=decodeURIComponent(location.hash.slice(1))}catch(e){targetId=location.hash.slice(1)}
+    if(headings.some(function(h){return h.id===targetId})){
+      requestAnimationFrame(function(){document.getElementById(targetId).scrollIntoView({block:'start'})});
+    }
+  }
+})();
 </script>
 {% if page.reference_sheet %}
 <script>

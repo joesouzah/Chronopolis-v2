@@ -189,3 +189,25 @@
 .reference-table-clear:hover,.reference-table-clear:focus-visible{border-color:var(--gold)}
 .reference-table-empty{border:1px dashed var(--line);border-radius:8px;padding:11px 13px;margin:7px 0 11px;background:rgba(136,207,225,.04);color:var(--muted);font-size:.83rem}
 @media(max-width:560px){.header-search{padding:6px 7px}.header-search input{width:100%;min-width:0}.reference-table-clear{padding:7px 11px}}
+
+/* v0.34 — Navegação por seções, preservando o texto e a ordem original */
+.article-toc{margin:10px 0 26px;border:1px solid var(--line);border-radius:10px;background:rgba(136,207,225,.038);overflow:hidden}
+.article-toc-details summary{cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:12px;list-style:none;padding:12px 15px;color:var(--gold);font-size:.9rem;font-weight:750;line-height:1.35}
+.article-toc-details summary::-webkit-details-marker{display:none}
+.article-toc-details summary::before{content:'▸';display:inline-block;margin-right:6px;font-size:.85rem}
+.article-toc-details[open] summary::before{content:'▾'}
+.article-toc-details summary:focus-visible{outline:2px solid var(--cyan);outline-offset:-2px}
+.article-toc-count{margin-left:auto;color:var(--muted);font-weight:500;font-size:.75rem;white-space:nowrap}
+.article-toc-details[open] summary{border-bottom:1px solid var(--line)}
+.article-toc-list{padding:12px 18px 14px;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:20px;row-gap:6px;list-style:none}
+.article-toc-list li{min-width:0;margin:0;font-size:.81rem;line-height:1.5}
+.article-toc-list .article-toc-subsection{padding-left:15px;font-size:.77rem}
+.article-toc-list .article-toc-subsection a{color:var(--muted)}
+.article-toc-list a{display:block;padding:2px 4px;color:#bfd8ee;text-decoration:none;overflow-wrap:anywhere;border-radius:4px}
+.article-toc-list a:hover,.article-toc-list a:focus-visible{background:rgba(136,207,225,.075);color:var(--gold);text-decoration:underline}
+.article-section-heading{scroll-margin-top:104px}
+@media(max-width:700px){
+ .article-toc-list{grid-template-columns:1fr;padding:11px 14px;gap:4px}
+ .article-toc-details summary{padding:11px 13px}
+ .article-section-heading{scroll-margin-top:83px}
+}
