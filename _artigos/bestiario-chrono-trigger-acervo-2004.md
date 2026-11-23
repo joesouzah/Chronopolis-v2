@@ -17,14 +17,16 @@ reference_coverage: "6 fichas com dados exibidos; 126 identificadas no catálogo
 
 ### Inimigos — fichas disponíveis para consulta
 
-| Inimigo | HP registrado | Local indicado | Detalhe da ficha |
-| --- | ---: | --- | --- |
-| **Acid** | 10 | Factory, 2300 d.C. | Uma ficha simples: 1 TP e 33 EXP. |
-| **Kilwala** | 160 | Mystic Mountain, Pré-história | O catálogo cita *Petal* nos campos Item e Charm. |
-| **Jinn** | 450 | Ocean Palace, 12.000 a.C. | Um inimigo de uma região ligada aos acontecimentos de Zeal. |
-| **Turret** | 700 | Blackbird, 12.000 a.C. | O registro indica **50 TP**, valor que merece conferência antes de ser usado como referência definitiva. |
-| **Alien** | 1.050 | Black Omen | A ficha registra **Magic Tab** no campo Charm. |
-| **Nu** | 1.234 | Kajar, 12.000 a.C. | Um exemplo curioso: **30 TP** e o item **Mop** associado a Charm. |
+| Inimigo | HP | TP | EXP | G | Item | Charm | Local |
+| --- | ---: | ---: | ---: | ---: | --- | --- | --- |
+| **Acid** | 10 | 1 | 33 | — | — | — | Factory, 2300 d.C. |
+| **Kilwala** | 160 | — | — | — | Petal | Petal | Mystic Mountain, Pré-história |
+| **Jinn** | 450 | — | — | — | — | — | Ocean Palace, 12.000 a.C. |
+| **Turret** | 700 | 50* | — | — | — | — | Blackbird, 12.000 a.C. |
+| **Alien** | 1.050 | — | — | — | — | Magic Tab | Black Omen |
+| **Nu** | 1.234 | 30 | — | — | — | Mop | Kajar, 12.000 a.C. |
+
+*O TP indicado para Turret necessita conferência adicional. **—** significa informação ainda não transcrita, não valor zero.
 
 ### Cobertura do catálogo histórico
 

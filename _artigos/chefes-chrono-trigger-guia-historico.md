@@ -17,13 +17,19 @@ reference_coverage: "5 encontros com HP exibido; 40 encontros identificados"
 
 ### HP dos chefes e de suas partes
 
-| Encontro | HP registrado | O que observar |
-| --- | --- | --- |
-| **B01 — Yakra** | 920 | Um dos primeiros chefes listados, em Cathedral (600 d.C.). |
-| **B02 — Dragon Tank** | Corpo 600, rodas 206, cabeça 266 | Três partes com valores próprios, registradas na ficha. |
-| **B03 — Guardian** | Guardian 1.200; cada Bit 200 | O catálogo diferencia o chefe de seus dois Bits. |
-| **B05 — Heckran** | 2.100 | Um confronto posterior, em Magic Cave. |
-| **B06 — Zombor** | Parte superior 960; inferior 800 | Duas partes independentes no registro. |
+| ID | Chefe | Parte / alvo | HP | Local registrado |
+| --- | --- | --- | ---: | --- |
+| B01 | Yakra | Principal | 920 | Cathedral, 600 d.C. |
+| B02 | Dragon Tank | Corpo | 600 | Guardia Castle, 1000 d.C. |
+| B02 | Dragon Tank | Rodas | 206 | Guardia Castle, 1000 d.C. |
+| B02 | Dragon Tank | Cabeça | 266 | Guardia Castle, 1000 d.C. |
+| B03 | Guardian | Principal | 1.200 | Futuro, 2300 d.C. |
+| B03 | Guardian | Cada Bit | 200 | Futuro, 2300 d.C. |
+| B05 | Heckran | Principal | 2.100 | Magic Cave, 1000 d.C. |
+| B06 | Zombor | Parte superior | 960 | Zenan Bridge, 600 d.C. |
+| B06 | Zombor | Parte inferior | 800 | Zenan Bridge, 600 d.C. |
+
+As partes de um mesmo chefe não devem ser somadas indiscriminadamente: podem ter padrões ou condições de combate diferentes.
 
 ### Índice dos 40 confrontos
 

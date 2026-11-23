@@ -26,6 +26,29 @@ reference_coverage: "Localizações selecionadas; 58 registros históricos ident
 | **Black Omen** | Explore baús e tente Charm em inimigos específicos |
 | **West Cape — 1000 d.C.** | Examine a região próxima ao túmulo de **Toma** |
 
+### Localizações em formato de ficha
+
+| Tab | Região | Forma de obtenção descrita |
+| --- | --- | --- |
+| Power | Guardia Forest, 600 d.C. | Examinar pontos luminosos |
+| Power | Guardia Forest, 1000 d.C. | Examinar pontos luminosos |
+| Power | Lab 32, 2300 d.C. | Recompensa relacionada à corrida de Johnny |
+| Power | Guardia Castle, 600 d.C. | Evento ligado a suprimentos da ponte |
+| Power | Giant's Claw, 600 d.C. | Exploração da região |
+| Magic | Medina, 1000 d.C. | Casa do ancião, andar superior |
+| Magic | Dorino, 600 d.C. | Interação com Naga-ette Bromide |
+| Magic | Enhasa, 12.000 a.C. | Resolver o enigma dos livros |
+| Magic | Zeal Palace, 12.000 a.C. | Interação com Nu ou batalha contra Golem |
+| Magic | Geno Dome, 2300 d.C. | Exploração e evento com Atropos |
+| Speed | Kajar, 12.000 a.C. | Vasculhar salas |
+| Speed | Enhasa, 12.000 a.C. | Sala secreta |
+| Speed | Mt. Woe, 12.000 a.C. | Charm em Giga Gaia |
+| Speed | Terra Cave, 12.000 a.C. | Charm em Mud Imp |
+| Speed | Black Omen | Baús ou Charm em alvos específicos |
+| Speed | West Cape, 1000 d.C. | Região do túmulo de Toma |
+
+As linhas acima são **pistas documentadas**, não itens garantidos em qualquer edição ou momento da campanha.
+
 ### Efeito de cada tipo de Tab
 
 | Tab | Atributo melhorado | Quando considerar seu uso |

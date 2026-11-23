@@ -12,7 +12,9 @@ O Chronopolis reúne história, personagens, imagens e curiosidades de *Chrono T
 
 Cada publicação é escrita para ser útil ao leitor. Dados antigos são tratados com cautela quando ainda precisam de comparação com outras edições, e conteúdos com spoilers recebem avisos quando necessário.
 
-## Pesquisas disponíveis
+## Pesquisas e fichas técnicas
+
+As entradas marcadas como **Ficha técnica** no catálogo abrem com tabelas de dados, enquanto a explicação do assunto aparece depois. Onde o material ainda não foi transcrito por completo, o número de registros disponíveis é indicado sem confundi-lo com o tamanho total da fonte.
 
 | Tema | Matéria |
 | --- | --- |

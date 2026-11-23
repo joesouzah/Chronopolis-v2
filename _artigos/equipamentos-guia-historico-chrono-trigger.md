@@ -24,6 +24,18 @@ reference_coverage: "Efeitos e exemplos transcritos; 161 linhas de equipamentos 
 | **Red Vest** | Reduz à metade o dano de Fire. |
 | **Red Mail** | Absorve dano do elemento Fire. |
 
+### Acessórios e elmos — efeitos por peça
+
+| Equipamento | Categoria | Efeito registrado |
+| --- | --- | --- |
+| Hero Medal | Acessório | Favorece o crítico de Frog com Masamune |
+| Charm Top | Acessório | Relacionado à eficiência de Charm |
+| Sight Scope | Acessório | Permite ver HP de inimigos |
+| Gold Stud | Acessório | Reduz custo de MP |
+| Prism Specs | Acessório | Aumenta o dano |
+| Haste Helm | Elmo | Aplica o efeito Haste |
+| Memory Cap | Elmo | Protege contra Lock |
+
 ### Quantidade de registros por categoria
 
 | Categoria | Registros nas tabelas recuperadas | Informações documentadas |

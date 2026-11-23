@@ -88,10 +88,10 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
     result.className='reference-table-count';
     var rows=Array.from(body.rows);
     function update(){
-      var q=input.value.normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').toLocaleLowerCase('pt-BR').trim();
+      var q=input.value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('pt-BR').trim();
       var shown=0;
       rows.forEach(function(row){
-        var value=row.textContent.normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').toLocaleLowerCase('pt-BR');
+        var value=row.textContent.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('pt-BR');
         var visible=!q || value.includes(q);
         row.hidden=!visible;
         if(visible)shown++;
