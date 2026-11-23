@@ -10,7 +10,7 @@
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title | escape }} — Chronopolis</title>
-  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.40">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.41">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 </head>
 <body>
@@ -21,6 +21,7 @@
     <a href="{{ '/' | relative_url }}">Início</a>
     <a href="{{ '/' | relative_url }}#historia">História</a>
     <a href="{{ '/' | relative_url }}#personagens">Personagens</a>
+    <a href="{{ '/' | relative_url }}#galeria">Galerias</a>
     <a href="{{ '/' | relative_url }}#catalogo">Acervo</a>
   </nav>
 </div></header>
@@ -79,12 +80,12 @@
   <nav class="article-related" aria-label="Continuar explorando o Chronopolis">
     <p class="article-related-title">Continuar explorando</p>
     <div class="article-related-links">
-      <a href="{{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}">Bestiário</a>
-      <a href="{{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}">Chefes</a>
-      <a href="{{ '/artigos/chrono-trigger-techs-guia/' | relative_url }}">Techs</a>
-      <a href="{{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}">Equipamentos</a>
-      <a href="{{ '/artigos/mapas-eras-chrono-trigger/' | relative_url }}">Mapas</a>
-      <a href="{{ '/artigos/artworks-chrono-trigger-sete-colecoes/' | relative_url }}">Galerias</a>
+      {% unless page.url == '/artigos/bestiario-chrono-trigger-acervo-2004/' %}<a href="{{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}">Bestiário</a>{% endunless %}
+      {% unless page.url == '/artigos/chefes-chrono-trigger-guia-historico/' %}<a href="{{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}">Chefes</a>{% endunless %}
+      {% unless page.url == '/artigos/chrono-trigger-techs-guia/' %}<a href="{{ '/artigos/chrono-trigger-techs-guia/' | relative_url }}">Techs</a>{% endunless %}
+      {% unless page.url == '/artigos/equipamentos-guia-historico-chrono-trigger/' %}<a href="{{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}">Equipamentos</a>{% endunless %}
+      {% unless page.url == '/artigos/mapas-eras-chrono-trigger/' %}<a href="{{ '/artigos/mapas-eras-chrono-trigger/' | relative_url }}">Mapas</a>{% endunless %}
+      {% unless page.url == '/artigos/artworks-chrono-trigger-sete-colecoes/' %}<a href="{{ '/artigos/artworks-chrono-trigger-sete-colecoes/' | relative_url }}">Galerias</a>{% endunless %}
     </div>
   </nav>
   <div class="article-exit-links">
