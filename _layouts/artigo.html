@@ -135,7 +135,10 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
   });
   details.append(summary,list);
   toc.appendChild(details);
-  article.insertBefore(toc,headings[0]);
+  // A seção pode estar dentro de um contêiner HTML: inserir junto ao ancestral direto.
+  var position=headings[0];
+  while(position.parentElement && position.parentElement!==article)position=position.parentElement;
+  article.insertBefore(toc,position);
   if(location.hash.length>1){
     var targetId;
     try{targetId=decodeURIComponent(location.hash.slice(1))}catch(e){targetId=location.hash.slice(1)}
