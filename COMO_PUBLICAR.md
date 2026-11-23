@@ -1,4 +1,4 @@
-# Como publicar uma matéria no Chronopolis v2
+# Como publicar conteúdo no Chronopolis v2
 
 O Chronopolis utiliza **GitHub Pages + Jekyll + Pages CMS** para permitir que novas postagens sejam escritas no navegador, sem editar HTML.
 
@@ -68,4 +68,4 @@ As fichas existentes usam os metadados `reference_sheet: true` e `reference_cove
 
 **Design:** títulos objetivos; primeiro uma tabela com colunas próprias para cada valor; explicações, estratégias e curiosidades vêm depois. No celular, as tabelas continuam roláveis horizontalmente. A busca nas linhas funciona quando há registros suficientes e não depende de serviços externos.
 
-**Direitos:** fichas criadas a partir de dados verificáveis devem ter redação e organização próprias; não republicar textos integrais, HTML, imagens e pacotes de terceiros sem verificar permissão. Crédits e procedência técnica ficam vinculados aos metadados e ao inventário até a seção específica de créditos ser definida.
+**Direitos:** fichas criadas a partir de dados verificáveis devem ter redação e organização próprias; não republicar textos integrais, HTML, imagens e pacotes de terceiros sem verificar permissão. Créditos e procedência técnica ficam vinculados aos metadados e ao inventário até a seção específica de créditos ser definida.
