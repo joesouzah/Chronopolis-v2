@@ -27,7 +27,7 @@
 <main id="conteudo" class="read-shell">
   <a class="back-link" href="{{ '/' | relative_url }}#catalogo">← Explorar o acervo</a>
   <header class="read-head">
-    <div class="eyebrow">{{ page.category | default: 'Acervo' | escape }} · {% if page.legacy %}Documento histórico{% else %}Publicação Chronopolis{% endif %}</div>
+    <div class="eyebrow">{{ page.category | default: 'Acervo' | escape }} · {% if page.reference_sheet %}Ficha técnica{% elsif page.legacy %}Documento histórico{% else %}Publicação Chronopolis{% endif %}</div>
     <h1>{{ page.title | escape }}</h1>
     {% if page.summary %}<p class="read-lead">{{ page.summary | escape }}</p>{% endif %}
     <div class="read-meta">
@@ -37,7 +37,7 @@
     </div>
   </header>
   {% unless page.legacy %}{% if page.image and page.image != '' %}<img class="article-hero-image" src="{{ page.image | escape }}" alt="" loading="lazy">{% endif %}{% endunless %}
-  <article class="article-panel prose">{{ content }}</article>
+  <article class="article-panel prose{% if page.reference_sheet %} reference-sheet{% endif %}">{{ content }}</article>
   {% if page.legacy %}
   <div class="archive-source">
     <span>A revisão melhora linguagem e organização; não substitui uma verificação histórica integral.</span>
@@ -67,5 +67,44 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
   if(img.complete && !img.naturalWidth)unavailable();
 });
 </script>
+{% if page.reference_sheet %}
+<script>
+(function(){
+  'use strict';
+  document.querySelectorAll('.reference-sheet table').forEach(function(table,index){
+    var body=table.tBodies[0];
+    if(!body || body.rows.length < 4)return;
+    var label=table.previousElementSibling;
+    var title=(label && /^H[2-4]$/.test(label.tagName))?label.textContent.trim():'Tabela '+(index+1);
+    var bar=document.createElement('div');
+    bar.className='reference-table-tools';
+    var input=document.createElement('input');
+    input.type='search';
+    input.placeholder='Pesquisar nesta tabela...';
+    input.setAttribute('aria-label','Pesquisar em '+title);
+    input.autocomplete='off';
+    var result=document.createElement('span');
+    result.setAttribute('aria-live','polite');
+    result.className='reference-table-count';
+    var rows=Array.from(body.rows);
+    function update(){
+      var q=input.value.normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').toLocaleLowerCase('pt-BR').trim();
+      var shown=0;
+      rows.forEach(function(row){
+        var value=row.textContent.normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').toLocaleLowerCase('pt-BR');
+        var visible=!q || value.includes(q);
+        row.hidden=!visible;
+        if(visible)shown++;
+      });
+      result.textContent=shown+' de '+rows.length+' registros';
+    }
+    input.addEventListener('input',update);
+    bar.append(input,result);
+    table.parentNode.insertBefore(bar,table);
+    update();
+  });
+})();
+</script>
+{% endif %}
 </body>
 </html>

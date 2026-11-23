@@ -27,3 +27,18 @@
 .prose th{color:var(--gold);font-weight:700;background:rgba(240,199,122,.08)}
 .prose tr:nth-child(even) td{background:rgba(255,255,255,.025)}
 .prose td a{word-break:break-word}
+
+/* Fichas técnicas: tabela primeiro, texto auxiliar depois (v0.17) */
+.reference-sheet > h2:first-child{margin-top:0}
+.reference-sheet > blockquote:first-of-type{border-left-color:#a6d2e9}
+.reference-sheet table{margin-top:10px;border-radius:8px}
+.reference-sheet table th,.reference-sheet table td{min-width:95px;font-size:.88rem;line-height:1.5}
+.reference-sheet table th{white-space:nowrap}
+.reference-sheet tr[hidden]{display:none!important}
+.reference-table-tools{display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap;margin:17px 0 8px}
+.reference-table-tools input{flex:1 1 240px;max-width:480px;min-width:0;background:#0b1428;color:#e8eefb;border:1px solid rgba(189,204,233,.35);border-radius:8px;padding:11px 13px;font:inherit;font-size:.86rem}
+.reference-table-tools input::placeholder{color:#97a8c2}
+.reference-table-tools input:focus-visible{outline:2px solid #c8dce9;outline-offset:2px}
+.reference-table-count{color:#aebed8;font-size:.79rem;white-space:nowrap;font-variant-numeric:tabular-nums}
+@media(max-width:560px){.reference-sheet table th,.reference-sheet table td{min-width:110px;padding:9px 10px}.reference-table-tools input{flex-basis:100%;max-width:none}}
+
