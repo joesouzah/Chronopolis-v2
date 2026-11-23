@@ -20,7 +20,7 @@ As 20 matérias históricas passaram por revisão editorial, mas alguns dados fa
 
 O acervo contém **11 páginas estruturadas como fichas técnicas**, com tabelas de consulta direta, busca local por linha e explicações secundárias. São fichas de inimigos, chefes, equipamentos, Charm, Tabs, códigos, itens, técnicas, lojas, experiência e mapas.
 
-A **v0.18 restaurou os dados de quatro catálogos históricos** a partir da cópia privada recuperada. O indicador "completo" refere-se às entradas presentes na fonte consultada, não à totalidade oficial de conteúdos de todas as versões do jogo.
+As **v0.18 e v0.19 recuperaram oito catálogos históricos** a partir da cópia privada preservada. O indicador "completo" refere-se aos registros presentes nas respectivas fontes, não a uma lista oficial exaustiva de todas as versões do jogo.
 
 | Ficha | Cobertura nesta edição | Estado |
 | --- | --- | --- |
@@ -28,14 +28,14 @@ A **v0.18 restaurou os dados de quatro catálogos históricos** a partir da cóp
 | [Charm]({{ '/artigos/chrono-trigger-charm-guia/' | relative_url }}) | 93 de 93 registros (92 nomes distintos) | Dados da fonte reunidos |
 | [Chefes]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}) | 40 encontros, 42 blocos de ficha | Dados disponíveis reunidos; parte dos campos ausente na fonte |
 | [Levels]({{ '/artigos/chrono-trigger-levels-experiencia/' | relative_url }}) | 98 de 98 transições de EXP | Dados da fonte reunidos |
-| [Equipamentos]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}) | Parte de 161 linhas históricas | Transcrição individual pendente |
-| [Techs]({{ '/artigos/chrono-trigger-techs-guia/' | relative_url }}) | 56 Single Techs; duplas e triplas parciais | Transcrição parcial |
-| [Tabs]({{ '/artigos/chrono-trigger-tabs-atributos/' | relative_url }}) | Parte de 58 localizações registradas | Transcrição parcial |
-| [Lojas]({{ '/artigos/chrono-trigger-shops-lojas-precos/' | relative_url }}) | 10 preços de 18 pontos de venda identificados | Transcrição parcial |
+| [Equipamentos]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}) | 161 de 161 registros (68 armas, 32 armaduras, 24 elmos e 37 acessórios) | Dados da fonte reunidos; algumas anomalias registradas |
+| [Techs]({{ '/artigos/chrono-trigger-techs-guia/' | relative_url }}) | 116 registros (56 Single, 45 Double e 15 Triple) | Dados da fonte reunidos; nomes e componentes duvidosos sinalizados |
+| [Tabs]({{ '/artigos/chrono-trigger-tabs-atributos/' | relative_url }}) | 58 de 58 registros (20 Power, 22 Magic, 16 Speed) | Dados da fonte reunidos; recompensas e inconsistências sinalizadas |
+| [Lojas]({{ '/artigos/chrono-trigger-shops-lojas-precos/' | relative_url }}) | 133 mercadorias de 18 estabelecimentos em 13 localidades | Dados da fonte reunidos; preços N/D preservados |
 
 **Há inconsistências nos próprios registros antigos.** Uma lista de Charm diverge em algumas recompensas do bestiário; os campos sem dados permanecem marcados como ausentes e não são preenchidos por suposição. Textos, imagens e arquivos integrais de terceiros não foram espelhados publicamente.
 
-Os demais catálogos serão completados mediante conferência direta dos documentos históricos.
+**Ainda há fichas com cobertura parcial**, especialmente os registros completos de consumíveis/objetos-chave, códigos de trapaça e imagens de mapas. A recuperação de tabelas históricas não implica autorização para republicar HTML, comentários integrais, imagens, ROMs ou arquivos de terceiros.
 
 ## Materiais que ainda dependem de terceiros
 

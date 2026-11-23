@@ -360,3 +360,33 @@ Páginas reabertas diretamente do espelho privado `Chrono SAFE.rar`, com bytes e
 Os dados foram apresentados em tabelas reorganizadas e pesquisáveis; **informações factuais documentadas não equivalem a validação integral no jogo**. O acervo privado e seus recursos permanecem fora do GitHub. A atribuição histórica original continua neste inventário e nos metadados de procedência, aguardando a seção pública de créditos ainda não aprovada.
 
 **Próxima sequência recomendada:** conferir e converter as **161 entradas de equipamentos**, as listas de **45 Double Techs e 15 Triple Techs**, as **58 localizações de Tabs** e as fichas completas de lojas. Revisar divergências entre fontes separadamente, sem apagar registros históricos.
+
+## v0.19 — Equipamentos, Techs, Tabs e lojas como fichas completas (23/11/2026)
+
+**Continuidade da decisão do usuário:** o material originalmente tabular mantém a função de ficha técnica e abre diretamente com dados; comentários e interpretação vêm depois. Foram concluídas **quatro conversões integrais das tabelas disponíveis**, com URLs preexistentes preservadas:
+
+| Material | Contagem no espelho | Conteúdo publicado |
+| --- | ---: | --- |
+| `equipamentos_armas.htm` | 68 armas | Personagem, nome, compra, venda, ataque, crítico, obtenção |
+| `equipamentos_armaduras.htm` | 32 armaduras | Nome, compra, venda, defesa, equipável por, efeito |
+| `equipamentos_elmos.htm` | 24 elmos | Nome, compra, venda, defesa, equipável por, efeito |
+| `equipamentos_acessorios.htm` | 37 acessórios | Nome, efeito ou requisito |
+| **Total de equipamentos** | **161 linhas** | **161 fichas**, preservando as variantes de armas de Ayla |
+| `techs_single.htm` | 56 Single Techs | Personagem, técnica, MP (tabela já existente) |
+| `techs_double.htm` | 45 Double Techs | Nome, dois personagens, técnicas componentes, MP |
+| `techs_triple.htm` | 10 normais + 5 com pedra | Nome, grupo, três componentes, MP e pedra |
+| **Total de Techs** | **116** | **56 + 45 + 15 fichas** |
+| `shops.htm` | 18 estabelecimentos / 133 linhas | Local e época, vendedor, mercadoria, preço |
+| `tabs.htm` | 20 Power, 22 Magic, 16 Speed | **58 localizações** e condições de obtenção resumidas |
+
+**Fonte privada verificada:** o mesmo arquivo `Chrono SAFE.rar` (SHA-256 `dfa4beccd187925b9ce3a2617a51ca911fc60c6846f8711a4c0e3e8d5db07f3a`) foi relido. Confirmações por documento (bytes e CRC32): `equipamentos_armas.htm` 56.718/`36a0b615`; `equipamentos_armaduras.htm` 21.544/`24ac5193`; `equipamentos_elmos.htm` 17.864/`ad557009`; `equipamentos_acessorios.htm` 15.074/`f066942e`; `techs_single.htm` 45.689/`35dc1807`; `techs_double.htm` 45.112/`9461c6c3`; `techs_triple.htm` 21.161/`05b3dd13`; `shops.htm` 27.521/`0ac27146`; `tabs.htm` 43.450/`255d33aa`.
+
+**Ressalvas sobre o conteúdo:** não se deve confundir dados extraídos com verificação no jogo. `Mermaid Cap` tem um preço de venda suspeito de 35 G na fonte; `Doublevbomb` e o componente `Super Shock` aparecem com grafia/atribuição suspeita; `Fire Whirl` está associado a duas duplas na tabela; `Lumin Rode` (shops) diverge de `Lumin Robe` (armaduras); a lista de Speed Tabs fala de Panels e Mud Imp na mesma instrução. Nenhum desses dados foi apagado ou “corrigido” sem evidência.
+
+**Escopo de direitos:** nomes, estatísticas, preços e condições factuais foram reorganizados em Markdown próprio. As descrições longas de origem não foram copiadas, apenas sintetizadas; os HTMLs, fotografias, imagens, pacotes e músicas de terceiros continuam fora do repositório público. A procedência está no front matter e neste inventário técnico até a seção de créditos separada ser definida com o proprietário.
+
+**Commits desta edição:** [Techs](https://github.com/joesouzah/Chronopolis-v2/commit/3ea3a9b6d0b2691809bfda004c4be28d6552824f), [Equipamentos](https://github.com/joesouzah/Chronopolis-v2/commit/3074c208b5a94af15ced009b636d591080e098a0), [Lojas](https://github.com/joesouzah/Chronopolis-v2/commit/10d80471e31f6ef114a2dda616b35ff1ea7e816d), [Tabs](https://github.com/joesouzah/Chronopolis-v2/commit/b2cea82ebf8bed760510e7ba41117f2cdd43b375).
+
+**Validação:** foi confirmada a presença das quatro páginas, campos de `reference_sheet` e `reference_coverage`, integridade do catálogo por contagem, ausência de links internos quebrados nessas páginas, permanência de 28 novos artigos e 25 HTMLs legados. Os builds de Techs, Equipamentos e Lojas concluíram com sucesso; a compilação de Tabs estava em processamento na primeira conferência. Inspeção visual das páginas públicas não foi realizada.
+
+**Próximos materiais ainda parcialmente transcritos:** itens e objetos-chave, códigos, e imagens de mapas. Priorizar fichas estruturadas, com versões e direitos identificados.
