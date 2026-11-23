@@ -40,6 +40,13 @@ No PlayStation, o acesso a menus e algumas transições podia exigir esperas aus
 
 Essa avaliação descreve uma impressão de jogabilidade, não uma medição dos tempos de carregamento nem uma comparação entre todos os relançamentos.
 
+## Imagens do lançamento em PlayStation
+
+<div class="archive-gallery-grid">
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/images/ffc/ffc.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Identidade de Final Fantasy Chronicles"><img src="{{ site.baseurl }}/assets/media/historico/images/ffc/ffc.svg" loading="lazy" decoding="async" alt="Identidade de Final Fantasy Chronicles" /></a><figcaption>Identidade de Final Fantasy Chronicles</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/images/ffc/ffcbox.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Embalagem de Final Fantasy Chronicles"><img src="{{ site.baseurl }}/assets/media/historico/images/ffc/ffcbox.svg" loading="lazy" decoding="async" alt="Embalagem de Final Fantasy Chronicles" /></a><figcaption>Embalagem de Final Fantasy Chronicles</figcaption></figure>
+</div>
+
 ### Um relançamento que deixou material para colecionar
 
 Mesmo com as ressalvas, essa versão tem um lugar especial na história de *Chrono Trigger*. As animações e os extras passaram a fazer parte da memória de quem conheceu o jogo por meio do PlayStation.

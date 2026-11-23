@@ -58,11 +58,34 @@ Algumas técnicas triplas dependem de pedras encontradas em lugares específicos
 
 Além de encontrar a pedra, é preciso ter os personagens e técnicas necessários para executar a combinação. Os nomes acima seguem terminologia tradicional em inglês e podem variar entre traduções.
 
+### Imagens das cinco pedras
+
+As cinco capturas abaixo correspondem às referências visuais recuperadas para as pedras de Triple Tech.
+
+<div class="archive-gallery-grid">
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/side-quests/rocks/black-rock.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Black Rock"><img src="{{ site.baseurl }}/assets/media/historico/side-quests/rocks/black-rock.svg" loading="lazy" decoding="async" alt="Black Rock" /></a><figcaption>Black Rock</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/side-quests/rocks/blue-rock.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Blue Rock"><img src="{{ site.baseurl }}/assets/media/historico/side-quests/rocks/blue-rock.svg" loading="lazy" decoding="async" alt="Blue Rock" /></a><figcaption>Blue Rock</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/side-quests/rocks/white-rock.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar White Rock"><img src="{{ site.baseurl }}/assets/media/historico/side-quests/rocks/white-rock.svg" loading="lazy" decoding="async" alt="White Rock" /></a><figcaption>White Rock</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/side-quests/rocks/silver-rock.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Silver Rock"><img src="{{ site.baseurl }}/assets/media/historico/side-quests/rocks/silver-rock.svg" loading="lazy" decoding="async" alt="Silver Rock" /></a><figcaption>Silver Rock</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/side-quests/rocks/gold-rock.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Gold Rock"><img src="{{ site.baseurl }}/assets/media/historico/side-quests/rocks/gold-rock.svg" loading="lazy" decoding="async" alt="Gold Rock" /></a><figcaption>Gold Rock</figcaption></figure>
+</div>
+
 ## Spekkio muda junto com a equipe
 
 Spekkio, no **Fim dos Tempos**, altera sua forma e sua força conforme o nível de **Crono**. Seu conjunto de desafios possui **seis aparências**, da forma Frog até Nu, com recompensas diferentes.
 
 Vale revisitar o personagem depois que o grupo evoluir.
+
+### Seis aparências preservadas de Spekkio
+
+<div class="archive-gallery-grid">
+<figure class="archive-gallery-item archive-gallery-item--pixel"><img src="{{ site.baseurl }}/assets/sprites/chrono-trigger/spekkio/spekkio1.gif" alt="Spekkio: Frog — níveis 1–9" loading="lazy" decoding="async" /><figcaption>Frog — níveis 1–9</figcaption></figure>
+<figure class="archive-gallery-item archive-gallery-item--pixel"><img src="{{ site.baseurl }}/assets/sprites/chrono-trigger/spekkio/spekkio2.gif" alt="Spekkio: Kilwala — níveis 10–19" loading="lazy" decoding="async" /><figcaption>Kilwala — níveis 10–19</figcaption></figure>
+<figure class="archive-gallery-item archive-gallery-item--pixel"><img src="{{ site.baseurl }}/assets/sprites/chrono-trigger/spekkio/spekkio3.gif" alt="Spekkio: Goblin — níveis 20–29" loading="lazy" decoding="async" /><figcaption>Goblin — níveis 20–29</figcaption></figure>
+<figure class="archive-gallery-item archive-gallery-item--pixel"><img src="{{ site.baseurl }}/assets/sprites/chrono-trigger/spekkio/spekkio4.gif" alt="Spekkio: Omnicrone — níveis 30–39" loading="lazy" decoding="async" /><figcaption>Omnicrone — níveis 30–39</figcaption></figure>
+<figure class="archive-gallery-item archive-gallery-item--pixel"><img src="{{ site.baseurl }}/assets/sprites/chrono-trigger/spekkio/spekkio5.gif" alt="Spekkio: Masamune — níveis 40–98" loading="lazy" decoding="async" /><figcaption>Masamune — níveis 40–98</figcaption></figure>
+<figure class="archive-gallery-item archive-gallery-item--pixel"><img src="{{ site.baseurl }}/assets/sprites/chrono-trigger/spekkio/spekkio6.gif" alt="Spekkio: Nu — nível 99" loading="lazy" decoding="async" /><figcaption>Nu — nível 99</figcaption></figure>
+</div>
 
 ## Tabs e outros itens especiais
 

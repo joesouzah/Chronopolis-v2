@@ -71,6 +71,20 @@ Alguns detalhes técnicos do sistema merecem distinção:
 
 Essas distinções ajudam a compreender o serviço, seu funcionamento e a cronologia dos lançamentos sem confundir equipamentos e emissoras.
 
+## Imagens recuperadas do Satellaview
+
+<div class="archive-gallery-grid">
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/images/satella1.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Satellaview (aparelho)"><img src="{{ site.baseurl }}/assets/media/historico/images/satella1.svg" loading="lazy" decoding="async" alt="Satellaview (aparelho)" /></a><figcaption>Satellaview (aparelho)</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/images/satellam.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Satellaview (conjunto)"><img src="{{ site.baseurl }}/assets/media/historico/images/satellam.svg" loading="lazy" decoding="async" alt="Satellaview (conjunto)" /></a><figcaption>Satellaview (conjunto)</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/images/satellac.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Satellaview (acessórios)"><img src="{{ site.baseurl }}/assets/media/historico/images/satellac.svg" loading="lazy" decoding="async" alt="Satellaview (acessórios)" /></a><figcaption>Satellaview (acessórios)</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/images/satella-view_003.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Captura 1"><img src="{{ site.baseurl }}/assets/media/historico/images/satella-view_003.svg" loading="lazy" decoding="async" alt="Captura 1" /></a><figcaption>Captura 1</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/images/satella-view_001.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Captura 2"><img src="{{ site.baseurl }}/assets/media/historico/images/satella-view_001.svg" loading="lazy" decoding="async" alt="Captura 2" /></a><figcaption>Captura 2</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/images/satella-view_002.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Captura 3"><img src="{{ site.baseurl }}/assets/media/historico/images/satella-view_002.svg" loading="lazy" decoding="async" alt="Captura 3" /></a><figcaption>Captura 3</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/historico/images/satella-view_004.svg" target="_blank" rel="noopener noreferrer" aria-label="Ampliar Captura 4"><img src="{{ site.baseurl }}/assets/media/historico/images/satella-view_004.svg" loading="lazy" decoding="async" alt="Captura 4" /></a><figcaption>Captura 4</figcaption></figure>
+</div>
+
+As imagens foram recuperadas do arquivo histórico e mantidas separadas dos fatos verificados sobre o funcionamento do equipamento.
+
 ## Por que guardar essa história?
 
 Muitas experiências do Satellaview dependiam de sinais transmitidos em horários específicos. Quando a distribuição deixou de funcionar, nem tudo que existia naquele ambiente pôde ser preservado da mesma maneira.

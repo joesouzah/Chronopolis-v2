@@ -17,17 +17,23 @@ A equipe reuniu profissionais de produção, programação, gráficos, música, 
 
 ### Hironobu Sakaguchi — experiência de Final Fantasy
 
+<figure class="archive-profile"><img src="{{ site.baseurl }}/assets/media/historico/images/dt/hironobu_01.svg" alt="Retrato de Hironobu Sakaguchi" loading="lazy" decoding="async" /><figcaption>Retrato do acervo histórico</figcaption></figure>
+
 Sakaguchi era uma das figuras centrais da Square, conhecido principalmente pela criação de *Final Fantasy*. Em *Chrono Trigger*, sua participação ajudou a aproximar ideias e equipes que já tinham experiência em grandes RPGs.
 
 A trajetória de Sakaguchi inclui funções e cargos que mudaram ao longo dos anos. Aqui, o foco está em sua participação na criação do jogo.
 
 ### Yuji Horii — o olhar de Dragon Quest
 
+<figure class="archive-profile"><img src="{{ site.baseurl }}/assets/media/historico/images/dt/horii_01.svg" alt="Retrato de Yuji Horii" loading="lazy" decoding="async" /><figcaption>Retrato do acervo histórico</figcaption></figure>
+
 Com *Dragon Quest*, Yuji Horii já havia marcado a história dos RPGs japoneses. Sua participação em *Chrono Trigger* ajudou a definir o conceito da aventura e a importância das viagens no tempo.
 
 Vale uma distinção: o enredo final não foi trabalho de uma pessoa só. **Masato Kato** teve papel essencial no planejamento e na escrita de muitos acontecimentos, especialmente os ligados ao Reino de Zeal. A Equipe dos Sonhos também contou com vários outros roteiristas e planejadores.
 
 ### Akira Toriyama — uma identidade impossível de confundir
+
+<figure class="archive-profile"><img src="{{ site.baseurl }}/assets/media/historico/images/dt/akira_01.svg" alt="Retrato de Akira Toriyama" loading="lazy" decoding="async" /><figcaption>Retrato do acervo histórico</figcaption></figure>
 
 O estilo de Akira Toriyama é reconhecível de longe. Criador de *Dr. Slump* e *Dragon Ball*, ele desenvolveu o visual dos personagens e contribuiu para a identidade de monstros, veículos e cenários.
 
@@ -37,11 +43,15 @@ Para conhecer os diferentes formatos usados na preservação da trilha, veja tam
 
 ### Yasunori Mitsuda — músicas que atravessam o tempo
 
+<figure class="archive-profile"><img src="{{ site.baseurl }}/assets/media/historico/images/dt/yasunori_01.svg" alt="Retrato de Yasunori Mitsuda" loading="lazy" decoding="async" /><figcaption>Retrato do acervo histórico</figcaption></figure>
+
 Grande parte da trilha sonora de *Chrono Trigger* foi composta por **Yasunori Mitsuda**. Suas melodias dão personalidade a lugares e momentos do jogo, das descobertas ao drama.
 
 Mitsuda passou do trabalho técnico com áudio à composição, criando a maior parte — **mas não a totalidade** — da trilha sonora.
 
 ### Nobuo Uematsu — mais do que um supervisor
+
+<figure class="archive-profile"><img src="{{ site.baseurl }}/assets/media/historico/images/dt/nobuo_01.svg" alt="Retrato de Nobuo Uematsu" loading="lazy" decoding="async" /><figcaption>Retrato do acervo histórico</figcaption></figure>
 
 Conhecido por suas músicas na série *Final Fantasy*, **Nobuo Uematsu** também participou de *Chrono Trigger*, compondo parte da trilha. **Noriko Matsueda** igualmente aparece nos créditos musicais.
 
