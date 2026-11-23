@@ -10,11 +10,11 @@
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title | escape }} — Chronopolis</title>
-  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.38">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.39">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 </head>
 <body>
-<a href="#conteudo" class="sr-only" style="position:absolute;left:-9999px">Ir para o conteúdo</a>
+<a href="#conteudo" class="skip-link">Ir para o conteúdo</a>
 <header class="site-header"><div class="wrap header-inner article-header">
   <a class="brand" href="{{ '/' | relative_url }}" aria-label="Chronopolis, início"><span class="brand-mark">⌛</span><span class="brand-name">Chrono<span>polis</span></span></a>
   <nav class="article-nav" aria-label="Navegação principal">
@@ -385,6 +385,20 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
   }
   window.addEventListener('hashchange',openFromHash);
   openFromHash();
+})();
+</script>
+<script>
+/* v0.39 — Esclarece em leitores de tela que a imagem abre em outra aba. */
+(function(){
+  'use strict';
+  document.querySelectorAll('.article-panel .archive-gallery-item a[target="_blank"]').forEach(function(link){
+    var current=(link.getAttribute('aria-label')||'').trim();
+    if(!current){
+      var image=link.querySelector('img');
+      current=(image&&image.getAttribute('alt')||'').trim()||'Abrir imagem';
+    }
+    if(!/nova aba/i.test(current))link.setAttribute('aria-label',current+' (abre em nova aba)');
+  });
 })();
 </script>
 </body>

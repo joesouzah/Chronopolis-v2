@@ -297,3 +297,16 @@
  .prose .gallery-jump-links a{font-size:.75rem;min-height:42px;padding:7px 9px}
  .archive-gallery-section[id]{scroll-margin-top:88px}
 }
+
+
+/* v0.39 — Acessibilidade visível e renderização incremental das galerias. */
+.skip-link{position:fixed;top:10px;left:12px;z-index:1000;transform:translateY(calc(-100% - 22px));background:#fff1d6;color:#111a31;border:2px solid #161e35;border-radius:8px;padding:10px 15px;font-size:.93rem;font-weight:750;line-height:1.4;box-shadow:0 5px 18px rgba(0,0,0,.35);transition:transform .15s}
+.skip-link:focus,.skip-link:focus-visible{transform:none;outline:3px solid var(--cyan);outline-offset:2px}
+.archive-gallery-section > summary:focus-visible{outline:2px solid var(--cyan);outline-offset:-3px;border-radius:8px}
+.archive-gallery-item a:focus-visible{outline:2px solid var(--gold);outline-offset:-2px;z-index:1}
+.archive-gallery-section summary{min-width:0;flex-wrap:wrap}
+.archive-gallery-section summary span{white-space:normal;text-align:right;margin-left:auto}
+@supports (content-visibility:auto){
+  .archive-gallery-item{content-visibility:auto;contain-intrinsic-size:auto 150px}
+}
+@media(prefers-reduced-motion:reduce){.skip-link{transition:none}}
