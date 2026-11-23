@@ -390,3 +390,16 @@ Os dados foram apresentados em tabelas reorganizadas e pesquisáveis; **informa�
 **Validação:** foi confirmada a presença das quatro páginas, campos de `reference_sheet` e `reference_coverage`, integridade do catálogo por contagem, ausência de links internos quebrados nessas páginas, permanência de 28 novos artigos e 25 HTMLs legados. Os builds de Techs, Equipamentos e Lojas concluíram com sucesso; a compilação de Tabs estava em processamento na primeira conferência. Inspeção visual das páginas públicas não foi realizada.
 
 **Próximos materiais ainda parcialmente transcritos:** itens e objetos-chave, códigos, e imagens de mapas. Priorizar fichas estruturadas, com versões e direitos identificados.
+
+
+## v0.20 — Sprites recuperados nas fichas de inimigos e chefes (23/11/2026)
+
+**Pedido do usuário:** restaurar as imagens originais que acompanhavam as tabelas históricas, além das estatísticas já publicadas. O espelho privado `Chrono SAFE.rar` foi auditado (SHA-256 `dfa4beccd187925b9ce3a2617a51ca911fc60c6846f8711a4c0e3e8d5db07f3a`).
+
+**Importação:** **214 arquivos GIF** em pastas originais por era e categoria, totalizando **313.327 bytes**, foram inseridos como blobs binários nativos do Git sob `assets/sprites/chrono-trigger/`. As referências ativas das duas tabelas são locais, com `{{ site.baseurl }}`; não dependem do domínio de origem nem de serviços de terceiros.
+
+**Vínculos verificados:** os documentos `inimigos-01.htm` e `inimigos-02.htm` associam **126 nomes de inimigos a 126 referências**, com **123 GIFs distintos**. As fichas foram conferidas uma a uma na mesma ordem do HTML. Os cinco documentos `chefes-01.htm` a `chefes-05.htm` têm **48 referências agrupadas em 42 blocos de chefes**, com **45 GIFs distintos**. Todas as imagens referenciadas foram encontradas entre os 214 arquivos importados. Nenhuma associação foi produzida por semelhança visual ou suposição de nome; o vínculo vem da posição e legenda de cada imagem no HTML histórico.
+
+**Apresentação:** coluna `Sprite` adicionada às duas tabelas; CSS com `image-rendering: pixelated`, dimensionamento de 70 px no desktop/58 px no celular, texto alternativo por inimigo, carregamento preguiçoso e suporte a 2–3 sprites por encontro. A busca textual continua operando sobre a mesma tabela. Nenhum dos 25 arquivos HTML em `legado/` foi alterado.
+
+**Licenciamento/procedência:** preservação de imagens históricas extraídas de conteúdo relacionado a Chrono Trigger não implica direitos para redistribuição comercial. Usar o inventário de fontes e a seção de créditos futura para registrar titulares, permissões e eventuais solicitações de remoção. Não foram importados textos completos, músicas, ROMs, nem programas do site antigo.

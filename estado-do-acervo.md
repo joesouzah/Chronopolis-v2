@@ -37,6 +37,17 @@ As **v0.18 e v0.19 recuperaram oito catálogos históricos** a partir da cópia 
 
 **Ainda há fichas com cobertura parcial**, especialmente os registros completos de consumíveis/objetos-chave, códigos de trapaça e imagens de mapas. A recuperação de tabelas históricas não implica autorização para republicar HTML, comentários integrais, imagens, ROMs ou arquivos de terceiros.
 
+## Imagens históricas restauradas no bestiário
+
+As tabelas de [126 inimigos]({{ '/artigos/bestiario-chrono-trigger-acervo-2004/' | relative_url }}) e [40 encontros de chefes]({{ '/artigos/chefes-chrono-trigger-guia-historico/' | relative_url }}) voltaram a apresentar os **sprites que acompanhavam os registros originais**. Os arquivos são servidos diretamente pelo Chronopolis, sem referências ativas ao servidor histórico.
+
+- **214 GIFs** preservados em `assets/sprites/chrono-trigger/`, com aproximadamente **313 KB** de dados; foram mantidos como arquivos independentes, não fundidos em uma imagem única.
+- **126 fichas comuns** vinculadas a **123 GIFs distintos**; todas têm imagem correspondente.
+- **42 blocos de chefes**, com **48 ocorrências de imagens** de **45 GIFs distintos**, incluindo encontros com mais de um inimigo.
+- Imagens adicionais existentes no backup também foram preservadas na pasta, embora nem todas estejam vinculadas às duas tabelas atuais.
+
+As imagens, personagens e demais elementos visuais podem estar sujeitos aos direitos de seus respectivos titulares. A guarda de uma cópia histórica não prova autorização ou licença de redistribuição; os créditos e a situação dos direitos devem ser acompanhados na seção de créditos a definir.
+
 ## Materiais que ainda dependem de terceiros
 
 Inventário técnico feito em **22/11/2026**, sobre as 20 transcrições Markdown:

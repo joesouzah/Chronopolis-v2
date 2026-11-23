@@ -15,134 +15,136 @@ reference_coverage: "126/126 fichas de inimigos transcritas do espelho preservad
 
 **126 fichas de 126 identificadas nos dois documentos do catálogo histórico.** Use a pesquisa da tabela para localizar monstros, locais, itens ou recompensas. Os nomes acompanham a terminologia usada na versão clássica do jogo.
 
-| Inimigo | HP | TP | EXP | G | Item | Charm | Localização |
-| --- | ---: | ---: | ---: | ---: | --- | --- | --- |
-| Acid | 10 | 1 | 33 | 20 | Nenhum | Nenhum | Factory (2.300 A.D.) |
-| Alien | 1.050 | 8 | 804 | 1.100 | Shield | Magic Tab | Black Omen |
-| Alkaline | 9 | 1 | 45 | 40 | Nenhum | Nenhum | Factory (2.300 A.D.) |
-| Amphibite | 100 | 0 | 66 | 0 | Nenhum | 2x Horns | Hunting Range (65M B.C.) |
-| Anion | 152 | 1 | 72 | 0 | Nenhum | 2x Petals | Hunting Range (65M B.C.) |
-| Avian Chaos | 45 | 1 | 4 | 18 | Tonic | Nenhum | Guardia Forest (1.000 A.D.) |
-| Avian Rex | 327 | 3 | 129 | 0 | Feather | Feather | Dactyl's Nest (65M B.C.) |
-| Bantam Imp | 250 | 12 | 348 | 850 | Nenhum | AlloyBlade | Mt. Woe (12.000 B.C.) |
-| Barghest | 450 | 8 | 379 | 400 | Nenhum | Shield | Ocean Palace (12.000 B.C.) |
-| Base | 88 | 0 | 333 | 800 | Nenhum | Nenhum | Northern Ruins (600 A.D.) |
-| Basher | 150 | 8 | 377 | 0 | Nenhum | Nenhum | Blackbird (12.000 B.C.) |
-| Beast | 830 | 5 | 204 | 450 | Nenhum | R'Bow Helm | Terra Cave (12.000 B.C.) |
-| Beetle | 12 | 1 | 3 | 15 | Nenhum | Nenhum | Guardia Forest (1.000 A.D.) |
-| Bell Bird | 94 | 2 | 27 | 100 | Heal | Nenhum | Denadoro Mts. (600 A.D.) |
-| Blob | 1.350 | 10 | 793 | 1.250 | Barrier | Magic Ring | Black Omen |
-| Blue Eaglet | 16 | 1 | 3 | 32 | Heal | Nenhum | Guardia Forest (600 A.D.) |
-| Blue Imp | 13 | 1 | 2 | 12 | Nenhum | Nenhum | Truce Canyon (600 A.D.) |
-| Blue Scout | 300 | 8 | 234 | 250 | Nenhum | Nenhum | Ocean Palace (12.000 B.C.) |
-| Blue Shield | 24 | 0 | 11 | 45 | Tonic | Nenhum | Guardia Castle (1.000 A.D.) |
-| Boss Orb | 850 | 0 | 0 | 750 | Nenhum | Nenhum | Black Omen |
-| Bug | 89 | 1 | 26 | 0 | Heal | Nenhum | Arris Dome (2.300 A.D.) |
-| Bugger | 100 | 1 | 81 | 45 | Nenhum | Nenhum | Arris Dome (2.300 A.D.) |
-| Byte | 192 | 8 | 378 | 0 | Nenhum | Nenhum | Blackbird (2.300 A.D.) |
-| Cave Ape | 436 | 3 | 123 | 0 | Fang | Fang | Dactyl's Nest (65M B.C.) |
-| Cave Bat | 108 | 1 | 28 | 40 | Nenhum | Nenhum | Heckran Cave (1.000 A.D.) |
-| Crater | 80 | 1 | 15 | 35 | Nenhum | Nenhum | Lab 16 (2.300 A.D.) |
-| Croaker | 100 | 0 | 65 | 0 | Nenhum | 2x Fangs | Hunting Range (65M B.C.) |
-| Cybot | 1.800 | 16 | 728 | 750 | Hyper Ether | Power Meal | Black Omen |
-| Debugger | 120 | 1 | 24 | 450 | Shield | Nenhum | Factory (2.300 A.D.) |
-| Debuggest | 1.024 | 8 | 452 | 450 | Shield | Elixir, Shield | Geno Dome (2.300 A.D.) |
-| Deceased | 110 | 2 | 52 | 70 | Nenhum | Nenhum | Zenan Bridge (600 A.D.) |
-| Decedent | 67 | 1 | 12 | 90 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
-| Defunct | 1.450 | 18 | 518 | 700 | Nenhum | Elixir | Northern Ruins (600 A.D.) |
-| Departed | 1.650 | 16 | 832 | 1.150 | Nenhum | Nenhum | Northern Ruins |
-| Diablos | 50 | 1 | 10 | 70 | Revive | Nenhum | Cathedral (600 A.D.) |
-| Egder | 160 | 1 | 18 | 0 | Nenhum | Nenhum | Sewer Access (2.300 A.D.) |
-| EvilWeevil | 158 | 2 | 81 | 0 | Feather | Dream Gun | Reptite Lair (65M B.C.) |
-| Flunky | 390 | 2 | 239 | 210 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
-| Flyclops | 900 | 10 | 575 | 0 | Nenhum | Gold Stud | Black Omen |
-| Fly Trap | 316 | 2 | 86 | 0 | Petal | Nenhum | Reptite Lair (65M B.C.) |
-| Fossil Ape | 1.800 | 15 | 533 | 450 | Lapis | MegaElixir, Lapis | Giant's Claw (600 A.D.) |
-| FreeLancer | 110 | 2 | 39 | 125 | Nenhum | Nenhum | Denadoro Mts. (600 A.D.) |
-| Gargoyle | 260 | 6 | 216 | 0 | Nenhum | Big Hand | Mt. Woe (12.000 B.C.) |
-| Gigasaur | 2.250 | 15 | 784 | 450 | Barrier | Ruby Armor | Giant's Claw (600 A.D.) |
-| Gnasher | 90 | 1 | 8 | 40 | Nenhum | Revive | Cathedral (600 A.D.) |
-| Gnawer | 210 | 2 | 26 | 300 | Nenhum | Nenhum | Cursed Woods (600 A.D.) |
-| Goblin | 146 | 2 | 32 | 80 | Nenhum | Nenhum | Denadoro Mts. (600 A.D.) |
-| Gold Eaglet | 400 | 2 | 57 | 0 | 2x Feathers | Ether | Forest Maze (65M B.C.) |
-| Goon | 2.800 | 15 | 850 | 800 | Elixir | Elixir | Black Omen |
-| Green Imp | 16 | 1 | 4 | 24 | Tonic | Nenhum | Guardia Forest (600 A.D.) |
-| Gremlin | 110 | 2 | 51 | 70 | Nenhum | Nenhum | Magic Cave (600 A.D.) |
-| Grimalkin | 120 | 3 | 114 | 180 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
-| Groupie | 390 | 2 | 128 | 170 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
-| Guard | 60 | 0 | 10 | 70 | Tonic | Nenhum | Guardia Castle (1.000 A.D.) |
-| Hench | 49 | 1 | 11 | 135 | Nenhum | Nenhum | Heckran Cave |
-| Hench (roxo) | 180 | 2 | 93 | 200 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
-| Hetake | 14 | 1 | 3 | 16 | Tonic | Tonic | Guardia Forest (1.000 A.D.) |
-| Hexapod | 1.000 | 15 | 408 | 600 | Lapis | Lapis | Sunken Desert (600 A.D.) |
-| Imp Ace | 54 | 1 | 11 | 45 | Nenhum | Nenhum | Truce Canyon (600 A .D.) |
-| Incognito | 1 | 10 | 378 | 1.000 | Nenhum | Nenhum | Black Omen |
-| Ion | 152 | 1 | 72 | 0 | Nenhum | 2x Feathers | Hunting Range (65M B.C.) |
-| Jinn | 450 | 8 | 300 | 400 | Laps | Lapis | Ocean Palace (12.000 B.C.) |
-| Jinn Bottle | 97 | 2 | 43 | 50 | Nenhum | Nenhum | Heckran Cave (1.000 A.D.) |
-| Juggler | 452 | 3 | 128 | 220 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
-| Kilwala | 160 | 2 | 42 | 0 | Petal | Petal | Mystic Mountain (65M B.C.) |
-| Krakker | 500 | 0 | 378 | 300 | Nenhum | Nenhum | Death Peak (2.300 A.D.) |
-| Laser Guards | 400 | 8 | 346 | 120 | Nenhum | Full Tonic | Geno Dome (2.300 A.D.) |
-| Lasher | 666 | 8 | 318 | 250 | Nenhum | Nenhum | Ocean Palace (12.000 B.C.) |
-| Leaper | 800 | 10 | 312 | 360 | Shield | Elixir | Giant's Claw (600 A.D.) |
-| Lizardactyl | 950 | 8 | 444 | 0 | Nenhum | Hyper Ether | Giant's Claw (600 A.D.) |
-| Macabre | 582 | 0 | 427 | 500 | Ether | Full Ether | Death Peak (2.300 A.D.) |
-| Mad Bat | 18 | 1 | 6 | 75 | Nenhum | Nenhum | Cathedral (600 A.D.) |
-| Mage | 480 | 8 | 190 | 550 | Lapis | Barrier | Ocean Palace (12.000 B.C.) |
-| Man Eater | 260 | 6 | 253 | 750 | Nenhum | Pearl Edge | Mt. Woe (12.000 B.C.) |
-| Martello | 1.245 | 10 | 554 | 400 | Nenhum | Hyper Ether | Black Omen |
-| Meat Eater | 75 | 1 | 21 | 50 | Nenhum | Ether | Lab 16 (2.300 A.D.) |
-| Megasaur | 830 | 2 | 147 | 0 | Fang | Aeon Blade | Reptite Lair (65M B.C.) |
-| Metal Mute | 1.980 | 16 | 685 | 1.100 | Nenhum | Hyper Ether | Black Omen |
-| Mohavor | 400 | 15 | 348 | 550 | Nenhum | Shield | Sunken Desert (600 A.D.) |
-| Mutant | 300 | 1 | 22 | 30 | Nenhhum | Full Tonic | Lab 16 (2.300 A.D.) |
-| Naga-Ette | 60 | 1 | 8 | 80 | Nenhum | Nenhum | Cathedral (600 A.D.) |
-| Nereid | 128 | 1 | 22 | 200 | Nenhum | Ether | Sewer Access (2.300 A.D.) |
-| Nu | 1.234 | 30 | 248 | 0 | Itens de Troca | Mop | Kajar (12.000 B.C.) |
-| OctoBlush | 80 | 1 | 25 | 35 | Nenhum | Nenhum | Heckran Cave (1.000 A.D.) |
-| OctoPod | 130 | 1 | 11 | 15 | Nenhum | Mid Ether | Lab 16 (2.300 A.D.) |
-| Ogan | 146 | 2 | 32 | 80 | Nenhum | Nenhum | Denadoro Mts. (600 A.D.) |
-| Omnicrone | 218 | 1 | 22 | 55 | Ether | Nenhum | Magus' Lair (600 A.D.) |
-| Outlaw | 182 | 3 | 104 | 90 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
-| Pahoehoe | 250 | 3 | 94 | 0 | Nenhum | Nenhum | Dactyl's Nest (65M B.C.) |
-| Panel | 1.875 | 12 | 800 | 550 | Nenhum | Speed Tab | Black Omen |
-| Poly | 99 | 2 | 7 | 35 | Ether | Nenhum | Truce Canyon (600 A.D.) |
-| Proto 2 | 128 | 1 | 22 | 50 | Nenhum | Tonic | Arris Dome (2.300 A.D.) |
-| Proto 3 | 256 | 1 | 33 | — | Nenhum | Full Tonic | Factory (2.300 A.D.) |
-| Proto 4 | 1.024 | 8 | 477 | 800 | Barrier | Barrier | Geno Dome (2.300 A.D.) |
-| Rain Frog | 100 | 0 | 66 | 0 | Nenhum | 2x Feathers | Hunting Range (65M B.C.) |
-| Rat | 45 | 1 | 18 | 0 | Nenhum | Nenhum | Arris Dome (2.300 A.D.) |
-| Reaper | 1.450 | 18 | 518 | 700 | Nenhum | Elixir | Northern Ruins (600 A.D.) |
-| Red Scout | 300 | 8 | 234 | 250 | Nenhum | Nenhum | Ocean Palace (12.000 B.C.) |
-| Reptite | 92 | 2 | 72 | 0 | Petal | Magma Hand | Mystic Mountain (65M B.C.) |
-| Reptite (roxo) | 336 | 4 | 126 | 0 | Mid Tonic | Mid Tonic | Tyrano Lair (65M B.C.) |
-| Roly | 24 | 1 | 3 | 25 | Tonic | Nenhum | Truce Canyon (600 A.D.) |
-| Roly Bomber | 99 | 3 | 72 | 25 | Tonic | Nenhum | Magus' Lair (600 A.D.) |
-| Roly Poly | 50 | 1 | 31 | 50 | Mid Tonic | Nenhum | Heckran Cave (1.000 A.D.) |
-| Roly Rider | 30 | 2 | 5 | 40 | Nenhum | Nenhum | Guardia Forest (600 A.D.) |
-| Rubble | 515 | 100 | 1.000 | 0 | Mid Ether | Nenhum | Mt. Woe (12.000 B.C.) |
-| Ruminator | 1.500 | 18 | 422 | 400 | Nenhum | Mega Elixir | Black Omen |
-| Runner | 196 | 2 | 42 | 0 | Horn | Horn | Mystic Mountain (65M B.C.) |
-| Save Point | 10 | 2 | 114 | 100 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
-| Scouter | 300 | 8 | 234 | 250 | Nenhum | Lapis | Ocean Palace (12.000 B.C.) |
-| Sentry | 1.280 | 8 | 467 | 400 | Full Ether | Hyper Ether, Full Ether | Northern Ruins (600 A.D.) |
-| Shadow | 1 | 1 | 14 | 50 | Nenhum | Nenhum | Lab 16 (2.300 A.D.) |
-| Shitake | 158 | 2 | 87 | 0 | Petal | Petal | Reptite Lair (65M B.C.) |
-| Side Kick | 1.250 | 100 | 500 | 0 | Nenhum | Nenhum | Black Omen |
-| Sorcerer | 220 | 3 | 110 | 220 | Mid Ether | Nenhum | Magus' Lair (600 A.D.) |
-| Stone Imp | 300 | 12 | 348 | 850 | Nenhum | Nenhum | Mt. Woe (12.000 B.C.) |
-| Synchrite | 2.250 | 12 | 755 | 900 | Hyper Ether | Gold Erng | Black Omen |
-| T'Pole | 150 | 1 | 26 | 30 | Nenhum | Nenhum | Cursed Woods (600 A.D.) |
-| Tempurite | 88 | 2 | 32 | 45 | Nenhum | Nenhum | Heckran Cave (1.000 A.D.) |
-| Terrasaur | 1.090 | 4 | 259 | 0 | Nenhum | Lapis | Tyrano Lair (65M B.C.) |
-| Thrasher | 666 | 8 | 318 | 250 | Nenhum | Nenhum | Ocean Palace (12.000 B.C.) |
-| Tubster | 2.000 | 20 | 850 | 800 | Nenhum | Power Tab | Black Omen |
-| Turret | 700 | 50 | 750 | 0 | Mid Ether | Nenhum | Blackbird (12.000 B.C.) |
-| Vamp | 120 | 2 | 58 | 70 | Nenhum | Nenhum | Magic Cave (600 A.D.) |
-| Volcano | 257 | 7 | 243 | 0 | Nenhum | Lapis | Tyrano Lair (65M B.C.) |
-| Winged Ape | 450 | 2 | 123 | 0 | Fang | Ruby Vest | Forest Maze (65M B.C.) |
-| Yodu De | 24 | 0 | 11 | 90 | Tonic | Nenhum | Guardia Castle (1.000 A.D.) |
+**Sprites restaurados:** as figuras foram recuperadas do backup histórico e associadas às fichas originais. Algumas criaturas compartilham a mesma imagem; todas são carregadas diretamente do Chronopolis.
+
+| Sprite | Inimigo | HP | TP | EXP | G | Item | Charm | Localização |
+| :---: | --- | ---: | ---: | ---: | ---: | --- | --- | --- |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/acid.gif" alt="Sprite de Acid" loading="lazy" decoding="async" /></span> | Acid | 10 | 1 | 33 | 20 | Nenhum | Nenhum | Factory (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/alien.gif" alt="Sprite de Alien" loading="lazy" decoding="async" /></span> | Alien | 1.050 | 8 | 804 | 1.100 | Shield | Magic Tab | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/alkaline.gif" alt="Sprite de Alkaline" loading="lazy" decoding="async" /></span> | Alkaline | 9 | 1 | 45 | 40 | Nenhum | Nenhum | Factory (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/amphibite.gif" alt="Sprite de Amphibite" loading="lazy" decoding="async" /></span> | Amphibite | 100 | 0 | 66 | 0 | Nenhum | 2x Horns | Hunting Range (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/ion.gif" alt="Sprite de Anion" loading="lazy" decoding="async" /></span> | Anion | 152 | 1 | 72 | 0 | Nenhum | 2x Petals | Hunting Range (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/avianchaos.gif" alt="Sprite de Avian Chaos" loading="lazy" decoding="async" /></span> | Avian Chaos | 45 | 1 | 4 | 18 | Tonic | Nenhum | Guardia Forest (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/avianrex.gif" alt="Sprite de Avian Rex" loading="lazy" decoding="async" /></span> | Avian Rex | 327 | 3 | 129 | 0 | Feather | Feather | Dactyl's Nest (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/bantamimp.gif" alt="Sprite de Bantam Imp" loading="lazy" decoding="async" /></span> | Bantam Imp | 250 | 12 | 348 | 850 | Nenhum | AlloyBlade | Mt. Woe (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/barghest.gif" alt="Sprite de Barghest" loading="lazy" decoding="async" /></span> | Barghest | 450 | 8 | 379 | 400 | Nenhum | Shield | Ocean Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/base.gif" alt="Sprite de Base" loading="lazy" decoding="async" /></span> | Base | 88 | 0 | 333 | 800 | Nenhum | Nenhum | Northern Ruins (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/basher.gif" alt="Sprite de Basher" loading="lazy" decoding="async" /></span> | Basher | 150 | 8 | 377 | 0 | Nenhum | Nenhum | Blackbird (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/beast.gif" alt="Sprite de Beast" loading="lazy" decoding="async" /></span> | Beast | 830 | 5 | 204 | 450 | Nenhum | R'Bow Helm | Terra Cave (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/beetle.gif" alt="Sprite de Beetle" loading="lazy" decoding="async" /></span> | Beetle | 12 | 1 | 3 | 15 | Nenhum | Nenhum | Guardia Forest (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/bellbird.gif" alt="Sprite de Bell Bird" loading="lazy" decoding="async" /></span> | Bell Bird | 94 | 2 | 27 | 100 | Heal | Nenhum | Denadoro Mts. (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/blob.gif" alt="Sprite de Blob" loading="lazy" decoding="async" /></span> | Blob | 1.350 | 10 | 793 | 1.250 | Barrier | Magic Ring | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/blueeaglet.gif" alt="Sprite de Blue Eaglet" loading="lazy" decoding="async" /></span> | Blue Eaglet | 16 | 1 | 3 | 32 | Heal | Nenhum | Guardia Forest (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/blueimp.gif" alt="Sprite de Blue Imp" loading="lazy" decoding="async" /></span> | Blue Imp | 13 | 1 | 2 | 12 | Nenhum | Nenhum | Truce Canyon (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/bluescout.gif" alt="Sprite de Blue Scout" loading="lazy" decoding="async" /></span> | Blue Scout | 300 | 8 | 234 | 250 | Nenhum | Nenhum | Ocean Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/blueshield.gif" alt="Sprite de Blue Shield" loading="lazy" decoding="async" /></span> | Blue Shield | 24 | 0 | 11 | 45 | Tonic | Nenhum | Guardia Castle (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/bossorb.gif" alt="Sprite de Boss Orb" loading="lazy" decoding="async" /></span> | Boss Orb | 850 | 0 | 0 | 750 | Nenhum | Nenhum | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/bug.gif" alt="Sprite de Bug" loading="lazy" decoding="async" /></span> | Bug | 89 | 1 | 26 | 0 | Heal | Nenhum | Arris Dome (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/bugger.gif" alt="Sprite de Bugger" loading="lazy" decoding="async" /></span> | Bugger | 100 | 1 | 81 | 45 | Nenhum | Nenhum | Arris Dome (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/bit.gif" alt="Sprite de Byte" loading="lazy" decoding="async" /></span> | Byte | 192 | 8 | 378 | 0 | Nenhum | Nenhum | Blackbird (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/caveape.gif" alt="Sprite de Cave Ape" loading="lazy" decoding="async" /></span> | Cave Ape | 436 | 3 | 123 | 0 | Fang | Fang | Dactyl's Nest (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/cavebat.gif" alt="Sprite de Cave Bat" loading="lazy" decoding="async" /></span> | Cave Bat | 108 | 1 | 28 | 40 | Nenhum | Nenhum | Heckran Cave (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/crater.gif" alt="Sprite de Crater" loading="lazy" decoding="async" /></span> | Crater | 80 | 1 | 15 | 35 | Nenhum | Nenhum | Lab 16 (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/amphibite.gif" alt="Sprite de Croaker" loading="lazy" decoding="async" /></span> | Croaker | 100 | 0 | 65 | 0 | Nenhum | 2x Fangs | Hunting Range (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/cybot.gif" alt="Sprite de Cybot" loading="lazy" decoding="async" /></span> | Cybot | 1.800 | 16 | 728 | 750 | Hyper Ether | Power Meal | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/debugger.gif" alt="Sprite de Debugger" loading="lazy" decoding="async" /></span> | Debugger | 120 | 1 | 24 | 450 | Shield | Nenhum | Factory (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/debuggest.gif" alt="Sprite de Debuggest" loading="lazy" decoding="async" /></span> | Debuggest | 1.024 | 8 | 452 | 450 | Shield | Elixir, Shield | Geno Dome (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/deceased.gif" alt="Sprite de Deceased" loading="lazy" decoding="async" /></span> | Deceased | 110 | 2 | 52 | 70 | Nenhum | Nenhum | Zenan Bridge (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/decedent.gif" alt="Sprite de Decedent" loading="lazy" decoding="async" /></span> | Decedent | 67 | 1 | 12 | 90 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/defunct.gif" alt="Sprite de Defunct" loading="lazy" decoding="async" /></span> | Defunct | 1.450 | 18 | 518 | 700 | Nenhum | Elixir | Northern Ruins (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/departed.gif" alt="Sprite de Departed" loading="lazy" decoding="async" /></span> | Departed | 1.650 | 16 | 832 | 1.150 | Nenhum | Nenhum | Northern Ruins |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/diablos.gif" alt="Sprite de Diablos" loading="lazy" decoding="async" /></span> | Diablos | 50 | 1 | 10 | 70 | Revive | Nenhum | Cathedral (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/egder.gif" alt="Sprite de Egder" loading="lazy" decoding="async" /></span> | Egder | 160 | 1 | 18 | 0 | Nenhum | Nenhum | Sewer Access (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/evilweevil.gif" alt="Sprite de EvilWeevil" loading="lazy" decoding="async" /></span> | EvilWeevil | 158 | 2 | 81 | 0 | Feather | Dream Gun | Reptite Lair (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/flunky.gif" alt="Sprite de Flunky" loading="lazy" decoding="async" /></span> | Flunky | 390 | 2 | 239 | 210 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/flyclops.gif" alt="Sprite de Flyclops" loading="lazy" decoding="async" /></span> | Flyclops | 900 | 10 | 575 | 0 | Nenhum | Gold Stud | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/flytrap.gif" alt="Sprite de Fly Trap" loading="lazy" decoding="async" /></span> | Fly Trap | 316 | 2 | 86 | 0 | Petal | Nenhum | Reptite Lair (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/fossilape.gif" alt="Sprite de Fossil Ape" loading="lazy" decoding="async" /></span> | Fossil Ape | 1.800 | 15 | 533 | 450 | Lapis | MegaElixir, Lapis | Giant's Claw (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/freelancer.gif" alt="Sprite de FreeLancer" loading="lazy" decoding="async" /></span> | FreeLancer | 110 | 2 | 39 | 125 | Nenhum | Nenhum | Denadoro Mts. (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/gargoyle.gif" alt="Sprite de Gargoyle" loading="lazy" decoding="async" /></span> | Gargoyle | 260 | 6 | 216 | 0 | Nenhum | Big Hand | Mt. Woe (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/gigasaur.gif" alt="Sprite de Gigasaur" loading="lazy" decoding="async" /></span> | Gigasaur | 2.250 | 15 | 784 | 450 | Barrier | Ruby Armor | Giant's Claw (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/gnasher.gif" alt="Sprite de Gnasher" loading="lazy" decoding="async" /></span> | Gnasher | 90 | 1 | 8 | 40 | Nenhum | Revive | Cathedral (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/gnawer.gif" alt="Sprite de Gnawer" loading="lazy" decoding="async" /></span> | Gnawer | 210 | 2 | 26 | 300 | Nenhum | Nenhum | Cursed Woods (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/goblin.gif" alt="Sprite de Goblin" loading="lazy" decoding="async" /></span> | Goblin | 146 | 2 | 32 | 80 | Nenhum | Nenhum | Denadoro Mts. (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/goldeaglet.gif" alt="Sprite de Gold Eaglet" loading="lazy" decoding="async" /></span> | Gold Eaglet | 400 | 2 | 57 | 0 | 2x Feathers | Ether | Forest Maze (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/goon.gif" alt="Sprite de Goon" loading="lazy" decoding="async" /></span> | Goon | 2.800 | 15 | 850 | 800 | Elixir | Elixir | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/greenimp.gif" alt="Sprite de Green Imp" loading="lazy" decoding="async" /></span> | Green Imp | 16 | 1 | 4 | 24 | Tonic | Nenhum | Guardia Forest (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/gremlin.gif" alt="Sprite de Gremlin" loading="lazy" decoding="async" /></span> | Gremlin | 110 | 2 | 51 | 70 | Nenhum | Nenhum | Magic Cave (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/grimalkin.gif" alt="Sprite de Grimalkin" loading="lazy" decoding="async" /></span> | Grimalkin | 120 | 3 | 114 | 180 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/groupie.gif" alt="Sprite de Groupie" loading="lazy" decoding="async" /></span> | Groupie | 390 | 2 | 128 | 170 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/guard.gif" alt="Sprite de Guard" loading="lazy" decoding="async" /></span> | Guard | 60 | 0 | 10 | 70 | Tonic | Nenhum | Guardia Castle (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/hench1.gif" alt="Sprite de Hench" loading="lazy" decoding="async" /></span> | Hench | 49 | 1 | 11 | 135 | Nenhum | Nenhum | Heckran Cave |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/hench2.gif" alt="Sprite de Hench (roxo)" loading="lazy" decoding="async" /></span> | Hench (roxo) | 180 | 2 | 93 | 200 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/hetake.gif" alt="Sprite de Hetake" loading="lazy" decoding="async" /></span> | Hetake | 14 | 1 | 3 | 16 | Tonic | Tonic | Guardia Forest (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/hexapod.gif" alt="Sprite de Hexapod" loading="lazy" decoding="async" /></span> | Hexapod | 1.000 | 15 | 408 | 600 | Lapis | Lapis | Sunken Desert (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/impace.gif" alt="Sprite de Imp Ace" loading="lazy" decoding="async" /></span> | Imp Ace | 54 | 1 | 11 | 45 | Nenhum | Nenhum | Truce Canyon (600 A .D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/incognito.gif" alt="Sprite de Incognito" loading="lazy" decoding="async" /></span> | Incognito | 1 | 10 | 378 | 1.000 | Nenhum | Nenhum | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/ion.gif" alt="Sprite de Ion" loading="lazy" decoding="async" /></span> | Ion | 152 | 1 | 72 | 0 | Nenhum | 2x Feathers | Hunting Range (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/jinn.gif" alt="Sprite de Jinn" loading="lazy" decoding="async" /></span> | Jinn | 450 | 8 | 300 | 400 | Laps | Lapis | Ocean Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/jinnbottle.gif" alt="Sprite de Jinn Bottle" loading="lazy" decoding="async" /></span> | Jinn Bottle | 97 | 2 | 43 | 50 | Nenhum | Nenhum | Heckran Cave (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/juggler.gif" alt="Sprite de Juggler" loading="lazy" decoding="async" /></span> | Juggler | 452 | 3 | 128 | 220 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/kilwala.gif" alt="Sprite de Kilwala" loading="lazy" decoding="async" /></span> | Kilwala | 160 | 2 | 42 | 0 | Petal | Petal | Mystic Mountain (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/krakker.gif" alt="Sprite de Krakker" loading="lazy" decoding="async" /></span> | Krakker | 500 | 0 | 378 | 300 | Nenhum | Nenhum | Death Peak (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/laserguard.gif" alt="Sprite de Laser Guards" loading="lazy" decoding="async" /></span> | Laser Guards | 400 | 8 | 346 | 120 | Nenhum | Full Tonic | Geno Dome (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/lasher.gif" alt="Sprite de Lasher" loading="lazy" decoding="async" /></span> | Lasher | 666 | 8 | 318 | 250 | Nenhum | Nenhum | Ocean Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/leaper.gif" alt="Sprite de Leaper" loading="lazy" decoding="async" /></span> | Leaper | 800 | 10 | 312 | 360 | Shield | Elixir | Giant's Claw (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/lizardactyl.gif" alt="Sprite de Lizardactyl" loading="lazy" decoding="async" /></span> | Lizardactyl | 950 | 8 | 444 | 0 | Nenhum | Hyper Ether | Giant's Claw (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/macabre.gif" alt="Sprite de Macabre" loading="lazy" decoding="async" /></span> | Macabre | 582 | 0 | 427 | 500 | Ether | Full Ether | Death Peak (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/madbat.gif" alt="Sprite de Mad Bat" loading="lazy" decoding="async" /></span> | Mad Bat | 18 | 1 | 6 | 75 | Nenhum | Nenhum | Cathedral (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/mage.gif" alt="Sprite de Mage" loading="lazy" decoding="async" /></span> | Mage | 480 | 8 | 190 | 550 | Lapis | Barrier | Ocean Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/maneater.gif" alt="Sprite de Man Eater" loading="lazy" decoding="async" /></span> | Man Eater | 260 | 6 | 253 | 750 | Nenhum | Pearl Edge | Mt. Woe (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/martello.gif" alt="Sprite de Martello" loading="lazy" decoding="async" /></span> | Martello | 1.245 | 10 | 554 | 400 | Nenhum | Hyper Ether | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/meateater.gif" alt="Sprite de Meat Eater" loading="lazy" decoding="async" /></span> | Meat Eater | 75 | 1 | 21 | 50 | Nenhum | Ether | Lab 16 (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/megasaur.gif" alt="Sprite de Megasaur" loading="lazy" decoding="async" /></span> | Megasaur | 830 | 2 | 147 | 0 | Fang | Aeon Blade | Reptite Lair (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/metalmute.gif" alt="Sprite de Metal Mute" loading="lazy" decoding="async" /></span> | Metal Mute | 1.980 | 16 | 685 | 1.100 | Nenhum | Hyper Ether | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/mohavor.gif" alt="Sprite de Mohavor" loading="lazy" decoding="async" /></span> | Mohavor | 400 | 15 | 348 | 550 | Nenhum | Shield | Sunken Desert (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/mutant.gif" alt="Sprite de Mutant" loading="lazy" decoding="async" /></span> | Mutant | 300 | 1 | 22 | 30 | Nenhhum | Full Tonic | Lab 16 (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/naga-ette.gif" alt="Sprite de Naga-Ette" loading="lazy" decoding="async" /></span> | Naga-Ette | 60 | 1 | 8 | 80 | Nenhum | Nenhum | Cathedral (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/nereid.gif" alt="Sprite de Nereid" loading="lazy" decoding="async" /></span> | Nereid | 128 | 1 | 22 | 200 | Nenhum | Ether | Sewer Access (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/nu.gif" alt="Sprite de Nu" loading="lazy" decoding="async" /></span> | Nu | 1.234 | 30 | 248 | 0 | Itens de Troca | Mop | Kajar (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/octoblush.gif" alt="Sprite de OctoBlush" loading="lazy" decoding="async" /></span> | OctoBlush | 80 | 1 | 25 | 35 | Nenhum | Nenhum | Heckran Cave (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/octopod.gif" alt="Sprite de OctoPod" loading="lazy" decoding="async" /></span> | OctoPod | 130 | 1 | 11 | 15 | Nenhum | Mid Ether | Lab 16 (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/ogan.gif" alt="Sprite de Ogan" loading="lazy" decoding="async" /></span> | Ogan | 146 | 2 | 32 | 80 | Nenhum | Nenhum | Denadoro Mts. (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/omnicrone.gif" alt="Sprite de Omnicrone" loading="lazy" decoding="async" /></span> | Omnicrone | 218 | 1 | 22 | 55 | Ether | Nenhum | Magus' Lair (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/outlaw.gif" alt="Sprite de Outlaw" loading="lazy" decoding="async" /></span> | Outlaw | 182 | 3 | 104 | 90 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/pahoehoe.gif" alt="Sprite de Pahoehoe" loading="lazy" decoding="async" /></span> | Pahoehoe | 250 | 3 | 94 | 0 | Nenhum | Nenhum | Dactyl's Nest (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/panel.gif" alt="Sprite de Panel" loading="lazy" decoding="async" /></span> | Panel | 1.875 | 12 | 800 | 550 | Nenhum | Speed Tab | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/poly.gif" alt="Sprite de Poly" loading="lazy" decoding="async" /></span> | Poly | 99 | 2 | 7 | 35 | Ether | Nenhum | Truce Canyon (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/proto2.gif" alt="Sprite de Proto 2" loading="lazy" decoding="async" /></span> | Proto 2 | 128 | 1 | 22 | 50 | Nenhum | Tonic | Arris Dome (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/proto3.gif" alt="Sprite de Proto 3" loading="lazy" decoding="async" /></span> | Proto 3 | 256 | 1 | 33 | — | Nenhum | Full Tonic | Factory (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/proto4.gif" alt="Sprite de Proto 4" loading="lazy" decoding="async" /></span> | Proto 4 | 1.024 | 8 | 477 | 800 | Barrier | Barrier | Geno Dome (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/amphibite.gif" alt="Sprite de Rain Frog" loading="lazy" decoding="async" /></span> | Rain Frog | 100 | 0 | 66 | 0 | Nenhum | 2x Feathers | Hunting Range (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/2300/rat.gif" alt="Sprite de Rat" loading="lazy" decoding="async" /></span> | Rat | 45 | 1 | 18 | 0 | Nenhum | Nenhum | Arris Dome (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/reaper.gif" alt="Sprite de Reaper" loading="lazy" decoding="async" /></span> | Reaper | 1.450 | 18 | 518 | 700 | Nenhum | Elixir | Northern Ruins (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/redscout.gif" alt="Sprite de Red Scout" loading="lazy" decoding="async" /></span> | Red Scout | 300 | 8 | 234 | 250 | Nenhum | Nenhum | Ocean Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/reptite.gif" alt="Sprite de Reptite" loading="lazy" decoding="async" /></span> | Reptite | 92 | 2 | 72 | 0 | Petal | Magma Hand | Mystic Mountain (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/reptite2.gif" alt="Sprite de Reptite (roxo)" loading="lazy" decoding="async" /></span> | Reptite (roxo) | 336 | 4 | 126 | 0 | Mid Tonic | Mid Tonic | Tyrano Lair (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/roly.gif" alt="Sprite de Roly" loading="lazy" decoding="async" /></span> | Roly | 24 | 1 | 3 | 25 | Tonic | Nenhum | Truce Canyon (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/rolybomber.gif" alt="Sprite de Roly Bomber" loading="lazy" decoding="async" /></span> | Roly Bomber | 99 | 3 | 72 | 25 | Tonic | Nenhum | Magus' Lair (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/rolypoly.gif" alt="Sprite de Roly Poly" loading="lazy" decoding="async" /></span> | Roly Poly | 50 | 1 | 31 | 50 | Mid Tonic | Nenhum | Heckran Cave (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/rolyrider.gif" alt="Sprite de Roly Rider" loading="lazy" decoding="async" /></span> | Roly Rider | 30 | 2 | 5 | 40 | Nenhum | Nenhum | Guardia Forest (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/rubble.gif" alt="Sprite de Rubble" loading="lazy" decoding="async" /></span> | Rubble | 515 | 100 | 1.000 | 0 | Mid Ether | Nenhum | Mt. Woe (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/ruminator.gif" alt="Sprite de Ruminator" loading="lazy" decoding="async" /></span> | Ruminator | 1.500 | 18 | 422 | 400 | Nenhum | Mega Elixir | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/runner.gif" alt="Sprite de Runner" loading="lazy" decoding="async" /></span> | Runner | 196 | 2 | 42 | 0 | Horn | Horn | Mystic Mountain (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/save.gif" alt="Sprite de Save Point" loading="lazy" decoding="async" /></span> | Save Point | 10 | 2 | 114 | 100 | Nenhum | Nenhum | Magus' Lair (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/scouter.gif" alt="Sprite de Scouter" loading="lazy" decoding="async" /></span> | Scouter | 300 | 8 | 234 | 250 | Nenhum | Lapis | Ocean Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/sentry.gif" alt="Sprite de Sentry" loading="lazy" decoding="async" /></span> | Sentry | 1.280 | 8 | 467 | 400 | Full Ether | Hyper Ether, Full Ether | Northern Ruins (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/shadow.gif" alt="Sprite de Shadow" loading="lazy" decoding="async" /></span> | Shadow | 1 | 1 | 14 | 50 | Nenhum | Nenhum | Lab 16 (2.300 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/shitake.gif" alt="Sprite de Shitake" loading="lazy" decoding="async" /></span> | Shitake | 158 | 2 | 87 | 0 | Petal | Petal | Reptite Lair (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/sidekick.gif" alt="Sprite de Side Kick" loading="lazy" decoding="async" /></span> | Side Kick | 1.250 | 100 | 500 | 0 | Nenhum | Nenhum | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/sorcerer.gif" alt="Sprite de Sorcerer" loading="lazy" decoding="async" /></span> | Sorcerer | 220 | 3 | 110 | 220 | Mid Ether | Nenhum | Magus' Lair (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/stoneimp.gif" alt="Sprite de Stone Imp" loading="lazy" decoding="async" /></span> | Stone Imp | 300 | 12 | 348 | 850 | Nenhum | Nenhum | Mt. Woe (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/synchrite.gif" alt="Sprite de Synchrite" loading="lazy" decoding="async" /></span> | Synchrite | 2.250 | 12 | 755 | 900 | Hyper Ether | Gold Erng | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/tpole.gif" alt="Sprite de T'Pole" loading="lazy" decoding="async" /></span> | T'Pole | 150 | 1 | 26 | 30 | Nenhum | Nenhum | Cursed Woods (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/tempurite.gif" alt="Sprite de Tempurite" loading="lazy" decoding="async" /></span> | Tempurite | 88 | 2 | 32 | 45 | Nenhum | Nenhum | Heckran Cave (1.000 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/terrasaur.gif" alt="Sprite de Terrasaur" loading="lazy" decoding="async" /></span> | Terrasaur | 1.090 | 4 | 259 | 0 | Nenhum | Lapis | Tyrano Lair (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/thrasher.gif" alt="Sprite de Thrasher" loading="lazy" decoding="async" /></span> | Thrasher | 666 | 8 | 318 | 250 | Nenhum | Nenhum | Ocean Palace (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/black-omen/tubster.gif" alt="Sprite de Tubster" loading="lazy" decoding="async" /></span> | Tubster | 2.000 | 20 | 850 | 800 | Nenhum | Power Tab | Black Omen |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/12000/turrent.gif" alt="Sprite de Turret" loading="lazy" decoding="async" /></span> | Turret | 700 | 50 | 750 | 0 | Mid Ether | Nenhum | Blackbird (12.000 B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/600/vamp.gif" alt="Sprite de Vamp" loading="lazy" decoding="async" /></span> | Vamp | 120 | 2 | 58 | 70 | Nenhum | Nenhum | Magic Cave (600 A.D.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/volcano.gif" alt="Sprite de Volcano" loading="lazy" decoding="async" /></span> | Volcano | 257 | 7 | 243 | 0 | Nenhum | Lapis | Tyrano Lair (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/65000000/wingape.gif" alt="Sprite de Winged Ape" loading="lazy" decoding="async" /></span> | Winged Ape | 450 | 2 | 123 | 0 | Fang | Ruby Vest | Forest Maze (65M B.C.) |
+| <span class="sprite-portrait"><img class="sprite-pixel" src="{{ site.baseurl }}/assets/sprites/chrono-trigger/1000/yodude.gif" alt="Sprite de Yodu De" loading="lazy" decoding="async" /></span> | Yodu De | 24 | 0 | 11 | 90 | Tonic | Nenhum | Guardia Castle (1.000 A.D.) |
 
 ## Como interpretar os dados
 

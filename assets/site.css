@@ -42,3 +42,11 @@
 .reference-table-count{color:#aebed8;font-size:.79rem;white-space:nowrap;font-variant-numeric:tabular-nums}
 @media(max-width:560px){.reference-sheet table th,.reference-sheet table td{min-width:110px;padding:9px 10px}.reference-table-tools input{flex-basis:100%;max-width:none}}
 
+
+/* Sprites recuperados do bestiário histórico (v0.20): conservar pixel art sem depender de hosts externos */
+.reference-sheet .sprite-portrait{display:inline-flex;vertical-align:middle;align-items:center;justify-content:center;gap:7px;min-width:77px;min-height:78px;padding:3px 5px;border-radius:7px;background:rgba(7,13,28,.65);border:1px solid rgba(174,199,255,.13)}
+.reference-sheet .sprite-portrait--group{flex-wrap:nowrap}
+.reference-sheet .sprite-pixel{display:block;height:70px;width:auto;max-width:140px;object-fit:contain;image-rendering:pixelated;image-rendering:crisp-edges}
+.reference-sheet td:has(> .sprite-portrait){padding:7px 8px;text-align:center;vertical-align:middle;min-width:100px}
+.reference-sheet table td:nth-child(2){font-weight:600}
+@media(max-width:560px){.reference-sheet .sprite-pixel{height:58px;max-width:112px}.reference-sheet .sprite-portrait{min-height:66px;min-width:65px;padding:3px}.reference-sheet td:has(> .sprite-portrait){min-width:75px;padding:5px}}
