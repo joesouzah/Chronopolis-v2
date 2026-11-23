@@ -72,3 +72,13 @@ Este guia traz orientações gerais para explorar o jogo; o passo a passo comple
 ### Bestiário e confrontos
 
 Os números e recompensas apresentados nos artigos complementares ainda exigem conferência conforme a edição jogada.
+
+## Roteiro visual em cinco partes
+
+As **522 capturas de tela** relacionadas às cinco partes do roteiro histórico foram recuperadas e organizadas em galerias por etapa. São imagens de apoio à exploração, não um substituto para o texto original nem um guia de localização exato para cada item.
+
+- [**Parte 1 — 129 capturas**]({{ '/artigos/chrono-trigger-estrategia-visual-parte-1/' | relative_url }})
+- [**Parte 2 — 122 capturas**]({{ '/artigos/chrono-trigger-estrategia-visual-parte-2/' | relative_url }})
+- [**Parte 3 — 135 capturas**]({{ '/artigos/chrono-trigger-estrategia-visual-parte-3/' | relative_url }})
+- [**Parte 4 — 132 capturas**]({{ '/artigos/chrono-trigger-estrategia-visual-parte-4/' | relative_url }})
+- [**Parte 5 — 4 capturas**]({{ '/artigos/chrono-trigger-estrategia-visual-parte-5/' | relative_url }})
