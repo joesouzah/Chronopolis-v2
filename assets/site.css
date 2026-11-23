@@ -249,3 +249,13 @@
  .archive-gallery-grid{grid-template-columns:repeat(auto-fit,minmax(min(100%,112px),1fr));gap:8px;padding:9px}
  .prose .archive-gallery-item img{min-width:0}
 }
+
+
+/* v0.37 — Erro de imagem em miniatura: preserva o link externo sem aninhar outros links. */
+.archive-image-fallback-link{min-width:0}
+.archive-unavailable--inside-link{display:block;min-width:0;max-width:100%;margin:0;padding:8px;font-size:.75rem;line-height:1.4;overflow-wrap:anywhere;text-align:center}
+.archive-unavailable--inside-link strong{display:block;font-size:.76rem}
+.prose .archive-gallery-item a .archive-unavailable--inside-link{width:100%;padding:7px 5px;border:0;background:transparent}
+.prose .archive-gallery-item a.archive-image-fallback-link{color:var(--muted);text-decoration:none}
+.archive-image-fallback-link:focus-visible .archive-unavailable--inside-link{color:var(--gold)}
+@media(max-width:560px){.archive-unavailable--inside-link{font-size:.7rem;padding:5px}.archive-unavailable--inside-link strong{font-size:.72rem}}

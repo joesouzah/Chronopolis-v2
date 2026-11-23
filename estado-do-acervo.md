@@ -80,6 +80,12 @@ Nas páginas de leitura, uma faixa discreta de **acesso direto** conecta bestiá
 
 Os **90 identificadores de imagens externas ainda pendentes** também foram procurados por nome exato no Google Drive. Não apareceu nova correspondência; isso não descarta cópias guardadas com nomes diferentes. [Detalhes técnicos](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-IMAGENS-EXTERNAS.md).
 
+## Auditoria das galerias — 23/11/2026 (v0.37)
+
+Foram verificados **706 elementos de imagem** em **nove páginas** de galerias, estratégia visual e referências de missões opcionais. Foram conferidos os endereços dos arquivos locais em relação à árvore do repositório: **nenhum arquivo referenciado faltava** nas páginas auditadas. As 706 imagens têm atributo de carregamento diferido e atributo `alt` no HTML; isso não constitui inspeção visual completa nem certifica o conteúdo de cada arquivo.
+
+A verificação identificou um problema no tratamento de falhas: se uma imagem estava dentro de um link clicável, o aviso de erro criava outro link no seu interior. A v0.37 corrige esse comportamento, mantendo a miniatura ou galeria clicável para tentar abrir o arquivo original, sem links aninhados. Quando a imagem não está dentro de um link, o aviso continua oferecendo o endereço original.
+
 ## Materiais que ainda dependem de terceiros
 
 Inventário técnico feito em **22/11/2026**, sobre as 20 transcrições Markdown:

@@ -10,7 +10,7 @@
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title | escape }} — Chronopolis</title>
-  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.36">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.37">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 </head>
 <body>
@@ -62,22 +62,33 @@
 </main>
 <footer class="site-footer"><div class="wrap footer-inner"><p>Chronopolis — arquivo independente de fã. Chrono Trigger pertence a seus respectivos titulares.</p><a href="{{ '/fontes-historicas/' | relative_url }}">Fontes e créditos</a><a href="{{ '/' | relative_url }}">Início</a></div></footer>
 <script>
+/* v0.37 — Em galerias e miniaturas já clicáveis, não criar um link dentro de outro. */
 document.querySelectorAll('.prose img, .article-hero-image').forEach(function(img){
+  var handled=false;
   function unavailable(){
+    if(handled)return;
+    handled=true;
     var src=img.getAttribute('src')||'';
     var external=/^https?:\/\//i.test(src);
-    var note=document.createElement('p');
-    note.className='archive-unavailable'+(external?' archive-unavailable--external':'');
+    var alt=(img.getAttribute('alt')||'').trim();
+    var linked=img.closest('a[href]');
+    var note=document.createElement(linked?'span':'p');
+    note.className='archive-unavailable'+(external?' archive-unavailable--external':'')+(linked?' archive-unavailable--inside-link':'');
     var label=document.createElement('strong');
     label.textContent=external?'Imagem externa não carregada.':'Imagem não carregada.';
     note.appendChild(label);
-    var alt=(img.getAttribute('alt')||'').trim();
     if(alt){
       var description=document.createElement('span');
       description.textContent=' '+alt.replace(/\.$/,'')+'.';
       note.appendChild(description);
     }
-    if(src){
+    if(linked){
+      linked.classList.add('archive-image-fallback-link');
+      if(!linked.getAttribute('aria-label')){
+        linked.setAttribute('aria-label',alt?'Abrir imagem original: '+alt:'Abrir imagem original');
+      }
+      linked.title=linked.title||'Tentar abrir a imagem original';
+    }else if(src){
       var link=document.createElement('a');
       link.href=src;link.target='_blank';link.rel='noopener noreferrer';
       link.textContent=external?' Abrir endereço original.':' Abrir arquivo.';
