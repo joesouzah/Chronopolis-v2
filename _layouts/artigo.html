@@ -10,7 +10,7 @@
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title | escape }} — Chronopolis</title>
-  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.39">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.40">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 </head>
 <body>
@@ -388,16 +388,125 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
 })();
 </script>
 <script>
-/* v0.39 — Esclarece em leitores de tela que a imagem abre em outra aba. */
+/* v0.40 — Visualizador local das galerias; os endereços originais continuam disponíveis. */
 (function(){
   'use strict';
-  document.querySelectorAll('.article-panel .archive-gallery-item a[target="_blank"]').forEach(function(link){
-    var current=(link.getAttribute('aria-label')||'').trim();
-    if(!current){
-      var image=link.querySelector('img');
-      current=(image&&image.getAttribute('alt')||'').trim()||'Abrir imagem';
-    }
-    if(!/nova aba/i.test(current))link.setAttribute('aria-label',current+' (abre em nova aba)');
+  var sections=Array.from(document.querySelectorAll('.article-panel .archive-gallery-section'));
+  if(!sections.length || typeof HTMLDialogElement==='undefined' || typeof document.createElement('dialog').showModal!=='function')return;
+
+  function make(tag,cls,content){
+    var node=document.createElement(tag);
+    if(cls)node.className=cls;
+    if(content!==undefined)node.textContent=content;
+    return node;
+  }
+  var dialog=make('dialog','gallery-lightbox');
+  dialog.setAttribute('aria-label','Visualizador de imagens do Chronopolis');
+  var top=make('div','gallery-lightbox-top');
+  var heading=make('div','gallery-lightbox-heading');
+  var sectionName=make('span','gallery-lightbox-section');
+  var title=make('strong','gallery-lightbox-title');
+  heading.append(sectionName,title);
+  var close=make('button','gallery-lightbox-close','Fechar ×');
+  close.type='button';
+  close.setAttribute('aria-label','Fechar visualizador de imagens');
+  top.append(heading,close);
+  var stage=make('div','gallery-lightbox-stage');
+  var picture=make('img','gallery-lightbox-image');
+  picture.alt='';
+  var failure=make('p','gallery-lightbox-error','Não foi possível carregar esta imagem. Você ainda pode tentar abrir o arquivo original.');
+  failure.hidden=true;
+  failure.setAttribute('role','status');
+  stage.append(picture,failure);
+  var bottom=make('div','gallery-lightbox-bottom');
+  var previous=make('button','gallery-lightbox-step','← Anterior');
+  previous.type='button';
+  var count=make('span','gallery-lightbox-count');
+  count.setAttribute('aria-live','polite');
+  var next=make('button','gallery-lightbox-step','Próxima →');
+  next.type='button';
+  var original=make('a','gallery-lightbox-original','Abrir arquivo original ↗');
+  original.target='_blank';
+  original.rel='noopener noreferrer';
+  bottom.append(previous,count,next,original);
+  var help=make('p','gallery-lightbox-help','Use ← e → para trocar de imagem; Esc para fechar.');
+  dialog.append(top,stage,bottom,help);
+  document.body.appendChild(dialog);
+
+  var links=[],active=-1,openingLink=null;
+  function render(){
+    var link=links[active];
+    if(!link)return;
+    var figure=link.closest('.archive-gallery-item');
+    var caption=figure && figure.querySelector('figcaption');
+    var img=link.querySelector('img');
+    var name=caption&&caption.textContent.trim() || img&&img.getAttribute('alt') || 'Imagem';
+    title.textContent=name;
+    count.textContent=(active+1)+' de '+links.length;
+    previous.disabled=active<=0;
+    next.disabled=active>=links.length-1;
+    original.href=link.href;
+    picture.alt=img&&img.getAttribute('alt') || name;
+    failure.hidden=true;
+    picture.hidden=false;
+    picture.removeAttribute('src');
+    picture.src=link.href;
+  }
+  picture.addEventListener('error',function(){
+    picture.hidden=true;
+    failure.hidden=false;
+  });
+  picture.addEventListener('load',function(){
+    failure.hidden=true;
+    picture.hidden=false;
+  });
+  function go(delta){
+    var target=active+delta;
+    if(target<0 || target>=links.length)return;
+    active=target;
+    render();
+  }
+  close.addEventListener('click',function(){dialog.close()});
+  previous.addEventListener('click',function(){go(-1)});
+  next.addEventListener('click',function(){go(1)});
+  dialog.addEventListener('keydown',function(event){
+    if(event.altKey||event.ctrlKey||event.metaKey||event.isComposing)return;
+    if(event.key==='ArrowLeft'){event.preventDefault();go(-1)}
+    if(event.key==='ArrowRight'){event.preventDefault();go(1)}
+  });
+  dialog.addEventListener('click',function(event){
+    if(event.target===dialog)dialog.close();
+  });
+  dialog.addEventListener('close',function(){
+    document.documentElement.classList.remove('gallery-lightbox-open');
+    picture.removeAttribute('src');
+    links=[];active=-1;
+    if(openingLink && openingLink.isConnected)openingLink.focus();
+    openingLink=null;
+  });
+
+  sections.forEach(function(section){
+    section.querySelectorAll('.archive-gallery-item a[href]').forEach(function(link){
+      var label=(link.getAttribute('aria-label')||link.querySelector('img')&&link.querySelector('img').alt||'Ampliar imagem').trim();
+      label=label.replace(/\s*\(abre em nova aba\)$/i,'');
+      link.setAttribute('aria-label',label+' (abrir no visualizador)');
+      link.title='Visualizar imagem; Ctrl+clique abre o arquivo em outra aba';
+    });
+    section.addEventListener('click',function(event){
+      var link=event.target.closest('a[href]');
+      if(!link || !link.closest('.archive-gallery-item') || !section.contains(link) || event.defaultPrevented || event.button!==0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey)return;
+      var available=Array.from(section.querySelectorAll('.archive-gallery-item a[href]'));
+      var selected=available.indexOf(link);
+      if(selected<0)return;
+      event.preventDefault();
+      links=available;active=selected;openingLink=link;
+      var summary=section.querySelector('summary');
+      sectionName.textContent=summary?(summary.firstChild&&summary.firstChild.textContent||summary.textContent).trim():'Galeria';
+      dialog.showModal();
+      document.documentElement.classList.add('gallery-lightbox-open');
+      render();
+      close.focus();
+    });
   });
 })();
 </script>
