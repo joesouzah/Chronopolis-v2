@@ -10,7 +10,7 @@
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <title>{{ page.title | escape }} — Chronopolis</title>
-  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.35">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v=0.36">
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
 </head>
 <body>
@@ -261,5 +261,35 @@ document.querySelectorAll('.prose img, .article-hero-image').forEach(function(im
 })();
 </script>
 {% endif %}
+
+<script>
+/* v0.36 — Rolagem acessível para tabelas sem sprites, sem mudar seu conteúdo. */
+(function(){
+  'use strict';
+  var tables=Array.from(document.querySelectorAll('.article-panel.prose table'));
+  tables.forEach(function(table,index){
+    if(table.closest('.sprite-table-scroll,.article-table-scroll'))return;
+    var scroller=document.createElement('div');
+    scroller.className='article-table-scroll';
+    scroller.tabIndex=0;
+    scroller.setAttribute('role','region');
+    var heading=table.previousElementSibling;
+    var label=heading && /^H[2-4]$/.test(heading.tagName)?heading.textContent.trim():'Tabela '+(index+1);
+    scroller.setAttribute('aria-label','Tabela com rolagem horizontal: '+label);
+    var hint=document.createElement('p');
+    hint.className='table-scroll-hint';
+    hint.textContent='Deslize para ver as demais colunas da tabela.';
+    table.parentNode.insertBefore(hint,table);
+    table.parentNode.insertBefore(scroller,table);
+    scroller.appendChild(table);
+    function updateHint(){
+      hint.hidden=scroller.scrollWidth<=scroller.clientWidth+2;
+    }
+    requestAnimationFrame(updateHint);
+    window.addEventListener('resize',updateHint);
+    window.addEventListener('load',updateHint,{once:true});
+  });
+})();
+</script>
 </body>
 </html>
