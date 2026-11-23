@@ -1,19 +1,20 @@
 ---
-title: "Techs de Chrono Trigger — ficha de técnicas e MP"
+title: "Techs de Chrono Trigger — 116 fichas de técnicas"
 date: 2026-11-22
 category: "Arquivo"
-summary: "Tabela com as 56 Single Techs e custos de MP, além de combinações duplas e triplas."
+summary: "Tabelas das 56 técnicas individuais, 45 duplas e 15 triplas, com personagens, habilidades necessárias e custos de MP."
 image: ""
 source_site: "RPG aQui!"
 source_url: "http://rpga8.free.fr/especial/ct/techs.htm"
 source_consulted_on: 2026-11-22
+source_rechecked_on: 2026-11-23
 reference_sheet: true
-reference_coverage: "56 Single Techs em tabela; 45 Double Techs e 15 Triple Techs ainda não reproduzidas integralmente"
+reference_coverage: "116/116 registros: 56 Single, 45 Double e 15 Triple Techs"
 ---
 
-## Consulta direta
+## Catálogo de técnicas
 
-> **Situação do acervo:** 56 Single Techs em tabela; 45 Double Techs e 15 Triple Techs ainda não reproduzidas integralmente. Os demais registros ainda não foram transcritos e não são apresentados como disponíveis para consulta integral.
+**116 registros catalogados:** 56 Single Techs, 45 Double Techs, 10 Triple Techs convencionais e 5 Triple Techs vinculadas a pedras. Pesquise por nome de técnica ou personagem em cada tabela.
 
 ### 56 Single Techs — custo de MP
 
@@ -78,86 +79,84 @@ reference_coverage: "56 Single Techs em tabela; 45 Double Techs e 15 Triple Tech
 
 Os nomes e custos seguem a terminologia clássica da versão SNES. Estes valores foram cotejados com uma [tabela complementar de técnicas](https://gemelog.jp/en/games/chrono-trigger/techs/); não são uma transcrição integral das páginas históricas do acervo.
 
-### Técnicas dos personagens — panorama
+### 45 Double Techs — personagens, componentes e MP
 
-| Personagem | Algumas técnicas | Pontos fortes |
-| --- | --- | --- |
-| **Crono** | Cyclone, Lightning, Life, Luminaire | Dano físico, raio e ressuscitar aliados |
-| **Marle** | Aura, Cure, Haste, Life 2 | Recuperação e velocidade do grupo |
-| **Lucca** | Flame Toss, Hypno Wave, Protect, Flare | Fogo, sono, proteção e explosões |
-| **Robo** | Rocket Punch, Cure Beam, Heal Beam, Shock | Golpes, cura e ataques em área |
-| **Frog** | Slurp, Water, Heal, Frog Squash | Cura, espada e água |
-| **Ayla** | Kiss, Rock Throw, Charm, Triple Kick | Força física e obtenção de itens |
-| **Magus** | Lightning 2, Fire 2, Dark Mist, Dark Matter | Magia elemental e Sombra |
+| Técnica | Dupla | Techs necessárias | MP de cada componente |
+| --- | --- | --- | --- |
+| Aura Whirl | Crono+Marle | Cyclone; Aura | 2; 1 |
+| Ice Sword | Crono+Marle | Spincut; Ice | 4; 2 |
+| Ice Sword 2 | Crono+Marle | Confuse; Ice 2 | 12; 8 |
+| Fire Whirl | Crono+Lucca | Cyclone; Flame Toss | 2; 1 |
+| Fire Sword | Crono+Lucca | Spincut; Fire | 4; 2 |
+| Fire Sword 2 | Crono+Lucca | Confuse; Fire 2 | 12; 8 |
+| Rocket Roll | Crono+Robo | Cyclone; Laser Spin | 2; 3 |
+| Max Cyclone | Crono+Robo | Spin Cut; Laser Spin | 4; 3 |
+| Super Shock | Crono+Robo | Lightning 2; Super Shock | 8; 17* |
+| X Strike | Crono+Frog | Slash; Slurp Cut | 2; 2 |
+| Swordstream | Crono+Frog | Spin Cut; Water | 4; 2 |
+| Spire | Crono+Frog | Lightning 2; Leap Slash | 8; 4 |
+| Drill Kick | Crono+Ayla | Cyclone; Rollo Kick | 2; 2 |
+| Volt Bite | Crono+Ayla | Lightning; Cat Attack | 2; 3 |
+| Falcon Hit | Crono+Ayla | Spin Cut; Rock Throw | 4; 4 |
+| Antipode | Marle+Lucca | Ice; Fire | 2; 2 |
+| Antipode 2 | Marle+Lucca | Ice 2; Fire 2 | 8; 8 |
+| Antipode 3 | Marle+Lucca | Ice 2; Flare | 8; 20 |
+| Aura Beam | Marle+Robo | Aura; Cure Beam | 1; 2 |
+| Ice Tackle | Marle+Robo | Ice; Robo Tackle | 2; 4 |
+| Cure Touch | Marle+Robo | Cure 2; Heal Beam | 5; 3 |
+| Ice Water | Marle+Frog | Ice; Water | 2; 2 |
+| Glacier | Marle+Frog | Ice 2; Water 2 | 8; 8 |
+| Double Cure | Marle+Frog | Cure 2; Cure 2 | 5; 5 |
+| Twin Charm | Marle+Ayla | Provoke; Charm | 1; 4 |
+| Ice Toss | Marle+Ayla | Ice; Rock Throw | 2; 4 |
+| Cube Toss | Marle+Ayla | Ice 2; Rock Throw | 8; 4 |
+| Fire Punch | Lucca+Robo | Fire; Rocket Punch | 2; 1 |
+| Fire Tackle | Lucca+Robo | Fire 2; Robo Tackle | 8; 4 |
+| Doublevbomb | Lucca+Robo | Mega Bomb; Area Bomb | 15; 15 |
+| Red Pin | Lucca+Frog | Fire; Leap Slash | 2; 4 |
+| Line Bomb | Lucca+Frog | Mega Bomb; Leap Slash | 15; 4 |
+| Frog Flare | Lucca+Frog | Flare; Frog Squash | 20; 15 |
+| Flame Kick | Lucca+Ayla | Fire; Rollo Kick | 2; 2 |
+| Fire Whirl | Lucca+Ayla | Fire 2; Tail Spin | 8; 10 |
+| Blaze Kick | Lucca+Ayla | Fire 2; Triple Kick | 8; 20 |
+| Blade Toss | Robo+Frog | Laser Spin; Slurp Cut | 3; 2 |
+| Bubble Snap | Robo+Frog | Robo Tackle; Water | 4; 2 |
+| Cure Wave | Robo+Frog | Heal Beam; Cure 2 | 3; 5 |
+| Boogie | Robo+Ayla | Robo Tackle; Charm | 4; 4 |
+| Spin Kick | Robo+Ayla | Robo Tackle; Rollo Kick | 4; 2 |
+| Beast Toss | Robo+Ayla | Uzzi Punch; Rock Throw | 12; 4 |
+| Slurp Kiss | Frog+Ayla | Slurp; Kiss | 1; 1 |
+| Bubble Hit | Frog+Ayla | Water; Rollo Kick | 2; 2 |
+| Drop Kick | Frog+Ayla | Leap Slash; Triple Kick | 4; 20 |
 
-### Double Techs registradas
+### 15 Triple Techs — grupo, componentes, MP e pedra
 
-| Técnica | Participantes | Uso |
-| --- | --- | --- |
-| **Aura Whirl** | Crono + Marle | Cura coletiva |
-| **X Strike** | Crono + Frog | Dano físico concentrado |
-| **Antipode** | Marle + Lucca | Ataque elemental |
-| **Twin Charm** | Marle + Ayla | Tentativa de obter um item do inimigo |
-| **Cure Wave** | Robo + Frog | Recuperação do grupo |
+| Técnica | Grupo | Techs necessárias | MP por componente | Pedra |
+| --- | --- | --- | --- | --- |
+| Delta Force | Crono+Marle+Lucca | Lightning 2; Ice 2; Fire 2 | 8; 8; 8 | — |
+| Life Line | Crono+Marle+Robo | Cyclone; Life 2; Laser Spin | 2; 15; 3 | — |
+| Arc Impulse | Crono+Marle+Frog | Spincut; Ice 2; Leap Slash | 4; 8; 4 | — |
+| Final Kick | Crono+Marle+Ayla | Lightning 2; Ice 2; Triple Kick | 8; 8; 20 | — |
+| Fire Zone | Crono+Lucca+Robo | Spincut; Fire 2; Laser Spin | 4; 8; 3 | — |
+| Delta Storm | Crono+Lucca+Frog | Lightning 2; Fire 2; Water 2 | 8; 8; 8 | — |
+| Gatling Kick | Crono+Lucca+Ayla | Lightning 2; Fire 2; Triple Kick | 8; 8; 20 | — |
+| Triple Raid | Crono+Robo+Frog | Cyclone; Robo Tackle; Slurp Cut | 2; 4; 2 | — |
+| Twister | Crono+Robo+Ayla | Cyclone; Laser Spin; Tail Spin | 2; 3; 10 | — |
+| 3D Attack | Crono+Frog+Ayla | Cyclone; Slurp Cut; Triple Kick | 2; 2; 20 | — |
+| Poyozo Dance | Marle+Lucca+Ayla | Provoke; Hypno Wave; Tail Spin | 1; 1; 10 | White |
+| Dark Eternal | Marle+Lucca+Magus | Ice 2; Fire 2; Dark Matter | 8; 8; 20 | Black |
+| Grand Dream | Marle+Robo+Frog | Life 2; Cure Beam; Frog Squash | 15; 2; 15 | Gold |
+| Omega Flare | Lucca+Robo+Magus | Flare; Laser Spin; Dark Bomb | 20; 3; 8 | Blue |
+| Spin Strike | Robo+Frog+Ayla | Robo Tackle; Leap Slash; Tail Spin | 4; 4; 10 | Silver |
 
-### Triple Techs que exigem pedras
+## Interpretação das fichas
 
-| Pedra | Triple Tech |
-| --- | --- |
-| **White Rock** | Poyozo Dance |
-| **Black Rock** | Dark Eternal |
-| **Gold Rock** | Grand Dream |
-| **Blue Rock** | Omega Flare |
-| **Silver Rock** | Spin Strike |
+**MP por componente** traz os custos das técnicas individuais na ordem listada. Não é um único custo somado, e os participantes precisam dominar suas habilidades e estar disponíveis em combate. **—** significa que a combinação tripla não depende de uma pedra específica. Para as cinco pedras, veja [missões opcionais]({{ '/artigos/chrono-trigger-missoes-opcionais-segredos/' | relative_url }}).
 
-### Totais por tipo de técnica
+A transcrição recupera os nomes e campos de `techs_single.htm`, `techs_double.htm` e `techs_triple.htm`, mas não replica os textos descritivos, imagens ou a diagramação original. As grafias foram mantidas em grande parte como registradas, mesmo quando variam entre tabelas.
 
-| Tipo | Quantidade | Como funciona |
-| --- | ---: | --- |
-| **Single Tech** | 56 | Técnica usada por um personagem |
-| **Double Tech** | 45 | Combinação de dois integrantes |
-| **Triple Tech** | 10 | Combinação normal com três integrantes |
-| **Triple Tech com pedra** | 5 | Combinação especial com pedra equipada |
-| **Total** | **116** | Técnicas e combinações catalogadas |
+**Anomalias preservadas:** a fonte apresenta `Doublevbomb` em vez de uma grafia padronizada; `Fire Whirl` é registrado em duas duplas diferentes; em `Super Shock`, o último componente surge como `Super Shock` e o custo aparece como `8. 17`, representado por **8; 17*** apenas para facilitar a leitura da separação. Esses campos exigem conferência no jogo ou em outra fonte antes de qualquer correção.
 
----
+Para consultar recompensas e obter itens com Ayla, veja [Charm e Twin Charm]({{ '/artigos/chrono-trigger-charm-guia/' | relative_url }}). Para diferença entre TP e EXP, confira [Levels]({{ '/artigos/chrono-trigger-levels-experiencia/' | relative_url }}).
 
-## Interpretação e contexto
-
-## Técnicas são mais que ataques especiais
-
-Em *Chrono Trigger*, as **Techs** incluem golpes físicos, magia, cura, proteção e habilidades de apoio. Parte do sistema gira em torno de combinar técnicas aprendidas por personagens diferentes.
-
-São **15 Triple Techs ao todo**, incluindo dez comuns e cinco dependentes de pedras especiais. O conjunto de técnicas duplas contém **45 combinações**.
-
-## Oito técnicas para cada personagem
-
-Os sete integrantes possuem **oito Single Techs cada**. Estes são exemplos de habilidades e funções na terminologia clássica.
-
-**Magus não possui Double Techs**, mas participa de algumas Triple Techs especiais.
-
-## MP e TP são recursos diferentes
-
-**MP** é gasto ao executar uma técnica. **TP** é recebido em batalhas e permite aprender novas habilidades. Por exemplo, Cyclone custa **2 MP**, Luminaire **20 MP** e Charm **4 MP** na edição clássica.
-
-As tabelas de Single Techs apresentam custo em MP, mas **não uma coluna efetiva com o TP exigido para cada habilidade**. Por isso, os números de TP não foram reconstruídos como se constassem daquela tabela.
-
-## Double Techs: escolhendo a dupla
-
-Para executar uma Double Tech, ambos devem estar na equipe, dominar as técnicas componentes, ter MP suficiente e estar prontos para agir. Veja também [Charm e Twin Charm]({{ '/artigos/chrono-trigger-charm-guia/' | relative_url }}).
-
-## Triple Techs e pedras especiais
-
-As combinações normais incluem **Delta Force**, **Life Line**, **Arc Impulse**, **Triple Raid** e **3D Attack**. Elas usam os três personagens da formação.
-
-As cinco combinações especiais requerem uma pedra:
-
-Além da pedra, os personagens precisam ter aprendido as habilidades correspondentes. A lista de [missões opcionais e segredos]({{ '/artigos/chrono-trigger-missoes-opcionais-segredos/' | relative_url }}) oferece pistas de onde encontrá-las.
-
-## Minha técnica não aparece. E agora?
-
-Verifique a equipe, as habilidades individuais exigidas, o MP, os medidores de ação e, nas combinações especiais, a pedra equipada. Algumas magias passam a estar disponíveis após o encontro com Spekkio.
-
-Para entender a diferença entre subir de nível e aprender habilidades, consulte [Levels e experiência]({{ '/artigos/chrono-trigger-levels-experiencia/' | relative_url }}). As duas progressões se relacionam, mas **EXP não substitui TP**.
-
-*Grafias e detalhes de funcionamento podem variar conforme a versão.*
+*As fichas representam os dados históricos consultados; não substituem uma validação individual em todas as versões do jogo.*
