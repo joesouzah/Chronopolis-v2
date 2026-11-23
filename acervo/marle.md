@@ -55,3 +55,7 @@ O que aconteceu com Marle depois disso não é mostrado de forma definitiva. *Ch
 ![Imagem de Marle do acervo original — 1](https://thumbs2.imgbox.com/12/2d/fzFCc474_t.jpg)
 
 ![Imagem de Marle do acervo original — 2](https://thumbs2.imgbox.com/4e/15/76052egw_t.jpg)
+
+## Veja o elenco completo
+
+Conheça os outros integrantes do grupo e os personagens importantes da história no [guia de personagens de Chrono Trigger]({{ '/artigos/personagens-chrono-trigger-elenco/' | relative_url }}).

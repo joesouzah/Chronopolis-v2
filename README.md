@@ -10,7 +10,7 @@ Este repositório é novo e separado do [projeto original (2022)](https://github
 - Permitir novas publicações sem editar HTML manualmente.
 - Preparar publicação gratuita via GitHub Pages e edição via Pages CMS.
 
-**Estado (22/11/2026)**: integração editorial v0.14. São 20 matérias revisadas do acervo original, **24 matérias novas** com pesquisa complementar e **uma matéria antiga ampliada** sobre a versão beta. A redação continua concentrada no conteúdo de Chrono Trigger, com as referências externas preservadas separadamente. A leitura foi padronizada para privilegiar os assuntos; a documentação de procedência foi mantida separada dos textos de artigos. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
+**Estado (22/11/2026)**: integração editorial v0.15. São 20 matérias revisadas do acervo original, **26 matérias novas** com pesquisa complementar e **duas matérias antigas ampliadas** (Beta e O.V.A.). A redação continua concentrada no conteúdo de Chrono Trigger, com as referências externas preservadas separadamente. A leitura foi padronizada para privilegiar os assuntos; a documentação de procedência foi mantida separada dos textos de artigos. As 25 páginas históricas continuam em `legado/`; 20 matérias foram convertidas para páginas estáticas individuais em `acervo/`. A busca textual também abrange esses 20 documentos. Imagens, vídeos e downloads antigos ainda dependem de terceiros; veja [Estado do acervo](https://joesouzah.github.io/Chronopolis-v2/estado-do-acervo/).
 
 ## Publicação no GitHub Pages
 
@@ -122,3 +122,13 @@ Os textos são redação própria e seguem a política editorial v0.10. A origem
 - [Chrono Trigger em análise](https://joesouzah.github.io/Chronopolis-v2/artigos/chrono-trigger-reviews-analise/): análise editorial própria e registro documental de uma avaliação de Odin (nota 4,8; 07/07/2002), sem inventar a escala nem o conteúdo da avaliação cujo texto integral não foi recuperado.
 
 O arquivo de Músicas apresenta links históricos para dois pacotes **externos** MIDI e SPC, mas a cópia offline não contém essas coleções nem um link efetivo para MP3. Não há distribuição pública de áudios ou arquivos baixáveis de terceiros. Os créditos autorais e a procedência permanecem nos metadados Markdown e no inventário técnico, sem menções repetitivas no corpo dos artigos. A seção de créditos definitiva continua para etapa posterior.
+
+## Rodada v0.15 — Personagens, O.V.A. e códigos do SNES (22/11/2026)
+
+- [Personagens de Chrono Trigger](https://joesouzah.github.io/Chronopolis-v2/artigos/personagens-chrono-trigger-elenco/) — índice dos sete integrantes jogáveis, com links para as biografias individuais antigas e apresentação concisa dos antagonistas e coadjuvantes;
+- [O.V.A. de Chrono Trigger](https://joesouzah.github.io/Chronopolis-v2/acervo/ova/) — matéria existente ampliada com o curta promocional de 1996, Production I.G, Nu, Mamo, Gonzalez e Johnny, sem criar página duplicada nem hospedar a animação;
+- [Game Genie e Pro Action Replay](https://joesouzah.github.io/Chronopolis-v2/artigos/game-shark-chrono-trigger-codigos/) — explicação do formato de memória dos códigos, exemplos selecionados e guia ZSNES com precauções para salvamentos.
+
+**Auditoria direta:** `personagens.htm`, `ova.htm` e `game-shark.htm` foram reabertos no `Chrono SAFE.rar` e validados por tamanho e CRC32. A designação de Mamo como Kilwala na fonte antiga diverge das referências modernas que o identificam como Poyozo Doll; a matéria pública evita repetir essa classificação antiga. A etiqueta Game Shark agrupa códigos cujo formato é essencialmente Pro Action Replay, não códigos Game Genie.
+
+A origem e os autores seguem identificados nos metadados e no inventário técnico, aguardando seção definitiva de créditos. As 25 páginas HTML do Chronopolis original continuam intactas e os textos e mídias integrais de terceiros não foram publicados.

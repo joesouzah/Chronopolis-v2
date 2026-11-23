@@ -51,3 +51,7 @@ São momentos que ajudam a conectar os dois jogos e deixam ainda mais interessan
 ![Imagem de Lucca do acervo original — 1](https://thumbs2.imgbox.com/04/28/1im5ARHy_t.jpg)
 
 ![Imagem de Lucca do acervo original — 2](https://thumbs2.imgbox.com/71/05/FfNT3FPN_t.jpg)
+
+## Veja o elenco completo
+
+Conheça os outros integrantes do grupo e os personagens importantes da história no [guia de personagens de Chrono Trigger]({{ '/artigos/personagens-chrono-trigger-elenco/' | relative_url }}).

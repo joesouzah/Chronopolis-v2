@@ -49,3 +49,7 @@ Em *Chrono Cross*, Ayla não aparece diretamente. No entanto, uma jovem de uma �
 ![Imagem de Ayla do acervo Chronopolis — 2](https://thumbs2.imgbox.com/4f/c4/HuyL8Ftn_t.jpg)
 
 *Referência para a ficha:* [técnicas e habilidades dos personagens — StrategyWiki](https://strategywiki.org/wiki/Chrono_Trigger/Techniques).
+
+## Veja o elenco completo
+
+Conheça os outros integrantes do grupo e os personagens importantes da história no [guia de personagens de Chrono Trigger]({{ '/artigos/personagens-chrono-trigger-elenco/' | relative_url }}).

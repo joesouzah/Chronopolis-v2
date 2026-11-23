@@ -49,6 +49,10 @@ Ao encontrar **Spekkio**, no Fim dos Tempos, converse com ele e siga seu desafio
 
 Nem todo confronto exige a formação de maior ataque. Cura, proteção, golpes elementais e técnicas de área podem tornar uma batalha muito mais fácil. Veja nosso [guia de equipamentos]({{ '/artigos/equipamentos-guia-historico-chrono-trigger/' | relative_url }}).
 
+## Escolha os personagens
+
+Para decidir quem levar ao próximo desafio, conheça as características do grupo no [guia de personagens]({{ '/artigos/personagens-chrono-trigger-elenco/' | relative_url }}).
+
 ## E quando eu ficar perdido?
 
 Comece pelo [roteiro de exploração]({{ '/artigos/roteiro-de-exploracao-chrono-trigger/' | relative_url }}) e procure apenas a informação necessária. Para encontrar atividades fora da história principal, consulte [missões opcionais e segredos]({{ '/artigos/chrono-trigger-missoes-opcionais-segredos/' | relative_url }}).

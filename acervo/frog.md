@@ -55,3 +55,7 @@ Essa escolha tem consequências para Frog. Dependendo do desenrolar dos aconteci
 ![Ilustração de Frog do acervo original — 1](https://thumbs2.imgbox.com/67/de/RpFJI9AP_t.jpg)
 
 ![Ilustração de Frog do acervo original — 2](https://thumbs2.imgbox.com/f2/13/lrGYrxQz_t.jpg)
+
+## Veja o elenco completo
+
+Conheça os outros integrantes do grupo e os personagens importantes da história no [guia de personagens de Chrono Trigger]({{ '/artigos/personagens-chrono-trigger-elenco/' | relative_url }}).

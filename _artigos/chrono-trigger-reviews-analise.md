@@ -38,6 +38,8 @@ Quem prefere uma indicação constante do próximo objetivo talvez sinta falta d
 
 ## Música, personagens e vontade de voltar
 
+Cada integrante traz um estilo e uma história. Conheça os sete protagonistas e seus aliados na nossa [página de personagens]({{ '/artigos/personagens-chrono-trigger-elenco/' | relative_url }}).
+
 A trilha sonora reforça a personalidade de cada época e o clima dos acontecimentos. Os personagens também oferecem estilos distintos de combate, de modo que trocar a formação muda a experiência.
 
 Outro elemento importante é o **New Game+**, que permite procurar desfechos diferentes ao retornar à aventura com parte do progresso anterior. Para quem gosta de completar desafios, isso amplia as possibilidades depois dos créditos.

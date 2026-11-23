@@ -61,3 +61,7 @@ O destino do casal depois desses acontecimentos não é explicado de maneira def
 ![Imagem de Crono do acervo original — 1](https://thumbs2.imgbox.com/3d/54/A0hKcpB7_t.jpg)
 
 ![Imagem de Crono do acervo original — 2](https://thumbs2.imgbox.com/c9/4b/gVOrLWtW_t.jpg)
+
+## Veja o elenco completo
+
+Conheça os outros integrantes do grupo e os personagens importantes da história no [guia de personagens de Chrono Trigger]({{ '/artigos/personagens-chrono-trigger-elenco/' | relative_url }}).

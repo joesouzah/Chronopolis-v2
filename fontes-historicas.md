@@ -41,6 +41,9 @@ Cada publicação é escrita para ser útil ao leitor. Dados antigos são tratad
 | Trilha sonora | [Músicas, MIDI e SPC]({{ '/artigos/chrono-trigger-musicas-formatos/' | relative_url }}) |
 | Primeiros comandos | [Controles e menu do Super Nintendo]({{ '/artigos/chrono-trigger-controles-informacoes-gerais/' | relative_url }}) |
 | Análise editorial | [Chrono Trigger em análise]({{ '/artigos/chrono-trigger-reviews-analise/' | relative_url }}) |
+| Elenco | [Personagens, aliados e antagonistas]({{ '/artigos/personagens-chrono-trigger-elenco/' | relative_url }}) |
+| Animação | [O.V.A. de Chrono Trigger]({{ '/acervo/ova/' | relative_url }}) |
+| Códigos do SNES | [Game Genie e Pro Action Replay]({{ '/artigos/game-shark-chrono-trigger-codigos/' | relative_url }}) |
 
 ## Como tratamos material de pesquisa
 

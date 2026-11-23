@@ -53,3 +53,7 @@ Outro detalhe está ligado a Lucca: entre as lembranças do universo da série, 
 ![Imagem de Robo do acervo original — 1](https://thumbs2.imgbox.com/13/a9/GO0Pj8BI_t.jpg)
 
 ![Imagem de Robo do acervo original — 2](https://thumbs2.imgbox.com/c2/e0/c1x6FvMX_t.jpg)
+
+## Veja o elenco completo
+
+Conheça os outros integrantes do grupo e os personagens importantes da história no [guia de personagens de Chrono Trigger]({{ '/artigos/personagens-chrono-trigger-elenco/' | relative_url }}).

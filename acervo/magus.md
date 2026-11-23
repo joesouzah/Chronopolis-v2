@@ -63,3 +63,7 @@ Essa revelação muda bastante a maneira como enxergamos o personagem. E é just
 ![Ilustração de Magus — 2](https://thumbs2.imgbox.com/62/39/cL5eILZN_t.jpg)
 
 *Referência para o elemento mágico:* [manual de Final Fantasy Chronicles, edição de PlayStation](https://strategywiki.org/wiki/Chrono_Trigger/Techniques).
+
+## Veja o elenco completo
+
+Conheça os outros integrantes do grupo e os personagens importantes da história no [guia de personagens de Chrono Trigger]({{ '/artigos/personagens-chrono-trigger-elenco/' | relative_url }}).
