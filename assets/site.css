@@ -82,26 +82,25 @@
  .sprite-reference--bosses table th:nth-child(4),.sprite-reference--bosses table td:nth-child(4){min-width:150px}
 }
 
-
-/* v0.23 — Bestiário realmente compacto: larguras fixas e rolagem apenas quando necessária.
-   A antiga largura de 30% da localização era a principal causa do excesso de espaço.
-   A área das fichas ilustradas fica mais larga sem afetar matérias comuns. */
+/* v0.24 — A largura da tabela acompanha o painel; não deixar espaço vazio à direita.
+   Valores compactos (Sprite, HP, TP, EXP, G); texto usa toda a largura restante.
+   Apenas em telas mais estreitas que a tabela mínima há rolagem horizontal. */
 .read-shell--sprite-reference{max-width:1100px;padding-left:18px;padding-right:18px}
 .read-shell--sprite-reference .article-panel{padding:clamp(12px,2.2vw,24px)}
 .sprite-reference .sprite-table-scroll{width:100%;max-width:100%;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin;scrollbar-color:#536b93 transparent}
 .sprite-reference .sprite-table-scroll table{display:table;width:max-content;max-width:none;margin:8px 0 16px;overflow:visible;border-collapse:collapse}
-.sprite-reference--bestiary .sprite-table-scroll table{table-layout:fixed;width:764px;min-width:764px;max-width:764px}
+.sprite-reference--bestiary .sprite-table-scroll table{table-layout:fixed;width:100%;min-width:764px;max-width:none}
 .sprite-reference--bestiary .sprite-table-scroll table th,.sprite-reference--bestiary .sprite-table-scroll table td{box-sizing:border-box;min-width:0;max-width:none;padding:6px 6px;font-size:.79rem;line-height:1.35;vertical-align:middle}
 .sprite-reference--bestiary .sprite-table-scroll table th{white-space:nowrap}
 .sprite-reference--bestiary .sprite-table-scroll table th:nth-child(1),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(1){width:54px;min-width:54px;max-width:54px;padding:3px;text-align:center}
-.sprite-reference--bestiary .sprite-table-scroll table th:nth-child(2),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(2){width:124px;min-width:124px;max-width:124px;font-weight:650}
+.sprite-reference--bestiary .sprite-table-scroll table th:nth-child(2),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(2){width:auto;min-width:0;max-width:none;font-weight:650}
 .sprite-reference--bestiary .sprite-table-scroll table th:nth-child(3),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(3){width:50px;min-width:50px;max-width:50px}
 .sprite-reference--bestiary .sprite-table-scroll table th:nth-child(4),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(4){width:34px;min-width:34px;max-width:34px;padding-left:3px;padding-right:3px}
 .sprite-reference--bestiary .sprite-table-scroll table th:nth-child(5),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(5){width:52px;min-width:52px;max-width:52px}
 .sprite-reference--bestiary .sprite-table-scroll table th:nth-child(6),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(6){width:52px;min-width:52px;max-width:52px}
-.sprite-reference--bestiary .sprite-table-scroll table th:nth-child(7),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(7){width:92px;min-width:92px;max-width:92px}
-.sprite-reference--bestiary .sprite-table-scroll table th:nth-child(8),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(8){width:110px;min-width:110px;max-width:110px}
-.sprite-reference--bestiary .sprite-table-scroll table th:nth-child(9),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(9){width:196px;min-width:196px;max-width:196px;white-space:normal;overflow-wrap:normal;word-break:normal}
+.sprite-reference--bestiary .sprite-table-scroll table th:nth-child(7),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(7),
+.sprite-reference--bestiary .sprite-table-scroll table th:nth-child(8),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(8){width:auto;min-width:0;max-width:none}
+.sprite-reference--bestiary .sprite-table-scroll table th:nth-child(9),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(9){width:auto;min-width:0;max-width:none;white-space:normal;overflow-wrap:normal;word-break:normal}
 .sprite-reference--bestiary .sprite-table-scroll table th:nth-child(n+3):nth-child(-n+6),.sprite-reference--bestiary .sprite-table-scroll table td:nth-child(n+3):nth-child(-n+6){text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
 .sprite-reference--bestiary .sprite-portrait{width:44px;height:44px}
 .sprite-reference--bestiary .sprite-pixel{max-width:40px;max-height:40px}
