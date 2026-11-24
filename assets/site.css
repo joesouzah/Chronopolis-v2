@@ -355,3 +355,8 @@
  .article-exit-links{align-items:center}
 }
 @media(prefers-reduced-motion:reduce){.nav a{transition:none}}
+
+
+/* v0.44 — Transparência quando uma capa ainda depende de hospedagem externa. */
+.cover--media-fallback:before{content:attr(data-media-status);position:absolute;z-index:3;right:11px;bottom:11px;max-width:calc(100% - 22px);padding:4px 7px;border:1px solid rgba(255,255,255,.16);border-radius:6px;background:rgba(8,13,29,.88);color:#b8c7df;font-size:.62rem;line-height:1.25;letter-spacing:.02em}
+@media(max-width:560px){.cover--media-fallback:before{right:8px;bottom:8px;font-size:.58rem}}
