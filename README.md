@@ -4,6 +4,8 @@ Reconstrução do **Chronopolis**, um arquivo independente de fã dedicado a Chr
 
 Este repositório é novo e separado do [projeto original (2022)](https://github.com/joesouzah/Chronopolis). O original não foi alterado.
 
+**Situação atual — 24/11/2026 (v0.42):** a navegação e o visualizador de imagens foram refinados nas versões 0.40–0.41. A auditoria v0.42 verificou 52 caminhos locais e a correspondência de 522 links de miniatura/ampliação do roteiro visual, além da existência de 15 arquivos de mídia amostrados. Foi adicionada uma página `404.html` para ajudar na recuperação de endereços inexistentes. Isso **não é uma auditoria integral** dos links externos, das mídias ou da implantação pública. [Leia os resultados e limites](AUDITORIA-V042.md).
+
 ## Objetivos
 - Preservar as páginas e os textos históricos do site original.
 - Melhorar a experiência de leitura, navegação, pesquisa e uso no celular.
