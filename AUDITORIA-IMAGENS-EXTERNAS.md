@@ -94,3 +94,14 @@ O usuário informou que as imagens ausentes estão no seu Google Drive. Após re
 **Próxima ação condicionada a evidência:** cotejar imagens visualmente ou por hash somente quando houver um exemplar original recuperável ou associação de fonte específica. Os links antigos continuam preservados no código. Não houve exclusão, mudança de pastas ou compartilhamento no Drive.
 
 **QA de navegação e interface:** os 54 arquivos Markdown em `acervo/` e `_artigos/` foram relidos em cinco lotes, buscando referências internas renderizadas pelo filtro `relative_url`; nenhum destino ausente foi identificado entre essas referências. Links externos, recursos de terceiros e comportamento no navegador da publicação não foram validados por esse teste.
+
+
+## v0.44 — Dependências externas e fallback de interface (24/11/2026)
+
+A situação das **90 URLs distintas do Imgbox ainda pendentes** foi reavaliada sem remover referências. O domínio principal `imgbox.com` continua acessível e a ajuda pública do serviço recomenda manter backups e usar os códigos de hotlink apropriados, alertando que outros endereços podem mudar. Como o Chronopolis preserva URLs históricas em `thumbs2.imgbox.com`, elas continuam classificadas como dependências frágeis.
+
+Cinco miniaturas foram tentadas diretamente pelo ambiente de pesquisa desta revisão, mas o host de imagens não ficou acessível por essa ferramenta. Isso é **inconclusivo**: nenhuma das 90 URLs foi marcada como quebrada só por essa limitação.
+
+Foi criado `scripts/auditar-externos.cjs`. Em modo normal ele apenas inventaria as referências. Com `--check`, pode tentar verificações HTTP com concorrência e timeout limitados, separando 404/410 de 403/429, timeout e erro de rede. O script não remove nem substitui arquivos e não foi agendado.
+
+A interface também passou a indicar **“Imagem externa indisponível”** quando uma capa externa da homepage ou catálogo falha, mantendo o cartão e o acesso ao conteúdo. Detalhes: [AUDITORIA-V044.md](AUDITORIA-V044.md).
