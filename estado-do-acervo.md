@@ -96,6 +96,14 @@ Esse resultado comprova **integridade estrutural dos caminhos locais**, não uma
 
 Também foi incluído o utilitário local `scripts/auditar-midias.cjs`, sem dependências externas e **sem execução automática**, para repetir a conferência depois de futuras alterações.
 
+## Recuperação de backups — 24/11/2026 (v0.45)
+
+Uma pasta de backup associada à publicação **Beta** continha exatamente três PNGs de gameplay, enquanto as cópias históricas de `beta.html` preservam exatamente três PNGs externos consecutivos no bloco visual da matéria. Os três arquivos foram adicionados a `assets/media/drive-beta/` e passaram a aparecer em [A versão beta jogável]({{ '/acervo/beta/' | relative_url }}).
+
+A evidência é suficiente para tratar o trio como **conjunto recuperado da postagem**, mas não para afirmar qual arquivo local corresponde individualmente a cada uma das três URLs do Imgbox. Por isso, os links históricos continuam intactos e a incerteza é explicada na própria matéria.
+
+Com essa inclusão, o Chronopolis passa de **1.137 para 1.140 mídias visuais locais**. Os três novos arquivos estão referenciados pela página Beta e nenhum ficou órfão. As **90 URLs distintas do Imgbox** continuam no inventário pendente, pois nenhuma relação 1→1 foi declarada sem prova. [Detalhes da v0.45](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V045.md).
+
 ## Dependências externas — 24/11/2026 (v0.44)
 
 O Imgbox continua operando, mas sua própria documentação recomenda manter backups e observa que endereços diferentes dos códigos apropriados de hotlink podem mudar. O Chronopolis ainda possui **90 URLs distintas** em `thumbs2.imgbox.com` herdadas do acervo original. Elas permanecem preservadas até que haja evidência suficiente para recuperar ou substituir cada arquivo exato.
