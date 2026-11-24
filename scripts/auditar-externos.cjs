@@ -8,7 +8,7 @@ const root = path.resolve(__dirname, '..');
 const checkNetwork = process.argv.includes('--check');
 const concurrency = 4;
 const timeoutMs = 10000;
-const sourceDirs = ['acervo'];
+const sourceDirs = ['acervo', '_artigos'];
 const sourceFiles = ['index.html', 'assets/catalog.js'];
 
 function walk(dir) {
