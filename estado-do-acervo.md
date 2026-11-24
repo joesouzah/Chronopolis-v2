@@ -86,6 +86,16 @@ Foram verificados **706 elementos de imagem** em **nove páginas** de galerias, 
 
 A verificação identificou um problema no tratamento de falhas: se uma imagem estava dentro de um link clicável, o aviso de erro criava outro link no seu interior. A v0.37 corrige esse comportamento, mantendo a miniatura ou galeria clicável para tentar abrir o arquivo original, sem links aninhados. Quando a imagem não está dentro de um link, o aviso continua oferecendo o endereço original.
 
+## Integridade das mídias locais — 24/11/2026 (v0.43)
+
+Uma nova auditoria cruzou a **árvore completa da branch `main`** com as referências visuais das páginas publicadas. O repositório contém **1.137 arquivos visuais locais** em `assets/`, e **todos os 1.137 aparecem referenciados** por fontes publicadas do Chronopolis. Não foi encontrada referência local apontando para arquivo ausente nem mídia visual local sem uso publicado.
+
+A conferência inclui os **522 arquivos do roteiro visual**, **157 artworks e imagens históricas**, **214 sprites**, **116 imagens de Techs**, **56 imagens de Tabs**, **56 imagens históricas gerais**, **7 wallpapers recuperados**, **5 imagens de side quests**, **3 imagens recuperadas do metaverso** e o favicon.
+
+Esse resultado comprova **integridade estrutural dos caminhos locais**, não uma validação visual ou histórica de cada arquivo. Links externos continuam separados dessa contagem. A auditoria detalhada e o método estão em [AUDITORIA-V043.md](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V043.md).
+
+Também foi incluído o utilitário local `scripts/auditar-midias.cjs`, sem dependências externas e **sem execução automática**, para repetir a conferência depois de futuras alterações.
+
 ## Materiais que ainda dependem de terceiros
 
 Inventário técnico feito em **22/11/2026**, sobre as 20 transcrições Markdown:
