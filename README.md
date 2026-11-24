@@ -4,7 +4,7 @@ Reconstrução do **Chronopolis**, um arquivo independente de fã dedicado a Chr
 
 Este repositório é novo e separado do [projeto original (2022)](https://github.com/joesouzah/Chronopolis). O original não foi alterado.
 
-**Situação atual — 24/11/2026 (v0.46):** oito artes `ctart_chronicles01–08.jpg` foram recuperadas do acervo do Google Drive e preservadas em `assets/media/drive-ps1/`. Elas aparecem separadamente em `acervo/imagensps1.md`, sem substituir as quatro miniaturas históricas do Imgbox. O acervo passa a ter **1.148 mídias visuais locais**. Também foram inventariados conjuntos estruturados de revistas e uma pasta `Snes Arts` com 24 artworks, ainda sem republicação automática. [Leia a auditoria v0.46](AUDITORIA-V046.md).
+**Situação atual — 24/11/2026 (v0.47):** 24 artes da coleção `Snes Arts` foram recuperadas do Google Drive e apresentadas em três grupos na página `acervo/snes.md`, sem substituir as quatro miniaturas externas históricas. O acervo passa a ter **1.172 mídias visuais locais**. [Leia a auditoria v0.47](AUDITORIA-V047.md).
 
 ## Objetivos
 - Preservar as páginas e os textos históricos do site original.

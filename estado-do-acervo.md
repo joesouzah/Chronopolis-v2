@@ -5,6 +5,12 @@ category: "Sobre"
 summary: "Transparência sobre o que foi preservado, o que depende de terceiros e as próximas verificações."
 permalink: /estado-do-acervo/
 ---
+## Recuperação da coleção SNES — 24/11/2026 (v0.47)
+
+A v0.47 recupera 24 JPEGs da pasta histórica `Snes Arts` do Google Drive (`ctart_characters08.jpg` a `ctart_characters31.jpg`), sem alterar os arquivos de origem. O conjunto é exibido em três grupos de oito imagens na [galeria SNES]({{ '/acervo/snes/' | relative_url }}), com carregamento sob demanda e ampliação individual. Os quatro links Imgbox antigos permanecem intactos; nenhuma equivalência individual ou edição de origem foi comprovada. O total de mídias visuais locais passa de **1.148 para 1.172**; permanecem **90 URLs externas distintas** no inventário.
+
+[Detalhes da v0.47](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V047.md).
+
 ## O que está preservado no próprio projeto
 
 O Chronopolis foi reconstruído em um repositório separado do projeto original de 2022.

@@ -129,3 +129,10 @@ Também foram identificados backups organizados de revistas por edição e uma p
 O total local sobe para **1.148 mídias visuais**. A contagem externa permanece em **90 URLs distintas do Imgbox**, pois nenhuma referência foi removida ou declarada resolvida sem prova 1→1.
 
 Detalhes: [AUDITORIA-V046.md](AUDITORIA-V046.md).
+
+
+## v0.47 — Coleção SNES (24/11/2026)
+
+A v0.47 recupera 24 JPEGs da pasta histórica `Snes Arts` do Google Drive (`ctart_characters08.jpg` a `ctart_characters31.jpg`), sem alterar os arquivos de origem. O conjunto é exibido em três grupos de oito imagens na galeria `acervo/snes.md`, com carregamento sob demanda e ampliação individual. Os quatro links Imgbox antigos permanecem intactos; nenhuma equivalência individual ou edição de origem foi comprovada. O total de mídias visuais locais passa de **1.148 para 1.172**; permanecem **90 URLs externas distintas** no inventário.
+
+Detalhes: [AUDITORIA-V047.md](AUDITORIA-V047.md).
