@@ -26,6 +26,10 @@ Além do começo de uma nova partida, a versão preliminar traz três saves de d
 
 O material está em japonês, mas, para quem gosta de conhecer os bastidores de um jogo, essas diferenças são um prato cheio.
 
+### A diferença entre alfa e beta
+
+As primeiras apresentações públicas e imagens de revistas são registros de desenvolvimento, não necessariamente da mesma compilação jogável. A compilação de 17/11/1994 é catalogada pelo [Hidden Palace](https://hiddenpalace.org/Chrono_Trigger_(Nov_17,_1994_prototype)). O [estudo das revistas de 1994]({{ '/acervo/revistas/' | relative_url }}) reúne evidências anteriores e contemporâneas à beta, com distinção entre fatos e hipóteses.
+
 ### O que a demonstração permitia explorar
 
 A versão preliminar, conhecida também como *Kurono Toriga ~ Pre-Release*, permite observar **quatro situações jogáveis**: o início de uma partida e três slots que começam em pontos diferentes da aventura.

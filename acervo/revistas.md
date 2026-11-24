@@ -25,7 +25,7 @@ Durante o desenvolvimento, *Chrono Trigger* apareceu em várias revistas japones
 
 ![Imagem de revista com uma versão preliminar de personagens](https://thumbs2.imgbox.com/08/4b/PDCRvClD_t.jpg)
 
-Uma das imagens sugere que os personagens poderiam ter uma relação diferente com os elementos. É o tipo de detalhe que mostra como as ideias ainda estavam mudando.
+Os registros impressos trazem pistas de um sistema de atributos diferente. A análise documental abaixo detalha o que é confirmado e o que ainda é hipótese.
 
 ### Uma vila bem diferente
 
@@ -44,6 +44,43 @@ Confira mais algumas imagens do acervo:
 ![Imagem adicional de revista japonesa sobre Chrono Trigger — 1](https://thumbs2.imgbox.com/d1/bc/vib1b2Qx_t.jpg)
 
 ![Imagem adicional de revista japonesa sobre Chrono Trigger — 2](https://thumbs2.imgbox.com/7d/7c/VT9IsNVa_t.jpg)
+
+### O sistema de elementos que apareceu em 1994
+
+A edição de **9 de setembro de 1994 da Famimaga, página 16**, exibe um menu preliminar de status de Crono. Ao lado do retrato aparece o ideograma 天 (céu), acompanhado por quatro símbolos coloridos, cada um com o número 5. A própria revista, na seção sobre atributos, apresenta duas possibilidades: os números poderiam ser valores de capacidade ou quantidades possuídas. O significado não estava esclarecido.
+
+É uma pista concreta de que o sistema de atributos era diferente. Entretanto, **não é prova de que todos os personagens aprenderiam magias de vários elementos**, nem de que os números representassem resistência ou pontos de magia.
+
+Na edição de **18 de novembro de 1994, página 22**, a revista associa individualmente seis personagens aos seguintes atributos:
+
+| Personagem | Atributo apresentado em 1994 | No jogo final |
+| --- | --- | --- |
+| Crono | 天 — céu | Relâmpago / luz |
+| Marle | 水 — água | Água / gelo |
+| Frog | 水 — água | Água |
+| Lucca | 火 — fogo | Fogo |
+| Ayla | 火 — fogo | Não aprende magia |
+| Robo | 冥 — sombra | Não aprende magia; possui técnicas que causam dano de sombra |
+
+O caso de Ayla é particularmente interessante: ela foi apresentada com o mesmo atributo de Lucca. No jogo final, porém, Spekkio não lhe ensina magia. A associação de Robo à sombra também não implica que tenha aprendido feitiços durante o desenvolvimento. [Referência ao jogo final: Spekkio](https://strategywiki.org/wiki/Chrono_Trigger/Spekkio).
+
+### Cenários, menus e combate: registros de três edições
+
+| Edição Famimaga | Páginas examinadas | Evidências visuais |
+| --- | --- | --- |
+| 26/08/1994 | 9–13 | Cenários, comandos de combate em caixas individuais, personagens e indicação de cartucho de 24 Mbit |
+| 09/09/1994 | 14–17 | Tela preliminar de status, quatro símbolos numerados, cenários e ilustrações de monstros |
+| 18/11/1994 | 14–25 | Feira e teletransporte, mapa-múndi, Catedral e Floresta de Guardia, combates, atributos e animações de inimigos |
+
+Na página 11 de agosto e na página 15 de setembro, as capturas apresentam construções e caminhos em ambientes com nuvens. São candidatos úteis para estudar os primeiros cenários. Ainda não foi possível confirmar se algum deles é exatamente a vila mencionada na matéria original, nem identificar a imagem antiga do Imgbox.
+
+A indicação de 24 Mbit nas primeiras reportagens é consistente com o relato dos desenvolvedores de que o projeto cresceu para 32 Mbit. Em [entrevistas de 1994 e 1995](https://shmuplations.com/chronotrigger/), a equipe também descreveu um sistema de eventos mais interativo (ATL) e uma regra experimental em que certos inimigos exigiam armas específicas, posteriormente descartada.
+
+### Alfa, beta e jogo final
+
+As imagens promocionais de 1994 e 1995 registram diferentes momentos de desenvolvimento. Não devem ser tratadas automaticamente como capturas do cartucho beta com três saves. A [ficha do protótipo no Hidden Palace](https://hiddenpalace.org/Chrono_Trigger_(Nov_17,_1994_prototype)) registra a compilação de 17/11/1994; a data do material impresso não identifica por si só a compilação fotografada. Veja [a versão beta jogável]({{ '/acervo/beta/' | relative_url }}).
+
+Os 21 scans examinados continuam no acervo de pesquisa; as referências a edição e página permitem localizar as evidências sem republicar os documentos integrais.
 
 ### Catálogo de revistas preservadas
 

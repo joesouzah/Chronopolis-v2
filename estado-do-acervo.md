@@ -5,6 +5,10 @@ category: "Sobre"
 summary: "Transparência sobre o que foi preservado, o que depende de terceiros e as próximas verificações."
 permalink: /estado-do-acervo/
 ---
+## Pesquisa das versões preliminares — 24/11/2026 (v0.49)
+
+Foram examinados 21 scans de três edições Famimaga de 1994. Na [página de revistas]({{ '/acervo/revistas/' | relative_url }}) estão documentados o menu de atributos (09/09, p.16), as associações elementais de seis personagens (18/11, p.22), cenários e interface preliminar. A [matéria Beta]({{ '/acervo/beta/' | relative_url }}) distingue a compilação jogável das apresentações de desenvolvimento. Nenhum scan foi republicado e as referências externas seguem intactas. [Auditoria v0.49](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V049.md).
+
 ## Catálogo de revistas — 24/11/2026 (v0.48)
 
 A [página de revistas]({{ '/acervo/revistas/' | relative_url }}) agora apresenta 16 conjuntos documentais identificados por edição, com 126 imagens e 16 PDFs. Há 25 imagens avulsas e um PDF de Ultimania separados. Cinco imagens avulsas foram conferidas visualmente; as cinco imagens históricas e a capa ainda não têm correspondência comprovada. O total de mídias locais permanece em 1.172 e as 90 URLs distintas do Imgbox continuam no inventário. Nenhum scan novo foi publicado. [Auditoria v0.48](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V048.md).
