@@ -15,7 +15,7 @@ const search=document.getElementById('site-search');
 const menu=document.getElementById('menu');
 let requestId=0;
 function routeFor(item){return item.kind==='modern'?item.url:'./acervo/'+encodeURIComponent(item.id)+'/'}
-function cover(item){const img=item.image?`<img loading="lazy" src="${escapeHTML(item.image)}" alt="" onerror="this.remove()">`:'';return `<div class="cover"><span class="cover-icon" aria-hidden="true">⌛</span>${img}<span class="cover-label">${escapeHTML(item.reference_sheet ? "Ficha técnica" : item.category)}</span></div>`}
+function cover(item){const img=item.image?`<img loading="lazy" src="${escapeHTML(item.image)}" alt="" onerror="this.parentElement.classList.add('cover--media-fallback');this.parentElement.dataset.mediaStatus='Imagem externa indisponível';this.remove()">`:'';return `<div class="cover"><span class="cover-icon" aria-hidden="true">⌛</span>${img}<span class="cover-label">${escapeHTML(item.reference_sheet ? "Ficha técnica" : item.category)}</span></div>`}
 function searchableText(item){return String(item.kind==='modern'?(item.search||''):(historicalText[item.id]||''))}
 function searchTerms(){return [...new Set(norm(query).trim().split(/\s+/).filter(Boolean))].slice(0,8)}
 function searchable(item){return norm(item.title+' '+item.summary+' '+item.category+' '+searchableText(item))}
