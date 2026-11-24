@@ -96,6 +96,14 @@ Esse resultado comprova **integridade estrutural dos caminhos locais**, não uma
 
 Também foi incluído o utilitário local `scripts/auditar-midias.cjs`, sem dependências externas e **sem execução automática**, para repetir a conferência depois de futuras alterações.
 
+## Dependências externas — 24/11/2026 (v0.44)
+
+O Imgbox continua operando, mas sua própria documentação recomenda manter backups e observa que endereços diferentes dos códigos apropriados de hotlink podem mudar. O Chronopolis ainda possui **90 URLs distintas** em `thumbs2.imgbox.com` herdadas do acervo original. Elas permanecem preservadas até que haja evidência suficiente para recuperar ou substituir cada arquivo exato.
+
+A v0.44 adicionou um auditor local, `scripts/auditar-externos.cjs`, que inventaria essas referências e pode tentar verificá-las por HTTP quando executado com `--check`. Nenhuma verificação é agendada e nenhum link é removido automaticamente.
+
+Quando uma capa externa falha na homepage ou no catálogo, o cartão agora mostra discretamente **“Imagem externa indisponível”** em vez de simplesmente perder a imagem sem explicação. [Detalhes técnicos da v0.44](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V044.md).
+
 ## Materiais que ainda dependem de terceiros
 
 Inventário técnico feito em **22/11/2026**, sobre as 20 transcrições Markdown:
