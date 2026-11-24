@@ -45,6 +45,40 @@ Confira mais algumas imagens do acervo:
 
 ![Imagem adicional de revista japonesa sobre Chrono Trigger — 2](https://thumbs2.imgbox.com/7d/7c/VT9IsNVa_t.jpg)
 
+### Catálogo de revistas preservadas
+
+O acervo de pesquisa reúne 16 conjuntos identificados por revista e edição, com 126 arquivos de imagem e 16 PDFs. Há também 25 imagens avulsas e um exemplar digital de *Chrono Trigger Ultimania*, contabilizado separadamente. Os números descrevem arquivos guardados, não páginas únicas nem revistas integrais.
+
+| Revista | Edição indicada | Imagens | PDF |
+| --- | --- | ---: | ---: |
+| Dengeki oh | 1994-11 | 2 | 1 |
+| Famimaga | 1994-08-26 | 5 | 1 |
+| Famimaga | 1994-09-09 | 4 | 1 |
+| Famimaga | 1994-11-18 | 12 | 1 |
+| The Super Famicom | 1994-09-09 / 1994-09-16* | 5 | 1 |
+| V-Jump | 1994-09 | 12 | 1 |
+| V-Jump | 1994-10 | 6 | 1 |
+| V-Jump | 1994-11 | 10 | 1 |
+| V-Jump | 1994-12 | 4 | 1 |
+| V-Jump | 1995-01 | 15 | 1 |
+| V-Jump | 1995-02 | 17 | 1 |
+| V-Jump | 1995-03 | 10 | 1 |
+| V-Jump | 1995-04 | 12 | 1 |
+| V-Jump | 1995-05 | 6 | 1 |
+| V-Jump | 1995-07 | 3 | 1 |
+| V-Jump | 1995-08 | 3 | 1 |
+| **Total** | **16 conjuntos** | **126** | **16** |
+
+\* A pasta de The Super Famicom indica 09/09/1994, mas os cinco JPEGs trazem 16/09/1994 no nome. O [registro do Internet Archive](https://archive.org/details/the-super-famicom-september-16-1994) confirma a existência de uma edição de 16/09/1994. A identificação específica dos arquivos permanece provisória até a conferência das páginas.
+
+### Como interpretar esse material
+
+Os registros impressos de 1994 e do início de 1995 ajudam a estudar a fase de divulgação anterior ao lançamento japonês, ocorrido em 11 de março de 1995. Já os números posteriores ao lançamento precisam ser analisados individualmente: uma revista de 1995 não é necessariamente uma demonstração do protótipo. A [pesquisa Chronicles, da USC](https://scalar.usc.edu/works/chronicles/history-and-features-of-the-chrono-trigger-snes-release.8), distingue as apresentações preliminares em eventos V-Jump da versão beta distribuída a assinantes e avaliadores. Leia também [A versão beta jogável]({{ '/acervo/beta/' | relative_url }}).
+
+Entre as imagens avulsas examinadas, há capas da V-Jump de março e maio de 1995, mapas de quatro eras e uma ilustração de técnicas combinadas. Essas peças ainda não foram vinculadas às miniaturas históricas. O catálogo preserva a separação entre evidência visual, data atribuída à edição e hipótese de desenvolvimento.
+
+Os scans integrais permanecem no acervo de pesquisa. A identificação das cinco imagens históricas e da capa desta matéria segue em aberto.
+
 ### Pacote registrado no Chronopolis original
 
 O site antigo disponibilizava um pacote reunindo imagens em PDF e JPG.

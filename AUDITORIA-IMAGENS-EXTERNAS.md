@@ -136,3 +136,8 @@ Detalhes: [AUDITORIA-V046.md](AUDITORIA-V046.md).
 A v0.47 recupera 24 JPEGs da pasta histórica `Snes Arts` do Google Drive (`ctart_characters08.jpg` a `ctart_characters31.jpg`), sem alterar os arquivos de origem. O conjunto é exibido em três grupos de oito imagens na galeria `acervo/snes.md`, com carregamento sob demanda e ampliação individual. Os quatro links Imgbox antigos permanecem intactos; nenhuma equivalência individual ou edição de origem foi comprovada. O total de mídias visuais locais passa de **1.148 para 1.172**; permanecem **90 URLs externas distintas** no inventário.
 
 Detalhes: [AUDITORIA-V047.md](AUDITORIA-V047.md).
+
+
+## v0.48 — Revistas (24/11/2026)
+
+As cinco miniaturas do corpo e a capa da página `acervo/revistas.md` foram tentadas diretamente, sem acesso conclusivo. O catálogo privado tem 16 conjuntos de revistas (126 imagens e 16 PDFs), 25 imagens avulsas e um PDF de Ultimania. Cinco imagens avulsas foram examinadas, mas não houve associação individual com as URLs antigas. Nenhum endereço foi alterado e nenhuma mídia foi adicionada. Permanecem 1.172 mídias locais e 90 URLs Imgbox distintas pendentes. [Auditoria v0.48](AUDITORIA-V048.md).

@@ -5,6 +5,10 @@ category: "Sobre"
 summary: "Transparência sobre o que foi preservado, o que depende de terceiros e as próximas verificações."
 permalink: /estado-do-acervo/
 ---
+## Catálogo de revistas — 24/11/2026 (v0.48)
+
+A [página de revistas]({{ '/acervo/revistas/' | relative_url }}) agora apresenta 16 conjuntos documentais identificados por edição, com 126 imagens e 16 PDFs. Há 25 imagens avulsas e um PDF de Ultimania separados. Cinco imagens avulsas foram conferidas visualmente; as cinco imagens históricas e a capa ainda não têm correspondência comprovada. O total de mídias locais permanece em 1.172 e as 90 URLs distintas do Imgbox continuam no inventário. Nenhum scan novo foi publicado. [Auditoria v0.48](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V048.md).
+
 ## Recuperação da coleção SNES — 24/11/2026 (v0.47)
 
 A v0.47 recupera 24 JPEGs da pasta histórica `Snes Arts` do Google Drive (`ctart_characters08.jpg` a `ctart_characters31.jpg`), sem alterar os arquivos de origem. O conjunto é exibido em três grupos de oito imagens na [galeria SNES]({{ '/acervo/snes/' | relative_url }}), com carregamento sob demanda e ampliação individual. Os quatro links Imgbox antigos permanecem intactos; nenhuma equivalência individual ou edição de origem foi comprovada. O total de mídias visuais locais passa de **1.148 para 1.172**; permanecem **90 URLs externas distintas** no inventário.
