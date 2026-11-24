@@ -96,6 +96,16 @@ Esse resultado comprova **integridade estrutural dos caminhos locais**, não uma
 
 Também foi incluído o utilitário local `scripts/auditar-midias.cjs`, sem dependências externas e **sem execução automática**, para repetir a conferência depois de futuras alterações.
 
+## Artes e backups documentais — 24/11/2026 (v0.46)
+
+Foi recuperada uma sequência contínua de **oito artes `ctart_chronicles01–08.jpg`**, associada pelo nome e conteúdo à edição *Final Fantasy Chronicles*. Os arquivos foram adicionados a `assets/media/drive-ps1/` e exibidos em [Artes do PlayStation]({{ '/acervo/imagensps1/' | relative_url }}) como conjunto separado das quatro miniaturas antigas do Imgbox.
+
+Como não houve comparação direta com as quatro URLs externas, **nenhuma relação 1→1 foi afirmada**. Os links históricos continuam preservados.
+
+O inventário do Drive também revelou uma árvore organizada de revistas por edição e uma pasta `Snes Arts` com **24 JPEGs** de artworks. Esses materiais foram apenas documentados nesta versão, sem republicação automática.
+
+Com as oito novas imagens, o Chronopolis passa de **1.140 para 1.148 mídias visuais locais**. [Detalhes da v0.46](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V046.md).
+
 ## Recuperação de backups — 24/11/2026 (v0.45)
 
 Uma pasta de backup associada à publicação **Beta** continha exatamente três PNGs de gameplay, enquanto as cópias históricas de `beta.html` preservam exatamente três PNGs externos consecutivos no bloco visual da matéria. Os três arquivos foram adicionados a `assets/media/drive-beta/` e passaram a aparecer em [A versão beta jogável]({{ '/acervo/beta/' | relative_url }}).
