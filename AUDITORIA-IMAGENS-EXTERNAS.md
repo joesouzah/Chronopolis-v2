@@ -116,3 +116,16 @@ Os três arquivos foram preservados em `assets/media/drive-beta/` e apresentados
 O total de mídia local sobe para **1.140 arquivos visuais**, enquanto a contagem de **90 URLs externas distintas** permanece inalterada. A preservação melhorou sem transformar evidência contextual em uma correspondência exata não comprovada.
 
 Detalhes: [AUDITORIA-V045.md](AUDITORIA-V045.md).
+
+
+## v0.46 — Conjunto Chronicles e novos backups identificados (24/11/2026)
+
+O Drive revelou uma sequência contínua de oito arquivos `ctart_chronicles01.jpg` a `ctart_chronicles08.jpg`. Eles foram preservados localmente em `assets/media/drive-ps1/` e apresentados em `acervo/imagensps1.md` como **conjunto recuperado**, separado das quatro miniaturas antigas do Imgbox.
+
+Sem acesso direto às miniaturas históricas, nenhuma correspondência individual foi declarada e as quatro URLs antigas permanecem intactas.
+
+Também foram identificados backups organizados de revistas por edição e uma pasta `Snes Arts` com 24 artworks. Esses conjuntos foram inventariados, mas não republicados nesta etapa.
+
+O total local sobe para **1.148 mídias visuais**. A contagem externa permanece em **90 URLs distintas do Imgbox**, pois nenhuma referência foi removida ou declarada resolvida sem prova 1→1.
+
+Detalhes: [AUDITORIA-V046.md](AUDITORIA-V046.md).
