@@ -105,3 +105,14 @@ Cinco miniaturas foram tentadas diretamente pelo ambiente de pesquisa desta revi
 Foi criado `scripts/auditar-externos.cjs`. Em modo normal ele apenas inventaria as referências. Com `--check`, pode tentar verificações HTTP com concorrência e timeout limitados, separando 404/410 de 403/429, timeout e erro de rede. O script não remove nem substitui arquivos e não foi agendado.
 
 A interface também passou a indicar **“Imagem externa indisponível”** quando uma capa externa da homepage ou catálogo falha, mantendo o cartão e o acesso ao conteúdo. Detalhes: [AUDITORIA-V044.md](AUDITORIA-V044.md).
+
+
+## v0.45 — Recuperação cautelosa do conjunto Beta (24/11/2026)
+
+A busca no Google Drive identificou uma pasta de backup associada à postagem Beta contendo exatamente três PNGs de gameplay. As três cópias históricas de `beta.html` consultadas preservam exatamente três PNGs externos consecutivos no mesmo bloco visual.
+
+Os três arquivos foram preservados em `assets/media/drive-beta/` e apresentados na matéria Beta como **conjunto recuperado**, sem alterar os URLs antigos. Como o host Imgbox não pôde ser acessado para uma comparação visual ou byte a byte, **não foi feita atribuição individual** entre os arquivos locais e `q6vI0dkf_t.png`, `fI2VdgT1_t.png` e `003LnPNZ_t.png`.
+
+O total de mídia local sobe para **1.140 arquivos visuais**, enquanto a contagem de **90 URLs externas distintas** permanece inalterada. A preservação melhorou sem transformar evidência contextual em uma correspondência exata não comprovada.
+
+Detalhes: [AUDITORIA-V045.md](AUDITORIA-V045.md).
