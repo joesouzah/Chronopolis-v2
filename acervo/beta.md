@@ -51,6 +51,18 @@ O autor comentava ainda informações obtidas por outras pessoas em análises da
 
 ![Registro da versão beta de Chrono Trigger — 3](https://thumbs2.imgbox.com/38/2e/003LnPNZ_t.png)
 
+### Capturas locais recuperadas
+
+Foram localizados três PNGs de gameplay associados historicamente a esta publicação. O conjunto é coerente com o bloco de três imagens acima.
+
+Como as miniaturas externas antigas não puderam ser comparadas diretamente com os arquivos recuperados, **não atribuímos uma correspondência individual entre os três PNGs locais e as imagens 1, 2 e 3 do Imgbox**. Os links históricos permanecem preservados e as cópias locais são apresentadas abaixo como conjunto recuperado.
+
+<div class="archive-gallery-grid">
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/drive-beta/2021-01-26-04.png" target="_blank" rel="noopener noreferrer"><img src="{{ site.baseurl }}/assets/media/drive-beta/2021-01-26-04.png" loading="lazy" decoding="async" alt="Captura beta recuperada: cenário tecnológico com grupo e inimigos" /></a><figcaption>Captura recuperada A</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/drive-beta/2021-01-25-08.png" target="_blank" rel="noopener noreferrer"><img src="{{ site.baseurl }}/assets/media/drive-beta/2021-01-25-08.png" loading="lazy" decoding="async" alt="Captura beta recuperada: Crono diante de quatro inimigos em área de floresta" /></a><figcaption>Captura recuperada B</figcaption></figure>
+<figure class="archive-gallery-item"><a href="{{ site.baseurl }}/assets/media/drive-beta/2021-01-26-12.png" target="_blank" rel="noopener noreferrer"><img src="{{ site.baseurl }}/assets/media/drive-beta/2021-01-26-12.png" loading="lazy" decoding="async" alt="Captura beta recuperada: batalha em caverna com interface japonesa" /></a><figcaption>Captura recuperada C</figcaption></figure>
+</div>
+
 ### Referência ao arquivo histórico
 
 O site original registrava os seguintes dados do pacote:
