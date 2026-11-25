@@ -4,7 +4,7 @@ Reconstrução do **Chronopolis**, um arquivo independente de fã dedicado a Chr
 
 Este repositório é novo e separado do [projeto original (2022)](https://github.com/joesouzah/Chronopolis). O original não foi alterado.
 
-**Situação atual — 25/11/2026 (v0.50):** cronologia documental de dez marcos, com análise de 18 imagens V-Jump de 1994 (39 imagens documentais examinadas cumulativamente com a v0.49). Distinção entre elenco divulgado, beta de 17/11/1994 e lançamento comercial. Nenhuma mídia adicionada; permanecem **1.172 mídias visuais locais**. [Auditoria v0.50](AUDITORIA-V050.md).
+**Situação atual — 25/11/2026 (v0.51):** análise de 14 imagens V-Jump de novembro/dezembro, com comparação de duas configurações do menu de atributos, ATB ver. 2, cenários e técnicas documentadas na beta. Total de 53 registros visuais examinados nas três rodadas; nenhuma mídia adicionada. Permanecem **1.172 mídias visuais locais**. [Auditoria v0.51](AUDITORIA-V051.md).
 
 ## Objetivos
 - Preservar as páginas e os textos históricos do site original.

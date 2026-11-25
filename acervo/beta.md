@@ -32,6 +32,18 @@ As primeiras apresentações públicas e imagens de revistas são registros de d
 
 A [cronologia do desenvolvimento]({{ '/acervo/revistas/' | relative_url }}#cronologia-do-desenvolvimento) reúne os marcos impressos de 1994, o elenco de seis personagens divulgado no V-Festival e a data interna da beta. A distribuição comercial japonesa aconteceu em 11/03/1995; o dump da beta é registrado em 1999. Esses três momentos não devem ser confundidos.
 
+### Técnicas registradas nos dados da beta
+
+Uma [análise externa dos textos da ROM Pre-Release](https://glitterberri.com/chrono-trigger/unseen-prerelease-text/) documenta diferenças em relação ao jogo comercial:
+
+| Personagem | Registro na pesquisa da beta | Jogo final |
+| --- | --- | --- |
+| Marle | Esuna | Haste |
+| Robo | Robo Tackle antes de Laser Spin | Laser Spin antes de Robo Tackle |
+| Ayla | Triple Kick antes de Tail Spin e Dino Tail | Triple Kick depois de ambas |
+
+A presença de nomes ou descrições nos dados não garante que uma técnica esteja acessível nos três saves da demonstração. Não houve teste em emulador nesta revisão. A [comparação das telas de status de setembro e dezembro]({{ '/acervo/revistas/' | relative_url }}#novembro-e-dezembro-de-1994-a-interface-toma-forma) pertence à documentação promocional, não à inspeção direta da ROM.
+
 ### O que a demonstração permitia explorar
 
 A versão preliminar, conhecida também como *Kurono Toriga ~ Pre-Release*, permite observar **quatro situações jogáveis**: o início de uma partida e três slots que começam em pontos diferentes da aventura.

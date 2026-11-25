@@ -94,7 +94,9 @@ As datas abaixo distinguem o momento em que um material foi publicado, a data de
 | 09/09/1994 | Famimaga, pp. 14–17 | Menu de status com quatro símbolos numerados, cujo significado ainda era desconhecido pela revista. |
 | Outubro de 1994 | V-Jump, seis arquivos preservados | Reaparecem cenas e desenhos divulgados anteriormente, incluindo a máquina do tempo e o teletransporte. Há também imagens de combate e publicidade ilustrada. |
 | 17/11/1994 | Data interna da compilação Pre-Release | Protótipo preservado com três saves de demonstração e opção de nova partida. A data de compilação não é a data de distribuição do cartucho. |
+| Novembro de 1994 | V-Jump, entrevistas e publicidade | Divulgação dos 32 Mbit, ATB ver. 2, julgamento, prisão e castelo. |
 | 18/11/1994 | Famimaga, pp. 14–25 | Atributos associados aos seis personagens apresentados, além de imagens de cenários, técnicas e combate. A proximidade com a data da beta não prova que as capturas sejam daquela ROM. |
+| Dezembro de 1994 | V-Jump, pp. 26–28 | Outra configuração do menu com quatro símbolos, conceitos de cenários e combate no mapa. |
 | Início de 1995 | Divulgação pré-lançamento; vídeo especial V-Jump | O vídeo anuncia a data japonesa de lançamento. Não há identificação de uma compilação única para todas as cenas. |
 | 11/03/1995 | Lançamento japonês no Super Famicom | Versão comercial de referência para comparar sistemas, mapas e personagens. |
 | 1999 | Registro de disponibilização do arquivo do protótipo | O catálogo Hidden Palace registra 1999 como ano de publicação do dump, não como data de criação da beta. |
@@ -122,6 +124,34 @@ A coleção V-Jump de outubro reutiliza parte desse material: a mesma composiç�
 A pesquisa reúne 39 scans examinados em duas rodadas (21 Famimaga e 18 V-Jump), sem republicação integral. Os 18 arquivos da nova rodada incluem 12 páginas do livreto e seis imagens da pasta de outubro; alguns são registros sobrepostos de uma mesma abertura de revista. A numeração precisa das páginas de outubro ainda precisa ser conferida.
 
 Fontes complementares: [apresentação V-Festival traduzida](https://glitterberri.com/chrono-trigger/v-jump-presentation/), [vídeo especial V-Jump](https://glitterberri.com/chrono-trigger/v-jump-video-screenshots/), [estudo USC sobre as prévias](https://scalar.usc.edu/works/chronicles/chrono-trigger-alpha-version-v-jump-preview-video) e [registro do protótipo](https://hiddenpalace.org/Chrono_Trigger_(Nov_17,_1994_prototype)).
+
+### Novembro e dezembro de 1994: a interface toma forma
+
+As edições V-Jump de novembro e dezembro complementam os registros da Famimaga. O material preservado inclui entrevistas, publicidade e capturas de jogo. Algumas fotografias abrangem páginas adjacentes; o mês atribuído à pasta não comprova a data da captura.
+
+**O menu de quatro atributos aparece em duas configurações diferentes.** Na Famimaga de setembro (p. 16), Crono está no nível 2, com 900 HP, 50 MP e quatro armas na lista de equipamento. Na V-Jump de dezembro (p. 27), Crono está no nível 1, com 900 HP, 300 MP e uma lista que inclui arma, capacete, roupa e acessório. Os quatro símbolos próximos ao retrato mantêm o valor 5 nas duas telas. São duas configurações distintas do menu preliminar, não a mesma captura. Os valores elevados de HP e MP não devem ser interpretados como estatísticas normais de início de jogo.
+
+| Aspecto | Famimaga, setembro, p. 16 | V-Jump, dezembro, p. 27 |
+| --- | --- | --- |
+| Nível de Crono | 2 | 1 |
+| HP | 900/900 | 900/900 |
+| MP | 50/50 | 300/300 |
+| Quatro símbolos | 5, 5, 5, 5 | 5, 5, 5, 5 |
+| Equipamento exibido | Quatro armas | Arma, capacete, roupa e acessório |
+
+A tela de status do jogo comercial conserva o retrato, a afinidade elemental e a área de equipamentos, mas não apresenta esses quatro contadores. Um [guia da versão SNES](https://gamefaqs.gamespot.com/snes/563538-chrono-trigger/faqs/18601), seção 2.06, documenta a disposição final. A presença dos contadores em dezembro não demonstra que eles funcionassem ou permanecessem na compilação beta de novembro.
+
+**Combate sem mudança para uma arena separada.** A V-Jump de novembro apresenta o nome Active Time Battle ver. 2 e mostra confrontos no próprio cenário. A edição de dezembro (p. 28) destaca ataques com efeitos circulares, relâmpagos e a transição de uma sala com tapete vermelho para combate. O material documenta a divulgação dessa ideia, não os algoritmos de alcance ou a lista definitiva de técnicas.
+
+**Cenários e animação.** O conjunto de novembro mostra o julgamento, uma prisão elevada e o castelo sob a lua cheia. O de dezembro (pp. 26–27) contrapõe desenhos conceituais a imagens de masmorras, floresta e batalha na neve. A entrevista da p. 27 atribui à produção gráfica até 256 padrões por personagem e mais de 3.000 no conjunto. O número é uma declaração da equipe, não uma contagem de sprites extraídos da ROM. A [tradução do vídeo especial V-Jump](https://glitterberri.com/chrono-trigger/v-jump-video-screenshots/) também registra a declaração sobre os 3.000 padrões.
+
+**Capacidade do cartucho.** A publicidade preservada em novembro e dezembro já destaca 32 Mbit, enquanto a Famimaga de agosto e setembro anunciava 24 Mbit. Isso confirma uma mudança na especificação divulgada, mas não determina o dia da expansão técnica. As [entrevistas com os desenvolvedores](https://shmuplations.com/chronotrigger/) confirmam a importância dos 32 Mbit para o projeto.
+
+### Relação com a beta jogável
+
+A documentação da ROM Pre-Release oferece outro tipo de evidência. O [levantamento de textos traduzidos](https://glitterberri.com/chrono-trigger/unseen-prerelease-text/) registra Marle com Esuna em vez de Haste e uma ordem diferente de técnicas de Robo e Ayla. São diferenças documentadas por pesquisa externa sobre o conteúdo da ROM; não foram reproduzidas em emulador nesta rodada. Elas não confirmam a hipótese de múltiplos elementos do menu de revistas.
+
+No total, foram examinados 53 arquivos de imagem nas três rodadas de pesquisa documental (21 Famimaga, 32 V-Jump). Esse total não significa 53 páginas únicas. As referências históricas do Imgbox permanecem sem identificação individual.
 
 ### Catálogo de revistas preservadas
 

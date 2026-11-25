@@ -5,6 +5,10 @@ category: "Sobre"
 summary: "Transparência sobre o que foi preservado, o que depende de terceiros e as próximas verificações."
 permalink: /estado-do-acervo/
 ---
+## Interface, combate e cenários — 25/11/2026 (v0.51)
+
+Examinadas 14 imagens V-Jump de novembro/dezembro de 1994; 53 registros visuais cumulativos. A [matéria de revistas]({{ '/acervo/revistas/' | relative_url }}) compara dois menus preliminares com os quatro símbolos, apresenta evidências de ATB ver. 2 e 32 Mbit e amplia a cronologia. A [matéria beta]({{ '/acervo/beta/' | relative_url }}) documenta diferenças de técnicas segundo pesquisa externa dos textos da ROM. Nenhuma mídia adicionada. [Auditoria v0.51](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V051.md).
+
 ## Cronologia do desenvolvimento — 25/11/2026 (v0.50)
 
 Foram examinadas 18 imagens de duas coleções V-Jump de 1994, somando 39 registros visuais com a rodada Famimaga anterior. A [cronologia do desenvolvimento]({{ '/acervo/revistas/' | relative_url }}#cronologia-do-desenvolvimento) reúne dez marcos, o elenco divulgado de seis personagens, a representação de Ayla com clava, a máquina do tempo e a reutilização de capturas entre publicações. A [matéria Beta]({{ '/acervo/beta/' | relative_url }}) aponta para essa cronologia. Nenhum scan novo foi publicado; as referências históricas permanecem preservadas. [Auditoria v0.50](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V050.md).
