@@ -30,6 +30,8 @@ O material está em japonês, mas, para quem gosta de conhecer os bastidores de 
 
 As primeiras apresentações públicas e imagens de revistas são registros de desenvolvimento, não necessariamente da mesma compilação jogável. A compilação de 17/11/1994 é catalogada pelo [Hidden Palace](https://hiddenpalace.org/Chrono_Trigger_(Nov_17,_1994_prototype)). O [estudo das revistas de 1994]({{ '/acervo/revistas/' | relative_url }}) reúne evidências anteriores e contemporâneas à beta, com distinção entre fatos e hipóteses.
 
+A [cronologia do desenvolvimento]({{ '/acervo/revistas/' | relative_url }}#cronologia-do-desenvolvimento) reúne os marcos impressos de 1994, o elenco de seis personagens divulgado no V-Festival e a data interna da beta. A distribuição comercial japonesa aconteceu em 11/03/1995; o dump da beta é registrado em 1999. Esses três momentos não devem ser confundidos.
+
 ### O que a demonstração permitia explorar
 
 A versão preliminar, conhecida também como *Kurono Toriga ~ Pre-Release*, permite observar **quatro situações jogáveis**: o início de uma partida e três slots que começam em pontos diferentes da aventura.

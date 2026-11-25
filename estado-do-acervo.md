@@ -5,6 +5,10 @@ category: "Sobre"
 summary: "Transparência sobre o que foi preservado, o que depende de terceiros e as próximas verificações."
 permalink: /estado-do-acervo/
 ---
+## Cronologia do desenvolvimento — 25/11/2026 (v0.50)
+
+Foram examinadas 18 imagens de duas coleções V-Jump de 1994, somando 39 registros visuais com a rodada Famimaga anterior. A [cronologia do desenvolvimento]({{ '/acervo/revistas/' | relative_url }}#cronologia-do-desenvolvimento) reúne dez marcos, o elenco divulgado de seis personagens, a representação de Ayla com clava, a máquina do tempo e a reutilização de capturas entre publicações. A [matéria Beta]({{ '/acervo/beta/' | relative_url }}) aponta para essa cronologia. Nenhum scan novo foi publicado; as referências históricas permanecem preservadas. [Auditoria v0.50](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V050.md).
+
 ## Pesquisa das versões preliminares — 24/11/2026 (v0.49)
 
 Foram examinados 21 scans de três edições Famimaga de 1994. Na [página de revistas]({{ '/acervo/revistas/' | relative_url }}) estão documentados o menu de atributos (09/09, p.16), as associações elementais de seis personagens (18/11, p.22), cenários e interface preliminar. A [matéria Beta]({{ '/acervo/beta/' | relative_url }}) distingue a compilação jogável das apresentações de desenvolvimento. Nenhum scan foi republicado e as referências externas seguem intactas. [Auditoria v0.49](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V049.md).
