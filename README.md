@@ -4,7 +4,7 @@ Reconstrução do **Chronopolis**, um arquivo independente de fã dedicado a Chr
 
 Este repositório é novo e separado do [projeto original (2022)](https://github.com/joesouzah/Chronopolis). O original não foi alterado.
 
-**Situação atual — 26/11/2026 (v0.52):** dez imagens V-Jump de janeiro e fevereiro de 1995 examinadas; fichas de Ayla e Robo sem atributo, descrição de clava, menu de ícones e pré-venda documentados. Total de 63 arquivos visuais examinados desde a v0.49; nenhuma mídia adicionada. Permanecem **1.172 mídias visuais locais**. [Auditoria v0.52](AUDITORIA-V052.md).
+**Situação atual — 26/11/2026 (v0.53):** 32 fotografias adicionais de janeiro–março de 1995 examinadas, concluindo os 42 JPEGs das três pastas. Documentados Zeal, Magus, Fim dos Tempos, recrutamento de cinco leitores e concurso de 2.000 cópias, distinto da ROM beta. Total de 95 arquivos examinados desde a v0.49; permanecem **1.172 mídias visuais locais**. [Auditoria v0.53](AUDITORIA-V053.md).
 
 ## Objetivos
 - Preservar as páginas e os textos históricos do site original.

@@ -5,6 +5,10 @@ category: "Sobre"
 summary: "Transparência sobre o que foi preservado, o que depende de terceiros e as próximas verificações."
 permalink: /estado-do-acervo/
 ---
+## Da beta ao lançamento comercial — 26/11/2026 (v0.53)
+
+Examinados 32 JPEGs adicionais das coleções V-Jump de janeiro, fevereiro e março de 1995, concluindo os 42 JPEGs das três pastas. Total de 95 registros desde a v0.49. A [matéria de revistas]({{ '/acervo/revistas/' | relative_url }}) documenta Zeal, Magus, Fim dos Tempos, recrutamento de cinco leitores e concurso de 2.000 cópias. A [matéria beta]({{ '/acervo/beta/' | relative_url }}) distingue as campanhas da ROM preservada. Nenhuma mídia adicionada. [Auditoria v0.53](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V053.md).
+
 ## Últimos meses antes do lançamento — 26/11/2026 (v0.52)
 
 Examinados dez JPEGs das coleções V-Jump de janeiro e fevereiro de 1995; 63 registros visuais cumulativos. A [matéria de revistas]({{ '/acervo/revistas/' | relative_url }}) documenta a mudança na descrição dos atributos de Ayla e Robo, a referência escrita à clava, o menu de seis ícones, mapas e a campanha de pré-venda. A [matéria beta]({{ '/acervo/beta/' | relative_url }}) distingue a divulgação posterior da ROM preservada. Restam 22 fotografias adicionais dessas duas pastas por examinar. Nenhuma mídia adicionada. [Auditoria v0.52](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V052.md).

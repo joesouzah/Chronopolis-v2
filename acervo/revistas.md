@@ -100,6 +100,7 @@ As datas abaixo distinguem o momento em que um material foi publicado, a data de
 | Janeiro de 1995 | V-Jump, pp. 4–9 | Fichas de seis personagens; Robo e Ayla sem atributo; mapas de cinco épocas. |
 | Fevereiro de 1995 | V-Jump, pp. 10–18 e publicidade | Menu por ícones sem os quatro contadores na captura de status; técnicas combinadas e campanha de pré-venda. |
 | Início de 1995 | Divulgação pré-lançamento; vídeo especial V-Jump | O vídeo anuncia a data japonesa de lançamento. Não há identificação de uma compilação única para todas as cenas. |
+| Março de 1995 | V-Jump, especial pré-lançamento, pp. 24–31 | Zeal, Schala, Janus, Lavos, Cyrus, Masamune e castelo de Magus. |
 | 11/03/1995 | Lançamento japonês no Super Famicom | Versão comercial de referência para comparar sistemas, mapas e personagens. |
 | 1999 | Registro de disponibilização do arquivo do protótipo | O catálogo Hidden Palace registra 1999 como ano de publicação do dump, não como data de criação da beta. |
 
@@ -178,7 +179,31 @@ Essa mudança nas fichas de Robo e Ayla aproxima a descrição promocional do jo
 
 **Pré-venda e lançamento.** Os anúncios preservados com a edição de fevereiro indicam o início da campanha de reservas em 28 de dezembro, com cartões prismáticos como brinde, cartucho de 32 Mbit e lançamento em 11 de março. A campanha antecede o mês de capa da edição; a data de 28/12/1994 é compatível com o dia da semana impresso (quarta-feira). Os anúncios não estabelecem a data efetiva de entrega dos brindes.
 
-A pesquisa passa a reunir 63 arquivos visuais examinados desde a v0.49. As 22 fotografias adicionais das pastas de janeiro e fevereiro ainda não foram analisadas nesta rodada, e podem conter páginas repetidas ou detalhes complementares.
+A pesquisa passa a reunir 63 arquivos visuais examinados desde a v0.49. As 22 fotografias adicionais foram examinadas na rodada seguinte, conforme a seção abaixo.
+
+### Janeiro a março de 1995: a divulgação do enredo e os testes com leitores
+
+A conferência das 22 fotografias complementares de janeiro e fevereiro e dos dez arquivos da edição de março completa a análise dos JPEGs dessas três pastas: 42 arquivos, incluindo aberturas parcialmente repetidas, capas, matérias e publicidade.
+
+**Magus antes do lançamento.** A V-Jump de janeiro, pp. 28–32, volta a apresentar os seis heróis, mas também dedica uma matéria a Magus como adversário. A edição de fevereiro, pp. 22–23, mostra Magus no círculo de invocação e apresenta seus três subordinados (Ozzie, Slash e Flea na localização inglesa). A de março, pp. 28–31, relaciona Cyrus, Frog, a espada Granleon (Masamune na localização inglesa) e o castelo de Magus. A ausência de Magus da lista de seis heróis não era ausência do personagem na publicidade. Essas matérias não revelam que ele pudesse entrar no grupo.
+
+**A história de Zeal.** A edição de março traz na capa o mês e o ano de 1995. A abertura do especial o anuncia como cobertura imediatamente anterior ao lançamento. Nas pp. 24–27, a revista identifica a Rainha Zeal, Schala, Janus, Dalton, o Profeta e Lavos, com imagens da civilização flutuante e de seus interiores. A apresentação de personagens e cenas permite identificar elementos do enredo que chegaram à versão final, mas não comprova que todos os diálogos ou eventos fossem idênticos.
+
+**O Fim dos Tempos e os inimigos.** Fevereiro, pp. 24–29, ilustra monstros como Giga Mutant, a formação de um esqueleto gigante a partir de vários inimigos, e a transformação de uma criatura descrita como Ruin Golem. Nas pp. 26–27, a revista descreve o Fim dos Tempos, Spekkio, os portais e a troca de integrantes. Na p. 28, compara artes de Akira Toriyama com cenas do jogo, inclusive a máquina do tempo. Esses registros podem orientar a pesquisa de sprites e inimigos, sem presumir que uma criatura tenha sido descartada apenas por ter outro nome promocional.
+
+### Como os leitores puderam conhecer Chrono Trigger antes do lançamento
+
+As revistas registram iniciativas diferentes, que não devem ser confundidas com a ROM Pre-Release preservada:
+
+| Registro | Evidência impressa | O que não está demonstrado |
+| --- | --- | --- |
+| Janeiro, publicidade do vídeo especial | Oferta do vídeo V-Jump a quem se inscrevesse, instruções na p. 185 e campanha de reservas a partir de 28/12. | Que o vídeo corresponda a uma única compilação. |
+| Fevereiro, p. 25 | Recrutamento de cinco leitores para experimentar o jogo antes da estreia; inscrição até 9 de janeiro. Data e local seriam comunicados aos selecionados. | Que os participantes recebessem cartuchos ou usassem exatamente a beta de 17/11/1994. |
+| Fevereiro, anúncio conjunto V-Jump e Weekly Shōnen Jump | Concurso anunciando 2.000 cópias do jogo com entrega prevista para a véspera do lançamento, e uma segunda chance com 5.000 cartões telefônicos em dez modelos. | Quantidade efetivamente entregue e identidade binária dos cartuchos. |
+
+A data comercial japonesa de 11/03/1995 torna 10/03/1995 a véspera prevista para o concurso. A existência de exemplares identificados como V-Jump Contest Giveaway também é registrada em um [catálogo de leilão](https://comics.ha.com/itm/video-games/nintendo/chrono-trigger-vga-80-nm-qualified-v-jump-contest-giveaway-super-famicom-squaresoft-1995-jpn/a/44327-79247.s), que não equivale a uma análise da ROM. A [ficha de preservação do protótipo](https://hiddenpalace.org/Chrono_Trigger_%28Nov_17%2C_1994_prototype%29) e a [pesquisa USC sobre as versões preliminares](https://scalar.usc.edu/works/chronicles/chrono-trigger-alpha-version-v-jump-preview-video) permanecem referências distintas.
+
+O conjunto cumulativo de pesquisa desde a v0.49 reúne 95 arquivos visuais: 21 Famimaga e 74 V-Jump, de 1994 a março de 1995. Não se trata de 95 páginas únicas. Nenhuma dessas observações identifica a compilação exata de todas as capturas ou comprova a origem da vila histórica.
 
 ### Catálogo de revistas preservadas
 

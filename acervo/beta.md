@@ -46,6 +46,12 @@ A presença de nomes ou descrições nos dados não garante que uma técnica est
 
 A [documentação de janeiro e fevereiro de 1995]({{ '/acervo/revistas/' | relative_url }}#janeiro-e-fevereiro-de-1995-os-últimos-meses-antes-do-lançamento) mostra fichas de Robo e Ayla sem atributo e uma configuração do menu de status sem os quatro contadores das prévias de 1994. Essas são evidências da divulgação posterior à data interna do protótipo, não testes adicionais da ROM beta.
 
+### Acesso antecipado e distribuição
+
+A V-Jump de fevereiro de 1995, p. 25, recrutava cinco leitores para experimentar o jogo antes do lançamento, com inscrições até 9 de janeiro e comunicação individual da data e local. Um anúncio separado da V-Jump e da Weekly Shōnen Jump oferecia 2.000 cópias com entrega prevista para a véspera da estreia, além de cartões telefônicos.
+
+Essas duas iniciativas são documentadas na [pesquisa das revistas]({{ '/acervo/revistas/' | relative_url }}#como-os-leitores-puderam-conhecer-chrono-trigger-antes-do-lançamento). Não comprovam a origem do dump de 1999, nem que os cartuchos do concurso continham a compilação de 17/11/1994. A data interna da beta, os testes com leitores, a promoção de cópias e o lançamento comercial são eventos diferentes.
+
 ### O que a demonstração permitia explorar
 
 A versão preliminar, conhecida também como *Kurono Toriga ~ Pre-Release*, permite observar **quatro situações jogáveis**: o início de uma partida e três slots que começam em pontos diferentes da aventura.
