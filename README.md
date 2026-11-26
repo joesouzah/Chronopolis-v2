@@ -4,7 +4,7 @@ Reconstrução do **Chronopolis**, um arquivo independente de fã dedicado a Chr
 
 Este repositório é novo e separado do [projeto original (2022)](https://github.com/joesouzah/Chronopolis). O original não foi alterado.
 
-**Situação atual — 26/11/2026 (v0.53):** 32 fotografias adicionais de janeiro–março de 1995 examinadas, concluindo os 42 JPEGs das três pastas. Documentados Zeal, Magus, Fim dos Tempos, recrutamento de cinco leitores e concurso de 2.000 cópias, distinto da ROM beta. Total de 95 arquivos examinados desde a v0.49; permanecem **1.172 mídias visuais locais**. [Auditoria v0.53](AUDITORIA-V053.md).
+**Situação atual — 26/11/2026 (v0.54):** sete imagens Dengeki Oh e The Super Famicom examinadas, completando 102 JPEGs catalogados de 1994 até março de 1995. Criado índice de 13 registros de conteúdo modificado, não utilizado ou hipotético na matéria Beta. Nenhuma mídia adicionada; permanecem **1.172 mídias visuais locais**. [Auditoria v0.54](AUDITORIA-V054.md).
 
 ## Objetivos
 - Preservar as páginas e os textos históricos do site original.

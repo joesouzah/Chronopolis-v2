@@ -100,3 +100,28 @@ O site original registrava os seguintes dados do pacote:
 - **Endereço original:** [link histórico do pacote](https://mega.nz/file/Mt0EDLaI#ja1DIM2SeIBQfe8xf_X-ZPgZfNlPXuzpqEg5PjqhsLw)
 
 O endereço foi preservado como referência, mas a disponibilidade e as condições de distribuição do material não foram verificadas nesta revisão.
+
+## Índice de conteúdo modificado e não utilizado
+
+Um registro de revista não é equivalente a um recurso recuperado da ROM. Este índice distingue mudanças documentadas, recursos catalogados como não utilizados por pesquisas externas e hipóteses ainda abertas.
+
+| ID | Registro | Fonte / localização | Classificação |
+| --- | --- | --- | --- |
+| CT-001 | Quatro contadores elementais | Famimaga 09/09/1994 p. 16; The Super Famicom p. 34 (mesma captura); V-Jump 12/1994 p. 27 (outra configuração) | Interface preliminar; função desconhecida |
+| CT-002 | Ayla com clava | V-Festival '94; V-Jump 01/1995 p. 7 | Descrição promocional; implementação não comprovada |
+| CT-003 | Atributos de Ayla e Robo | Famimaga 18/11/1994 p. 22; V-Jump 01/1995 pp. 6–7 | Mudança na divulgação |
+| CT-004 | Esuna de Marle e ordem de técnicas | [Textos da Pre-Release](https://glitterberri.com/chrono-trigger/unseen-prerelease-text/) | Diferença documentada nos dados da beta por pesquisa externa |
+| CT-005 | Big Tornado e poses de monstros | Dengeki Oh 11/1994 p. 128; The Super Famicom p. 34 | Material promocional; comparação de gráficos pendente |
+| CT-006 | Octo Rider | [The Spriters Resource — conteúdo não utilizado](https://www.spriters-resource.com/snes/chronotrigger/index.html) | Gráfico catalogado externamente como não utilizado |
+| CT-007 | Triceratops | Mesmo catálogo | Gráfico catalogado externamente como não utilizado |
+| CT-008 | Variantes de inimigos | Mesmo catálogo, Unused Enemy Variants | Conjunto catalogado externamente; identificação individual pendente |
+| CT-009 | Trilha de fumaça, ID 0x76 | [Data Crystal — lista de NPCs](https://datacrystal.tcrf.net/wiki/Chrono_Trigger/List_of_NPCs) | Marcada como não utilizada na documentação externa |
+| CT-010 | Folhas caindo, ID 0x83 | Data Crystal, mesma lista | Marcadas como não utilizadas |
+| CT-011 | Três moedas girando, ID 0x84 | Data Crystal, mesma lista | Marcadas como não utilizadas |
+| CT-012 | Dois sprites de personagem no mapa | [Unseen64 — pesquisa sobre a beta](https://www.unseen64.net/2008/04/14/chrono-trigger-snes-beta/) | Registro secundário; não comprova um oitavo personagem jogável |
+| CT-013 | Possível coliseu | Hipótese de pesquisa do acervo | Sem identificação de sprite, mapa, ID ou evento confirmada |
+
+Os IDs CT-001 a CT-013 são identificadores editoriais do Chronopolis, não endereços da ROM. Apenas os valores 0x76, 0x83 e 0x84 são identificadores da documentação Data Crystal. Os itens CT-006 a CT-011 não foram extraídos diretamente nesta pesquisa: o índice registra a classificação das fontes, não uma reprodução independente. A página principal de The Spriters Resource foi acessada; as fichas individuais de gráficos não abriram. Não atribuímos função original, cronologia de remoção, encontro ou local a esses sprites sem evidência.
+
+Para continuar: [documentação das revistas]({{ '/acervo/revistas/' | relative_url }}) e [levantamento de textos da beta](https://glitterberri.com/chrono-trigger/unseen-prerelease-text/).
+

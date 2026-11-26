@@ -205,6 +205,18 @@ A data comercial japonesa de 11/03/1995 torna 10/03/1995 a véspera prevista par
 
 O conjunto cumulativo de pesquisa desde a v0.49 reúne 95 arquivos visuais: 21 Famimaga e 74 V-Jump, de 1994 a março de 1995. Não se trata de 95 páginas únicas. Nenhuma dessas observações identifica a compilação exata de todas as capturas ou comprova a origem da vila histórica.
 
+### The Super Famicom e Dengeki Oh: outras evidências de 1994
+
+A matéria de The Super Famicom contém cinco imagens com páginas impressas 32–36, embora os nomes dos arquivos terminem em 34–38. Na p. 34, a tela de status de Crono reproduz a configuração da Famimaga de 09/09/1994, p. 16: os mesmos três integrantes (Frog, Marle e Crono), nível 2, HP 900/900, MP 50/50, quatro símbolos de valor 5, quatro espadas, tempo 00:00 e 0 G. A composição coincide visualmente, descontadas as marcações editoriais da Famimaga. Não constitui uma terceira configuração independente.
+
+A p. 34 também exibe poses e variantes cromáticas de monstros, imagens de ataques de Marle e Robo, e caixas de comando individuais. As pp. 32–33 e 35–36 mostram mapas, construções, máquina do tempo, instalações mecânicas e salas misteriosas. A abertura anuncia 24 Mbit e deixa data e preço indefinidos. São registros da divulgação; não comprovam a existência dos mesmos sprites ou eventos na ROM beta.
+
+A Dengeki Oh traz a data impressa de novembro de 1994 na p. 129. Na p. 128, uma sequência de três imagens documenta o ataque combinado ビッグトルネード (Big Tornado), com referência à participação de Ayla e Robo; a p. 129 apresenta seis heróis e uma cena com uma grande criatura ou estrutura de aspecto monstruoso. A identificação específica dessa cena e a comparação quadro a quadro com a técnica comercial ainda estão em aberto. A descrição dos elementos do ataque inclui especulação editorial, que não deve ser convertida em regra confirmada do jogo.
+
+**Data de The Super Famicom.** O [Internet Archive](https://archive.org/details/the-super-famicom-september-16-1994) e o [catálogo Retromags](https://www.retromags.com/gallery/image/17550-the-super-famicom-vol5-no16-september-16-1994/) confirmam a existência da edição vol. 5, nº 16, datada de 16/09/1994. Os cinco nomes de JPEG apontam para essa edição, mas a pasta e o PDF estão identificados como 09/09/1994. Sem comparação direta com o exemplar integral, a atribuição a 16/09 continua provável, não definitiva. O backup não foi renomeado.
+
+Com estes sete arquivos, a cobertura visual alcança todos os 102 JPEGs catalogados nas pastas de revistas de 1994 até março de 1995. Os 24 arquivos de abril a agosto de 1995 e as imagens avulsas são conjuntos separados. Veja o [índice de conteúdo modificado e não utilizado]({{ '/acervo/beta/' | relative_url }}#indice-de-conteudo-modificado-e-nao-utilizado).
+
 ### Catálogo de revistas preservadas
 
 O acervo de pesquisa reúne 16 conjuntos identificados por revista e edição, com 126 arquivos de imagem e 16 PDFs. Há também 25 imagens avulsas e um exemplar digital de *Chrono Trigger Ultimania*, contabilizado separadamente. Os números descrevem arquivos guardados, não páginas únicas nem revistas integrais.
@@ -229,7 +241,7 @@ O acervo de pesquisa reúne 16 conjuntos identificados por revista e edição, c
 | V-Jump | 1995-08 | 3 | 1 |
 | **Total** | **16 conjuntos** | **126** | **16** |
 
-\* A pasta de The Super Famicom indica 09/09/1994, mas os cinco JPEGs trazem 16/09/1994 no nome. O [registro do Internet Archive](https://archive.org/details/the-super-famicom-september-16-1994) confirma a existência de uma edição de 16/09/1994. A identificação específica dos arquivos permanece provisória até a conferência das páginas.
+\* A pasta de The Super Famicom indica 09/09/1994, mas os cinco JPEGs trazem 16/09/1994 no nome. O [registro do Internet Archive](https://archive.org/details/the-super-famicom-september-16-1994) confirma a existência de uma edição de 16/09/1994. As páginas impressas 32–36 foram conferidas; a atribuição a 16/09 é provável pelos nomes dos arquivos e pelo catálogo externo, mas a comparação com a edição integral permanece pendente.
 
 ### Como interpretar esse material
 

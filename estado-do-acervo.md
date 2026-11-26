@@ -5,6 +5,10 @@ category: "Sobre"
 summary: "Transparência sobre o que foi preservado, o que depende de terceiros e as próximas verificações."
 permalink: /estado-do-acervo/
 ---
+## Inimigos, sprites e conteúdo descartado — 26/11/2026 (v0.54)
+
+Examinados sete JPEGs Dengeki Oh e The Super Famicom, totalizando 102 registros de 1994 até março de 1995. A [matéria de revistas]({{ '/acervo/revistas/' | relative_url }}) documenta a reutilização do menu de setembro, poses de inimigos e Big Tornado. A [matéria beta]({{ '/acervo/beta/' | relative_url }}#indice-de-conteudo-modificado-e-nao-utilizado) inclui índice de 13 registros com classificação de evidência. Data de The Super Famicom ainda provável, coliseu e vila sem identificação comprovada. Nenhuma mídia adicionada. [Auditoria v0.54](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V054.md).
+
 ## Da beta ao lançamento comercial — 26/11/2026 (v0.53)
 
 Examinados 32 JPEGs adicionais das coleções V-Jump de janeiro, fevereiro e março de 1995, concluindo os 42 JPEGs das três pastas. Total de 95 registros desde a v0.49. A [matéria de revistas]({{ '/acervo/revistas/' | relative_url }}) documenta Zeal, Magus, Fim dos Tempos, recrutamento de cinco leitores e concurso de 2.000 cópias. A [matéria beta]({{ '/acervo/beta/' | relative_url }}) distingue as campanhas da ROM preservada. Nenhuma mídia adicionada. [Auditoria v0.53](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V053.md).
