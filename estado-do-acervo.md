@@ -5,6 +5,10 @@ category: "Sobre"
 summary: "Transparência sobre o que foi preservado, o que depende de terceiros e as próximas verificações."
 permalink: /estado-do-acervo/
 ---
+## Últimos meses antes do lançamento — 26/11/2026 (v0.52)
+
+Examinados dez JPEGs das coleções V-Jump de janeiro e fevereiro de 1995; 63 registros visuais cumulativos. A [matéria de revistas]({{ '/acervo/revistas/' | relative_url }}) documenta a mudança na descrição dos atributos de Ayla e Robo, a referência escrita à clava, o menu de seis ícones, mapas e a campanha de pré-venda. A [matéria beta]({{ '/acervo/beta/' | relative_url }}) distingue a divulgação posterior da ROM preservada. Restam 22 fotografias adicionais dessas duas pastas por examinar. Nenhuma mídia adicionada. [Auditoria v0.52](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V052.md).
+
 ## Interface, combate e cenários — 25/11/2026 (v0.51)
 
 Examinadas 14 imagens V-Jump de novembro/dezembro de 1994; 53 registros visuais cumulativos. A [matéria de revistas]({{ '/acervo/revistas/' | relative_url }}) compara dois menus preliminares com os quatro símbolos, apresenta evidências de ATB ver. 2 e 32 Mbit e amplia a cronologia. A [matéria beta]({{ '/acervo/beta/' | relative_url }}) documenta diferenças de técnicas segundo pesquisa externa dos textos da ROM. Nenhuma mídia adicionada. [Auditoria v0.51](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V051.md).

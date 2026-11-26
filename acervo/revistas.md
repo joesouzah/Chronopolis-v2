@@ -97,6 +97,8 @@ As datas abaixo distinguem o momento em que um material foi publicado, a data de
 | Novembro de 1994 | V-Jump, entrevistas e publicidade | Divulgação dos 32 Mbit, ATB ver. 2, julgamento, prisão e castelo. |
 | 18/11/1994 | Famimaga, pp. 14–25 | Atributos associados aos seis personagens apresentados, além de imagens de cenários, técnicas e combate. A proximidade com a data da beta não prova que as capturas sejam daquela ROM. |
 | Dezembro de 1994 | V-Jump, pp. 26–28 | Outra configuração do menu com quatro símbolos, conceitos de cenários e combate no mapa. |
+| Janeiro de 1995 | V-Jump, pp. 4–9 | Fichas de seis personagens; Robo e Ayla sem atributo; mapas de cinco épocas. |
+| Fevereiro de 1995 | V-Jump, pp. 10–18 e publicidade | Menu por ícones sem os quatro contadores na captura de status; técnicas combinadas e campanha de pré-venda. |
 | Início de 1995 | Divulgação pré-lançamento; vídeo especial V-Jump | O vídeo anuncia a data japonesa de lançamento. Não há identificação de uma compilação única para todas as cenas. |
 | 11/03/1995 | Lançamento japonês no Super Famicom | Versão comercial de referência para comparar sistemas, mapas e personagens. |
 | 1999 | Registro de disponibilização do arquivo do protótipo | O catálogo Hidden Palace registra 1999 como ano de publicação do dump, não como data de criação da beta. |
@@ -107,7 +109,7 @@ O livreto associado ao V-Festival de 1994 apresenta Crono (p. 11), Marle (p. 16)
 
 No jogo final, Magus pode integrar a equipe, totalizando sete personagens recrutáveis. Isso documenta uma diferença entre o elenco divulgado e o elenco final. Não demonstra que Magus estivesse ausente dos dados da versão em desenvolvimento: sua identidade e participação poderiam estar sendo reservadas por razões narrativas ou promocionais.
 
-Outro detalhe é Ayla: tanto a ilustração impressa quanto a narração do vídeo a apresentam com uma clava. A versão comercial utiliza ataques físicos desarmados. A clava é uma evidência de design visual e de descrição promocional; sozinha, não prova que existisse um item equipável com esse nome ou uma implementação funcional.
+Outro detalhe é Ayla: tanto a ilustração impressa quanto a narração do vídeo a apresentam com uma clava. A versão comercial utiliza ataques físicos desarmados. A clava é uma evidência de design visual e de descrição promocional; sozinha, não prova que existisse um item equipável com esse nome ou uma implementação funcional. A ficha de janeiro de 1995 (p. 7), analisada adiante, também menciona explicitamente mãos nuas ou clava como equipamento.
 
 ### Mapas e máquina do tempo
 
@@ -152,6 +154,31 @@ A tela de status do jogo comercial conserva o retrato, a afinidade elemental e a
 A documentação da ROM Pre-Release oferece outro tipo de evidência. O [levantamento de textos traduzidos](https://glitterberri.com/chrono-trigger/unseen-prerelease-text/) registra Marle com Esuna em vez de Haste e uma ordem diferente de técnicas de Robo e Ayla. São diferenças documentadas por pesquisa externa sobre o conteúdo da ROM; não foram reproduzidas em emulador nesta rodada. Elas não confirmam a hipótese de múltiplos elementos do menu de revistas.
 
 No total, foram examinados 53 arquivos de imagem nas três rodadas de pesquisa documental (21 Famimaga, 32 V-Jump). Esse total não significa 53 páginas únicas. As referências históricas do Imgbox permanecem sem identificação individual.
+
+### Janeiro e fevereiro de 1995: os últimos meses antes do lançamento
+
+As duas coleções de V-Jump do início de 1995 registram a aproximação com o jogo comercial. Nesta etapa foram examinados dez arquivos digitalizados (quatro de janeiro e seis de fevereiro), incluindo aberturas de duas páginas, capas e publicidade. Os meses correspondem à organização do acervo, não à data interna das capturas.
+
+**Robo e Ayla deixam de ter afinidade elemental na divulgação.** A ficha de janeiro (pp. 6–7) usa 無属性 (sem atributo) para ambos. Na página 7, o texto de Ayla explica que ela não utiliza magia porque, na sua era, os seres humanos ainda não conheciam os atributos. A mesma ficha descreve o equipamento como mãos nuas ou clava (素手またはこん棒). Essa descrição escrita acrescenta evidência às representações anteriores de Ayla com uma clava, mas não demonstra que uma arma equipável tenha existido na ROM.
+
+| Personagem | Famimaga, novembro de 1994, p. 22 | V-Jump, janeiro de 1995, pp. 4–7 |
+| --- | --- | --- |
+| Crono | Céu | Céu |
+| Marle | Água | Água |
+| Lucca | Fogo | Fogo |
+| Frog | Água | Água |
+| Robo | Sombra | Sem atributo |
+| Ayla | Fogo | Sem atributo |
+
+Essa mudança nas fichas de Robo e Ayla aproxima a descrição promocional do jogo final, em que nenhum dos dois aprende magia com Spekkio. Robo ainda possui técnicas que causam dano elemental. Não é possível determinar quando a regra foi modificada no código, nem se a associação anterior era uma simplificação editorial.
+
+**O menu de ícones.** A página 18 de fevereiro apresenta seis funções, com ícones para status, itens, técnicas/magia, configuração, formação e salvar/carregar. A captura de status mostra Crono no nível 4, com o ideograma 天 ao lado do retrato, e já não exibe os quatro contadores de valor 5 observados nas imagens de setembro e dezembro. A imagem de inventário conserva duas colunas. É uma terceira configuração documentada da interface; a ausência dos contadores nessa captura não comprova sua remoção em uma data exata.
+
+**O mundo e o combate.** Janeiro (pp. 8–9) apresenta mapas de cinco épocas e destaca a descoberta da civilização de 12.000 a.C., com Zeal e personagens associados ao reino. Fevereiro (pp. 10–13) amplia os mapas e pontos de interesse do presente, da Idade Média, do futuro e da pré-história. As pp. 14–17 ilustram técnicas, magias e ataques combinados de dois ou três personagens, incluindo a técnica tripla Big Tornado (nome japonês). O material confirma a divulgação dessas mecânicas, sem determinar o balanceamento da versão fotografada.
+
+**Pré-venda e lançamento.** Os anúncios preservados com a edição de fevereiro indicam o início da campanha de reservas em 28 de dezembro, com cartões prismáticos como brinde, cartucho de 32 Mbit e lançamento em 11 de março. A campanha antecede o mês de capa da edição; a data de 28/12/1994 é compatível com o dia da semana impresso (quarta-feira). Os anúncios não estabelecem a data efetiva de entrega dos brindes.
+
+A pesquisa passa a reunir 63 arquivos visuais examinados desde a v0.49. As 22 fotografias adicionais das pastas de janeiro e fevereiro ainda não foram analisadas nesta rodada, e podem conter páginas repetidas ou detalhes complementares.
 
 ### Catálogo de revistas preservadas
 

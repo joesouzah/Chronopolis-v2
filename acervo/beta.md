@@ -44,6 +44,8 @@ Uma [análise externa dos textos da ROM Pre-Release](https://glitterberri.com/ch
 
 A presença de nomes ou descrições nos dados não garante que uma técnica esteja acessível nos três saves da demonstração. Não houve teste em emulador nesta revisão. A [comparação das telas de status de setembro e dezembro]({{ '/acervo/revistas/' | relative_url }}#novembro-e-dezembro-de-1994-a-interface-toma-forma) pertence à documentação promocional, não à inspeção direta da ROM.
 
+A [documentação de janeiro e fevereiro de 1995]({{ '/acervo/revistas/' | relative_url }}#janeiro-e-fevereiro-de-1995-os-últimos-meses-antes-do-lançamento) mostra fichas de Robo e Ayla sem atributo e uma configuração do menu de status sem os quatro contadores das prévias de 1994. Essas são evidências da divulgação posterior à data interna do protótipo, não testes adicionais da ROM beta.
+
 ### O que a demonstração permitia explorar
 
 A versão preliminar, conhecida também como *Kurono Toriga ~ Pre-Release*, permite observar **quatro situações jogáveis**: o início de uma partida e três slots que começam em pontos diferentes da aventura.

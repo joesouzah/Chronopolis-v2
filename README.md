@@ -4,7 +4,7 @@ Reconstrução do **Chronopolis**, um arquivo independente de fã dedicado a Chr
 
 Este repositório é novo e separado do [projeto original (2022)](https://github.com/joesouzah/Chronopolis). O original não foi alterado.
 
-**Situação atual — 25/11/2026 (v0.51):** análise de 14 imagens V-Jump de novembro/dezembro, com comparação de duas configurações do menu de atributos, ATB ver. 2, cenários e técnicas documentadas na beta. Total de 53 registros visuais examinados nas três rodadas; nenhuma mídia adicionada. Permanecem **1.172 mídias visuais locais**. [Auditoria v0.51](AUDITORIA-V051.md).
+**Situação atual — 26/11/2026 (v0.52):** dez imagens V-Jump de janeiro e fevereiro de 1995 examinadas; fichas de Ayla e Robo sem atributo, descrição de clava, menu de ícones e pré-venda documentados. Total de 63 arquivos visuais examinados desde a v0.49; nenhuma mídia adicionada. Permanecem **1.172 mídias visuais locais**. [Auditoria v0.52](AUDITORIA-V052.md).
 
 ## Objetivos
 - Preservar as páginas e os textos históricos do site original.
