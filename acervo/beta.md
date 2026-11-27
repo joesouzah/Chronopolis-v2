@@ -103,7 +103,17 @@ O endereço foi preservado como referência, mas a disponibilidade e as condiç�
 
 ## Índice de conteúdo modificado e não utilizado
 
-Um registro de revista não é equivalente a um recurso recuperado da ROM. Este índice distingue mudanças documentadas, recursos catalogados como não utilizados por pesquisas externas e hipóteses ainda abertas.
+Um registro de revista não é equivalente a um recurso recuperado da ROM. Para localizar um assunto no índice, use os identificadores estáveis abaixo.
+
+| Tema | Registros |
+| --- | --- |
+| Interface, atributos e técnicas | CT-001–005 |
+| Gráficos, personagens e efeitos | CT-006–012, CT-021, CT-025 |
+| Mapas e localizações | CT-013–020 |
+| Roteiro, eventos e depuração | CT-022–024, CT-026 |
+| Entradas de inimigos sem uso documentado | CT-027–029 |
+
+ Este índice distingue mudanças documentadas, recursos catalogados como não utilizados por pesquisas externas e hipóteses ainda abertas.
 
 | ID | Registro | Fonte / localização | Classificação |
 | --- | --- | --- | --- |
@@ -113,8 +123,8 @@ Um registro de revista não é equivalente a um recurso recuperado da ROM. Este 
 | CT-004 | Esuna de Marle e ordem de técnicas | [Textos da Pre-Release](https://glitterberri.com/chrono-trigger/unseen-prerelease-text/) | Diferença documentada nos dados da beta por pesquisa externa |
 | CT-005 | Big Tornado e poses de monstros | Dengeki Oh 11/1994 p. 128; The Super Famicom p. 34 | Material promocional; comparação de gráficos pendente |
 | CT-006 | Octo Rider | [The Spriters Resource — conteúdo não utilizado](https://www.spriters-resource.com/snes/chronotrigger/index.html) | Gráfico catalogado externamente como não utilizado |
-| CT-007 | Triceratops | Mesmo catálogo | Gráfico catalogado externamente como não utilizado |
-| CT-008 | Variantes de inimigos | Mesmo catálogo, Unused Enemy Variants | Conjunto catalogado externamente; identificação individual pendente |
+| CT-007 | Triceratops | [Ficha gráfica individual](https://www.spriters-resource.com/snes/chronotrigger/asset/120534/) | Gráfico catalogado externamente como não utilizado |
+| CT-008 | Variantes de inimigos | [Ficha gráfica individual](https://www.spriters-resource.com/snes/chronotrigger/asset/3561/) | Conjunto catalogado externamente; identificação individual pendente |
 | CT-009 | Trilha de fumaça, ID 0x76 | [Data Crystal — lista de NPCs](https://datacrystal.tcrf.net/wiki/Chrono_Trigger/List_of_NPCs) | Marcada como não utilizada na documentação externa |
 | CT-010 | Folhas caindo, ID 0x83 | Data Crystal, mesma lista | Marcadas como não utilizadas |
 | CT-011 | Três moedas girando, ID 0x84 | Data Crystal, mesma lista | Marcadas como não utilizadas |
@@ -131,10 +141,13 @@ Um registro de revista não é equivalente a um recurso recuperado da ROM. Este 
 | CT-022 | Mirror Mail | Beta, [textos extraídos, bloco 03](https://glitterberri.com/chrono-trigger/unseen-prerelease-text/) | Vestígio textual de versão anterior da missão Rainbow Shell |
 | CT-023 | Desafio de chamas no esgoto | Beta, textos extraídos, bloco 19 | Evento e terceiro subsolo descritos por pesquisa externa |
 | CT-024 | Obtenção da Epoch por depuração | Beta, textos extraídos, bloco 01 | Recurso de teste descrito externamente |
-| CT-025 | Arte de Reunion Ending (JPN) | [Catálogo de gráficos SNES](https://www.spriters-resource.com/snes/chronotrigger/index.html), Unused Content | Classificação externa; região e uso efetivo precisam de verificação |
+| CT-025 | Arte de Reunion Ending (JPN) | [Ficha gráfica individual](https://www.spriters-resource.com/snes/chronotrigger/asset/86665/) | Classificação externa; região e uso efetivo precisam de verificação |
 | CT-026 | Diálogo antigo do julgamento | Beta, [pesquisa de texto sem referência ativa](https://sudden-desu.net/entry/leftover-text-in-chrono-trigger/), bloco 7 | Vestígio textual, não evento confirmado como acessível |
+| CT-027 | Inimigo de suporte de Lavos, ID 0x67 | [Lista de inimigos Data Crystal](https://datacrystal.tcrf.net/wiki/Chrono_Trigger/List_of_Enemies) | Entrada marcada como não utilizada; gráfico e comportamento não verificados |
+| CT-028 | Inimigo de suporte de Lavos, ID 0x77 | [Lista de inimigos Data Crystal](https://datacrystal.tcrf.net/wiki/Chrono_Trigger/List_of_Enemies) | Entrada marcada como não utilizada; gráfico e comportamento não verificados |
+| CT-029 | Inimigo de suporte de Lavos, ID 0x78 | [Lista de inimigos Data Crystal](https://datacrystal.tcrf.net/wiki/Chrono_Trigger/List_of_Enemies) | Entrada marcada como não utilizada; gráfico e comportamento não verificados |
 
-Os IDs CT-001 a CT-026 são identificadores editoriais do Chronopolis, não endereços da ROM. Apenas os valores 0x76, 0x83 e 0x84 são identificadores da documentação Data Crystal. Os itens CT-006 a CT-011 não foram extraídos diretamente nesta pesquisa: o índice registra a classificação das fontes, não uma reprodução independente. As páginas de catálogo de The Spriters Resource foram acessadas; a ficha individual do mapa do futuro retornou bloqueio, embora seu título e etiquetas estivessem disponíveis no índice de pesquisa. Não houve inspeção direta da imagem ou extração própria da ROM. Não atribuímos função original, cronologia de remoção, encontro ou local a esses sprites sem evidência.
+Os IDs CT-001 a CT-029 são identificadores editoriais do Chronopolis, não endereços da ROM. Os valores 0x76, 0x83 e 0x84 referem-se à lista de NPCs; 0x67, 0x77 e 0x78 à lista de inimigos da documentação Data Crystal. São espaços de identificação distintos. Os itens CT-006 a CT-011 não foram extraídos diretamente nesta pesquisa: o índice registra a classificação das fontes, não uma reprodução independente. As páginas de catálogo de The Spriters Resource foram acessadas; a ficha individual do mapa do futuro retornou bloqueio, embora seu título e etiquetas estivessem disponíveis no índice de pesquisa. Não houve inspeção direta da imagem ou extração própria da ROM. Não atribuímos função original, cronologia de remoção, encontro ou local a esses sprites sem evidência.
 
 Para continuar: [documentação das revistas]({{ '/acervo/revistas/' | relative_url }}) e [levantamento de textos da beta](https://glitterberri.com/chrono-trigger/unseen-prerelease-text/).
 
@@ -158,3 +171,11 @@ Uma [análise de dados textuais sem referências ativas](https://sudden-desu.net
 ### Catálogos gráficos por versão
 
 O [catálogo do protótipo](https://www.spriters-resource.com/snes/chronotriggerprototype/) lista 16 conjuntos: dois NPCs, três inimigos ou chefes, quatro mapas internos e sete mapas-múndi. O [catálogo SNES comercial](https://www.spriters-resource.com/snes/chronotrigger/index.html) lista quatro conjuntos na categoria de conteúdo não utilizado: Octo Rider, Triceratops, variantes de inimigos e arte de Reunion Ending identificada como JPN. O total é de conjuntos catalogados, não número de sprites individuais. A identificação de uma variante gráfica na beta não significa que ela tenha sido excluída por completo no jogo comercial. A classificação de uso da arte JPN exige verificação específica da região; não se afirma que ela nunca tenha aparecido em nenhuma versão.
+
+### Fichas individuais de gráficos e entradas de inimigos
+
+O catálogo de gráficos comercial possui fichas específicas de [Triceratops](https://www.spriters-resource.com/snes/chronotrigger/asset/120534/), [variantes de inimigos](https://www.spriters-resource.com/snes/chronotrigger/asset/3561/) e [arte de encerramento JPN](https://www.spriters-resource.com/snes/chronotrigger/asset/86665/). Os títulos e endereços foram localizados no índice de busca; as tentativas de abrir diretamente as duas primeiras fichas falharam. Octo Rider continua identificado apenas no catálogo geral. Nenhum gráfico individual foi recuperado ou inspecionado nesta etapa, e não há correspondência comprovada entre esses gráficos e os IDs de inimigos ou NPCs da ROM.
+
+A lista técnica de inimigos marca 0x67, 0x77 e 0x78 como entradas não utilizadas de suporte de Lavos. A informação foi obtida em trechos indexados da Data Crystal; o acesso direto à lista retornou bloqueio. Três entradas de dados não equivalem necessariamente a três sprites inéditos, e a documentação não basta para determinar aparência, estatísticas, IA ou encontro. As novas entradas permanecem classificadas como documentação externa, não teste independente.
+
+A [cobertura das revistas]({{ '/acervo/revistas/' | relative_url }}) agora inclui o material de abril a agosto de 1995, incluindo a confirmação editorial de Magus como possível aliado na edição de maio.

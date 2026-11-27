@@ -215,7 +215,26 @@ A Dengeki Oh traz a data impressa de novembro de 1994 na p. 129. Na p. 128, uma 
 
 **Data de The Super Famicom.** O [Internet Archive](https://archive.org/details/the-super-famicom-september-16-1994) e o [catálogo Retromags](https://www.retromags.com/gallery/image/17550-the-super-famicom-vol5-no16-september-16-1994/) confirmam a existência da edição vol. 5, nº 16, datada de 16/09/1994. Os cinco nomes de JPEG apontam para essa edição, mas a pasta e o PDF estão identificados como 09/09/1994. Sem comparação direta com o exemplar integral, a atribuição a 16/09 continua provável, não definitiva. O backup não foi renomeado.
 
-Com estes sete arquivos, a cobertura visual alcança todos os 102 JPEGs catalogados nas pastas de revistas de 1994 até março de 1995. Os 24 arquivos de abril a agosto de 1995 e as imagens avulsas são conjuntos separados. Veja o [índice de conteúdo modificado e não utilizado]({{ '/acervo/beta/' | relative_url }}#indice-de-conteudo-modificado-e-nao-utilizado), incluindo a estrutura semelhante a um coliseu documentada no mapa de 2300 d.C. da beta. A documentação do coliseu não identifica a vila das revistas.
+Com estes sete arquivos, a cobertura visual alcança todos os 102 JPEGs catalogados nas pastas de revistas de 1994 até março de 1995. Os 24 arquivos de abril a agosto de 1995 foram examinados na v0.56; as imagens avulsas constituem um conjunto separado. Veja o [índice de conteúdo modificado e não utilizado]({{ '/acervo/beta/' | relative_url }}#indice-de-conteudo-modificado-e-nao-utilizado), incluindo a estrutura semelhante a um coliseu documentada no mapa de 2300 d.C. da beta. A documentação do coliseu não identifica a vila das revistas.
+
+### Abril a agosto de 1995: da contagem regressiva aos segredos do jogo
+
+A inspeção dos 24 arquivos restantes completou a cobertura visual das 16 coleções organizadas por edição (126 arquivos de imagem). A data de capa, mais uma vez, não deve ser confundida com o momento de circulação ou de captura das imagens.
+
+| Edição V-Jump | Imagens | Conteúdo documentado |
+| --- | ---: | --- |
+| Abril de 1995 | 12 | Capa e especial Countdown, pp. 24–31; Black Omen, eventos temporais de Lucca e Robo, antagonistas de diferentes eras, Fim dos Tempos e formas de Spekkio; anúncio do suplemento especial. |
+| Maio de 1995 | 6 | Capa, revelação de Magus como possível aliado, finais alternativos, dicas de progressão, itens dos três subordinados e anúncio de jogo à venda. |
+| Julho de 1995 | 3 | Next Gate, pp. 200–202: biografias e quadrinhos, mistérios do mundo, dicas e convite à participação dos leitores. |
+| Agosto de 1995 | 3 | Segunda edição da seção Next Gate: finais alternativos, painel de rotas para os finais e seção de cartas dos leitores. |
+
+**Uma edição de abril anterior à estreia.** A capa de abril traz a indicação 発売直前 (imediatamente antes do lançamento), e a abertura do especial menciona 11 de março como data futura. O anúncio nas pp. 32–33 promove um suplemento V-Jump para 7 de março de 1995, por 500 ienes. A ficha da p. 24 anuncia 11.400 ienes para o jogo, antes de impostos. O material é, portanto, editorialmente pré-lançamento, apesar do mês de capa. Não se determinou o dia exato em que a edição chegou às bancas.
+
+**De inimigo a aliado.** A abertura da matéria de maio mostra a decisão de enfrentar ou aceitar Magus e uma tela de status própria. Nas revistas anteriores, ele aparecia como adversário, sem anúncio da possibilidade de recrutamento. Este é o primeiro registro explícito dessa possibilidade localizado no conjunto examinado, não necessariamente a primeira divulgação pública em qualquer publicação. O anúncio *Now on Sale* da mesma edição distingue-a da campanha anterior à estreia.
+
+**Os finais alternativos e os leitores.** A seção Next Gate de julho (pp. 200–202) apresenta três frentes: personagens, mistérios e participação dos leitores. Em agosto, a seção anuncia sua segunda edição, classifica finais e inclui um painel numerado de dez caminhos para explorar os desfechos. O painel é uma seleção editorial de rotas e não deve ser confundido com uma contagem exaustiva de todos os finais e variantes do jogo.
+
+Os registros de abril e maio mostram como a divulgação passou de revelar elementos da história para ensinar segredos e soluções. Não demonstram, isoladamente, que uma captura seja da ROM comercial ou da beta. Os PDFs e as 25 imagens avulsas não estão incluídos nesta conclusão de cobertura.
 
 ### Catálogo de revistas preservadas
 
@@ -245,7 +264,7 @@ O acervo de pesquisa reúne 16 conjuntos identificados por revista e edição, c
 
 ### Como interpretar esse material
 
-Os registros impressos de 1994 e do início de 1995 ajudam a estudar a fase de divulgação anterior ao lançamento japonês, ocorrido em 11 de março de 1995. Já os números posteriores ao lançamento precisam ser analisados individualmente: uma revista de 1995 não é necessariamente uma demonstração do protótipo. A [pesquisa Chronicles, da USC](https://scalar.usc.edu/works/chronicles/history-and-features-of-the-chrono-trigger-snes-release.5), distingue as apresentações preliminares em eventos V-Jump da versão beta distribuída a assinantes e avaliadores. Leia também [A versão beta jogável]({{ '/acervo/beta/' | relative_url }}).
+Os registros impressos de 1994 e do início de 1995 ajudam a estudar a fase de divulgação anterior ao lançamento japonês, ocorrido em 11 de março de 1995. As edições com mês de capa posterior a março também precisam ser analisadas individualmente: abril ainda anuncia o jogo como não lançado, enquanto maio já contém anúncio de venda. Uma revista de 1995 não é necessariamente uma demonstração do protótipo. A [pesquisa Chronicles, da USC](https://scalar.usc.edu/works/chronicles/history-and-features-of-the-chrono-trigger-snes-release.5), distingue as apresentações preliminares em eventos V-Jump da versão beta distribuída a assinantes e avaliadores. Leia também [A versão beta jogável]({{ '/acervo/beta/' | relative_url }}).
 
 Entre as imagens avulsas examinadas, há capas da V-Jump de março e maio de 1995, mapas de quatro eras e uma ilustração de técnicas combinadas. Essas peças ainda não foram vinculadas às miniaturas históricas. O catálogo preserva a separação entre evidência visual, data atribuída à edição e hipótese de desenvolvimento.
 

@@ -5,6 +5,10 @@ category: "Sobre"
 summary: "Transparência sobre o que foi preservado, o que depende de terceiros e as próximas verificações."
 permalink: /estado-do-acervo/
 ---
+## Consolidação das revistas — 27/11/2026 (v0.56)
+
+Examinados os 24 JPEGs restantes: 126/126 imagens organizadas por edição. A [matéria de revistas]({{ '/acervo/revistas/' | relative_url }}) distingue abril (especial pré-lançamento), maio (Magus como aliado e anúncio de venda), julho e agosto (Next Gate). O [índice Beta]({{ '/acervo/beta/' | relative_url }}#indice-de-conteudo-modificado-e-nao-utilizado) tem 29 registros, guia temático e referências individuais. Nenhuma mídia nova; bloqueios impediram recuperação dos sprites externos. [Auditoria v0.56](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V056.md).
+
 ## Recursos não utilizados e vestígios da ROM — 27/11/2026 (v0.55)
 
 O [índice da matéria Beta]({{ '/acervo/beta/' | relative_url }}#indice-de-conteudo-modificado-e-nao-utilizado) passa de 13 para 26 registros com fontes específicas. O coliseu recebe documentação externa de sua presença no mapa de 2300 d.C.; sua função permanece desconhecida. Foram acrescentados mapas modificados, Mirror Mail, desafio do esgoto, depuração da Epoch, arte JPN e texto antigo do julgamento. Não houve extração própria de ROM nem nova mídia. [Auditoria v0.55](https://github.com/joesouzah/Chronopolis-v2/blob/main/AUDITORIA-V055.md).
