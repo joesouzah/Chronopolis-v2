@@ -15,6 +15,8 @@ permalink: /acervo/lavosdentro/
 
 ## Por dentro de Lavos: o material da V-Jump
 
+**Explore também:** [Revistas e cronologia]({{ '/acervo/revistas/' | relative_url }}) · [A versão beta jogável]({{ '/acervo/beta/' | relative_url }})
+
 ![Imagem de revista sobre a estrutura interna de Lavos](https://thumbs2.imgbox.com/71/31/xPg6O13D_t.jpg)
 
 A revista japonesa *V-Jump*, em sua edição de dezembro de 1995, apresentou detalhes da estrutura interna de Lavos.
@@ -32,5 +34,11 @@ Um detalhe chama a atenção: é possível notar uma ligação visual entre a bo
 A imagem abaixo foi apresentada no Chronopolis original como uma versão com qualidade melhorada do esquema interno de Lavos.
 
 ![Esquema da estrutura interna de Lavos reproduzido no acervo histórico](https://thumbs2.imgbox.com/af/2d/r7sOJBXP_t.jpg)
+
+### Ilustração recuperada do backup
+
+![Diagrama interno de Lavos: corte da carapaça e câmaras internas]({{ '/assets/media/drive-lavos/esquema-interno-melhorado.jpg' | relative_url }})
+
+A cópia acima corresponde ao diagrama da página 192 da seção Next Gate nº 6, atribuída à edição de dezembro de 1995. O arquivo preservado no backup como `Esquema Interno Melhorado.jpg` apresenta a mesma ilustração dos recortes e da página completa. A correspondência visual com a fonte impressa foi conferida; não foi possível comparar seus bytes com a miniatura Imgbox histórica, que permanece registrada acima. A imagem é apresentada como recuperação associada à matéria, não como substituição exata de URL. A página integral da revista não foi republicada.
 
 Esse tipo de documento ajuda a perceber o cuidado dedicado ao visual de *Chrono Trigger* e dá ainda mais motivos para explorar as revistas da época.

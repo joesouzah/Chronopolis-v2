@@ -15,6 +15,8 @@ permalink: /acervo/revistas/
 
 ## Revistas mostram um Chrono Trigger totalmente diferente
 
+**Explore também:** [A versão beta jogável]({{ '/acervo/beta/' | relative_url }}) · [Índice de conteúdo modificado e não utilizado]({{ '/acervo/beta/' | relative_url }}#indice-de-conteudo-modificado-e-nao-utilizado) · [Por dentro de Lavos]({{ '/acervo/lavosdentro/' | relative_url }})
+
 ![Material de revista japonesa sobre Chrono Trigger](https://thumbs2.imgbox.com/5a/30/GBRO2H4E_t.jpg)
 
 Durante o desenvolvimento, *Chrono Trigger* apareceu em várias revistas japonesas. Essas publicações registraram imagens e informações de versões preliminares do jogo, incluindo mudanças que aconteceram antes do lançamento.
@@ -234,7 +236,7 @@ A inspeção dos 24 arquivos restantes completou a cobertura visual das 16 cole�
 
 **Os finais alternativos e os leitores.** A seção Next Gate de julho (pp. 200–202) apresenta três frentes: personagens, mistérios e participação dos leitores. Em agosto, a seção anuncia sua segunda edição, classifica finais e inclui um painel numerado de dez caminhos para explorar os desfechos. O painel é uma seleção editorial de rotas e não deve ser confundido com uma contagem exaustiva de todos os finais e variantes do jogo.
 
-Os registros de abril e maio mostram como a divulgação passou de revelar elementos da história para ensinar segredos e soluções. Não demonstram, isoladamente, que uma captura seja da ROM comercial ou da beta. Os PDFs e as 25 imagens avulsas não estão incluídos nesta conclusão de cobertura.
+Os registros de abril e maio mostram como a divulgação passou de revelar elementos da história para ensinar segredos e soluções. Não demonstram, isoladamente, que uma captura seja da ROM comercial ou da beta. Os PDFs não estão incluídos nesta conclusão de cobertura; as 25 imagens avulsas foram conferidas separadamente na v0.57.
 
 ### Catálogo de revistas preservadas
 
@@ -261,6 +263,24 @@ O acervo de pesquisa reúne 16 conjuntos identificados por revista e edição, c
 | **Total** | **16 conjuntos** | **126** | **16** |
 
 \* A pasta de The Super Famicom indica 09/09/1994, mas os cinco JPEGs trazem 16/09/1994 no nome. O [registro do Internet Archive](https://archive.org/details/the-super-famicom-september-16-1994) confirma a existência de uma edição de 16/09/1994. As páginas impressas 32–36 foram conferidas; a atribuição a 16/09 é provável pelos nomes dos arquivos e pelo catálogo externo, mas a comparação com a edição integral permanece pendente.
+
+### Imagens avulsas: identificação e procedência
+
+Os 25 arquivos avulsos foram examinados. Sete deles têm conteúdo binário idêntico a imagens das coleções por edição (conferência SHA-256); as cópias foram mantidas no backup. As outras peças incluem recortes, capas, ilustrações e páginas complementares, sem pressupor que sejam 18 documentos originais distintos.
+
+| Grupo | Arquivos | Identificação |
+| --- | --- | --- |
+| Mapas e técnicas | Ctvmap1.jpg, Ctvmap2.jpg, Techs.jpg, RdjgHQRA_o.png, OLrrv5mv_o.jpg | Mapas de eras e ilustrações de técnicas; os dois últimos são versões da mesma composição de Marle, Ayla e Lucca. |
+| Capas e arte | V-jump_scene_1.jpg, V-jump_scene_2.jpg, 9304463389_eea88370e3_b.jpg, Illus3.jpg | Capas de março, maio e abril de 1995 e arte de capa identificada como março. |
+| V-Festival | Reld_-_V-Festival_1994_03.jpg | Cópia exata da página com máquina do tempo e cenário da feira (p. 12). |
+| V-Jump fevereiro/março/abril | Frank_deWindt_II_V-Jump_Feb_1995_01.jpg; March_1995_03, 04, 06, 07; April_1995_05 | Seis cópias exatas das coleções por edição; personagens, Zeal, Cyrus e Azala. |
+| Lavos | Frank_deWindt_II_V-Jump_December_1995_01.jpg; Esquema Interno Lavos V-Jump_December_1995_01.jpg; Esquema Interno Melhorado.jpg | Página Next Gate nº 6, p. 192, atribuída a dezembro de 1995, e duas reproduções do diagrama. Veja [Por dentro de Lavos]({{ '/acervo/lavosdentro/' | relative_url }}). |
+| Next Gate | March_96_191_150.jpg | Página 191 com desenhos do castelo de Tyrano e projetos de Jet Bike; março de 1996 indicado no nome do arquivo. |
+| Projetos gráficos | Best_Jet_Bike_Designs.jpg | Três vistas de veículo em desenho técnico; edição original não identificada. |
+| Reportagem de teste | P160.jpg | Página 160 com relato de sessão antecipada de 22 de janeiro, detalhada na [matéria beta]({{ '/acervo/beta/' | relative_url }}). |
+| Outras ilustrações | CT-Dr_150.jpg, EwMcsGiWEAAoKUw.jpg, Dreamteam.jpg | Arte de Dr. Slump com personagens de Chrono Trigger; recorte de Flea; caricaturas do Dream Team. Edições específicas pendentes. |
+
+A página 160 registra cinco leitores selecionados entre cerca de dez mil cartões de inscrição, reunidos às 13h de 22 de janeiro na sede da Square em Ebisu, Tóquio. Trata-se de evidência posterior ao anúncio do teste, não de confirmação de qual compilação foi jogada. O ano de 1995 é inferido pelo contexto pré-lançamento e pelo anúncio anterior; a edição exata da página avulsa não foi identificada.
 
 ### Como interpretar esse material
 

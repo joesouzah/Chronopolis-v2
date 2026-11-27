@@ -4,7 +4,7 @@ Reconstrução do **Chronopolis**, um arquivo independente de fã dedicado a Chr
 
 Este repositório é novo e separado do [projeto original (2022)](https://github.com/joesouzah/Chronopolis). O original não foi alterado.
 
-**Situação atual — 27/11/2026 (v0.56):** 126/126 imagens organizadas por edição examinadas; cobertura de abril a agosto de 1995 e distinção entre mês de capa e divulgação pré-lançamento. Índice ampliado para 29 registros, com fichas gráficas específicas e entradas de inimigos documentadas externamente. Permanecem **1.172 mídias visuais locais**. [Auditoria v0.56](AUDITORIA-V056.md).
+**Situação atual — 27/11/2026 (v0.57):** concluída a inspeção de 151 arquivos visuais (126 por edição e 25 avulsos), sete duplicatas exatas confirmadas entre os conjuntos, reportagem do teste de janeiro identificada e diagrama de Lavos recuperado do backup. Navegação cruzada entre matérias históricas. Permanecem **1.173 mídias visuais locais**. [Auditoria v0.57](AUDITORIA-V057.md).
 
 ## Objetivos
 - Preservar as páginas e os textos históricos do site original.

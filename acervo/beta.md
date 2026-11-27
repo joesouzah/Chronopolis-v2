@@ -18,6 +18,8 @@ permalink: /acervo/beta/
 
 ## A versão beta de Chrono Trigger
 
+**Explore também:** [Revistas e cronologia]({{ '/acervo/revistas/' | relative_url }}) · [Conteúdo modificado e não utilizado](#indice-de-conteudo-modificado-e-nao-utilizado) · [Por dentro de Lavos]({{ '/acervo/lavosdentro/' | relative_url }})
+
 ![Imagem de revista relacionada à versão beta de Chrono Trigger](https://thumbs2.imgbox.com/91/46/lDAS2JRl_t.jpg)
 
 Muita gente não sabe, mas *Chrono Trigger* teve uma versão beta jogável, divulgada em material promocional de revistas de games. Ela mostra um pouco do que o jogo seria, do que acabou sendo e até do que ficou de fora.
@@ -47,6 +49,8 @@ A presença de nomes ou descrições nos dados não garante que uma técnica est
 A [documentação de janeiro e fevereiro de 1995]({{ '/acervo/revistas/' | relative_url }}#janeiro-e-fevereiro-de-1995-os-últimos-meses-antes-do-lançamento) mostra fichas de Robo e Ayla sem atributo e uma configuração do menu de status sem os quatro contadores das prévias de 1994. Essas são evidências da divulgação posterior à data interna do protótipo, não testes adicionais da ROM beta.
 
 ### Acesso antecipado e distribuição
+
+Uma reportagem avulsa preservada como `P160.jpg` (página impressa 160) documenta a sessão de teste realizada em 22 de janeiro, às 13h, na sede da Square em Ebisu, Tóquio. O texto registra cerca de dez mil cartões de inscrição e cinco participantes escolhidos. O contexto indica janeiro de 1995, embora a edição exata da página ainda não tenha sido identificada. A reportagem corrobora a realização da campanha anunciada anteriormente, mas não identifica a compilação usada nem prova distribuição de cartuchos aos participantes.
 
 A V-Jump de fevereiro de 1995, p. 25, recrutava cinco leitores para experimentar o jogo antes do lançamento, com inscrições até 9 de janeiro e comunicação individual da data e local. Um anúncio separado da V-Jump e da Weekly Shōnen Jump oferecia 2.000 cópias com entrega prevista para a véspera da estreia, além de cartões telefônicos.
 
