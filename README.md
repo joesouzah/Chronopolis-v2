@@ -4,7 +4,7 @@ Reconstrução do **Chronopolis**, um arquivo independente de fã dedicado a Chr
 
 Este repositório é novo e separado do [projeto original (2022)](https://github.com/joesouzah/Chronopolis). O original não foi alterado.
 
-**Situação atual — 26/11/2026 (v0.54):** sete imagens Dengeki Oh e The Super Famicom examinadas, completando 102 JPEGs catalogados de 1994 até março de 1995. Criado índice de 13 registros de conteúdo modificado, não utilizado ou hipotético na matéria Beta. Nenhuma mídia adicionada; permanecem **1.172 mídias visuais locais**. [Auditoria v0.54](AUDITORIA-V054.md).
+**Situação atual — 27/11/2026 (v0.55):** índice de conteúdo modificado e não utilizado ampliado de 13 para 26 registros; documentação específica da estrutura semelhante a um coliseu no futuro da beta, mapas alterados, textos e eventos de teste. Nenhuma extração própria de ROM ou mídia adicionada; permanecem **1.172 mídias visuais locais**. [Auditoria v0.55](AUDITORIA-V055.md).
 
 ## Objetivos
 - Preservar as páginas e os textos históricos do site original.

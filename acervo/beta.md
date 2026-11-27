@@ -119,9 +119,42 @@ Um registro de revista não é equivalente a um recurso recuperado da ROM. Este 
 | CT-010 | Folhas caindo, ID 0x83 | Data Crystal, mesma lista | Marcadas como não utilizadas |
 | CT-011 | Três moedas girando, ID 0x84 | Data Crystal, mesma lista | Marcadas como não utilizadas |
 | CT-012 | Dois sprites de personagem no mapa | [Unseen64 — pesquisa sobre a beta](https://www.unseen64.net/2008/04/14/chrono-trigger-snes-beta/) | Registro secundário; não comprova um oitavo personagem jogável |
-| CT-013 | Possível coliseu | Hipótese de pesquisa do acervo | Sem identificação de sprite, mapa, ID ou evento confirmada |
+| CT-013 | Construção semelhante a um coliseu | [Mapa de 2300 d.C. da beta](https://www.spriters-resource.com/snes/chronotriggerprototype/asset/120545/); [registros antigos](https://cot.drackir.com/coliseum.htm) | Estrutura no mapa documentada externamente; função desconhecida |
+| CT-014 | Singing Mountain | Beta, 65 milhões a.C.; [localizações](https://kwhazit.ucoz.net/trans/ct/places.html) | Área candidata e música documentadas; sem teste local |
+| CT-015 | Vila pré-histórica isolada | Beta, [comparação de mapas](https://cot.drackir.com/illustrations.htm) | Localização removida segundo documentação externa |
+| CT-016 | Truce com praça maior | Beta, comparação de mapas | Alteração de cenário documentada |
+| CT-017 | Casa de Melchior ausente do mapa | Beta, comparação de mapas | Diferença de mapa documentada; não prova ausência nos dados |
+| CT-018 | Interior de Northern Ruins | Beta, comparação de mapas | Configuração diferente, incluindo cela |
+| CT-019 | Heckran Cave inundada | Beta, comparação de mapas | Configuração gráfica preliminar |
+| CT-020 | North Palace com aparência de edifício | Beta, comparação de mapas | Alteração da representação no mapa |
+| CT-021 | Robôs R-Series rosados | Beta, [catálogo de gráficos](https://www.spriters-resource.com/snes/chronotriggerprototype/); comparação de mapas | Variante visual, não espécie descartada |
+| CT-022 | Mirror Mail | Beta, [textos extraídos, bloco 03](https://glitterberri.com/chrono-trigger/unseen-prerelease-text/) | Vestígio textual de versão anterior da missão Rainbow Shell |
+| CT-023 | Desafio de chamas no esgoto | Beta, textos extraídos, bloco 19 | Evento e terceiro subsolo descritos por pesquisa externa |
+| CT-024 | Obtenção da Epoch por depuração | Beta, textos extraídos, bloco 01 | Recurso de teste descrito externamente |
+| CT-025 | Arte de Reunion Ending (JPN) | [Catálogo de gráficos SNES](https://www.spriters-resource.com/snes/chronotrigger/index.html), Unused Content | Classificação externa; região e uso efetivo precisam de verificação |
+| CT-026 | Diálogo antigo do julgamento | Beta, [pesquisa de texto sem referência ativa](https://sudden-desu.net/entry/leftover-text-in-chrono-trigger/), bloco 7 | Vestígio textual, não evento confirmado como acessível |
 
-Os IDs CT-001 a CT-013 são identificadores editoriais do Chronopolis, não endereços da ROM. Apenas os valores 0x76, 0x83 e 0x84 são identificadores da documentação Data Crystal. Os itens CT-006 a CT-011 não foram extraídos diretamente nesta pesquisa: o índice registra a classificação das fontes, não uma reprodução independente. A página principal de The Spriters Resource foi acessada; as fichas individuais de gráficos não abriram. Não atribuímos função original, cronologia de remoção, encontro ou local a esses sprites sem evidência.
+Os IDs CT-001 a CT-026 são identificadores editoriais do Chronopolis, não endereços da ROM. Apenas os valores 0x76, 0x83 e 0x84 são identificadores da documentação Data Crystal. Os itens CT-006 a CT-011 não foram extraídos diretamente nesta pesquisa: o índice registra a classificação das fontes, não uma reprodução independente. As páginas de catálogo de The Spriters Resource foram acessadas; a ficha individual do mapa do futuro retornou bloqueio, embora seu título e etiquetas estivessem disponíveis no índice de pesquisa. Não houve inspeção direta da imagem ou extração própria da ROM. Não atribuímos função original, cronologia de remoção, encontro ou local a esses sprites sem evidência.
 
 Para continuar: [documentação das revistas]({{ '/acervo/revistas/' | relative_url }}) e [levantamento de textos da beta](https://glitterberri.com/chrono-trigger/unseen-prerelease-text/).
 
+
+### O coliseu perdido de 2300 d.C.
+
+A [documentação histórica de mapas](https://cot.drackir.com/illustrations.htm) identifica uma construção de aspecto semelhante a um coliseu no futuro da beta. A ficha indexada do [mapa do futuro do protótipo](https://www.spriters-resource.com/snes/chronotriggerprototype/asset/120545/) também classifica o elemento como arena/coliseu. Já a [lista comentada de nomes de locais](https://kwhazit.ucoz.net/trans/ct/places.html) aproxima essa estrutura, apenas como conjectura, de uma entrada denominada Robot Village.
+
+Esses registros permitem avançar além da hipótese de que o gráfico existisse: há documentação externa específica de sua localização no mapa de 2300 d.C. Ainda não há prova de que o edifício tivesse interior, batalhas, recompensas ou uma função equivalente ao coliseu de Final Fantasy VI. A ligação com Robot Village também não está demonstrada. Não foi possível abrir a imagem individual nesta consulta; nenhuma cópia foi acrescentada ao site.
+
+### Singing Mountain e a vila perdida
+
+Os registros de mapas da beta indicam uma vila isolada na pré-história e um terreno montanhoso. A interpretação de que a área corresponde a Singing Mountain é apoiada pelo nome japonês e pela existência de música associada, conforme [KWhazit](https://kwhazit.ucoz.net/trans/ct/places.html). O autor propõe uma rota alternativa após a batalha de Magus, mas a função narrativa é conjectural. A vila do mapa pré-histórico não deve ser confundida com a imagem histórica da matéria de revistas, cuja origem segue aberta.
+
+### Vestígios do roteiro e eventos de teste
+
+O estudo dos textos da Pre-Release publicado por [GlitterBerri](https://glitterberri.com/chrono-trigger/unseen-prerelease-text/) registra uma missão envolvendo Mirror Mail que antecede a solução conhecida da Rainbow Shell, um desafio no esgoto com chamas e uma área B3, além de um objeto de depuração que fazia a Epoch aparecer no mapa. Esses achados distinguem conteúdo narrativo e jogável modificado de ferramentas de desenvolvimento; não são todos sprites descartados.
+
+Uma [análise de dados textuais sem referências ativas](https://sudden-desu.net/entry/leftover-text-in-chrono-trigger/) descreve uma variante do julgamento em que o prazo da execução era sete dias, não três. O texto também contém passagens antigas de difícil decodificação: elas não devem ser tratadas como diálogos recuperados integralmente nem como cenas que o jogador podia acionar.
+
+### Catálogos gráficos por versão
+
+O [catálogo do protótipo](https://www.spriters-resource.com/snes/chronotriggerprototype/) lista 16 conjuntos: dois NPCs, três inimigos ou chefes, quatro mapas internos e sete mapas-múndi. O [catálogo SNES comercial](https://www.spriters-resource.com/snes/chronotrigger/index.html) lista quatro conjuntos na categoria de conteúdo não utilizado: Octo Rider, Triceratops, variantes de inimigos e arte de Reunion Ending identificada como JPN. O total é de conjuntos catalogados, não número de sprites individuais. A identificação de uma variante gráfica na beta não significa que ela tenha sido excluída por completo no jogo comercial. A classificação de uso da arte JPN exige verificação específica da região; não se afirma que ela nunca tenha aparecido em nenhuma versão.

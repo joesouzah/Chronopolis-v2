@@ -215,7 +215,7 @@ A Dengeki Oh traz a data impressa de novembro de 1994 na p. 129. Na p. 128, uma 
 
 **Data de The Super Famicom.** O [Internet Archive](https://archive.org/details/the-super-famicom-september-16-1994) e o [catálogo Retromags](https://www.retromags.com/gallery/image/17550-the-super-famicom-vol5-no16-september-16-1994/) confirmam a existência da edição vol. 5, nº 16, datada de 16/09/1994. Os cinco nomes de JPEG apontam para essa edição, mas a pasta e o PDF estão identificados como 09/09/1994. Sem comparação direta com o exemplar integral, a atribuição a 16/09 continua provável, não definitiva. O backup não foi renomeado.
 
-Com estes sete arquivos, a cobertura visual alcança todos os 102 JPEGs catalogados nas pastas de revistas de 1994 até março de 1995. Os 24 arquivos de abril a agosto de 1995 e as imagens avulsas são conjuntos separados. Veja o [índice de conteúdo modificado e não utilizado]({{ '/acervo/beta/' | relative_url }}#indice-de-conteudo-modificado-e-nao-utilizado).
+Com estes sete arquivos, a cobertura visual alcança todos os 102 JPEGs catalogados nas pastas de revistas de 1994 até março de 1995. Os 24 arquivos de abril a agosto de 1995 e as imagens avulsas são conjuntos separados. Veja o [índice de conteúdo modificado e não utilizado]({{ '/acervo/beta/' | relative_url }}#indice-de-conteudo-modificado-e-nao-utilizado), incluindo a estrutura semelhante a um coliseu documentada no mapa de 2300 d.C. da beta. A documentação do coliseu não identifica a vila das revistas.
 
 ### Catálogo de revistas preservadas
 
